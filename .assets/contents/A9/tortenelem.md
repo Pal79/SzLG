@@ -84,7 +84,7 @@
 > - Heraldika: címertan
 > - Archeológia: régészet
 
-> ###Időszámítás:
+> ### Időszámítás:
 > - nincs kezdőpont, csupán egy viszonyítási pont.
 > - a történeti szakirodalom kiindulópontnak a különböző kultúrák, népek időszámításának kezdetét.
 > - Pl.: római kr.e.753-ban
