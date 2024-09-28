@@ -62,7 +62,7 @@
 > | :-- | :-- |
 > | I. minden bolygó olyan elipszis alakú pályán kering, amelynek az egyik gyújtópontjában a nap helyezkedik el. | ![kepler_1.jpg](../../images/kepler_1.jpg) |
 > | II. a bolygótól a napig húzott vezérsugár, egyenlő idők alatt egyenlő területeket súrol. | ![kepler_2.jpg](../../images/kepler_2.jpg) |
-> | III. a bolygók keringési idejének négyzetei úgy aránylanak egymáshoz, mint fél nagytengelyeik köbei.<br><br>$\frac{T1^2}{T2^2}$ = $\frac{a1^3}{a2^3}$ | ![kepler_3.jpg](../../images/kepler_3.jpg) |
+> | III. a bolygók keringési idejének négyzetei úgy aránylanak egymáshoz, mint fél nagytengelyeik köbei.<br><br>$\frac{T1^{2}}{T2^{2}} = \frac{a1^{3}}{a2^{3}}$ | ![kepler_3.jpg](../../images/kepler_3.jpg) |
 >
 
 > Mars keringési ideje:
@@ -70,9 +70,9 @@
 > - $T1$ = Mars
 > - $T2$ = Föld
 >
-> - $\frac{T1^2}{T2^2}$ = $\frac{a1^3}{a2^3}$ = $\frac{T1^2}{365^2}$ = $\frac{228^3millió}{150^3millió}$ = $\frac{11852352}{3375000}$ = 3.5
+> - $\frac{T1^{2}}{T2^{2}} = \frac{a1^{3}}{a2^{3}} = \frac{T1^{2}}{365^{2}} = \frac{228^{3millió}}{150^{3millió}} = \frac{11852352}{3375000} = 3.5$
 >
-> $365^2$ = 133225 * 3.5 = $\sqrt{466287.5}$ = 683 nap
+> $365^{2} = 133225 * 3.5 = \sqrt{466287.5} = 683 nap$
 
 > **Newton** - tömegvonzás törvénye:
 > - a tömegvonzás egyenesen arányos a testek tömegével, fordítottan viszont a közöttük lévő távolság négyzetével.
@@ -85,7 +85,7 @@
 > diák: 60kg
 > távolság köztük: 3.5m
 > 
-> $\frac{70*60}{3.5^2} = \frac{4200}{12.25} = 342.8 \frac{Nm^2}{Kg^2}$
+> $\frac{70*60}{3.5^{2}} = \frac{4200}{12.25} = 342.8 \frac{Nm^{2}}{Kg^{2}}$
 
 ---
 
@@ -97,7 +97,12 @@
 ---
 
 > ### Tejútrendszer (Galaxis, The milky way):
-> Oldalnézetben, mint két egymásra rakott mélytányér, átmérője 100ezer fényév, felülnézetben spirál, óramutató járásával ellentétes forgás (rajz).
+> Oldalnézetben, mint két egymásra rakott mélytányér, átmérője 100ezer fényév, felülnézetben spirál, óramutató járásával ellentétes forgás.
+> ![tejutrendszer 001](../../images/tejutrendszer_001.jpg)
+> Alkotórészei:
+> - mag-kb.: 10<sup>13</sup>-on csillag, csillagközi anyag.
+> ### Fogalmak 
+
 
 ---
 
