@@ -78,7 +78,9 @@ Nem minden fizikai mennyiségnek van mértékegysége.
 >
 > ![Mozgás grafikon](../../images/mozgas_grafikon_001.jpg)
 >
-> $v1 = 10\frac{m}{s}$;&nbsp;&nbsp;&nbsp;$v2 = 20\frac{m}{s}$;&nbsp;&nbsp;&nbsp;$v3 = 40\frac{m}{s}$
+> - $v1 = 10\frac{m}{s}$
+> - $v2 = 20\frac{m}{s}$
+> - $v3 = 40\frac{m}{s}$
 >
 > Egyenes vonalú egyenletes mozgást végző test út-idő grafikonja mindig egy olyan "félegyenes" amelynek kezdőpontja az origo és annál meredekebb, minél nagyobb a test sebessége.
 
