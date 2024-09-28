@@ -105,9 +105,9 @@
 > - Csillag: gáz (plazma) állapotú, saját fénye és hőtermelése van
 > - Fényév: az a távolság, amelyet a fény 1 év alatt megtesz. $300000\frac{km}{s}$
 > - Parsec: 3.26 fényév
->    - ![fényév jpg]()
+>    - ![fényév jpg](../../images/fenyev.jpg)
 > - Naprendszer: (ahol a Nap gravitációja érvényesül, kb.: 2 fényév sugarú gömb):
->    - ![Naprendszer]()
+>    - ![Naprendszer](../../images/naprendszer.jpg)
 > - 1 CSE (csillagászati egység): 150 millió km
 >    - Természetes tagjai: Nap, nagybolygók, kisbolygók, holdak, üstökösök, meteorok, bolygóközi anyag
 >
