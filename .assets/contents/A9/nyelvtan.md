@@ -74,15 +74,33 @@ Választások, döntések sorozata és társas tevékenység.
 
 > ### Leggyakoribb sajtó műfajok
 >
-> tájékoztató műfajok:
-> - hír
-> - közlemény
-> - tudósítás
-> - riport
-> - interjú
->
+> #### tájékoztató műfajok:
+> - hír:
+>    - friss, közérdekű információ
+>    - a következő kérdésekre válaszol: *ki, mit, mikor, hol, miért, hogyan*
+>    - újságírás alapműfaja, tájékoztat
+>    - mindig címmel jelenik meg
+> - közlemény:
+>    - valamilyen vállalat, szervezet, magánszemély fontos közérdekű információt tartalmazó üzenete
+> - tudósítás:
+>    - a tudósító a helyszínről szolgáltat információkat
+>    - pontosnak, tárgyilagosnak, tényszerűnek kell lennie
+>    - megfogalmaz saját tapasztalatot, tehát fontos a személyes jelenlét
+>    - a tudósító csupán szemlélő
+> - riport:
+>    - az újságíró egyszerre elbeszélő és cselekvő
+>    - témája valamilyen izgalmas történet, szokatlan jelenség
+>    - a helyszínről az érintetteket megszólítva közöl
+>    - tárgyilagosságra törekszik de a tudósítónál több teret nyer a személyesség
+>    - párbeszédeket, helyzetrajzot, jellemfestést, személyes hangot alkalmaz
+> - interjú:
+>    - párbeszédes szerkezetű, riporter és riportalany
+>    - az újságíró csupán közvetítő, személyisége háttérbe szorul
+>    - témája bármilyen elméleti vagy gyakorlati kérdés lehet, amely az olvasó számára érdekes lehet 
+
 > véleményközlő műfajok:
-> - cikk
+> - cikk:
+>    - tényszerű közlés a cikkíró véleményével, elemzésével
 > - kommentár (hírmagyarázat)
 > - glossza
 > - nyílt levél
