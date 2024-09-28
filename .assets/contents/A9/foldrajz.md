@@ -99,9 +99,33 @@
 > ### Tejútrendszer (Galaxis, The milky way):
 > Oldalnézetben, mint két egymásra rakott mélytányér, átmérője 100ezer fényév, felülnézetben spirál, óramutató járásával ellentétes forgás.
 > ![tejutrendszer 001](../../images/tejutrendszer_001.jpg)
-> Alkotórészei:
+> #### Alkotórészei:
 > - mag-kb.: 10<sup>13</sup>-on csillag, csillagközi anyag.
-> ### Fogalmak 
+> #### Fogalmak
+> - Csillag: gáz (plazma) állapotú, saját fénye és hőtermelése van
+> - Fényév: az a távolság, amelyet a fény 1 év alatt megtesz. $300000\frac{km}{s}$
+> - Parsec: 3.26 fényév
+>    - ![fényév jpg]()
+> - Naprendszer: (ahol a Nap gravitációja érvényesül, kb.: 2 fényév sugarú gömb):
+>    - ![Naprendszer]()
+> - 1 CSE (csillagászati egység): 150 millió km
+>    - Természetes tagjai: Nap, nagybolygók, kisbolygók, holdak, üstökösök, meteorok, bolygóközi anyag
+>
+> - A Nap anyaga: gáz állapotú plazma, 73% hidrogén, 25% hélium, 2% nehéz anyag.
+>    - Energiatermelése: hidrogén alakul át héliummá, atommagreakcióban.
+>    - Szerkezete: Mag, légkör (fotoszféra, kromoszféra, korona).
+>
+> - Kőzet vagy föld típusú (belső) bolygók:
+>    - Merkúr, Vénusz, Föld, Mars
+> - Gáz vagy Jupiter típusú (külső) bolygók:
+>    - Jupiter, Szaturnusz, Uránusz, Neptunusz
+>
+> - Mesterséges tagok:
+>    - ember által felbocsájtott eszközök
+
+> :memo: **Jegyzet**:
+> A Nap sugárzása
+>> a Napból érkező sugárzás 7%-a ultraibolya és röntgen sugárzás, 46%-a a látható fény, 47%-a pedig infravörös.
 
 
 ---
