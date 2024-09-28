@@ -124,9 +124,13 @@
 >    - ember által felbocsájtott eszközök
 
 > :memo: **Jegyzet**:
-> A Nap sugárzása
->> a Napból érkező sugárzás 7%-a ultraibolya és röntgen sugárzás, 46%-a a látható fény, 47%-a pedig infravörös.
+>
+> *A Nap sugárzása*:
+>> a Napból érkező sugárzás 7%-a ultraibolya és röntgen sugárzás, 46%-a a látható fény, 47%-a pedig infravörös. Alacsony Napállásnál a légkörön át megtett út hosszabb, ezért a sárga fény elvész és vörös-narancs színek láthatók. A rövidhullámú röntgen és ultraibolya sugarak nagy részét elnyeli a sztratoszféra ózonrétege, így megakadályozza az élő szervezetek sejtjeinek roncsolódását. A szivárvány színei, amelyek például akkor láthatóak, ha "esőfüggönyön" átsüt a Nap (a fehért bontják alkotó színeire a prizmaként viselkedő vízcseppek) sorrendben a következők: vörös, narancs, sárga, türkiz, kék, ibolya.
 
+> ## Nagybolygók, törpe és kisbolygók, üstökösök, meteorok, meteoriterek és mesterséges égitestek
+>
+> **Nagybolygók**:
 
 ---
 
