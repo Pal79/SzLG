@@ -99,7 +99,7 @@
 > ### Tejútrendszer (Galaxis, The milky way):
 > Oldalnézetben, mint két egymásra rakott mélytányér, átmérője 100ezer fényév, felülnézetben spirál, óramutató járásával ellentétes forgás.
 >
-> ![tejutrendszer 001](../../images/tejutrendszer_001.jpg)
+> ![tejutrendszer 001](../../images/tejutrendszer_001.png)
 >
 > #### Alkotórészei:
 > - mag-kb.: 10<sup>13</sup>-on csillag, csillagközi anyag.
