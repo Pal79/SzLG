@@ -98,7 +98,9 @@
 
 > ### Tejútrendszer (Galaxis, The milky way):
 > Oldalnézetben, mint két egymásra rakott mélytányér, átmérője 100ezer fényév, felülnézetben spirál, óramutató járásával ellentétes forgás.
+>
 > ![tejutrendszer 001](../../images/tejutrendszer_001.jpg)
+>
 > #### Alkotórészei:
 > - mag-kb.: 10<sup>13</sup>-on csillag, csillagközi anyag.
 > #### Fogalmak
@@ -128,9 +130,37 @@
 > *A Nap sugárzása*:
 >> a Napból érkező sugárzás 7%-a ultraibolya és röntgen sugárzás, 46%-a a látható fény, 47%-a pedig infravörös. Alacsony Napállásnál a légkörön át megtett út hosszabb, ezért a sárga fény elvész és vörös-narancs színek láthatók. A rövidhullámú röntgen és ultraibolya sugarak nagy részét elnyeli a sztratoszféra ózonrétege, így megakadályozza az élő szervezetek sejtjeinek roncsolódását. A szivárvány színei, amelyek például akkor láthatóak, ha "esőfüggönyön" átsüt a Nap (a fehért bontják alkotó színeire a prizmaként viselkedő vízcseppek) sorrendben a következők: vörös, narancs, sárga, türkiz, kék, ibolya.
 
-> ## Nagybolygók, törpe és kisbolygók, üstökösök, meteorok, meteoriterek és mesterséges égitestek
->
-> **Nagybolygók**:
+> | Nagybolygók, törpe és kisbolygók, üstökösök, meteorok, meteoriterek és mesterséges égitestek |  |  |
+> | :-- | :-- | :-: |
+> | **Nagybolygók** |  |  |
+> | Név | Leírás | Kép |
+> | Merkúr | 300˚C, éjszakai oldal -180˚C, nincs légköre, sok rajta a meteoritkráter. | ![Merkur](../../images/merkur.png) |
+> | Vénusz (esthajnal csillag) | visszavert fénye erős (97-98%-os albedo), óriási az üvegházhatás a sűrű felhőzet miatt, 500˚C van a felszínén. | ![Vénusz](../../images/venus.png) |
+> | Mars | két holdja van, sarki jégsapkák, 20km fölötti hegyek, vízmosta száraz völgyek, vörös szín a vasérctől, 1997 óta robotokkal kutatják. | ![Mars](../../images/mars.png) |
+> | Jupiter | legnagyobb, Nagy Vörös foltja van, külseje folyékony. | ![Jupiter](../../images/jupiter.png) |
+> | Szaturnusz | szép a gyűrűrendszere, hidrogén és hélium építi fel. | ![Szaturnusz](../../images/szaturnusz.png) |
+> | Uránusz | dőlt helyzetben forog, szinte gurul a Nap körül, kicsi az albedója, -200˚C. | ![Uránusz](../../images/uranusz.png) |
+> | Neptunusz | kékes színű a metántól, felhői vannak. | ![Neptunusz](../../images/neptunusz.png) |
+
+> | **Kisbolygók belső övezete** |  |
+> | :-- | :-: |
+> | Mars, Jupiter és Szaturnusz között legnagyobb a Ceres (933Km átmérőjű törpebolygó) |  | ![Ceres](../../images/ceres.png) |
+
+> | **Kuiper-övezet** |  |  |
+> | :-- | :-- | :-: |
+> | Plútó | 2006-ban levették a bolygók névsorából, ma törpebolygó a törmelékövben, talán a Neptunusz holdja lehetett | ![Plutó](../../images/pluto.png) |
+
+> | **Üstökösök (kométák)** |  |  |
+> | :-- | :-- | :-: |
+> | Felépítésük:<br>&nbsp;- mag<br>&nbsp;-üstök<br>&nbsp;-csóva | Leghíresebb a Halley, amely 76 évenként jön (1986-ban volt legutóbb). Parabolapályán mozognak. | ![Comet](../../images/comet.jpg) |
+
+> | **Meteorok** |  |
+> | :-- | :-: |
+> | Valószínűleg szétrobbant üstökösmaradványok, legtöbbjük a légkörbe érve felizzik és elég (hullócsillag, augusztus 11.-e körül az éves csúcspont). Földre hulló meteor a meteorit, amely krátert hoz létre. Legismertebb a 22000 éves Barringer kráter az USA-ban. 1908-ban meteoriteső Tunguszkában (Szibéria), meteorfelrobbanás 2014 Cseljabinszk (Oroszország). Magyarország: kabai meteorit, amely 3Kg-os. |  | ![Meteor](../../images/meteor.png) |
+
+> | **Mesterséges égitestek** |  |
+> | :-- | :-: |
+> | - műholdak<br>- űrállomások<br>- űrhajók<br>-űrrepülőgépek<br>- űrjárművek<br>- űrszemét | ![ISS](../../images/ISS.jpg) |
 
 ---
 
