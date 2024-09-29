@@ -1,0 +1,73 @@
+@font-face {
+    font-family: text-font;
+    src: url(../fonts/Roboto-Light.ttf);
+}
+/*#CDE8E5  #1e4a53*/
+:root {
+    --hr-bg-color: #e76c1a;
+    --text-color: #083942;
+    --bg-color: #E1D7B7;
+    --hover-color: #6ab6b6;
+    --table-odd-color: #9c9555;
+    --table-even-color: #c2c37c;
+}
+
+html {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: text-font;
+    letter-spacing: 2.5px;
+}
+
+body, p, li, a, h1, h2, h3, h4, h5, h6, table, summary {
+    color: var(--text-color);
+}
+
+body, ul, li {
+    background-color: var(--bg-color);
+}
+
+body, a, p, li {
+    font-size: 1.3em;
+}
+
+a:hover, summary:hover {
+    color: var(--hover-color);
+}
+a:hover {
+    text-decoration: none;
+}
+
+hr {
+    background-color: var(--hr-bg-color);
+}
+
+ul, li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+p {
+    letter-spacing: 1.2px;
+    font-weight: 500;
+}
+
+img {
+    width: 200px;
+}
+
+tr:nth-child(even) {
+    background-color: var(--table-even-color);
+}
+
+tr:nth-child(odd) {
+    background-color: var(--table-odd-color);
+}
