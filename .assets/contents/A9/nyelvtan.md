@@ -1,27 +1,28 @@
+<link rel='stylesheet' href='../../css/styles.css'/>
 
 <details>
 <summary>A kommunikációs folyamat tényezői és funkciói</summary>
 
 ---
 
-> ## Kommunikáció: (közlésfolyamat)
+## Kommunikáció: (közlésfolyamat)
 >
-> A nyelvi kommunikáció a nyelvi jelrendszernek az emberi érintkezésben való szándékos és kölcsönös felhasználása.
+A nyelvi kommunikáció a nyelvi jelrendszernek az emberi érintkezésben való szándékos és kölcsönös felhasználása.
 Választások, döntések sorozata és társas tevékenység.
 >
-> | A közlési folyamat tényezői |  |  |  |  |
-> | :-- | :-- | :-- | :-- | :-- |
-> | adó -> | -> csatorna -> | -> üzenet -> | -> csatorna -> | -> vevő |
-> | beszélő |  | kódnyelv |  | hallgató |
+| A közlési folyamat tényezői |  |  |  |  |
+| :-- | :-- | :-- | :-- | :-- |
+| adó -| -csatorna -| -üzenet -| -csatorna -| -vevő |
+| beszélő |  | kódnyelv |  | hallgató |
 
-> ## Beszédhelyzetek
+## Beszédhelyzetek
 >
-> Funkciói, célja:
-> - tájékoztatás vagy ismeretterjesztés
-> - felhívás
-> - kapcsolatteremtés, tartás, zárás (köszönöm, viszlát)
-> - értelmező
-> - gyönyörködtető, esztétikai
+Funkciói, célja:
+- tájékoztatás vagy ismeretterjesztés
+- felhívás
+- kapcsolatteremtés, tartás, zárás (köszönöm, viszlát)
+- értelmező
+- gyönyörködtető, esztétikai
 
 ---
 
@@ -32,15 +33,15 @@ Választások, döntések sorozata és társas tevékenység.
 
 ---
 
-> A beszéd mellett a gesztusoknak, mimkáknak, testtartásnak, járásnak, öltözködésnek...is fontos szerepe van. Minél többféle összehangolt jelzést kapunk, annál gazdagabb az élményünk a közlendőröl.
+A beszéd mellett a gesztusoknak, mimkáknak, testtartásnak, járásnak, öltözködésnek...is fontos szerepe van. Minél többféle összehangolt jelzést kapunk, annál gazdagabb az élményünk a közlendőröl.
 
-> Metakommunikációnak nevezzük a szavakon túli, illetve azokkal párhuzamosan ható egyéb kifejező megnyilatkozásokat.
+Metakommunikációnak nevezzük a szavakon túli, illetve azokkal párhuzamosan ható egyéb kifejező megnyilatkozásokat.
 
-> Közlésrendszernek körülbelül 7%-a verbális (szavak), 38%-a vokális (hangerő) és 55%-a nem verbális jelzés.
+Közlésrendszernek körülbelül 7%-a verbális (szavak), 38%-a vokális (hangerő) és 55%-a nem verbális jelzés.
 >
-> Metakommunikációban sokszor a rejtett lényegi mondanivaló fejeződik ki. 
-> Gyakran előfordul, hogy a verbális közlésnek éppen az ellentétjét fejezik ki a vele párhuzamos metakommunikációs jelzések.
-> A nem verbális jelzések nagy része velünk született, örökölt, más részük szerzett, tanult jelzésekből áll.
+Metakommunikációban sokszor a rejtett lényegi mondanivaló fejeződik ki. 
+Gyakran előfordul, hogy a verbális közlésnek éppen az ellentétjét fejezik ki a vele párhuzamos metakommunikációs jelzések.
+A nem verbális jelzések nagy része velünk született, örökölt, más részük szerzett, tanult jelzésekből áll.
 
 ---
 
@@ -51,61 +52,61 @@ Választások, döntések sorozata és társas tevékenység.
 
 ---
 
-> ### Tömegkommunikációs eszközök:
-> - újság
-> - rádió
-> - televízió
-> - internet
+### Tömegkommunikációs eszközök:
+- újság
+- rádió
+- televízió
+- internet
 >
-> A tömegkommunikáció a média segítségével történik, funkciójuk elsősorban a tájékoztatás, szórakoztatás és tanítás.
+A tömegkommunikáció a média segítségével történik, funkciójuk elsősorban a tájékoztatás, szórakoztatás és tanítás.
 >
-> Tömegkommunikáció olyan közlésfolyamat, amelyben a befogadó nagy létszámú heterogén sokaság. Az információ feladója mind időben, mind térben távol van a befogadótól, így legtöbbször nics közvetlen visszajelzésre lehetőség.
+Tömegkommunikáció olyan közlésfolyamat, amelyben a befogadó nagy létszámú heterogén sokaság. Az információ feladója mind időben, mind térben távol van a befogadótól, így legtöbbször nics közvetlen visszajelzésre lehetőség.
 >
-> A kommunikációs eszközök "kikapcsolhatóak", így a folyamat megszakítható.
+A kommunikációs eszközök "kikapcsolhatóak", így a folyamat megszakítható.
 >
-> Célja: normák, értékek közvetítése, a közvélemény formálása, befolyásolása, közvetítés a hatalom és a társadalom között.
+Célja: normák, értékek közvetítése, a közvélemény formálása, befolyásolása, közvetítés a hatalom és a társadalom között.
 
-> ### Satjó műfajok
+### Satjó műfajok
 >
-> a legrégibb média műfaj, úgy juttattak el információkat, hogy a hármas követelménynek tesznek eleget:
-> - aktualitás (időszerű)
-> - perioditás (szabályos időközönkénti ismétlődés)
-> - publicitás (nyilvánosság)
+a legrégibb média műfaj, úgy juttattak el információkat, hogy a hármas követelménynek tesznek eleget:
+- aktualitás (időszerű)
+- perioditás (szabályos időközönkénti ismétlődés)
+- publicitás (nyilvánosság)
 
-> ### Leggyakoribb sajtó műfajok
+### Leggyakoribb sajtó műfajok
 >
-> #### tájékoztató műfajok:
-> - hír:
->    - friss, közérdekű információ
->    - a következő kérdésekre válaszol: *ki, mit, mikor, hol, miért, hogyan*
->    - újságírás alapműfaja, tájékoztat
->    - mindig címmel jelenik meg
-> - közlemény:
->    - valamilyen vállalat, szervezet, magánszemély fontos közérdekű információt tartalmazó üzenete
-> - tudósítás:
->    - a tudósító a helyszínről szolgáltat információkat
->    - pontosnak, tárgyilagosnak, tényszerűnek kell lennie
->    - megfogalmaz saját tapasztalatot, tehát fontos a személyes jelenlét
->    - a tudósító csupán szemlélő
-> - riport:
->    - az újságíró egyszerre elbeszélő és cselekvő
->    - témája valamilyen izgalmas történet, szokatlan jelenség
->    - a helyszínről az érintetteket megszólítva közöl
->    - tárgyilagosságra törekszik de a tudósítónál több teret nyer a személyesség
->    - párbeszédeket, helyzetrajzot, jellemfestést, személyes hangot alkalmaz
-> - interjú:
->    - párbeszédes szerkezetű, riporter és riportalany
->    - az újságíró csupán közvetítő, személyisége háttérbe szorul
->    - témája bármilyen elméleti vagy gyakorlati kérdés lehet, amely az olvasó számára érdekes lehet 
+#### tájékoztató műfajok:
+- hír:
+   - friss, közérdekű információ
+   - a következő kérdésekre válaszol: *ki, mit, mikor, hol, miért, hogyan*
+   - újságírás alapműfaja, tájékoztat
+   - mindig címmel jelenik meg
+- közlemény:
+   - valamilyen vállalat, szervezet, magánszemély fontos közérdekű információt tartalmazó üzenete
+- tudósítás:
+   - a tudósító a helyszínről szolgáltat információkat
+   - pontosnak, tárgyilagosnak, tényszerűnek kell lennie
+   - megfogalmaz saját tapasztalatot, tehát fontos a személyes jelenlét
+   - a tudósító csupán szemlélő
+- riport:
+   - az újságíró egyszerre elbeszélő és cselekvő
+   - témája valamilyen izgalmas történet, szokatlan jelenség
+   - a helyszínről az érintetteket megszólítva közöl
+   - tárgyilagosságra törekszik de a tudósítónál több teret nyer a személyesség
+   - párbeszédeket, helyzetrajzot, jellemfestést, személyes hangot alkalmaz
+- interjú:
+   - párbeszédes szerkezetű, riporter és riportalany
+   - az újságíró csupán közvetítő, személyisége háttérbe szorul
+   - témája bármilyen elméleti vagy gyakorlati kérdés lehet, amely az olvasó számára érdekes lehet 
 
-> véleményközlő műfajok:
-> - cikk:
->    - tényszerű közlés a cikkíró véleményével, elemzésével
-> - kommentár (hírmagyarázat)
-> - glossza
-> - nyílt levél
-> - olvasói levél
-> - kritika
+véleményközlő műfajok:
+- cikk:
+   - tényszerű közlés a cikkíró véleményével, elemzésével
+- kommentár (hírmagyarázat)
+- glossza
+- nyílt levél
+- olvasói levél
+- kritika
 
 ---
 
