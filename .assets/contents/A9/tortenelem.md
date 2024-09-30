@@ -140,6 +140,46 @@ Nemzeti kincseknek számító iratokat őrző állami közgyűjteményi intézet
 
 </details>
 
+<details>
+<summary>Őskor szakaszai</summary>
+
+---
+
+- Az őskor
+   - az ember kialakulásától az első államok megjelenéséig (kb.: Kr.e. 3000-ig) terjedő időszak.
+- Az őskőkor (paleolitikum)
+   - kb.: 2.5 (3.3?) millió év - kb.: Kr.e. 8000-ig
+   - formatarttó eszközök
+   - vadászat, gyűjtögetés = munkamegosztás
+   - hitvilág (vadászmágia) és termékenységkultusz jelei
+- Az újkőkor (neolitikum)
+   - kb.: 10000 éve: utolsó jégkorszak vége, felmelegedés
+   - kb.: Kr.e. 8000 - Kr.e. 3000
+   - "neolitikus forradalom": letelepedés és élelemtermelés
+   - népességnövekedés
+   - háziasítás/domesztikáció: kutya, juh, macska, kecske, sertés, szarvasmarha
+   - tárolás eszközei, edények
+      - fazekasság, főzés
+   - letelepedés:
+      - tartós lakóházak
+   - öltözet: állati bőrök helyett vászon
+      - szövés, fonás
+
+---
+
+</details>
+
+<!--details>
+<summary>Mezopotámia</summary>
+
+---
+
+
+
+---
+
+</details-->
+
 ---
 
 [Vissza](../../../README.md)
