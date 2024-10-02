@@ -244,13 +244,7 @@ Témáját a thébai mondakörből meríti.
 
 Konfliktusok rendszere:
 
-```
-Antigoné <----Kreon
-|                |
-|                |
-ˇ                ˇ
-Iszméné         Haimon   Teireiszász    Az őr
-```
+![konfliktusok rendszere](../../images/konfliktusok_rendszere_antigone.png)
 
 **Antigoné**: fontosak számára a szokások, a hagyományok. Határozott, magabiztos lány, makacs, megrendíthetetlen, de bátran vállalja tetteinek következményeit. Ő az egyetlen, aki a lelkiismeret parancsát életénél is drágábbnak tartja.
 
