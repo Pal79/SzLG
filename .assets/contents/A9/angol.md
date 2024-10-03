@@ -43,6 +43,16 @@
 | No, | you're | not. | *or* | No, | you | aren't |
 |  | they're |  | **\|** |  | they |  |
 
+
+## Számok
+
+hangsúlyok: ...-'teen, '...-ty
+
+alakváltozások: five -> **fif**teen, four -> **for**ty
+
+Kétjegyű számok kötőjellel (kivéve a 10-es számok): thirty-one
+100-as után and: two hundred and fifty
+
 ---
 
 [Vissza](../../../README.md)
