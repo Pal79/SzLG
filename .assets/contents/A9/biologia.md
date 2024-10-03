@@ -114,6 +114,29 @@ Tényleges szaporodási közösség.
 
 </details>
 
+<details>
+<summary>Populációk kölcsönhatása</summary>
+
+---
+
+Hatások jelölése: +, -, 0
+Összes jelölés: ++, +-, +0, --, 0-, 00
+
+- ++ : együttélés, szimbiózis (pl.: pillangós virágú - bab; Nitrogén gyűjtő baktérium)
+
+zuzmó kép
+
+- +0 : Asztalközösség, kommenzalizmus
+- +- : zsákmányszervezés, predáció
+   - élősködés, parazitizmus
+- -- : versengés
+- 0- : anitbiózis
+- 00 : neutralizmus
+
+---
+
+</details>
+
 ---
 
 [Vissza](../../../README.md)
