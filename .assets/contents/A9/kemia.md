@@ -40,17 +40,23 @@ A protonok száma egyenlő a rendszámmal
 A proton és a neutron szám nem mindig egyezik meg.
 
 ### atomok elektronszerkezete
->
+
+elektronburok szerkezete:
+ - 7 elektronhéj - ide épülnek az elektronok
+ - ![Elektronburok szerkezete](../../images/elektronburok.png)
+
+Pálya típusok:
+
 | Héj | Alhéj |
 | :-- | :-- |
 | K | 1s |
 | L | 2s, 2p |
 | M | 3s, 3p, 3d |
 | N | 4s, 4p, 4d, 4f |
->
+
 | Atompályák jelölése | Atompályák betöltődési sorrendje |
 | :-- | :-- |
-| ![atompályák jelölése](../../images/atompalyak_jelölese.gif) | ![atompályák betöltődési sorrendje](../../images/atompalyak_betoltodesi_sorrendje.jpg) |
+| ![atompályák jelölése](../../images/fizika_atompalyak-jelolese.jpg) | ![atompályák betöltődési sorrendje](../../images/atompalyak_betoltodesi_sorrendje.jpg) |
 
 ---
 
