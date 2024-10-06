@@ -103,11 +103,58 @@ véleményközlő műfajok:
 - cikk:
    - tényszerű közlés a cikkíró véleményével, elemzésével
 - kommentár (hírmagyarázat)
-   - hírek, információk
+   - hírek, információk megértését segíti elő, háttéranyagok bemutatásával
+   - megjelenhet, hírbe foglalva és elkülönülve is
+   - célja a közvélemény formálás
+   - fogalmakat magyaráz, értékel
 - glossza
+   - rövid, tömör, szókimondó, ironikus csattnóival záródó írás
+   - bármilyen hétköznapi jelenséget gúnyolhat
+   - személyes hangvételű
+   - stíluseszközei: nagyítás, túlzás, fokozás
+   - az olvasó érzelmeire kíván hatni
 - nyílt levél
+   - közérdekű, nyilvánosságra tartozó témájú
+   - levél formában íródhat
+   - ismert vagy kitalált (fiktív) személyhez szól
 - olvasói levél
+   - olvasók véleményét, hozzászólásait tartalmazza
+   - rövidítve, átdolgozva jelenik meg
 - kritika
+   - műbírálat, értekező írás
+   - tárgya lehet: irodalmi, színházi, képművészeti, zenei, film, ...
+
+### Rádiós és televíziós műfajok
+
+Egy részük felvételről, előre rögzítve és megszerkesztve kerül adásba, másik részük pedig élő adás
+
+Terjesztés köre szerint lehet:
+- világméretű
+- országos
+- határon túli
+- helyi, regionális
+
+Fenntartó szerint:
+- közszolgálati
+- kereskedelmi
+- társadalmi
+
+Műsorok témakörei szerint:
+- egyprofilú
+- többprofilú
+
+### Internet
+
+Az egész világot körülölelő számítógép hálózat.
+Eltérés a töbi médiától, hogy van lehetőség kétirányú kommunikációra, kommentelésre és saját tartalmak feltöltésére.
+Átfogó médium, mert mindhárom tömegkommunikációs eszköz tartalmát képes megjeleníteni.
+
+Műfajai a hagyományos médiumok is kialakítják a saját internetes felületüket.
+
+Új kommunikációs és tömegkommunikációs formák: közösségi oldalak, véleményközlő blogok, enciklopédiák, lexikonok, ...
+A műfajhatárok elmosódnak.
+
+### Kommunikációs zavar, manipuláció
 
 ---
 
