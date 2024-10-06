@@ -57,24 +57,24 @@ A nem verbális jelzések nagy része velünk született, örökölt, más rész
 - rádió
 - televízió
 - internet
->
+
 A tömegkommunikáció a média segítségével történik, funkciójuk elsősorban a tájékoztatás, szórakoztatás és tanítás.
->
+
 Tömegkommunikáció olyan közlésfolyamat, amelyben a befogadó nagy létszámú heterogén sokaság. Az információ feladója mind időben, mind térben távol van a befogadótól, így legtöbbször nics közvetlen visszajelzésre lehetőség.
->
+
 A kommunikációs eszközök "kikapcsolhatóak", így a folyamat megszakítható.
->
+
 Célja: normák, értékek közvetítése, a közvélemény formálása, befolyásolása, közvetítés a hatalom és a társadalom között.
 
 ### Satjó műfajok
->
+
 a legrégibb média műfaj, úgy juttattak el információkat, hogy a hármas követelménynek tesznek eleget:
 - aktualitás (időszerű)
 - perioditás (szabályos időközönkénti ismétlődés)
 - publicitás (nyilvánosság)
 
 ### Leggyakoribb sajtó műfajok
->
+
 #### tájékoztató műfajok:
 - hír:
    - friss, közérdekű információ
