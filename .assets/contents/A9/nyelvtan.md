@@ -179,6 +179,28 @@ Ezek eredhetnek:
 
 </details>
 
+<details>
+<summary>Negyedéves dolgozat kérdések</summary>
+
+---
+
+- kommunikáció tényezői
+- kommunikáció funkciói
+- nem nyelvi kifejezés eszközei
+- tömegkommunikáció
+   - sajtó műfajok
+   - tudósítás
+   - riport
+   - kritika
+   - kommentár
+   - közlemény
+   - olvasói levél
+   - interjú
+
+---
+
+</details>
+
 ---
 
 [Vissza](../../../README.md)
