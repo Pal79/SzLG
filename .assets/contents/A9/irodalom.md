@@ -313,6 +313,29 @@ Egységes könyvvé a niceai zsinat (325) nyilvánította a kánon jóváhagyás
 
 </details>
 
+<details>
+    <summary>Negyedéves dolgozat kérdések</summary>
+
+---
+
+Iliász
+- Akhilleusz -> embereszmény
+Odüsszeia
+- embereszmény
+- kalandok
+   - Küklopsz
+   - Szküla és Kharübdóisz
+   - szirének
+   - szelek királya
+   - Kirké
+   - Kalüpszo
+Antigoné
+- konfiktusok rendszere
+
+---
+
+</details>
+
 ---
 
 [Vissza](../../../README.md)
