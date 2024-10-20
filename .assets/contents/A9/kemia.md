@@ -71,6 +71,14 @@ A fémes kötéssel összekapcsolt fém atomtörzsek halmaza a **fémrács**.
 
 Az <img src='./images/kemia_al-kotes-001.svg' alt='aluminium kotes' width='70'> szeretne a külső három elektronjától megszabadulni, elérje a nemesgáz szerkezetet.
 
+$Al -> Al^{3+} + 3e^{-}$
+
+- leadott elektron
+- 2 elektronhéja lezárt
+- a harmadik héjon lévő vegyérték elektronok vesznek részt a folyamatban
+- pozitív a fématomtörzs
+- nem helyhez kötöttek (Delokalizált), szabadon mozognak
+
 
 
 ---
