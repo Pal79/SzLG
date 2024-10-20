@@ -66,7 +66,12 @@ Pálya típusok:
 
 ---
 
-<img src='./images/kemia_al-kotes-001.svg' alt='aluminium kotes' width='70'>
+A pozitív töltésű fém atomtörzsek és a delokalizált elektronok közötti vonzást **fémes kötés**nek nevezzük.
+A fémes kötéssel összekapcsolt fém atomtörzsek halmaza a **fémrács**.
+
+Az <img src='./images/kemia_al-kotes-001.svg' alt='aluminium kotes' width='70'> szeretne a külső három elektronjától megszabadulni, elérje a nemesgáz szerkezetet.
+
+
 
 ---
 
