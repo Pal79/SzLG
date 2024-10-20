@@ -1,4 +1,3 @@
-<link rel='stylesheet' href='../../css/styles.css'/>
 
 <details>
 <summary>A kommunikációs folyamat tényezői és funkciói</summary>
