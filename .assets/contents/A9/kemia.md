@@ -84,6 +84,15 @@ $Al -> Al^{3+} + 3e^{-}$
 - egyszeres pozitív töltésű ionokat alkot
 - 9 db nátrium ion van és 9 db elektron bolyong körülötte
 
+<img src='./images/kemia_mg-kotes-001.svg' alt='magnezium kotes' width='70'>
+
+- 2 lezárt elektronhéj
+- a harmadik elektronhéjon lévő vegyérték elektronok vesznek részt a folyamatban
+- kétszeres pozitív töltésű ionok
+- 8 db magnézium ion
+- 16 elektron
+
+A pozitív fématom törzsek között delokalizált elektronok tartják a kapcsolatot. Azért nem taszítják a pozitív töltésű ionok egymást, mert körülöttük ott vannak a negatív töltésű elektronok.
 
 ---
 
