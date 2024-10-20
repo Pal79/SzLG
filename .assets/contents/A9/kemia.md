@@ -42,7 +42,7 @@ A proton és a neutron szám nem mindig egyezik meg.
 
 elektronburok szerkezete:
  - 7 elektronhéj - ide épülnek az elektronok
- - <img src='./images/kemia_elektronburok.svg' alt='Elektronburok szerkezete' width='150'>
+ - <img src='./images/kemia_elektronburok.svg' alt='Elektronburok szerkezete' width='250'>
 
 Pálya típusok:
 
@@ -55,7 +55,7 @@ Pálya típusok:
 
 | Atompályák jelölése | Atompályák betöltődési sorrendje |
 | :-- | :-- |
-| <img src='./images/kemia-atompalyak-jelolese-001.svg' alt='atompályák jelölése' width='150'> | <img src='./images/kemia_atompalyak-kiepulesi-sorrendje-001.svg' alt='atompályák kiépülési sorrendje' width='150'> |
+| <img src='./images/kemia-atompalyak-jelolese-001.svg' alt='atompályák jelölése' width='250'> | <img src='./images/kemia_atompalyak-kiepulesi-sorrendje-001.svg' alt='atompályák kiépülési sorrendje' width='250'> |
 
 ---
 
