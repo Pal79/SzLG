@@ -79,6 +79,10 @@ $Al -> Al^{3+} + 3e^{-}$
 - pozitív a fématomtörzs
 - nem helyhez kötöttek (Delokalizált), szabadon mozognak
 
+<img src='./images/kemia_na-kotes-001.svg' alt='natrium kotes' width='70'>
+
+- egyszeres pozitív töltésű ionokat alkot
+- 9 db nátrium ion van és 9 db elektron bolyong körülötte
 
 
 ---
