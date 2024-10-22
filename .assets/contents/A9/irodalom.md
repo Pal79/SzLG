@@ -243,7 +243,7 @@ Témáját a thébai mondakörből meríti.
 
 Konfliktusok rendszere:
 
-![konfliktusok rendszere](../../images/konfliktusok_rendszere_antigone.png)
+<img src='./images/irodalom_konfliktusok-rendszere-antigone.svg' alt='konfliktusok rendszere' width='128'>
 
 **Antigoné**: fontosak számára a szokások, a hagyományok. Határozott, magabiztos lány, makacs, megrendíthetetlen, de bátran vállalja tetteinek következményeit. Ő az egyetlen, aki a lelkiismeret parancsát életénél is drágábbnak tartja.
 
