@@ -60,9 +60,9 @@ Curiosity: nedves törmelékbe fúrt 6cm mélyen a Marson, önmagát navigálja 
 
 | Kepler - törvényei |  |
 | :-- | :-- |
-| I. minden bolygó olyan elipszis alakú pályán kering, amelynek az egyik gyújtópontjában a nap helyezkedik el. | ![kepler_1.jpg](../../images/kepler_1.jpg) |
-| II. a bolygótól a napig húzott vezérsugár, egyenlő idők alatt egyenlő területeket súrol. | ![kepler_2.jpg](../../images/kepler_2.jpg) |
-| III. a bolygók keringési idejének négyzetei úgy aránylanak egymáshoz, mint fél nagytengelyeik köbei.<br><br>$\frac{T1^{2}}{T2^{2}} = \frac{a1^{3}}{a2^{3}}$ | ![kepler_3.jpg](../../images/kepler_3.jpg) |
+| I. minden bolygó olyan elipszis alakú pályán kering, amelynek az egyik gyújtópontjában a nap helyezkedik el. | <img src='./images/foldrajz_kepler_001.svg' alt='kepler' width='128'> |
+| II. a bolygótól a napig húzott vezérsugár, egyenlő idők alatt egyenlő területeket súrol. | <img src='./images/foldrajz_kepler_002.svg' alt='kepler' width='128'> |
+| III. a bolygók keringési idejének négyzetei úgy aránylanak egymáshoz, mint fél nagytengelyeik köbei.<br><br>$\frac{T1^{2}}{T2^{2}} = \frac{a1^{3}}{a2^{3}}$ | <img src='./images/foldrajz_kepler_003.svg' alt='kepler' width='128'> |
 
 Mars keringési ideje:
 
