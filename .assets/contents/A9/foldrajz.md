@@ -133,33 +133,33 @@ Oldalnézetben, mint két egymásra rakott mélytányér, átmérője 100ezer f�
 | :-- | :-- | :-: |
 | **Nagybolygók** |  |  |
 | Név | Leírás | Kép |
-| Merkúr | 300˚C, éjszakai oldal -180˚C, nincs légköre, sok rajta a meteoritkráter. | ![Merkur](../../images/merkur.png) |
-| Vénusz (esthajnal csillag) | visszavert fénye erős (97-98%-os albedo), óriási az üvegházhatás a sűrű felhőzet miatt, 500˚C van a felszínén. | ![Vénusz](../../images/venus.png) |
-| Mars | két holdja van, sarki jégsapkák, 20km fölötti hegyek, vízmosta száraz völgyek, vörös szín a vasérctől, 1997 óta robotokkal kutatják. | ![Mars](../../images/mars.png) |
-| Jupiter | legnagyobb, Nagy Vörös foltja van, külseje folyékony. | ![Jupiter](../../images/jupiter.png) |
-| Szaturnusz | szép a gyűrűrendszere, hidrogén és hélium építi fel. | ![Szaturnusz](../../images/szaturnusz.png) |
-| Uránusz | dőlt helyzetben forog, szinte gurul a Nap körül, kicsi az albedója, -200˚C. | ![Uránusz](../../images/uranusz.png) |
-| Neptunusz | kékes színű a metántól, felhői vannak. | ![Neptunusz](../../images/neptunusz.png) |
+| Merkúr | 300˚C, éjszakai oldal -180˚C, nincs légköre, sok rajta a meteoritkráter. | <img src='./images/foldrajz_merkur.png' alt='merkur' width='256'> |
+| Vénusz (esthajnal csillag) | visszavert fénye erős (97-98%-os albedo), óriási az üvegházhatás a sűrű felhőzet miatt, 500˚C van a felszínén. | <img src='./images/foldrajz_venus.png' alt='vénusz' width='256'> |
+| Mars | két holdja van, sarki jégsapkák, 20km fölötti hegyek, vízmosta száraz völgyek, vörös szín a vasérctől, 1997 óta robotokkal kutatják. | <img src='./images/foldrajz_mars.png' alt='mars' width='256'> |
+| Jupiter | legnagyobb, Nagy Vörös foltja van, külseje folyékony. | <img src='./images/foldrajz_jupiter.png' alt='jupiter' width='256'> |
+| Szaturnusz | szép a gyűrűrendszere, hidrogén és hélium építi fel. | <img src='./images/foldrajz_szaturnusz.png' alt='szaturnusz' width='256'> |
+| Uránusz | dőlt helyzetben forog, szinte gurul a Nap körül, kicsi az albedója, -200˚C. | <img src='./images/foldrajz_uranusz.png' alt='uranusz' width='256'> |
+| Neptunusz | kékes színű a metántól, felhői vannak. | <img src='./images/foldrajz_neptunusz.png' alt='neptunusz' width='256'> |
 
 | **Kisbolygók belső övezete** |  |
 | :-- | :-: |
-| Mars, Jupiter és Szaturnusz között legnagyobb a Ceres (933Km átmérőjű törpebolygó) |  | ![Ceres](../../images/ceres.png) |
+| Mars, Jupiter és Szaturnusz között legnagyobb a Ceres (933Km átmérőjű törpebolygó) |  | <img src='./images/foldrajz_ceres.png' alt='ceres' width='256'> |
 
 | **Kuiper-övezet** |  |  |
 | :-- | :-- | :-: |
-| Plútó | 2006-ban levették a bolygók névsorából, ma törpebolygó a törmelékövben, talán a Neptunusz holdja lehetett | ![Plutó](../../images/pluto.png) |
+| Plútó | 2006-ban levették a bolygók névsorából, ma törpebolygó a törmelékövben, talán a Neptunusz holdja lehetett | <img src='./images/foldrajz_pluto.png' alt='plútó' width='256'> |
 
 | **Üstökösök (kométák)** |  |  |
 | :-- | :-- | :-: |
-| Felépítésük:<br>&nbsp;- mag<br>&nbsp;-üstök<br>&nbsp;-csóva | Leghíresebb a Halley, amely 76 évenként jön (1986-ban volt legutóbb). Parabolapályán mozognak. | ![Comet](../../images/comet.jpg) |
+| Felépítésük:<br>&nbsp;- mag<br>&nbsp;-üstök<br>&nbsp;-csóva | Leghíresebb a Halley, amely 76 évenként jön (1986-ban volt legutóbb). Parabolapályán mozognak. | <img src='./images/foldrajz_comet.jpg' alt='üstökös' width='256'> |
 
 | **Meteorok** |  |
 | :-- | :-: |
-| Valószínűleg szétrobbant üstökösmaradványok, legtöbbjük a légkörbe érve felizzik és elég (hullócsillag, augusztus 11.-e körül az éves csúcspont). Földre hulló meteor a meteorit, amely krátert hoz létre. Legismertebb a 22000 éves Barringer kráter az USA-ban. 1908-ban meteoriteső Tunguszkában (Szibéria), meteorfelrobbanás 2014 Cseljabinszk (Oroszország). Magyarország: kabai meteorit, amely 3Kg-os. |  | ![Meteor](../../images/meteor.png) |
+| Valószínűleg szétrobbant üstökösmaradványok, legtöbbjük a légkörbe érve felizzik és elég (hullócsillag, augusztus 11.-e körül az éves csúcspont). Földre hulló meteor a meteorit, amely krátert hoz létre. Legismertebb a 22000 éves Barringer kráter az USA-ban. 1908-ban meteoriteső Tunguszkában (Szibéria), meteorfelrobbanás 2014 Cseljabinszk (Oroszország). Magyarország: kabai meteorit, amely 3Kg-os. |  | <img src='./images/foldrajz_meteor.png' alt='meteor' width='256'> |
 
 | **Mesterséges égitestek** |  |
 | :-- | :-: |
-| - műholdak<br>- űrállomások<br>- űrhajók<br>-űrrepülőgépek<br>- űrjárművek<br>- űrszemét | ![ISS](../../images/ISS.jpg) |
+| - műholdak<br>- űrállomások<br>- űrhajók<br>-űrrepülőgépek<br>- űrjárművek<br>- űrszemét | <img src='./images/foldrajz_ISS.jpg' alt='ISS' width='256'> |
 
 ---
 
