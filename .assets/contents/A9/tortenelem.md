@@ -225,19 +225,28 @@
 (Részletek Hammurapi törvényeiből, Kr. e. 18. sz.):
 
 ```
-"[...] 6. Ha egy szabad ember a Templom vagy a Palota tulajdonát ellopta, […] öljék meg. Azt is öljék meg, aki a lopott holmit átvette tőle.
+"[...] 6. Ha egy szabad ember a Templom vagy a Palota tulajdonát ellopta,
+[…] öljék meg. Azt is öljék meg, aki a lopott holmit átvette tőle.
 
-53. Ha egy szabad ember hanyagságból nem erősítette meg földje gátját, és a gát átszakadt, a víz pedig elsodorta a gabonát, a szabad ember, akinek átszakadt a gátja, térítse meg az elpusztult gabona értékét. [...]
+53. Ha egy szabad ember hanyagságból nem erősítette meg földje gátját,
+és a gát átszakadt, a víz pedig elsodorta a gabonát, a szabad ember,
+akinek átszakadt a gátja, térítse meg az elpusztult gabona értékét. [...]
 
-117. Ha egy szabad ember fizetési kötelezettsége fejében feleségét, fiát vagy leányát eladta, vagy adóssági szolgálatra engedte át, három évig dolgozzanak megvásárlójuk vagy hitelező gazdájuk házában, de a negyedik évben engedje őket szabadon. [...]
+117. Ha egy szabad ember fizetési kötelezettsége fejében feleségét,
+fiát vagy leányát eladta, vagy adóssági szolgálatra engedte át,
+három évig dolgozzanak megvásárlójuk vagy hitelező gazdájuk házában,
+de a negyedik évben engedje őket szabadon. [...]
 
 195. Ha egy fiú apját megütötte: kezét vágják le. [...]
 
-197. Ha szabad ember szabad embernek csontját törte, törjék el az ő csontját is.
+197. Ha szabad ember szabad embernek csontját törte,
+törjék el az ő csontját is.
 
-198. Ha muskénum [félszabad] szemét verte ki vagy csontját törte, egy mana [500 g] ezüstöt fizessen.
+198. Ha muskénum [félszabad] szemét verte ki vagy csontját törte,
+egy mana [500 g] ezüstöt fizessen.
 
-199. Ha egy szabad ember rabszolgájának a szemét verte ki vagy csontját törte, a rabszolga árának felét fizesse ki. […]"
+199. Ha egy szabad ember rabszolgájának a szemét verte ki vagy csontját törte,
+a rabszolga árának felét fizesse ki. […]"
 ```
 
 - Asszíria
@@ -397,7 +406,14 @@ A poliszok
 (Drakón törvénye, Kr. e. 621):
 
 ```
-"Ha valaki szándék nélkül ölt, menjen száműzetésbe. A vizsgálóbírák vizsgálják meg, hogy bűnös-e gyilkosságban, kezével ölve vagy felbújtással, a bírák pedig ítélkezzenek. A tettes kiegyezést köthet, ha él az atya vagy a fivér vagy a fiak, mindegyikükkel, vagy pedig az ellenkező fél győz a perben. Ha pedig valaki egy gyilkost megöl vagy oka lesz halálának, ugyanolyan megítélés alá esik, mint aki egy athéni polgárt ölt meg. Az ítéletet a bírák mondják ki."
+"Ha valaki szándék nélkül ölt, menjen száműzetésbe.
+A vizsgálóbírák vizsgálják meg, hogy bűnös-e gyilkosságban,
+kezével ölve vagy felbújtással, a bírák pedig ítélkezzenek.
+A tettes kiegyezést köthet, ha él az atya vagy a fivér vagy a fiak,
+mindegyikükkel, vagy pedig az ellenkező fél győz a perben.
+Ha pedig valaki egy gyilkost megöl vagy oka lesz halálának,
+ugyanolyan megítélés alá esik, mint aki egy athéni polgárt ölt meg.
+Az ítéletet a bírák mondják ki."
 ```
 
 - Írásba foglalt törvények
@@ -515,7 +531,17 @@ A poliszok
 (Hérodotosz, Kr. e. V. század):
 
 ```
-"Hosszú ideig tusáztak Marathónnál. Középen, ahol maguk a perzsák és a szakák harcoltak, a barbárok voltak fölényben, és áttörvén a hellén arcvonalat, a szárazföld belseje felé kezdték szorítani a helléneket, a két szárnyon azonban az athéniak és a plataiaiak kerekedtek felül. Előnyös helyzetükben a megfutamított ellenséget menekülni hagyták, a két szárny egyesült és azokra támadt rá, akik korábban középen áttörték az athéni csatasort. Itt is az athéniak győztek. A perzsák menekültek, ok a nyomukba eredtek és addig kaszabolták őket, amíg a tengerhez nem értek, ahol – megpróbálván tűzbe borítani – megtámadták a hajókat."
+"Hosszú ideig tusáztak Marathónnál.
+Középen, ahol maguk a perzsák és a szakák harcoltak,
+a barbárok voltak fölényben, és áttörvén a hellén arcvonalat,
+a szárazföld belseje felé kezdték szorítani a helléneket,
+a két szárnyon azonban az athéniak és a plataiaiak kerekedtek felül.
+Előnyös helyzetükben a megfutamított ellenséget menekülni hagyták,
+a két szárny egyesült és azokra támadt rá,
+akik korábban középen áttörték az athéni csatasort.
+Itt is az athéniak győztek. A perzsák menekültek,
+ők a nyomukba eredtek és addig kaszabolták őket, amíg a tengerhez nem értek,
+ahol - megpróbálván tűzbe borítani – megtámadták a hajókat."
 ```
 
 - Xerxész (Kr. e. 486–465)
@@ -537,7 +563,13 @@ A poliszok
 ```
 "Így határozott a tanács és a népgyűlés.
 Themisztoklész, Neoklész  fia a Phrearrioi démoszból terjesztette be a javaslatot.
-A várost rá kell bízni Athénára, Athén védelmezőjére, és az összes többi istenre, hogy védjék meg és tartsák távol földjétől a barbárokat. Valamennyi athénit és az Athénban lakó idegeneket gyermekeikkel és feleségükkel együtt telepítsék át Troizénba. Az öregeket és a kincseket Szalamiszra kell áttelepíteni. A többi nagykorú athéni és idegen mind szálljon föl az előkészített kétszáz hajóra, és védelmezze meg a barbártól saját és a többi hellén szabadságát, a lakedaimóniakkal, a korinthosziakkal, az aiginaiakkal, és mindazokkal együtt, akik készek osztozni a veszélyben."
+A várost rá kell bízni Athénára, Athén védelmezőjére, és az összes többi istenre,
+hogy védjék meg és tartsák távol földjétől a barbárokat.
+Valamennyi athénit és az Athénban lakó idegeneket gyermekeikkel és feleségükkel
+együtt telepítsék át Troizénba. Az öregeket és a kincseket Szalamiszra kell áttelepíteni.
+A többi nagykorú athéni és idegen mind szálljon föl az előkészített kétszáz hajóra,
+és védelmezze meg a barbártól saját és a többi hellén szabadságát, a lakedaimóniakkal,
+a korinthosziakkal, az aiginaiakkal, és mindazokkal együtt, akik készek osztozni a veszélyben."
 ```
 
 - A szalamiszi csata, Kr. e. 480
@@ -569,13 +601,39 @@ A várost rá kell bízni Athénára, Athén védelmezőjére, és az összes t�
 (Plutarkhosz ókori történetíró, Kr. u. 1–2. század):
 
 ```
-"Periklész […] a nép kedvét kereste, de mert nem volt annyi pénze és vagyona, mint Kimónnak [athéni hadvezérnek és politikusnak], aki pénzt osztogatott a szegényebbeknek […], ezért folyamodott az állami juttatások rendszeréhez. […] Törvényszéki napidíjakkal, s […] közsegélyekkel megnyerte magának a népet, és felhasználta az Areioszpagosz tanácsa ellen, amelynek ő maga nem volt tagja, mivel sorsolással sosem választották arkhónná [Athén formális vezetőjévé]. […] Kimónt, mint Spárta barátját és a nép ellenségét […] száműzette. Midőn a belső viszály megszűnt, Periklész kezébe ragadta az […] ügyeket. […] De Periklész magatartásában ekkor már igen nagy változás ment végbe; […] nem hajolt meg könnyen a tömeg kívánságai előtt, amelyek úgy változtak, mint a szél járása. Arisztokratikusan, sőt majdnem a királyi hatalom fensőbbségével kormányzott. Hatalmát azonban helyesen és tántoríthatatlanul használta a közjó érdekében."
+"Periklész […] a nép kedvét kereste, de mert nem volt annyi pénze és vagyona,
+mint Kimónnak [athéni hadvezérnek és politikusnak],
+aki pénzt osztogatott a szegényebbeknek […],
+ezért folyamodott az állami juttatások rendszeréhez. […]
+Törvényszéki napidíjakkal, s […]
+közsegélyekkel megnyerte magának a népet, és felhasználta az
+Areioszpagosz tanácsa ellen, amelynek ő maga nem volt tagja,
+mivel sorsolással sosem választották arkhónná [Athén formális vezetőjévé]. […]
+Kimónt, mint Spárta barátját és a nép ellenségét […]
+száműzette. Midőn a belső viszály megszűnt, Periklész kezébe ragadta az […]
+ügyeket. […]
+De Periklész magatartásában ekkor már igen nagy változás ment végbe; […]
+nem hajolt meg könnyen a tömeg kívánságai előtt, amelyek úgy változtak,
+mint a szél járása. Arisztokratikusan,
+sőt majdnem a királyi hatalom fensőbbségével kormányzott.
+Hatalmát azonban helyesen és tántoríthatatlanul használta a közjó érdekében."
 ```
 
 (Plutarkhosz: Periklész):
 
 ```
-"Periklész által emelt templomok és középületek pompája önmagában is bizonyítja, hogy nem üres szóbeszéd Görögország egykori mesébe illő hatalma és gazdagsága: ez szerezte a legtöbb örömet az athéniaknak, ez ragadta meg leginkább a népeket, mégis ezt az intézkedését ócsárolták és rágalmazták a népgyűléseken a legjobban. Azt kiáltozták, hogy a nép rossz hírbe kerül, mert Déloszból elhozatta és saját céljaira használta fel a görögök közös kincsét. […] Periklész felvilágosította a népet, hogy ezekkel a pénzekkel nem kell elszámolniuk a szövetségeseknek, hiszen ők harcolnak helyettük, és ők tartják távol a barbárokat. A szövetségesek egyetlen lovat, hajót vagy katonát sem adtak nekik, csak pénzt; a pénz pedig nem azé, aki adja, hanem aki kapja, feltéve, hogy elvégzi azt, amiért kapta. Minthogy pedig a város bőven el van látva a hadviseléshez szükséges dolgokkal, a felesleget olyasmire kell fordítani, amiből a városra örök dicsőség származik."
+"Periklész által emelt templomok és középületek pompája önmagában is bizonyítja,
+hogy nem üres szóbeszéd Görögország egykori mesébe illő hatalma és gazdagsága:
+ez szerezte a legtöbb örömet az athéniaknak, ez ragadta meg leginkább a népeket,
+mégis ezt az intézkedését ócsárolták és rágalmazták a népgyűléseken a legjobban.
+Azt kiáltozták, hogy a nép rossz hírbe kerül, mert Déloszból elhozatta
+és saját céljaira használta fel a görögök közös kincsét. […]
+Periklész felvilágosította a népet, hogy ezekkel a pénzekkel nem kell elszámolniuk
+a szövetségeseknek, hiszen ők harcolnak helyettük, és ők tartják távol a barbárokat.
+A szövetségesek egyetlen lovat, hajót vagy katonát sem adtak nekik, csak pénzt;
+a pénz pedig nem azé, aki adja, hanem aki kapja, feltéve, hogy elvégzi azt, amiért kapta.
+Minthogy pedig a város bőven el van látva a hadviseléshez szükséges dolgokkal,
+a felesleget olyasmire kell fordítani, amiből a városra örök dicsőség származik."
 ```
 
 - A demokrácia kiteljesedése
@@ -611,13 +669,27 @@ A várost rá kell bízni Athénára, Athén védelmezőjére, és az összes t�
 (Periklész beszéde Thuküdidésznél, Kr. e. 5. század):
 
 ```
-"Mi olyan államformában élünk, amely nem szomszédaink törvényeit veszi mintául, s inkább mi szolgálunk példaképül másoknak, mint hogy mi utánoznánk más népeket. A neve pedig, mivel az uralom nem néhány ember, hanem a többség kezében van, demokrácia. A magánügyekben a törvény mindenkinek egyenlő jogot biztosít, ami pedig a tekintélyt és azt illeti, hogy egyesek miért örvendenek jó hírnek, a megbecsülés nem a közéletben elfoglalt helyzetüktől, hanem az érdemeiktől függ, s ha valaki képes rá, hogy városának valamilyen szolgálatot tegyen, ezt akkor is megteheti, ha szegénysége miatt társadalmi rangja jelentéktelen."
+"Mi olyan államformában élünk, amely nem szomszédaink törvényeit veszi mintául,
+s inkább mi szolgálunk példaképül másoknak, mint hogy mi utánoznánk más népeket.
+A neve pedig, mivel az uralom nem néhány ember, hanem a többség kezében van, demokrácia.
+A magánügyekben a törvény mindenkinek egyenlő jogot biztosít,
+ami pedig a tekintélyt és azt illeti, hogy egyesek miért örvendenek jó hírnek,
+a megbecsülés nem a közéletben elfoglalt helyzetüktől, hanem az érdemeiktől függ,
+s ha valaki képes rá, hogy városának valamilyen szolgálatot tegyen,
+ezt akkor is megteheti, ha szegénysége miatt társadalmi rangja jelentéktelen."
 ```
 
 (Részlet Pszeudo-Xenophón Az athéni állam című munkájából, Kr. e. 5. század vége):
 
 ```
-"Ami az athéni államrendet illeti, azt ugyan nem helyeslem, hogy az államrendnek ezt a formáját választották, mert ezzel a választásukkal egyúttal azt is választották, hogy a hitványaknak jobban menjen a dolguk, mint az előkelőknek, ezért tehát nem helyeslem. De viszont, hogy – ha már egyszer így határoztak – államrendjüket jól őrzik, és egyébként helyesen járnak el, még ha a többi görögök úgy látják is, hogy hibáznak – ezt ki fogom mutatni."
+"Ami az athéni államrendet illeti, azt ugyan nem helyeslem,
+hogy az államrendnek ezt a formáját választották,
+mert ezzel a választásukkal egyúttal azt is választották,
+hogy a hitványaknak jobban menjen a dolguk, mint az előkelőknek,
+ezért tehát nem helyeslem.
+De viszont, hogy - ha már egyszer így határoztak - államrendjüket jól őrzik,
+és egyébként helyesen járnak el, még ha a többi görögök úgy látják is,
+hogy hibáznak - ezt ki fogom mutatni."
 ```
 
 - Drakón, Kr. e. 621 - Írásba foglalt szokásjog
@@ -629,7 +701,13 @@ A várost rá kell bízni Athénára, Athén védelmezőjére, és az összes t�
 (Részlet Xenophón Emlékeim Szókratészról című írásából, Kr. e. 4. század):
 
 ```
-"Zeuszra, szólt a vádló, Szókratész a fennálló törvények megvetésére nevelte társait, amikor azt mondta, hogy őrültség babszemsorsolással választani az állam vezetőit, hiszen senki nem akarna babszemmel választani sem kormányost, sem ácsot, sem zenészt, sem más mesterembert, pedig az e mesterségekben elkövetett tévedések jóval kisebb kárt okoznak, mint az államügyekben. A vádló szerint az efféle beszédek az ifjakat a fennálló államrend megvetésére buzdították és erőszakossá tették természetüket."
+"Zeuszra, szólt a vádló, Szókratész a fennálló törvények megvetésére nevelte társait,
+amikor azt mondta, hogy őrültség babszemsorsolással választani az állam vezetőit,
+hiszen senki nem akarna babszemmel választani sem kormányost, sem ácsot, sem zenészt,
+sem más mesterembert, pedig az e mesterségekben elkövetett tévedések jóval kisebb kárt okoznak,
+mint az államügyekben.
+A vádló szerint az efféle beszédek az ifjakat a fennálló államrend megvetésére buzdították
+és erőszakossá tették természetüket."
 ```
 
 - Athén
