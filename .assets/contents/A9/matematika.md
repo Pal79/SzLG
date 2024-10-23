@@ -39,11 +39,11 @@ Halmazok elemszám jelölése: $|A|$
 | Halmazműveletek |  |  |  |
 | :-- | :-- | :-- | :-- |
 | Jelölés | Jelentés | Leírás | Ábra |
-| $A \cup B$ | A&nbsp;unió&nbsp;B | mindkét halmaz | ![unio](../../images/halmaz_unio.jpg) |
-| $A \cap B$ | A&nbsp;metszet&nbsp;B | két halmaz közös része | ![metszet](../../images/halmaz_metszet.jpg) |
-| $A$ \ $B$ | A&nbsp;mínusz&nbsp;B | B halmaz kivonása A halmazból | ![különbség_A-B](../../images/halmaz_kulonbseg_001.jpg) | 
-| $B$ \ $A$ | B&nbsp;mínusz&nbsp;A | A halmaz kivonása B halmazból | ![különbség_B-A](../../images/halmaz_kulonbseg_002.jpg) |
-| Diszjunkt halamazok | ha a metszetük üres, nincs közös elemük. |  | ![diszjunkt](../../images/halmaz_diszjunkt.jpg) |
+| $A \cup B$ | A&nbsp;unió&nbsp;B | mindkét halmaz | <img src='./images/matematika_halmaz-unio.svg' alt='unio' width='256'> |
+| $A \cap B$ | A&nbsp;metszet&nbsp;B | két halmaz közös része | <img src='./images/matematika_halmaz-metszet.svg' alt='metszet' width='256'> |
+| $A$ \ $B$ | A&nbsp;mínusz&nbsp;B | B halmaz kivonása A halmazból | <img src='./images/matematika_halmaz-kulonbseg-001.svg' alt='különbség_A-B' width='256'> | 
+| $B$ \ $A$ | B&nbsp;mínusz&nbsp;A | A halmaz kivonása B halmazból | <img src='./images/matematika_halmaz-kulonbseg.svg' alt='különbség_B-A' width='256'> |
+| Diszjunkt halamazok | ha a metszetük üres, nincs közös elemük. |  | <img src='./images/matematika_halmaz-diszjunkt.svg' alt='diszjunkt' width='256'> |
 
 ***Példák***:
 
@@ -51,7 +51,7 @@ $A$ = {1,2,3,4,5,6}
 
 $B$ = {1,3,5,7,9}
 
-![Halmaz példa 001](../../images/halmaz_pelda_001.png)
+<img src='./images/matematika_halmaz-pelda-001.svg' alt='példa' width='512'>
 
 $A \cup B$ = {1,2,3,4,5,6,7,9}
 
