@@ -86,7 +86,7 @@ Tényleges szaporodási közösség.
 
 | Tulajdonságok |  |
 | :-- | :-- |
-| Egyedszám | ![Egyedszám 001](../../images/egyedszam_001.jpg) |
+| Egyedszám | <img src='./images/biologia_egyedszam-001.svg' alt='Egyedszám 001' width='348'> |
 | Ha kritikus, akkor kihalhat |  |
 
 | Térbeli eloszlás |  |
