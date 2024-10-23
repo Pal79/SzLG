@@ -73,7 +73,7 @@ $B$ \ $A$ = {7,9}
 - $1 \leqslant x \leqslant 3 \longrightarrow x \in [1;3]$
 A lenti képen ábrázolva
 
-![intervallum](../../images/intervallum_001.jpg)
+<img src='./images/matematika_intervallum-001.svg' alt='intervallum' width='512'>
 
 ha $\bullet$ akkor zárt intervallum
  
