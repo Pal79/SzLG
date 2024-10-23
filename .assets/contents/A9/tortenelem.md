@@ -12,6 +12,6 @@
 
 ---
 
-[Vissza](../../../README.md)
+[Vissza a főoldalra](../../../README.md)
 
 ---
