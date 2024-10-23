@@ -155,7 +155,7 @@ Oldalnézetben, mint két egymásra rakott mélytányér, átmérője 100ezer f�
 
 | **Meteorok** |  |
 | :-- | :-: |
-| Valószínűleg szétrobbant üstökösmaradványok, legtöbbjük a légkörbe érve felizzik és elég (hullócsillag, augusztus 11.-e körül az éves csúcspont). Földre hulló meteor a meteorit, amely krátert hoz létre. Legismertebb a 22000 éves Barringer kráter az USA-ban. 1908-ban meteoriteső Tunguszkában (Szibéria), meteorfelrobbanás 2014 Cseljabinszk (Oroszország). Magyarország: kabai meteorit, amely 3Kg-os. |  | <img src='./images/foldrajz_meteor.png' alt='meteor' width='256'> |
+| Valószínűleg szétrobbant üstökösmaradványok, legtöbbjük a légkörbe érve felizzik és elég (hullócsillag, augusztus 11.-e körül az éves csúcspont). Földre hulló meteor a meteorit, amely krátert hoz létre. Legismertebb a 22000 éves Barringer kráter az USA-ban. 1908-ban meteoriteső Tunguszkában (Szibéria), meteorfelrobbanás 2014 Cseljabinszk (Oroszország). Magyarország: kabai meteorit, amely 3Kg-os. | <img src='./images/foldrajz_meteor.png' alt='meteor' width='256'> |
 
 | **Mesterséges égitestek** |  |
 | :-- | :-: |
