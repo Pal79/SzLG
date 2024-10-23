@@ -81,9 +81,9 @@ ha $\circ$ akkor nyitott intervalum
 
 ***Példák***:
 
-$A = ${$x|x \in [1;3]$}
+$A = {$x|x \in [1;3]}$
 
-$B = ${$x|x \in [2;4]$}
+$B = {$x|x \in [2;4]}$
 
 ![intervallum 002](../../images/intervallum_002.jpg)
 
