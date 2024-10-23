@@ -106,9 +106,9 @@ Oldalnézetben, mint két egymásra rakott mélytányér, átmérője 100ezer f�
 - Csillag: gáz (plazma) állapotú, saját fénye és hőtermelése van
 - Fényév: az a távolság, amelyet a fény 1 év alatt megtesz. $300000\frac{km}{s}$
 - Parsec: 3.26 fényév
-   - <img src='./images/foldrajz_fenyev.svg' alt='fenyev' width='256'>
+   - <img src='./images/foldrajz_fenyev.svg' alt='fenyev' width='512'>
 - Naprendszer: (ahol a Nap gravitációja érvényesül, kb.: 2 fényév sugarú gömb):
-   - <img src='./images/foldrajz_naprendszer.svg' alt='naprendszer' width='256'>
+   - <img src='./images/foldrajz_naprendszer.svg' alt='naprendszer' width='512'>
 - 1 CSE (csillagászati egység): 150 millió km
    - Természetes tagjai: Nap, nagybolygók, kisbolygók, holdak, üstökösök, meteorok, bolygóközi anyag
 
