@@ -329,6 +329,8 @@ a rabszolga árának felét fizesse ki. […]"
 
 </details>
 
+---
+
 <details>
 <summary>Ókori Athén - demokrácia</summary>
 
