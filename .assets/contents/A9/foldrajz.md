@@ -143,7 +143,7 @@ Oldalnézetben, mint két egymásra rakott mélytányér, átmérője 100ezer f�
 
 | **Kisbolygók belső övezete** |  |
 | :-- | :-: |
-| Mars, Jupiter és Szaturnusz között legnagyobb a Ceres (933Km átmérőjű törpebolygó) |  | <img src='./images/foldrajz_ceres.png' alt='ceres' width='256'> |
+| Mars, Jupiter és Szaturnusz között legnagyobb a Ceres (933Km átmérőjű törpebolygó) | <img src='./images/foldrajz_ceres.png' alt='ceres' width='256'> |
 
 | **Kuiper-övezet** |  |  |
 | :-- | :-- | :-: |
