@@ -98,7 +98,7 @@ $\frac{70*60}{3.5^{2}} = \frac{4200}{12.25} = 342.8 \frac{Nm^{2}}{Kg^{2}}$
 ### Tejútrendszer (Galaxis, The milky way):
 Oldalnézetben, mint két egymásra rakott mélytányér, átmérője 100ezer fényév, felülnézetben spirál, óramutató járásával ellentétes forgás.
 
-![tejutrendszer 001](../../images/tejutrendszer_001.png)
+<img src='./images/foldrajz_tejutrendszer.svg' alt='tejutrendszer' width='512'>
 
 #### Alkotórészei:
 - mag-kb.: 10<sup>13</sup>-on csillag, csillagközi anyag.
