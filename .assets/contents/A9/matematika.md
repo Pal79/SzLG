@@ -165,7 +165,7 @@ pl.:
 * |S| = 80
 * |P| = 72
 
-![logikai_szita 1.feladat](../../images/logikai_szita_1_feladat.jpg)
+<img src='./images/matematika_logikai-szita-001.svg' alt='logikai_szita 1.feladat' width='512'>
 
 ---
 
@@ -192,7 +192,7 @@ pl.:
 * |A és N| = 24
 * |F és N| = 22
 
-![logikai_szita 2.feladat](../../images/logikai_szita_2_feladat.jpg)
+<img src='./images/matematika_logikai-szita-002.svg' alt='logikai_szita 2.feladat' width='512'>
 
 ---
 
@@ -214,7 +214,7 @@ pl.:
 * |KP és B| = 16
 * |HP és B| = 21
 
-![logikai_szita 3.feladat](../../images/logikai_szita_3_feladat.jpg)
+<img src='./images/matematika_logikai-szita-003.svg' alt='logikai_szita 3.feladat' width='512'>
 
 ---
 
