@@ -8,7 +8,7 @@
 
 ### Dinamika alaptörvénye
 
-Galilei: "minden állítást kísérlettel kell alátámasztani"
+```Galilei: "minden állítást kísérlettel kell alátámasztani"```
 
 Newton I. törvénye (tehetetlenség törvénye):
 - Minden test megtartja egyenes vonalú egyenletes mozgását, mindaddig míg egy másik test vagy mező ennek megváltoztatására nem kényszeríti.
