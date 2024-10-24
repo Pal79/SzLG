@@ -22,7 +22,7 @@ Súlyos tömeg:
 Eötvös Lóránt igen fontos mérésekkel bebizonyította, hogy a kétféle tömeg (tehetetlen, súlyos) egyenértékű.
 
 Sűrűség:
-- a test tömegének és térfogatának jellemzett fizikai mennyiség. Jele: [$\Rho$] ; mértékegysége: $\frac{kg}{m^{3}}$
+- a test tömegének és térfogatának jellemzett fizikai mennyiség. Jele: [$\varrho$] ; mértékegysége: $\frac{kg}{m^{3}}$
 
 ---
 
