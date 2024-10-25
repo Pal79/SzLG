@@ -39,10 +39,10 @@ Tényleges szaporodási közösség.
 
 | Térbeli eloszlás |  |
 | :-- | :-- |
-| egyenletes (ritka) | ![Egyedszam 002](../../../images/egyedszam_002.jpg) |
-| véletlen | ![Egyedszam 003](../../../images/egyedszam_003.jpg) |
-| felhalmozódó | ![Egyedszam 004](../../../images/egyedszam_004.jpg) |
-| szigetszerű | ![Egyedszam 005](../../../images/egyedszam_005.jpg) |
+| egyenletes (ritka) | <img src='../images/biologia_egyedszam-002.svg' alt='Egyedszam 002' width='348'> |
+| véletlen | <img src='../images/biologia_egyedszam-003.svg' alt='Egyedszam 003' width='348'> |
+| felhalmozódó | <img src='../images/biologia_egyedszam-004.svg' alt='Egyedszam 004' width='348'> |
+| szigetszerű | <img src='../images/biologia_egyedszam-005.svg' alt='Egyedszam 005' width='348'> |
 
 | Életkor, koreloszlás |  |
 | :-- | :-- |
