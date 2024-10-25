@@ -6,7 +6,7 @@
 ---
 
 - [Élőlények](./biologia/elolenyek.md)
-- [Ökológia](./biologia.md)
+- [Ökológia](./biologia/okologia.md)
 
 ---
 
