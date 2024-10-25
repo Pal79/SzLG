@@ -46,10 +46,10 @@ Tényleges szaporodási közösség.
 
 | Életkor, koreloszlás |  |
 | :-- | :-- |
-| ![Eletkor eloszlas 001](../../../images/eletkor_eloszlas_001.jpg) |  |
+| <img src='../images/biologia_eletkor-eloszlas-001.svg' alt='Eletkor eloszlas 001' width='348'> |  |
 |  |  |
 | **Alakzatainak neve** |  |
-| piramis alakú | ![Eletkor eloszlas 002](../../../images/eletkor_eloszlas_002.jpg) |
+| piramis alakú | <img src='' alt='Eletkor eloszlas 002' width='348'> |
 | méhkas alakú | ![Eletkor eloszlas 003](../../../images/eletkor_eloszlas_003.jpg) |
 | urna alakú | ![Eletkor eloszlas 004](../../../images/eletkor_eloszlas_004.jpg) |
 
