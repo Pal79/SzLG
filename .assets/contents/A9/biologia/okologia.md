@@ -49,13 +49,13 @@ Tényleges szaporodási közösség.
 | <img src='../images/biologia_eletkor-eloszlas-001.svg' alt='Eletkor eloszlas 001' width='348'> |  |
 |  |  |
 | **Alakzatainak neve** |  |
-| piramis alakú | <img src='' alt='Eletkor eloszlas 002' width='348'> |
-| méhkas alakú | ![Eletkor eloszlas 003](../../../images/eletkor_eloszlas_003.jpg) |
-| urna alakú | ![Eletkor eloszlas 004](../../../images/eletkor_eloszlas_004.jpg) |
+| piramis alakú | <img src='../images/biologia_eletkor-eloszlas-002.svg' alt='Eletkor eloszlas 002' width='348'> |
+| méhkas alakú | <img src='../images/biologia_eletkor-eloszlas-003.svg' alt='Eletkor eloszlas 003' width='348'> |
+| urna alakú | <img src='../images/biologia_eletkor-eloszlas-004.svg' alt='Eletkor eloszlas 004' width='348'> |
 
 | Populáció egyedszáma |  |
 | :-- | :-- |
-| ![populacio egyedszama 001](../../../images/populacio_egyedszama_001.jpg) | ![populacio egyedszama 002](../../../images/populacio_egyedszama_002.jpg)<br>Környezet eltartóképessége gátat szab |
+| <img src='../images/biologia_populacio-egyedszama-001.svg' alt='populacio egyedszama 001' width='348'> | <img src='../images/biologia_populacio-egyedszama-002.svg' alt='populacio egyedszama 002' width='348'><br>Környezet eltartóképessége gátat szab |
 
 ### Populációk kölcsönhatása
 
