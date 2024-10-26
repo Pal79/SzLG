@@ -25,7 +25,7 @@ $3.6\frac{Km}{h} = 1\frac{m}{s}$&nbsp;&nbsp;&nbsp;példa: $72\frac{km}{h} = 20\f
 
 ### Mozgás grafikonok
 
-![Mozgás grafikon](../../../images/mozgas_grafikon_001.jpg)
+<img src='../images/fizika_mozgas-grafikon-001.svg' alt='Mozgás grafikon' width='512'>
 
 - $v1 = 10\frac{m}{s}$
 - $v2 = 20\frac{m}{s}$
