@@ -26,7 +26,14 @@
 | Abiotikus - élettelen | Biotikus - élő |
 | pl.: hőmérséklet, csapadék, fény | pl.: más élőlények |
 
-Fény: növények -fotoszintézis
+Fény: növények -fotoszintézis (szervetlenből szervest állít elő. pl.: szőlőcukor)
+
+### Tűrőképesség
+
+<img src='../images/biologia_turokepesseg-001.svg' alt='tűrőképesség gauss görbe' width='512'>
+
+- Tágtűrésű: <img src='../images/biologia_turokepesseg-002.svg' alt='tágtűrés' width='512'>
+- Szűktűrésű: <img src='../images/biologia_turokepesseg-003.svg' alt='szűtűrés' width='512'>
 
 ### Populációk
 
