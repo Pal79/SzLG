@@ -40,7 +40,7 @@ A pálya (nem csak anyagi pontok halamaza)
 - elipszis
 - parabola (kúpmetszetek)
 
-![palya_001.png](../../../images/palya_001.png)
+<img src='../images/fizika_palya-001.svg' alt='palya_001' width='512'>
 
 - [s] = m
 - [$\Delta$r] = m
