@@ -24,3 +24,7 @@ Az atommagot az elektronfelhő veszi körül. Az elektornokat elektromos vonzóe
 Az atomban a protonok és az elektronok száma mindig egyenlő. **Az atom elektromosan semleges.**
 
 A protonokat és neutronokat **nukleon**nak nevezzük.
+Ezeket az elemi részecskéket kis távolságban ($1.4*10^{-15}m$) ható, nagy **magerő**k tartják össze. Az elektronok tömege elhanyagolható.
+
+A protonok száma egyenlő a **rendszám**mal (Z), amely a vegyjel bal alsó sarkába írt index. A rendszám meghatározza az atom minőségét és megmutatja a helyét a periódusos rendszerben.
+A protonok és neutronok számának összege a **tömegszám** (A), a vegyjel bal felső sarkába írjuk.
