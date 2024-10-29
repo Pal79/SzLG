@@ -34,6 +34,22 @@ A főkvantumszám és a héjak közötti kapcsolat:
 | 4 | N |
 | 5 | O |
 
+A mellékkvantumszám az atompálya térbeli alakját jellemzi. Jele: l. Értéke: 0,1,2,...n-1 közötti egész szám lehet. Az értékeit általában betűkkel jelöljük.
+
+| számokkal | betűkkel |
+| :-- | :-- |
+| 0 | s |
+| 1 | p |
+| 2 | d |
+| 3 | f |
+
+Egy adott héjon belül az azonos mellékkvantumszámú pályák, alhéjakat képeznek.
+
+| Főkvantumszám | mellékkvantumszám | mágneses kvantumszám | elektronhéj | alhéj jelölés | atompályák száma | elektronok maximális száma |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| 1 | 0 | 0 | K | 1s | 1 | 2 |
+| 2 | 0<br>1 | 0<br>-1,0,+1 | L | 2s<br>2p | 1<br>3$\rbrace$4 | 2<br>6$\rbrace$8 |
+
 ---
 
 - [Vissza](../kemia.md)
