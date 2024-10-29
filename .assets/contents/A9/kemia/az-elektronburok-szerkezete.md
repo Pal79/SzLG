@@ -18,6 +18,22 @@ Az atomban kötött elektron energiáját a **pályaenergiá**val jellemezzük. 
 
 A pályaenergia a pálya méretétől és alakjától függ, értéke annál nagyobb, minél messzebb van az elektron az atommagtól és minél bonyolultabb alakú pályát hoz létre. A közel azonos méretű atompályákon mozgó elektronok **elektronhéj**at alkotnak.
 
+Az atom legstabilabb állapotát, maikor legkisebb az energiája, az atom **alapállapot**ának nevezzük. Megfelelő energia befektetéssel az elektronok távolabb kerülhetnek az atommagtól, ezt az atom **gerjesztett állapot**ának nevezzük.
+
+Az atomban levő atompályák, illetve az elektronok tulajdonságait a **kvantumszám**okkal jellemezzük. Értékük mindig meghatározott nagyságú. Egy elektron négy kvantumszámmal jellemezhető.
+
+A főkvantumszám jellemzi az elektron atommagtól való távolságát. Jele: n. Értéke: 1,2,3,...egész szám. Az azonos főkvantumszámú atompályák elektronhéjat alkotnak.
+
+A főkvantumszám és a héjak közötti kapcsolat:
+
+| főkvantumszám | héj jelölése |
+| :-- | :-- |
+| 1 | K |
+| 2 | L |
+| 3 | M |
+| 4 | N |
+| 5 | O |
+
 ---
 
 - [Vissza](../kemia.md)
