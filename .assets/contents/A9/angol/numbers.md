@@ -1,6 +1,15 @@
 
 ---
 
+[Vissza](../angol.md)
+[Vissza a főoldalra](../../../../README.md)
+
+---
+
+# Számok (Numbers)
+
+---
+
 |  |  |  |  |
 | :-- | :-- | :-- | :-- |
 | 1 - one | 11 - eleven | 21 - twenty-one | 31 - thirty-one |
@@ -27,8 +36,9 @@
    - 56,340 - fifty-six thousand and three hundred and forty
    - 1,576,897 - one million, five hundred and seventy-six thousand and eight hundred and ninety-seven
 
+---
 
+[Vissza](../angol.md)
+[Vissza a főoldalra](../../../../README.md)
 
-
-
-
+---
