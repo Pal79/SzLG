@@ -1,6 +1,15 @@
 
 ---
 
+- [Vissza](../kemia.md)
+- [Vissza a főoldalra](../../../../README.md)
+
+---
+
+# Atomok felépítése
+
+---
+
 Az atomok átmérője átlagosan kb. egy tízmilliomod milliméter (tízmillió szénatomot szorosan egymás mellé helyezünk, akkor kb. egy milliméter hosszú láncot kapunk).
 
 Az atomok szüntelenül mozognak, közben ütköznek, a legváltozatosabb módon kapcsolódnak egymáshoz.
@@ -39,3 +48,10 @@ Bármely elem relatív atomtömegnyi grammjában $6 * 10^{23}$ db atom van.
 ($6 * 10^{23} \frac{1}{mol} = N\_A$ Avogardo-állandó)
 Az 1 mol anyagmennyiségű anyag tömege a **moláris tömeg** (M), ami a tömeg és az anyagmennyiség hányadosa $M=\frac{m}{n}$
 mértékegysége: $\frac{g}{mol}$
+
+---
+
+- [Vissza](../kemia.md)
+- [Vissza a főoldalra](../../../../README.md)
+
+---
