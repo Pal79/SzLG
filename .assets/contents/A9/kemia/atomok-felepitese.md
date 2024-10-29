@@ -36,6 +36,6 @@ Az atom tömege lényegében megegyezik az atom tömegével, az atom tényleges 
 Az anyagmennyiség mértékegysége a **mól** (Jele: mol).
 1mol annak a rendszernek az anyagmennyisége, amely annyi részecskét tartalmaz, mint ahány atom van 12g 12-es tömegszámú szénben.
 Bármely elem relatív atomtömegnyi grammjában $6 * 10^{23}$ db atom van.
-($6 * 10^{23} \frac{1}{mol} = Nˇ{A}$ Avogardo-állandó)
+($6 * 10^{23} \frac{1}{mol} = N\int_A$ Avogardo-állandó)
 Az 1 mol anyagmennyiségű anyag tömege a **moláris tömeg** (M), ami a tömeg és az anyagmennyiség hányadosa $M=\frac{m}{n}$
 mértékegysége: $\frac{g}{mol}$
