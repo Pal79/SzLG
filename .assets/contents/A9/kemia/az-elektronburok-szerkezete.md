@@ -45,10 +45,14 @@ A mellékkvantumszám az atompálya térbeli alakját jellemzi. Jele: l. Érték
 
 Egy adott héjon belül az azonos mellékkvantumszámú pályák, alhéjakat képeznek.
 
+Mágneses kvantumszám a mellékkvantumszám által meghatározott alakú atompálya térbeli irányát adja meg. Jele: m. Értéke: $-l$-től $+l$-ig minden egész szám.
+
 | Főkvantumszám | mellékkvantumszám | mágneses kvantumszám | elektronhéj | alhéj jelölés | atompályák száma | elektronok maximális száma |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1 | 0 | 0 | K | 1s | 1 | 2 |
 | 2 | 0<br>1 | 0<br>-1, 0, +1 | L | 2s<br>2p | 1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4<br>3 | 2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8<br>6 |
+| 3 | 0<br>1<br>2 | 0<br>-1, 0, +1<br>-2, -1, 0, +1, +2 | M | 3s<br>3p<br>3d | 1<br>3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9<br> | 2<br>6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;18<br>10 |
+| 4 | 0<br>1<br>2<br>3 | 0<br>-1, 0, +1<br>-2, -1, 0, +1, +2<br>-3, -2, -1, 0, +1, +2, +3 | N | 4s<br>4p<br>4d<br>4f | 1<br>3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;16<br>5<br>7 | 2<br>6<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;32<br>10<br>14 |
 
 ---
 
