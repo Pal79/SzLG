@@ -5,6 +5,13 @@
 
 ---
 
+- [Névmások](./angol/pronouns.md)
+- [Szórend](./angol/word-order.md)
+- [Kérdőszavak](./angol/basic-question-words.md)
+- [Számok](./angol/numbers.md)
+
+---
+
 ## am/is/are
 
 | Positive |  | \| | Negative |  |
