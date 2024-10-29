@@ -1,6 +1,8 @@
 
 ---
 
+|  |  |  |  |
+| :-- | :-- | :-- | :-- |
 | 1 - one | 11 - eleven | 21 - twenty-one | 31 - thirty-one |
 | 2 - two | 12 - twelve | 22 - twenty-two | 40 - forty |
 | 3 - three | 13 - thirteen | 23 - twenty-three | 50 - fifty |
