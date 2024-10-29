@@ -48,7 +48,7 @@ Egy adott héjon belül az azonos mellékkvantumszámú pályák, alhéjakat ké
 | Főkvantumszám | mellékkvantumszám | mágneses kvantumszám | elektronhéj | alhéj jelölés | atompályák száma | elektronok maximális száma |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | 1 | 0 | 0 | K | 1s | 1 | 2 |
-| 2 | 0<br>1 | 0<br>-1,0,+1 | L | 2s<br>2p | 1<br>3$\rbrace$4 | 2<br>&nbsp;&nbsp;&nbsp;8<br>6 |
+| 2 | 0<br>1 | 0<br>-1,0,+1 | L | 2s<br>2p | 1<br>&nbsp;&nbsp;&nbsp;4<br>3 | 2<br>&nbsp;&nbsp;&nbsp;8<br>6 |
 
 ---
 
