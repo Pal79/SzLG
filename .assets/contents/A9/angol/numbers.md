@@ -36,6 +36,21 @@
    - 56,340 - fifty-six thousand and three hundred and forty
    - 1,576,897 - one million, five hundred and seventy-six thousand and eight hundred and ninety-seven
 
+| Rendhagyók |  |
+| :-- | :-- |
+| one | first |
+| two | second |
+| three | third |
+| five | fifth |
+| eight | eighth |
+| nine | ninth |
+| twelve | twelfth |
+
+- további példák:
+   - 456 - four hundred and fifty-sixth
+   - 1,567 - one thousand and five hundred and sixty-seventh
+
+
 ---
 
 [Vissza](../angol.md)
