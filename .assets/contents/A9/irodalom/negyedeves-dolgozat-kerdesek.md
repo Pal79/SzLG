@@ -8,6 +8,7 @@
 
 Iliász
 - Akhilleusz -> embereszmény
+
 Odüsszeia
 - embereszmény
 - kalandok
@@ -17,8 +18,11 @@ Odüsszeia
    - szelek királya
    - Kirké
    - Kalüpszo
+
 Antigoné
 - konfiktusok rendszere
+
+- [Irodalom negyedéves vizsga pdf letöltés](../files/irodalom-negyedeves.pdf)
 
 ---
 
