@@ -47,6 +47,8 @@ Egy adott héjon belül az azonos mellékkvantumszámú pályák, alhéjakat ké
 
 Mágneses kvantumszám a mellékkvantumszám által meghatározott alakú atompálya térbeli irányát adja meg. Jele: m. Értéke: $-l$-től $+l$-ig minden egész szám.
 
+29.oldal (30)
+
 | Főkvantumszám | mellékkvantumszám | mágneses kvantumszám | elektronhéj | alhéj jelölés | atompályák száma | elektronok maximális száma |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1 | 0 | 0 | K | 1s | 1 | 2 |
