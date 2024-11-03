@@ -14,7 +14,21 @@
 
 ## Az őskőkor és az újkőkor
 - Homo sapiens
-- Az őskőkor és az újkőkor főbb jellemzői (zsákmányoló és termelő életmód)
+- Az őskőkor és az újkőkor főbb jellemzői (zsákmányoló és termelő életmód):
+   - **Őskőkor** (paleolitikum)
+   - kb. 2.5 (3.3?) millió éve, kb. Kr.e. 8000-ig.
+   - Formatartó eszközök.
+   - Vadászat, halászat és gyűjtögetés (munkamegosztás).
+   - hitvilág (vadászmágia) és termékenységkultusz megjelenése
+   - **Újkőkor** (neolitikum)
+   - kb. 10000 éve, utolsó jégkorszak vége, felmelegedés
+   - kb. Kr.e.8000 - Kr.e.3000-ig
+   - letelepedés és élelemtermelés -> neolitikus forradalom
+   - népességnövekedés
+   - háziasítás (domesztikáció) - kutya, juh, macska, kecske, sertés, szarvasmarha...
+   - tárolás eszközei, edények - fazekasság, főzés
+   - letelepedés - tartós lakóházak
+   - öltözet - állati bőrök helyett vászon használata (szövés, fonás)
 
 ## A Közel-Kelet civilizációi
 – Az állam működése az Óbabiloni Birodalom példáján.
