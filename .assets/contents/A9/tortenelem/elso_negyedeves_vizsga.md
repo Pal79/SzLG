@@ -77,14 +77,14 @@ arkhónná, hozzá kapcsolódik, hogy területi alapon 10 phülére (törzsre) o
 - Nagy Sándor: III. Alexandrosz néven a Kr. e. 4. században ült a Makedón Birodalom trónján. Egyesítette Makedóniát és Hellászt, hódításaival hatalmas birodalmat hozott létre, ezzel teret nyitva a hellenizmusnak. Nevéhez kötődik az egyiptomi Alexandria alapítása.
 
 ### Kronológia:
-- Kr. e. 3000 körül - Kr. u. 476 az ókor,
-- Kr. e. 508 Kleiszthenész reformjai,
-- Kr. e. 5. sz.közepe az athéni demokrácia fénykora.
+- Kr.e.3000 körül - Kr.u.476 az ókor,
+- Kr.e.508 Kleiszthenész reformjai,
+- Kr.e.5.sz.közepe az athéni demokrácia fénykora.
 
 ### Topográfia:
-- Mezopotámia,
-- Babilon,
-- Egyiptom,
-- Nílus,
-- Athén,
-- Alexandria.
+- Mezopotámia: A Tigris és az Eufrátesz folyók között elterülő terület, a jelentős ókori keleti civilizációk, birodalmak jöttek létre itt.
+- Babilon: Ókori mezopotámiai város az Eufrátesz partján, Hammurapi Babilon központtal despotikus birodalmat hozott létre. A Kr. e. 6. században a zsidó nép fogságának színhelye.
+- Egyiptom: Afrikai északkeleti részén elterülő ókori despotikus birodalom, amely gazdag kultúrájáról ismert. Legfontosabb folyója a Nílus.
+- Nílus: A Föld egyik leghosszabb folyója, áradásaival lehetővé tette az egyiptomi kultúra kialakulását Afrika északkeleti részén.
+- Athén: Az Attikai-félszigeten elhelyezkedő városállam, a hellén kultúra egyik legmeghatározóbb központja. Athénhoz kapcsolódik az ókori demokrácia kialakulása.
+- Alexandria: Nagy Sándor által alapított város az ókori Egyiptom északi részén, a Nílus deltájánál. Elsősorban könyvtáráról híresült el, amely egy tűzvész áldozata lett.
