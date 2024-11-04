@@ -32,8 +32,15 @@
 
 ## A Közel-Kelet civilizációi
 - Az állam működése az Óbabiloni Birodalom példáján.
-- Tudomány.
-- A pénz megjelenése.
+
+- Tudomány:
+   - ékírás
+      - Gilgames-eposz (vízözön)
+   - kerék
+   - a kör 360 fokos beosztása
+   - a nap 24 órára osztása + az óra 60 percre osztása
+   - üvegmáz, üveg
+- A pénz megjelenése:
 
 ## A görög civilizáció
 - A görög anyagi kultúra öröksége.
