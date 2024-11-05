@@ -8,9 +8,34 @@
 ---
 
 ## Bevezetés a történelembe
-- A történelmi forrás fogalma és fajtái
-- A történelem segéd- és társtudományai (főleg a régészet)
-- A forrásokat gyűjtő és őrző intézmények
+- A történelmi forrás fogalma és fajtái:
+   - Fogalma:
+      - A történészek a múlt maradványait, emlékeit “vallatják”.
+      - Forrásnak nevezünk minden olyan ránk maradt dolgot, ami hozzásegít a múlt felidézéséhez, megismeréséhez.
+   - fajtái:
+      - Írásos emlékek (Pl.: krónikák, oklevelek, törvények, szerződések, napilapok, feljegyzések,magánlevelek)
+      - Tárgyi emlékek (Pl.: barlangrajzok, csontmaradványok, használati tárgyak...)
+      - Íratlan szellemi emlékek (Egy közösség szellemi öröksége. Régi szokások, gondolatok, vélekedések őrződtek meg bennük. Pl.: népmese, népszokások, népzene, íratlan hagyományok, babonák)
+- A történelem segéd- és társtudományai (főleg a régészet):
+   - néprajz
+   - nyelvészet
+   - földtan (geológia)
+   - művészettörténet
+   - régészet
+- A forrásokat gyűjtő és őrző intézmények:
+   - múzeumok
+   - könyvtárak
+   - levéltárak
+   
+   - Nemzeti Múzeum
+      - Széchényi Ferenc 1802-ben alapította meg az első magyar közgyűjteményt, a Nemzeti Múzeumot, amely a Könyvtár mellett számos tárat foglalt magába. Később ezekből a tárakból fejlődött ki a Néprajzi Múzeum, Szépművészeti Múzeum, Iparművészeti Múzeum, stb.
+   - Országos Széchényi Könyvtár
+      - Magyarország nemzeti könyvtára az Országos Széchényi Könyvtár. Beszerez minden Magyarországon megjelent kiadványt, és gyűjti a külföldön megjelenő magyar vonatkozású munkákat.
+   - Magyar Nemzeti Levéltár
+      - Nemzeti kincseknek számító iratokat őrző állami közgyűjteményi intézet. Hivatalok, bíróságok, vállalatok, családok iratanyaga található meg benne.
+
+
+
 
 ## Az őskőkor és az újkőkor
 - Homo sapiens
@@ -32,6 +57,26 @@
 
 ## A Közel-Kelet civilizációi
 - Az állam működése az Óbabiloni Birodalom példáján.
+   - első városok
+   - földművelő falvak (kr.e. 8000-6000)
+   - neolitikus kultúra terjedése
+   - Mezopotámia = folyamköz: Tigris és Eufrátesz
+   - Városállamok:
+      - Kr. e. III. évezred (Ur, Uruk)
+   - Írás, építészet, mitológia
+      - meghatározta Mezopotámia kultúráját
+   - A kőkor és a rézkor határán álltak
+   - A tevékenységek összehangolása, megszervezése
+      - állam (= templom/palota)
+         - a gazdaság, a vallás és a politika irányítása
+         - város -> birodalom
+         - írás
+   - Az állam funkciói:
+      - irányítás: király / uralkodó, papság
+      - ellenőrzés: papság, hivatalnokok
+      - belső és külső rend fenntartása: katonák
+   - Az állam fenntartása az adók révén
+      - az adók alapja a többlettermelés
 
 - Tudomány:
    - ékírás
@@ -43,15 +88,127 @@
 - A pénz megjelenése:
 
 ## A görög civilizáció
-- A görög anyagi kultúra öröksége.
-- A filozófia és a történetírás.
-- A görög embereszmény.
-- A hellenisztikus kultúra elterjedése.
+- A görög anyagi kultúra öröksége:
+   - Athén
+      - óriási építkezések
+   - Ünnepek, felvonulások
+      - városvédő Pallasz Athéné ünnepe
+      - Dionüszosz ünnepei - színház
+   - Színház
+      - dráma virágkora
+         - tragédia: Szophoklész, Euripidész
+         - politikai komédia: Arisztophanész
+   - Színházi előadások
+      - Dionüszosz isten tiszteletére tartották őket
+         - félkör alakú színházak
+         - a szegény plogárok pénzt kaptak, hogy el tudjanak menni
+         - nagyon népszerű szórakozás volt: verseny is
+- A filozófia és a történetírás:
+   -  történetírás
+	   - Hérodotosz, a "történetírás atyja"
+		   - A görög–perzsa háború
+		   - nem szerepeltetett isteneket
+		   - ok + elszenvedő = az ember
+		   - bukás oka: hübrisz (nagyravágyás)
+		   - anekdoták
+   - A filozófia
+	   - a világ keletkezésének és működésének vizsgálata
+		   - szofisták: az ember a középpont
+			   - vitatkozás művészete
+		- Szókratész: kritikus, beszélgetések
+			- örök értékek (igazság, szeretet stb.)
+			- az erény tanítható: a szofisták ellenfele
+      - Platón
+			- Az állam c. utópia
+			- a mi világunk tökéletlen mása az ideák világának
+				- barlang-hasonlat
+      - Arisztotelész
+			- Platón tanítványa, polihisztor
+			- Politika: államformák
+- A görög embereszmény:
+   - kalokagathia
+		- testi kiválóság (erő, szépség, bátorság, ügyesség stb.)
+		- lelki kiválóság (bölcsesség, fegyelem, jóság stb.)
+		- harmónia
+- A hellenisztikus kultúra elterjedése:
+   - Alexandrsoz halála után szétesett a birodalma
+		- diadokhoszok = hadvezérei vették át az uralmat
+			- 1. Kasszandrosz: Antigonidák - Makedónia, Kr. e. 148-ig
+			- 2. Ptolemaiosz: Ptolemaidák - Egyiptom, Kr. e. 30-ig
+			- 3. Szeleukosz: Szeleukidák - Szíria, Kr. e. 64-ig
+			- 4. Lüszimakhosz: Kis-Ázsia/Pergamon, Trákia, megölték
+   - A hellenizmus (Kr. e. 323–30)
+		- vezetők: görögül beszélő makedónok/görögök
+		- gazdasági alap: a perzsáktól zsákmányolt kincsek
+		- (görög) városok
+			- demokratikus működés helyben
+		- állandó vetélkedés
+			- Róma vetett véget ennek
+			- a hellenisztikus kultúra tovább élt
 
 ## Az athéni demokrácia
-- Arisztokratikus köztársaság és demokrácia.
-- Kleiszthenész és Periklész.
-- Az athéni államszervezet és működése.
+- Arisztokratikus köztársaság és demokrácia:
+- Kleiszthenész és Periklész:
+   - Kleiszthenész
+      - A polgárjogi reform, Kr. e. 508
+	      - lakóhelyhez kötötte = területi alapú polgárjog
+		- szélesebb körű demokrácia
+		- hivatalviselés joga: 500 mérősök
+	      - Athén felosztása
+		- városi (Athén)
+		- tengerparti
+		- belső (mezőgazd.) 
+			- mindet 10 részre 
+			- 1-1-1 rész = 1 phülé
+      - Hadsereg: 
+	      - nehézfegyverzetű gyalogosok
+	      - 10 phülé: saját csapatok
+		      - 1-1 sztratégosz vezette
+		      - őket évente választották
+      - Népgyűlés (ekklészia)
+   	   - legfőbb hatalom
+		      - minden athéni polgár részt vehetett rajta, nyilvánosak
+		      - törvényhozás, határozat háborúról/békéről
+	      - népvezérek / demagógok: a tömeget (féligazságokkal) befolyásoló szónokok
+      - Ötszázak tanácsa (bulé)
+	      - törvény-előkészítés
+		      - népgyűlés előtt tárgyalták
+   - Periklész
+      - A déloszi szövetség sikerei
+	      - a szövetséget Kr. e. 478-ban hozták létre
+		- Athén vezető szerepe egyértelmű: bevételek
+	      - felszabadították a görög államokat (Kr. e. 448)
+      - Periklész (Kr. e. 5. század közepe)
+	      - a népgyűlésre támaszkodott, kiváló szónok
+	      - sztratégosznak választtatta magát évekig
+		      - jó hadvezér
+      - Periklész (Kr. e. 5. század közepe)
+	      - bevezette a napidíjat
+		      - az esküdtbíróság tagjai és a színházlátogatók kapták
+		      - a déloszi szövetség adóiból…
+		      - a démosz támogatta őt
+      - A demokrácia kiteljesedése
+	      - szabad, felnőtt athéni polgárok (~10-15%-a Athénnak)
+		   - Periklész szűkítette a polgárjogot: mindkét szülőnek athéni polgárnak kellett lennie
+      - A demokrácia kiteljesedése
+	      - hivatalok
+		      - sorsolással - GÉP
+	      - cenzusos hivatalok
+		      - választással
+		      - alkalmasság + vagyon
+		      - pl. sztratégosz, kincstárnok
+      - A demokrácia kiteljesedése
+	      - népgyűlés
+		      - havi 2-3 alkalom
+		      - tv-ek elfogadása
+		      - egyenlő szavazat
+		      - többségi elv 
+	      - tanács készítette elő
+	      - szólásszabadság
+	      - megnőtt a démosz befolyása
+      - Athén
+	      - óriási építkezések
+- Az athéni államszervezet és működése:
 
 ## Lexikai ismeretek:
 
