@@ -18,7 +18,7 @@ Méretarány: 1:1425000
 
 1cm = 14250m ~ 14.25km
 
-Mértékléc: <!--img src='' alt='mértékléc' width='512'-->
+Mértékléc: <img src='../images/foldrajz-merteklec.jpeg' alt='mértékléc' width='512'>
 
 Térkép fajtái:
 - földrajzi
