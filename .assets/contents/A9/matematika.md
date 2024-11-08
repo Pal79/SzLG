@@ -9,7 +9,7 @@
 - [Számegyenesek, intervallumok](./matematika/szamegyenesek-intervallumok.md)
 - [Logikai szita](./matematika/logikai-szita.md)
 - [Betűk használata a matematikában](./matematika/betuk-hasznalata-a-matematikaban.md)
-- [Első negyedéves vizsga követelmények]()
+- [Első negyedéves vizsga követelmények](./matematika/elso-negyedeves-vizsga-kovetelmenyek.md)
 
 ---
 
