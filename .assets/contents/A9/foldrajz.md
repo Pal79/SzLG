@@ -9,6 +9,7 @@
 - [Törvények, számítások](./foldrajz/torvenyek-szamitasok.md)
 - [A Tejútrendszer, a Naprendszer és a Nap](./foldrajz/a-tejutrendszer-a-naprendszer-es-a-nap.md)
 - [Térképészeti alapismeretek](./foldrajz/terkepeszeti-alapismeretek.md)
+- [Földünk alakja, fő mozgásai és azok következményei, Hold fázisok](./foldrajz/foldunk-alakja-fo-mozgasai-es-azok-kovetkezmenyei-hold-fazisok.md)
 
 ---
 
