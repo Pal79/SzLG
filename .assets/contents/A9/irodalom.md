@@ -13,6 +13,8 @@
 - [Római Irodalom](./irodalom/romai-Irodalom.md)
 - [Negyedéves dolgozat kérdések](./irodalom/negyedeves-dolgozat-kerdesek.md)
 - [Biblia](./irodalom/biblia.md)
+- [Középkori irodalom](./irodalom/kozepkori-irodalom.md)
+- [Szent Ágoston](./irodalom/szent-agoston.md)
 
 ---
 
