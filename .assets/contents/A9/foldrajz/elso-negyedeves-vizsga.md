@@ -17,7 +17,7 @@
       - <img alt='kepler2' src='../images/foldrajz_kepler_002.svg' width='258'>
    - III. a bolygók keringési idejének négyzetei úgy aránylanak egymáshoz, mint fél nagytengelyeik köbei.
       - <img alt='kepler3' src='../images/foldrajz_kepler_003.svg' width='258'>
-      - $ \frac{T1^{2}}{T2^{2}} = \frac{a1^{3}}{a2^{3}} $
+      - $ \frac{T1^2}{T2^2} = \frac{a1^3}{a2^3} $
 
 - **Newton tömegvonzás törvénye**
    - a tömegvonzás egyenesen arányos a testek tömegével, fordítottan viszont a közöttük lévő távolság négyzetével. $F = G*\frac{m1*m2}{v^{2}}$
