@@ -65,7 +65,7 @@
       - keringési sík (ekliptika)
       - ellipszis alakú pálya
       - iránya Ny-K,
-      - 365 + 1 4 nap (1év)
+      - 365 + $\frac{1}{4}$ nap (1év)
       - tengelyferdeség
       - nappalok, éjszakák hosszának váltakozása
       - felmelegedés mértékének változása az év során
