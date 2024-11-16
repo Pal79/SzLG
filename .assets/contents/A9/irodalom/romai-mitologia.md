@@ -6,7 +6,7 @@
 
 ---
 
-# Római mitológia
+# Római mitológia költői
 
 ---
 
