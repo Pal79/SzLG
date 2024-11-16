@@ -53,7 +53,8 @@ a legrégibb média műfaj, úgy juttattak el információkat, hogy a hármas k�
    - az újságíró csupán közvetítő, személyisége háttérbe szorul
    - témája bármilyen elméleti vagy gyakorlati kérdés lehet, amely az olvasó számára érdekes lehet 
 
-véleményközlő műfajok:
+#### véleményközlő műfajok:
+
 - cikk:
    - tényszerű közlés a cikkíró véleményével, elemzésével
 - kommentár (hírmagyarázat)
