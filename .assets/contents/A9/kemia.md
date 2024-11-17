@@ -23,7 +23,7 @@ Thompson felfedező 'mazsolás kalács kísérlete'
 
 Rutherford zseni kísérlete:
 neutron; proton = nehéz részecske
-elektron = könnyű részecske 6x10<sup>23</sup10<sup>-27</sup>
+elektron = könnyű részecske $6x10^{23} 10^{-27}$
 
 - proton: p+
 - neutron: $n^0$
