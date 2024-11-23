@@ -10,6 +10,7 @@
 - [Tömegkommunikáció](./nyelvtan/tomegkommunikacio.md)
 - [Kommunikációs zavar, manipuláció](./nyelvtan/kommunikacios-zavar-manipulacio.md)
 - [Negyedéves dolgozat kérdések](./nyelvtan/negyedeves-dolgozat-kerdesek.md)
+- [Szófajok](./nyelvtan/szofajok.md)
 
 ---
 
