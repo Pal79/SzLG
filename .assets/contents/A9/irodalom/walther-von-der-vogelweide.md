@@ -4,6 +4,11 @@ Walther Von Der Vogelweide
 
 hársfavirágok
 ó jajj hogy eltűnt minden
+
+linkek:
+https://blog.verselemzes.hu/jegyzet/walther-von-der-vogelweide-a-harsfaagak-csendes-arnyan-elemzes/
+https://www.babelmatrix.org/works/de/Vogelweide%2C_Walther_von_der-1170/Ow%C3%AA_war_sint_verswunden_alliu_m%C3%AEniu_j%C3%A2r%21/hu/11952-%C3%93_jaj%2C_hogy_elt%C5%B1nt_minden...
+
 -->
 
 ---
