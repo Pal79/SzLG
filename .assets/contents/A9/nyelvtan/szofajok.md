@@ -102,7 +102,7 @@ Határozott:
 | :-- | :-- | :-- | :-- |
 | személyes | én, te, ő,... |  |  |
 | visszaható | magam, magad,...<br>és ragozott fajtái |  |  |
-| kölcsönös | egymást,..<br>és ragozott fajtái |  |  |
+| kölcsönös | egymást<br>és ragozott fajtái |  |  |
 | birtokos | enyém, tiéd,... |  |  |
 | mutató | ez, az,... | ilyen, olyan | ennyi, annyi |
 | kérdő | mi, ki,... | milyen | mennyi |
