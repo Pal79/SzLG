@@ -82,3 +82,9 @@ meg egy kis madár a fán,
 ejhajahujj!
 az nem árul el talán!
 
+
+> A költemény 1198-1206 között keletkezett. Ez a költemény a szerző legismertebb műve.
+Ez egy jókedvű szerelmi dal, melybe megtalálhatók a kor pouláris műfajai, a vágánsdal és a népdal.
+A vers műfaja dal, azon belül helyzetdal, hangulata játékos, vidám, pajkos évődő, már-már pajzán.
+A vers témája a szerelmi boldogság, a beteljesült, érzéki szerelem.
+A vers teljesen elüt a megszokott lovagi líráktól és egy újfajta szerelemfelfogás kap hangot benne, amely felrúg minden addigi vallási és társadalmi szabályt.
