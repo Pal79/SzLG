@@ -33,6 +33,25 @@ $\frac{10a^{4}+30a^{2}}{5a^{3}+15a} = \frac{10a^{2}(a^{2}+3)}{5a(a^{2}+3)} = 2a$
 
 $\frac{12x^{2}y^{2}+20xy^{3}}{6x^{2}y + 10xy^{2}} = \frac{4xy^{2}(3x+5y)}{2xy(3x+5y)} = 2y$
 
+$\frac{8a^{5}+8a^{3}}{10a^{3}+10a} = \frac{8a^{3}(a^{2}+1)}{10a(a^{2}+1)} = \frac{4a^{3}}{5a} = \frac{4a^{2}}{5}$
+
+> vagy
+
+$\frac{2(4a^{5}+4a^{3})}{2(5a^{3}+5a)} = \frac{4a^{3}(a^{2}+1)}{5a(a^{2}+1)} = \frac{4a^{2}}{5}$
+
+:memo: Szorzattá alakítás módszerei:
+- kiemelés
+- azonosság felismerése
+- kiemelés csoportosítással
+
+$\frac{2}{3}+\frac{3}{5} = \frac{10+9}{15} = \frac{19}{15}$
+
+$\frac{2}{3}*\frac{7}{5} = \frac{2*7}{3*5} = \frac{14}{15}$
+
+$\frac{2}{3} / \frac{5}{7} = \frac{2}{3} * \frac{7}{5} = \frac{14}{15}$
+
+$\frac{2}{3}/7 = \frac{2}{3} * \frac{1}{7} = \frac{2}{21}$
+
 ---
 
 - [Visza az előző oldalra](../matematika.md)
