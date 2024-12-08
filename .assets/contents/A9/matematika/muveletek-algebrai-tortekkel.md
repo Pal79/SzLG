@@ -44,13 +44,13 @@ $\frac{2(4a^{5}+4a^{3})}{2(5a^{3}+5a)} = \frac{4a^{3}(a^{2}+1)}{5a(a^{2}+1)} = \
 - azonosság felismerése
 - kiemelés csoportosítással
 
-$\frac{2}{3}+\frac{3}{5} = \frac{10+9}{15} = \frac{19}{15}$
+$\frac{2}{3} + \frac{3}{5} = \frac{10+9}{15} = \frac{19}{15}$
 
-$\frac{2}{3}*\frac{7}{5} = \frac{2*7}{3*5} = \frac{14}{15}$
+$\frac{2}{3} * \frac{7}{5} = \frac{2*7}{3*5} = \frac{14}{15}$
 
-$\frac{2}{3} / \frac{5}{7} = \frac{2}{3} * \frac{7}{5} = \frac{14}{15}$
+$\frac{2}{3} : \frac{5}{7} = \frac{2}{3} * \frac{7}{5} = \frac{14}{15}$
 
-$\frac{2}{3}/7 = \frac{2}{3} * \frac{1}{7} = \frac{2}{21}$
+$\frac{2}{3} : 7 = \frac{2}{3} * \frac{1}{7} = \frac{2}{21}$
 
 ---
 
