@@ -241,7 +241,19 @@ $\frac{66}{11} = x$
 
 ---
 
+> :memo: Ha a tört nevezője ismeretlent tartalmaz, akkor kikötés kell. Nullával nem tudunk osztani, nulla nem lehet a tört nevezőjében
 
+$\frac{2x}{x - 2} - \frac{4}{x - 2} = 2$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / *(x-2)
+
+$2x - 4 = 2(x-2)$
+
+$2x - 4 = 2x - 4$
+
+> AZONOSSÁG
+
+(\u2200)
+
+$\u2200$
 
 ---
 
