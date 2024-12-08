@@ -251,11 +251,13 @@ $2x - 4 = 2x - 4$
 
 > AZONOSSÁG
 
+<!--
 $\umathbb{A}$
 
 $\rmathbb{A}$
 
 $\fmathbb{A}$
+-->
 
 ---
 
