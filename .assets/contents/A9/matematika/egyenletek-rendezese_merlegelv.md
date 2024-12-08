@@ -240,15 +240,15 @@ $$
 
 $$
 \begin{gather*}
-\Large \frac{2x}{x - 2} - \frac{4}{x - 2} &= \Large 2 && / *(x-2) \\
-\Large 2x - 4 &= \Large 2(x - 2) \\
-\Large 2x - 4 &= \Large 2x - 4
+\frac{2x}{x - 2} - \frac{4}{x - 2} &= 2 && / *(x-2) \\
+2x - 4 &= 2(x - 2) \\
+2x - 4 &= 2x - 4
 \end{gather*}
 $$
 
 > AZONOSSÁG
 
-$\Large \forall x \in \mathbb{R}$ &nbsp;&nbsp;&nbsp; jó megoldás &nbsp;&nbsp;&nbsp; $\Large x \neq 2$
+$\forall x \in \mathbb{R}$ &nbsp;&nbsp;&nbsp; jó megoldás &nbsp;&nbsp;&nbsp; $x \neq 2$
 
 ---
 
