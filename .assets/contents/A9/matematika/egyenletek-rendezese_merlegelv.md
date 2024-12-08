@@ -251,9 +251,11 @@ $2x - 4 = 2x - 4$
 
 > AZONOSSÁG
 
-(\u2200)
+$\umathbb{A}$
 
-$\u2200$
+$\rmathbb{A}$
+
+$\fmathbb{A}$
 
 ---
 
