@@ -239,11 +239,11 @@ $$
 > :memo: Ha a tört nevezője ismeretlent tartalmaz, akkor kikötés kell. Nullával nem tudunk osztani, nulla nem lehet a tört nevezőjében
 
 $$
-\begin{align*}
+\begin{gather*}
 \Large \frac{2x}{x - 2} - \frac{4}{x - 2} &= \Large 2 && / *(x-2) \\
 \Large 2x - 4 &= \Large 2(x - 2) \\
 \Large 2x - 4 &= \Large 2x - 4
-\end{align*}
+\end{gather*}
 $$
 
 > AZONOSSÁG
