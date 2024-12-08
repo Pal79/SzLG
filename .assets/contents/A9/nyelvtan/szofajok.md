@@ -110,6 +110,19 @@ Határozott:
 | határozatlan | valaki, némelyik,... | valamilyen, valamekkora | valamennyi |
 | általános | bárki, akárki,... | akérmilyen, bármilyen | akármennyi |
 
+## Igenevek
+
+- Főnévi igenév: (-ni) - tanulni, dolgozni, aludni, ...
+- Melléknévi igenév
+   - folyamatos:  (-ó,-ő) - mosó, főző, ...
+   - befelyezett: (-t,-tt) - A mosott ruha megszáradt.
+   - beálló: (-andó,-endő) - követendő, tanulandó, ...
+- Határozói igenév: (-va,-ve,-ván,-vén) - kérve, tudva, adva, kérvén,...
+
+## Határozószók
+
+A cselekvés körülményeit jelölik.
+
 ---
 
 - [Vissza az előző oldalra](../nyelvtan.md)
