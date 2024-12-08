@@ -39,14 +39,14 @@ $\frac{8a^{5}+8a^{3}}{10a^{3}+10a} = \frac{8a^{3}(a^{2}+1)}{10a(a^{2}+1)} = \fra
 
 $\frac{2(4a^{5}+4a^{3})}{2(5a^{3}+5a)} = \frac{4a^{3}(a^{2}+1)}{5a(a^{2}+1)} = \frac{4a^{2}}{5}$
 
-:memo: Szorzattá alakítás módszerei:
-- kiemelés
-- azonosság felismerése
-- kiemelés csoportosítással
+> :memo: Szorzattá alakítás módszerei:
+> - kiemelés
+> - azonosság felismerése
+> - kiemelés csoportosítással
 
 $\frac{2}{3} + \frac{3}{5} = \frac{10+9}{15} = \frac{19}{15}$
 
-$\frac{2}{3} * \frac{7}{5} = \frac{2*7}{3*5} = \frac{14}{15}$
+$\frac{2}{3} * \frac{7}{5} = \frac{2 * 7}{3 * 5} = \frac{14}{15}$
 
 $\frac{2}{3} : \frac{5}{7} = \frac{2}{3} * \frac{7}{5} = \frac{14}{15}$
 
