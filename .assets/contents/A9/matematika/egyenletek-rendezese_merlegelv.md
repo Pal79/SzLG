@@ -171,6 +171,80 @@ $x = \frac{47}{11}$
 
 ---
 
+$\frac{1}{5}(3x - 1) - \frac{3}{4}(2x + 3) = \frac{1}{2}(5x - 7)$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / *20
+
+$4(3x-1)-15(2x+3) = 10(5x-7)$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / zf
+
+$12x-4-30x-45 = 50x-70$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / öv
+
+$-18x-49 = 50x-70$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / +49
+
+$-18x = 50x-21$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / -50x
+
+$-68x = -21$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / :(-68)
+
+$x = \frac{21}{68}$
+
+---
+
+$\frac{2x - 4}{3} + \frac{x -4}{2} = 2x$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / *6
+
+$4x-8+3x-12 = 12x$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / öv
+
+$x-20 = 12x$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / -x
+
+$-20 = 11x$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / :11
+
+$-\frac{20}{11} = x$
+
+---
+
+$\frac{4x - 3}{6} + \frac{x + 4}{3} = \frac{7x - 5}{12}$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / kn
+
+$8x -6 + 4x + 16 = 7x - 5$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / öv
+
+$12x + 10 = 7x - 5$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / +5
+
+$12x + 15 = 7x&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / -12x
+
+$15 = -5x&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / :(-5x)
+
+$-3 = x$ vagy $-\frac{15}{5}$
+
+---
+
+$\frac{3x - 7}{5} - \frac{x - 7}{4} + \frac{3x + 5}{2} = 1$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / *20
+
+$12x - 28 -5x -35 + 30x + 50 = 20$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / öv
+
+$37x - 13 = 20$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / +13
+
+$37x = 33$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / :37
+
+$x = \frac{33}{37}$
+
+---
+
+$\frac{2x + 3}{5} - \frac{x + 2}{4} = \frac{x -3}{3}$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / *60
+
+$12(2x + 3) - 15(x + 2) = 20(x - 3)$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / zf
+
+$24x + 36 - 15x - 30 = 20x - 60$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / öv
+
+$9x + 6 = 20x - 60$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / -9x
+
+$6 = 11x - 60$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / +60
+
+$66 = 11x$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / :11
+
+$\frac{66}{11} = x$
+
+---
+
+
+
+---
+
 - [Vissza a főoldalra](../../../../README.md)
 - [Vissza az előző oldalra](../matematika.md)
 
