@@ -1,8 +1,8 @@
 
 ---
 
-- []()
-- []()
+- [Vissza a főoldalra](../../../../README.md)
+- [Vissza az előző oldalra](../matematika.md)
 
 ---
 
@@ -125,7 +125,53 @@ $-\frac{57}{27}$
 
 ---
 
-- []()
-- []()
+$\frac{2}{3}(5x - 1) - \frac{7}{3}(2x - 3) = 5$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / *3
+
+$2(5x - 3) - 7(2x - 3) = 15$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / zf
+
+$10x-2-14x+21 = 15$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / öv
+
+$-4x+19 = 15$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / -19
+
+$-4x = -4$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / :-(4)
+
+$x = 1$
+
+---
+
+$\frac{1}{2}(x+7) - \frac{1}{3}(2x-4) = 1$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / kn (közös nevező)
+
+$\frac{3}{6}(x+7) - \frac{2}{6}(2x-4) = 1$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / *6
+
+$3(x+7)-2(2x-4) = 6$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / zf
+
+$3x+21-4x+8 = 6$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / öv
+
+$-x+29 = 6$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / -29
+
+$-x = -23$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / :-1
+
+$x = 23$
+
+---
+
+$\frac{4}{5}(3x + 4) - \frac{1}{2}(7x + 1) = -2$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / kn
+
+$\frac{8}{10}(3x + 4) - \frac{5}{10}(7x + 1) = -2$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / *10
+
+$8(3x+4)-5(7x+1) = -20$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / zf
+
+$24x+32-35x-5 = -20$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / őv
+
+$-11x+27 = -20$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / -27
+
+$-11x = -47$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / :(-11)
+
+$x = \frac{47}{11}$
+
+---
+
+- [Vissza a főoldalra](../../../../README.md)
+- [Vissza az előző oldalra](../matematika.md)
 
 ---
