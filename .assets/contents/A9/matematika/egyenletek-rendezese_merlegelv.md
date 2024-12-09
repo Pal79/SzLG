@@ -11,32 +11,32 @@
 ---
 
 $$
-\begin{align*}
+\begin{aligned}
 x * 2 + 18 &= 46 && / -18 \\
 x * 3 &= 28 && / :2 \\
 x &= 14
-\end{align*}
+\end{aligned}
 $$
 
 Ellenőrzés:
 
 $$
-\begin{align*}
+\begin{aligned}
 14 * 2 + 18 = 46
-\end{align*}
+\end{aligned}
 $$
 
 ---
 
 $$
-\begin{align*}
+\begin{aligned}
 3(2x - 7) - 4(5 - 2x) &= 3x + 3 && / zf & (zárójel felbontás) \\
 6x - 21 - 20 + 8x &= 3x + 3 && / öv & (összevonás) \\
 14x - 41 &= 3x + 3 && / -3x \\
 11x - 41 &= 3 && / +41 \\
 11x &= 44 && / :11 \\
 x &= 4
-\end{align*}
+\end{aligned}
 $$
 
 > Ellenőrzés (bal oldal):
@@ -56,13 +56,13 @@ $$
 ---
 
 $$
-\begin{align*}
+\begin{aligned}
 2(4x - 3) - 3(3x - 1) - 4(x + 1) &= 5 && / zf \\
 8x - 6 - 9x + 3 - 4x - 4 &= 5 && / öv \\
 -5x - 7 &= 5 && / +7 \\
 -5x &= 12 && / :(-5) \\
 x &= -2.4 &= -\frac{12}{5}
-\end{align*}
+\end{aligned}
 $$
 
 > Ell. BO.:
@@ -76,13 +76,13 @@ $$
 > :memo: Ha a zárójel előtt negatív van, akkor a zárójel felbontása után az előjelek megváltoznak
 
 $$
-\begin{align*}
+\begin{aligned}
 5(4x + 1) - 2(3x - 4) &= 2(x + 3) - (3x - 7) && / zf \\
 20x + 5 - 6x + 8 &= 2x + 6 - 3x + 7 && / öv \\
 14x + 13 &= -x + 13 && / +x \\
 15x + 13 &= 13 && / -13 \\
 15x &= 0
-\end{align*}
+\end{aligned}
 $$
 
 > :memo: Egy szorzat akkor 0, ha egyik tényezője 0
@@ -90,7 +90,7 @@ $$
 ---
 
 $$
-\begin{align*}
+\begin{aligned}
 4(2(3x - 4) - 3) - 4 &= 0 &&&&& / zf \\
 4(6x - 8 - 3) - 4 &= 0 &&&&& / zf \\
 4(6x - 11) - 4 &= 0 &&&&& / zf \\
@@ -98,26 +98,26 @@ $$
 24x - 48 &= 0 &&&&& / +48 \\
 24x &= 48 &&&&& / :24 \\
 x &= 2
-\end{align*}
+\end{aligned}
 $$
 
 ---
 
 $$
-\begin{align*}
+\begin{aligned}
 2 \{5[3(x - 1) - 4] - 2\} &= 16 \\
 2 \{5[3x - 3 - 4] - 2\} &= 16 \\
 2 \{15x - 35 - 2\} &= 16 \\
 30x - 74 &= 16 && / +74 \\
 30x &= 90 && / :30 \\
 x &= 3
-\end{align*}
+\end{aligned}
 $$
 
 ---
 
 $$
-\begin{gather*}
+\begin{aligned}
 3 \{3[x - 4(x + 1)] - 2\} &= 27 \\
 3 \{3[x - 4x - 4] - 2\} &= 27 \\
 3 \{3x - 12x - 12 - 2\} &= 27 \\
@@ -125,38 +125,35 @@ $$
 -27x - 30 &= 27 && / +30 \\
 -27x &= 57 && / :(-27) \\
 x &= -\frac{57}{27} \\
-\end{gather*}
+\end{aligned}
 $$
 
 ---
 
-$\frac{2}{3}(5x - 1) - \frac{7}{3}(2x - 3) = 5 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / *3$
-
-$2(5x - 3) - 7(2x - 3) = 15 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / zf$
-
-$10x - 2 - 14x + 21 = 15 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / öv$
-
-$-4x + 19 = 15 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / -19$
-
-$-4x = -4 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / :-(4)$
-
-$x = 1$
+$$
+\begin{aligned}
+\frac{2}{3}(5x - 1) - \frac{7}{3}(2x - 3) &= 5 && / *3 \\
+2(5x-3)-7(2x-3) &= 15 && / zf \\
+10x-2-14x+21 &= 15 && / öv \\
+-4x+19 &= 15 && / -19 \\
+-4x &= -4 && / :-(4) \\
+x &= 1
+\end{aligned}
+$$
 
 ---
 
-$\frac{1}{2}(x+7)-\frac{1}{3}(2x-4) = 1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / kn (közös nevező)$
-
-$\frac{3}{6}(x+7)-\frac{2}{6}(2x-4) = 1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / *6$
-
-$3(x+7)-2(2x-4) = 6 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / zf$
-
-$3x+21-4x+8 = 6 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / öv$
-
-$-x+29 = 6 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / -29$
-
-$-x = -23 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / :-1$
-
-$x = 23$
+$$
+\begin{aligned}
+\frac{1}{2}(x+7)-\frac{1}{3}(2x-4) &= 1 && / kn (közös nevező) \\
+\frac{3}{6}(x+7)-\frac{2}{6}(2x-4) &= 1 && / *6 \\
+3(x+7)-2(2x-4) &= 6 && / zf \\
+3x+21-4x+8 &= 6 && / öv \\
+-x+29 &= 6 && / -29 \\
+-x &= -23 && / :-1 \\
+x &= 23
+\end{aligned}
+$$
 
 ---
 
@@ -255,6 +252,7 @@ $\forall x \in \mathbb{R}$ &nbsp;&nbsp;&nbsp; jó megoldás &nbsp;&nbsp;&nbsp; $
 
 ---
 
+<!--
 $$
 \begin{aligned}
 \frac{x - 4}{x + 3} - \frac{x + 2}{x + 3} = 3 &&&&& /*(x+3) \\
@@ -262,7 +260,7 @@ x-4
 \end{aligned}
 $$
 
-<!--
+
 
 > :memo: Törtvonal zárójelet helyettesít
 
