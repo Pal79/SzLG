@@ -144,17 +144,19 @@ $x = 1$
 
 ---
 
-$$
-\begin{gather*}
-\frac{1}{2}(x+7)-\frac{1}{3}(2x-4) &= 1 && / kn (közös nevező) \\
-\frac{3}{6}(x+7)-\frac{2}{6}(2x-4) &= 1 && / *6 \\
-3(x+7)-2(2x-4) &= 6 && / zf \\
-3x+21-4x+8 &= 6 && / öv \\
--x+29 &= 6 && / -29 \\
--x &= -23 && / :-1 \\
-x &= 23
-\end{gather*}
-$$
+$\frac{1}{2}(x+7)-\frac{1}{3}(2x-4) = 1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / kn (közös nevező)$
+
+$\frac{3}{6}(x+7)-\frac{2}{6}(2x-4) = 1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / *6$
+
+$3(x+7)-2(2x-4) = 6 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / zf$
+
+$3x+21-4x+8 = 6 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / öv$
+
+$-x+29 = 6 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / -29$
+
+$-x = -23 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / :-1$
+
+$x = 23$
 
 ---
 
