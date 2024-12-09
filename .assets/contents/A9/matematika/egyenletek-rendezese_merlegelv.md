@@ -252,29 +252,31 @@ $\forall x \in \mathbb{R}$ &nbsp;&nbsp;&nbsp; jó megoldás &nbsp;&nbsp;&nbsp; $
 
 ---
 
-<!--
 $$
 \begin{aligned}
-\frac{x - 4}{x + 3} - \frac{x + 2}{x + 3} = 3 &&&&& /*(x+3) \\
-x-4
+\frac{x-4}{x+3} - \frac{x+2}{x+3} &= 3 && / *(x+3) \\
+x-4-x+2 &= 3(x+3) && / zf \\
+x-4-x+2 &= 3x+9 && / öv \\
+-6 &= 3x+9 && / -9 \\
+-15 &= 3x && / :3 \\
+-5 &= x
 \end{aligned}
 $$
 
-
-
 > :memo: Törtvonal zárójelet helyettesít
 
-$\frac{x -4}{x + 3} - \frac{x + 2}{x + 3} = 3 && / (x+3)
+> Ellenőrzés
 
-$x - 4 - x + 2 = 3(x + 3) && / zf
+$$
+\begin{aligned}
+x = -5 \\
+\\
+\frac{-5-4}{-5+3} - \frac{-5+2}{-5+3} = \frac{-9}{-2} - \frac{-3}{-2} = 4,5 - 1,5 = 3
+\end{aligned}
+$$
 
-$x - 4 - x + 2 = 3x + 9 && / öv
-
-$- 2 = 3x + 9 && / -9
-
-$2x = 3x + 11$
-
--->
+> Jobb oldal = 3
+> Bal oldal = jobb oldal
 
 ---
 
