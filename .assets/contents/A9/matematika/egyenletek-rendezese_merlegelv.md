@@ -175,7 +175,7 @@ $$
 ---
 
 $$
-\begin{align*}
+\begin{aligned}
 \frac{1}{5}(3x - 1) - \frac{3}{4}(2x + 3) &= \frac{1}{2}(5x - 7) && / *20 \\
 4(3x - 1) - 15(2x + 3) &= 10(5x - 7) && / zf \\
 12x - 4 - 30x - 45 &= 50x - 70 && / öv \\
@@ -183,50 +183,50 @@ $$
 -18x &= 50x - 21 && / -50x \\
 -68x &= -21 && / :(-68) \\
 x = \frac{21}{68}
-\end{align*}
+\end{aligned}
 $$
 
 ---
 
 $$
-\begin{align*}
+\begin{aligned}
 \frac{2x - 4}{3} + \frac{x -4}{2} &= 2x && / *6 \\
 4x - 8 + 3x - 12 &= 12x && / öv \\
 x - 20 &= 12x && / -x \\
 -20 &= 11x && / :11 \\
 -\frac{20}{11} &= x
-\end{align*}
+\end{aligned}
 $$
 
 ---
 
 $$
-\begin{align*}
+\begin{aligned}
 \frac{4x - 3}{6} + \frac{x + 4}{3} &= \frac{7x - 5}{12} && / kn \\
 8x -6 + 4x + 16 &= 7x - 5 && / öv \\
 12x + 10 &= 7x - 5 && / +5 \\
 12x + 15 &= 7x && / -12x \\
 15 &= -5x && / :(-5x) \\
 -3 &= x; vagy -\frac{15}{5}
-\end{align*}
+\end{aligned}
 $$
 
 ---
 
 $$
-\begin{align*}
+\begin{aligned}
 \frac{3x - 7}{5} - \frac{x - 7}{4} + \frac{3x + 5}{2} &= 1 && / *20 \\
 12x - 28 -5x -35 + 30x + 50 &= 20 && / öv \\
 37x - 13 &= 20 && / +13 \\
 37x &= 33 && / :37 \\
 x &= \frac{33}{37}
-\end{align*}
+\end{aligned}
 $$
 
 ---
 
 $$
-\begin{align*}
+\begin{aligned}
 \frac{2x + 3}{5} - \frac{x + 2}{4} &= \frac{x -3}{3} && / *60 \\
 12(2x + 3) - 15(x + 2) = 20(x - 3) && / zf \\
 24x + 36 - 15x - 30 = 20x - 60 && / öv \\
@@ -234,7 +234,7 @@ $$
 6 = 11x - 60 && / +60 \\
 66 = 11x && / :11 \\
 \frac{66}{11} = x
-\end{align*}
+\end{aligned}
 $$
 
 ---
@@ -242,11 +242,11 @@ $$
 > :memo: Ha a tört nevezője ismeretlent tartalmaz, akkor kikötés kell. Nullával nem tudunk osztani, nulla nem lehet a tört nevezőjében
 
 $$
-\begin{gather*}
+\begin{aligned}
 \frac{2x}{x - 2} - \frac{4}{x - 2} &= 2 && / *(x-2) \\
 2x - 4 &= 2(x - 2) \\
 2x - 4 &= 2x - 4
-\end{gather*}
+\end{aligned}
 $$
 
 > AZONOSSÁG
@@ -256,10 +256,10 @@ $\forall x \in \mathbb{R}$ &nbsp;&nbsp;&nbsp; jó megoldás &nbsp;&nbsp;&nbsp; $
 ---
 
 $$
-\begin{gather*}
+\begin{aligned}
 \frac{x - 4}{x + 3} - \frac{x + 2}{x + 3} = 3 &&&&& /*(x+3) \\
 x-4
-\end{gather*}
+\end{aligned}
 $$
 
 <!--
