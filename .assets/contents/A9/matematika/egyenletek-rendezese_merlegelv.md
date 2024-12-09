@@ -130,15 +130,15 @@ $$
 
 ---
 
-$\frac{2}{3}(5x - 1) - \frac{7}{3}(2x - 3) = 5 && / *3 \\$
+$\frac{2}{3}(5x - 1) - \frac{7}{3}(2x - 3) = 5 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / *3$
 
-$\begin{gather*}2(5x - 3) - 7(2x - 3) = 15 && / zf \\\end{gather*}$
+$2(5x - 3) - 7(2x - 3) = 15 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / zf$
 
-$10x - 2 - 14x + 21 = 15 && / öv \\$
+$10x - 2 - 14x + 21 = 15 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / öv$
 
-$-4x + 19 = 15 && / -19 \\$
+$-4x + 19 = 15 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / -19$
 
-$-4x = -4 && / :-(4) \\$
+$-4x = -4 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / :-(4)$
 
 $x = 1$
 
