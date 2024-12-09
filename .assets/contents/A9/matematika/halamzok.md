@@ -45,19 +45,23 @@ Halmazok elemszám jelölése: $|A|$
 
 ***Példák***:
 
-$A$ = {1,2,3,4,5,6}
-
-$B$ = {1,3,5,7,9}
+$$
+\begin{aligned}
+A &= \{1,2,3,4,5,6\} \\
+B &= \{1,3,5,7,9\}
+\end{aligned}
+$$
 
 <img src='../images/matematika_halmaz-pelda-001.svg' alt='példa' width='512'>
 
-$A \cup B$ = {1,2,3,4,5,6,7,9}
-
-$A \cap B$ = {1,3,5}
-
-$A$ \ $B$ = {2,4,6}
-
-$B$ \ $A$ = {7,9}
+$$
+\begin{aligned}
+A \cup B &= \{1,2,3,4,5,6,7,9\} \\
+A \cap B &= \{1,3,5\} \\
+A \ B &= \{2,4,6\} \\
+B \ A &= \{7,9\}
+\end{aligned}
+$$
 
 ---
 
