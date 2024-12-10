@@ -57,27 +57,43 @@ $$
 
 ---
 
-- $A$ = [-3;2[
-- $B$ = ]1;4]
+$$
+\begin{aligned}
+A = [-3;2[ \\
+B = ]1;4]
+\end{aligned}
+$$
 
 ![]()
 
-- $A \cup B$ = [-3;4]
-- $A \cap B$ = ]1;2[
-- $A$ \ $B$ = [-3;1[
-- $B$ \ $A$ = ]2;4]
+$$
+\begin{aligned}
+A \cup B = [-3;4] \\
+A \cap B = ]1;2[ \\
+A \ B = [-3;1[ \\
+B \ A = ]2;4]
+\end{aligned}
+$$
 
 ---
 
-- $A$ = [-2;1]
-- $B$ = ]-3;3[
+$$
+\begin{aligned}
+A = [-2;1] \\
+B = ]-3;3[
+\end{aligned}
+$$
 
 ![]()
 
-- $A \cup B$ = ]-3;3[
-- $A \cap B$ = [-2;1]
-- $A$ \ $B$ = $\emptyset$
-- $B$ \ $A$ = ]-3;-2[ $\cup$ ]1;3[
+$$
+\begin{aligned}
+A \cup B = ]-3;3[ \\
+A \cap B = [-2;1] \\
+A \ B = \emptyset \\
+B \ A = ]-3;-2[ \cup ]1;3[
+\end{aligned}
+$$
 
 ---
 
