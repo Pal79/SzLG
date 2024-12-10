@@ -30,8 +30,8 @@ $$
 \begin{aligned}
 A \cup B = [1;4] \\
 A \cap B = [2;3] \\
-A \ B = [1;2[ \\
-B \ A = ]3;4]
+A \\ B = [1;2[ \\
+B \\ A = ]3;4]
 \end{aligned}
 $$
 
@@ -50,8 +50,8 @@ $$
 \begin{aligned}
 A \cup B = [-2;2[ \\
 A \cap B$ = ]-1;0] \\
-A \ B = ]0;2[ \\
-B \ A = [-2;-1]
+A \\ B = ]0;2[ \\
+B \\ A = [-2;-1]
 \end{aligned}
 $$
 
@@ -70,8 +70,8 @@ $$
 \begin{aligned}
 A \cup B = [-3;4] \\
 A \cap B = ]1;2[ \\
-A \ B = [-3;1[ \\
-B \ A = ]2;4]
+A \\ B = [-3;1[ \\
+B \\ A = ]2;4]
 \end{aligned}
 $$
 
@@ -90,8 +90,8 @@ $$
 \begin{aligned}
 A \cup B = ]-3;3[ \\
 A \cap B = [-2;1] \\
-A \ B = \emptyset \\
-B \ A = ]-3;-2[ \cup ]1;3[
+A \\ B = \emptyset \\
+B \\ A = ]-3;-2[ \cup ]1;3[
 \end{aligned}
 $$
 
