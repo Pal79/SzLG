@@ -17,31 +17,43 @@ ha $\circ$ akkor nyitott intervalum
 
 ***Példák***:
 
-$A = {x|x \in [1;3]}$
-
-$B = {x|x \in [2;4]}$
+$$
+\begin{aligned}
+A = {x|x \in [1;3]} \\
+B = {x|x \in [2;4]}
+\end{aligned}
+$$
 
 <img src='../images/matematika_intervallum-pelda-001.svg' alt='intervallum pelda' width='512'>
 
-$A \cup B = [1;4]$
-
-$A \cap B = [2;3]$
-
-$A$ \ $B = [1;2[$
-
-$B$ \ $A = ]3;4]$
+$$
+\begin{aligned}
+A \cup B = [1;4] \\
+A \cap B = [2;3] \\
+A \ B = [1;2[ \\
+B \ A = ]3;4]
+\end{aligned}
+$$
 
 ---
 
-- $A$ = ]-1;2[
-- $B$ = [-2;0]
+$$
+\begin{aligned}
+A = ]-1;2[ \\
+B = [-2;0]
+\end{aligned}
+$$
 
 ![]()
 
-- $A \cup B$ = [-2;2[
-- $A \cap B$ = ]-1;0]
-- $A$ \ $B$ = ]0;2[
-- $B$ \ $A$ = [-2;-1]
+$$
+\begin{aligned}
+A \cup B = [-2;2[ \\
+A \cap B$ = ]-1;0] \\
+A \ B = ]0;2[ \\
+B \ A = [-2;-1]
+\end{aligned}
+$$
 
 ---
 
