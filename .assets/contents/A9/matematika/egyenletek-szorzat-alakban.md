@@ -17,7 +17,7 @@
 
 $$
 \begin{aligned}
-\Large (x-4)(3x+6)(5-10x)(12x+48) &= 0 \\
+\Large (x-4)(3x+6)(5-10x)(12x+48) &\Large = 0 \\
 \\
 \text{1. tényező:} \\
 &\Large x-40 &\Large = 0\\
@@ -46,7 +46,7 @@ $$
 
 $$
 \begin{aligned}
-\Large 2x(6-2x)\frac{5-4x}{4} = 0 \\
+\Large 2x(6-2x)\frac{5-4x}{4} &\Large = 0 \\
 \\
 \text{1. tényező:}\\
 &\Large 2x &\Large = 0 \\
