@@ -67,6 +67,12 @@ $$
 
 ---
 
+$$
+\begin{aligned}
+s
+\end{aligned}
+$$
+
 ---
 
 - [Vissza a főoldalra](../../../../README.md)
