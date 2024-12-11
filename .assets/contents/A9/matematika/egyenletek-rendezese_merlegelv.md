@@ -276,6 +276,7 @@ x = -5 \\
 $$
 
 > Jobb oldal = 3
+
 > Bal oldal = jobb oldal
 
 ---
