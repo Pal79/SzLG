@@ -18,25 +18,36 @@
 $$
 \begin{aligned}
 \Large (x-4)(3x+6)(5-10x)(12x+48) &= 0 \\
-\\
-1. tényező: \\
+\end{aligned}
+$$
+1. tényező:
+$$
+\begin{aligned}
 &\Large x-40 &\Large = 0\\
 &\Large x &\Large = 4
-\\
-\\
-2. tényező: \\
+\end{aligned}
+$$
+2. tényező:
+$$
+\begin{aligned}
 &\Large 3x+6 &\Large = 0 \\
 &\Large 3x &\Large = 6 \\
 &\Large -\frac{6}{3} &\Large = x \\
 &\Large x &\Large = -2 \\
-\\
-3. tényező: \\
+\end{aligned}
+$$
+3. tényező:
+$$
+\begin{aligned}
 &\Large 5-10x &\Large = 0 \\
 &\Large 5 &\Large = 10x \\
 &\Large \frac{5}{10} &\Large = x \\
 &\Large x = \frac{1}{2} &\Large = 0,5 \\
-\\
-4. tényező: \\
+\end{aligned}
+$$
+4. tényező:
+$$
+\begin{aligned}
 &\Large 12x+48 &\Large = 0 \\
 &\Large 12x &\Large = 48 \\
 &\Large x &\Large = -\frac{48}{12} = -4
@@ -48,18 +59,27 @@ $$
 $$
 \begin{aligned}
 \Large 2x(6-2x)\frac{5-4x}{4} = 0 \\
-\\
-1. tényező: \\
+\end{aligned}
+$$
+1. tényező:
+$$
+\begin{aligned}
 &\Large 2x &\Large = 0 \\
 &\Large 2 &\Large = x \\
 &\Large x &\Large = \frac{2}{x} &\Large = 0 \\
-\\
-2. tényező: \\
+\end{aligned}
+$$
+2. tényező:
+$$
+\begin{aligned}
 &\Large 6-2x &\Large = 0 \\
 &\Large 6 &\Large = 2x \\
 &\Large 3 &\Large = x \\
-\\
-3. tényező \\
+\end{aligned}
+$$
+3. tényező:
+$$
+\begin{aligned}
 &\Large 5-4x &\Large = 0 \\
 &\Large 5 &\Large = 4x \\
 &\Large \frac{5}{4} &\Large = x
