@@ -66,6 +66,25 @@
 > | egészséges |  |  |  |  |  |
 > | vitézség |  |  |  |  |  |
 
+> - Indulatszó:
+>    - jajj, ejnye, a manóba, sicc, hess,...
+> - felelős kérdőszó:
+>    - igen, persze, nos,...
+
+> ***Gyakorlás***
+>
+> |  |  |  |  |  |  |  |  |  |  |  |
+> | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+> | ne (névelő) | fn (főnév) | mn (melléknév) | fn | i (ige) | i | ksz (kötőszó) | i | ik (igekötő) | ne | fn |
+> | A | rakodópart | alsó | kövén | ültem, | néztem, | hogy | úszik | el | a | dinnyehéj. |
+>
+> Néztem: E/1, múlt idő, kijelentő, alanyi és tárgyas
+>
+> |  |  |  |  |  |  |  |  |  |  |  |  |  |
+> | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+> | ksz | ne | fn | i | li (létige) | ik | mn | mn | ksz | mn | ik | ne | fn |
+> | Mintha | a | szívemből | folyt | volna | tova, | zavaros | bölcs | és | nagy | volt | a | Duna. |
+
 ---
 
 - [Vissza az előző oldalra](../nyelvtan.md)
