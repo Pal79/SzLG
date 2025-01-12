@@ -16,6 +16,7 @@
 - [Biblia](./irodalom/biblia.md)
 - [Középkori irodalom](./irodalom/kozepkori-irodalom.md)
 - [Szent Ágoston](./irodalom/szent-agoston.md)
+- [Félévi szóbeli vizsga](./irodalom/feleves-szobeli-vizsga.md)
 
 ---
 
