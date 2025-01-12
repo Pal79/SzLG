@@ -68,7 +68,7 @@
 >
 > Konfliktusok rendszere:
 >
-> ![konfliktudok rendszere]()
+> ![Antigoné - konfliktudok rendszere](irodalom_konfliktusok-rendszere-antigone.svg)
 >
 > **Antigoné**: fontosak számára a szokások, a hagyományok. Határozott, magabiztos lány, makacs, megrendíthetetlen, de bátran vállalja tetteinek következményeit. Ő az egyetlen, aki a lelkiismeret parancsát életénél is drágábbnak tartja.
 >
@@ -108,13 +108,13 @@
 >
 > A színház részeit mutatja az alábbi ábra:
 >
-> ![Görög színház]()
+> ![Görög színház](../images/irodalom-gorog-szinhaz.png)
 >
 > Az épületek több tízezer ember befogadására is alkalmasak voltak. Az epidauroszi színház például 12 ezer nézőt fogadhatott egyszerre.
 >
 > 4. Kellékek
 >
-> ![Görög színház - kellékek]()
+> ![Görög színház - kellékek](../images/irodalom-gorog-szinhaz-kellekek.png)
 >
 > A színészek tógában, álarcban és magasított talpú cipőben, a kothornoszban játszottak. Színészként csak férfiakat foglalkoztattak, még a női szerepekre is. Érdekes technikai megoldás volt az az emelőszerkezet, amellyel az istenség földre szállását tudták érzékeltetni (deus ex machina). Az ókori görög színházban nem volt függöny, az előadást nem tagolták felvonásokra és kosztümöt sem alkalmaztak.
 >
