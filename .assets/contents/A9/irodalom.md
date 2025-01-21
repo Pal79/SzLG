@@ -17,6 +17,8 @@
 - [Középkori irodalom](./irodalom/kozepkori-irodalom.md)
 - [Szent Ágoston](./irodalom/szent-agoston.md)
 - [Félévi szóbeli vizsga](./irodalom/feleves-szobeli-vizsga.md)
+- [Halotti beszéd és könyörgés](./irodalom/halotti-beszed-es-konyorges.md)
+- [Ómagyar Mária siralom](./irodalom/omagyar-maria-siralom.md)
 
 ---
 
