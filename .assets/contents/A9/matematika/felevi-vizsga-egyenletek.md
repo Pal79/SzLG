@@ -129,3 +129,6 @@
 ```smiles
 OC(=O)c1cc(Cl)cs1
 ```
+
+
+<smiles>OC(=O)c1cc(Cl)cs1</smiles>
