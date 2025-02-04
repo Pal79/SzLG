@@ -28,6 +28,16 @@ Az első magyar verses szövegemlékünk.
 - Hangneme: fenkölt, fájdalmas
 - Jelképisége: a fiát sírató Mária, az anyai fájdalom jelképe lett
 - Retorikai elemek:
+   - Megszólítás:
+      - ó én édes uracskám
+      - zsidó mittész
+   - Felszólítás:
+      - végy halál engemet
+      - kegyelmezzetek fiamnak
+   - Felkiáltás:
+      - ó nekem
+- Költői kifejező eszközök:
+   - metaforák: világ világa, virágnak virága
 
 ---
 
