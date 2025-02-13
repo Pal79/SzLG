@@ -29,6 +29,21 @@
 > - Kis Testamentum (végrendelet) - 1456
 > - Nagy Testamentum - 1461
 
+> ## A jó tanítás balladája a rossz életűeknek
+>
+> A mű címe megtévesztő, hiszen a vers éppen arról szól, hogy semmiféle jó tanítással nem váltható meg a világ.
+> Villon cinikusan ismétli a refrénekben, hogy akár tisztességes akár tisztességtelen valaki, a pénzét mindenki borra és leányra veri el. Az egyes szakaszok a pénz megszerzésének különböző lehetőségeit sorolják fel.
+> - ***Az első versszak***ban olyan visszataszító bűncselekményt említ, amelyekben maga is részt vett (rablás, fosztogatás, csalás,...).
+> - ***A második versszak***ban a pénzszerzés kevésbé elítélhető módszereit sorolja fel (vásári komédiás, énekes, szerencsejátékos).
+> - ***A harmadik versszak*** a becsületes úton szerzett jövedelmekről szól, de az így szerzett pénz is italra és nőre megy el.
+> ***Ajánlás***: mindez addig tart, amíg a halál véget nem vet az életnek.
+>
+> A testamentum utolsó darabja első szám harmadik személyben szól Villon-ról, mint aki már halott, befejezte életét, lezárta testamentuma lapjait. A halál emlegetése általában félelmekkel, de a gyászos hangulatot azzal oldja fel, hogy még élete utolsó perceiben is "Ámor vad fullánkja kínozta, marta, szúrta" - a szerelem mártírja volt.
+>
+> Az ajánlás még tovább oldja a gyászos hangulatot, hiszen a vers hőse a földtől borral búcsúzott. A bor és a szerelem motívumai jelennek meg itt is, mintha életének az lett volna legfőbb tartalma céljai.
+>
+> Saját sírfeliratát is maga írta.
+
 ---
 
 - [Vissza az előző oldalra](../irodalom.md)
