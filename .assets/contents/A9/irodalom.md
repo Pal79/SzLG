@@ -21,6 +21,7 @@
 - [Ómagyar Mária siralom](./irodalom/omagyar-maria-siralom.md)
 - [Dante](./irodalom/dante.md)
 - [Villon](./irodalom/villon.md)
+- [Petrarca](./irodalom/petrarca.md)
 
 ---
 
