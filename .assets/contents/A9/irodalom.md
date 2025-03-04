@@ -22,6 +22,7 @@
 - [Dante](./irodalom/dante.md)
 - [Villon](./irodalom/villon.md)
 - [Petrarca](./irodalom/petrarca.md)
+- [Bocaccio](./irodalom/bocaccio.md)
 
 ---
 
