@@ -12,6 +12,7 @@
 - [Negyedéves dolgozat kérdések](./nyelvtan/negyedeves-dolgozat-kerdesek.md)
 - [Szófajok](./nyelvtan/szofajok.md)
 - [Mondatrészek](./nyelvtan/mondatreszek.md)
+- [Összetett mondatok](./nyelvtan/osszetett-mondat.md)
 
 ---
 
