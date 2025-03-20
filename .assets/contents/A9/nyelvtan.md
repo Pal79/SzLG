@@ -13,6 +13,8 @@
 - [Szófajok](./nyelvtan/szofajok.md)
 - [Mondatrészek](./nyelvtan/mondatreszek.md)
 - [Összetett mondatok](./nyelvtan/osszetett-mondat.md)
+- [Helyesírássunk alapelvei](./nyelvtan/helyesirasunk-alapelvei.md)
+- [Állandósult szókapcsolatok](./nyelvtan/allandosult-szokapcsolatok.md)
 
 ---
 
