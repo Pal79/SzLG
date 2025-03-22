@@ -62,7 +62,7 @@
 >
 > ### A szögsebesség és a kerületi sebesség kapcsolata
 >
-> Egy $r$ sugarú körpályán mozgó pontszerű test $T$ periódusidővel egyeneltes körmozgást végez, akkor szögsebessége: $\omega = \frac{2\pi}{T}, így
+> Egy $r$ sugarú körpályán mozgó pontszerű test $T$ periódusidővel egyeneltes körmozgást végez, akkor szögsebessége: $\omega = \frac{2\pi}{T}$, így
 >
 > $v = \frac{2r * \pi}{T} = \frac{2\pi}{T} * r$
 > $\omega = \frac{2\pi}{T}
