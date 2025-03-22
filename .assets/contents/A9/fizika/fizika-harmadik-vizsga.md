@@ -95,3 +95,35 @@
 > Ezt az eredő erőt centriőetális erőnek nevezzük.
 > - jele: $F_{cp}$
 > - $F_{cp} = m * a_{cp}$
+
+> ## Merev testek
+>
+> Merev testnek tekinthetünk egy testet, ha a rá ható erők mérete, alakja, tömegeloszlása nem változik meg, vagyis a kölcsönhatásban a test pontjai egymástól való távolságukat minden körülmények között megtartják.
+>
+> ### Pontszerű test egyensúlya
+>
+> Ha egy test nyugalomban van, akkor a test sebessége nulla, gyorsulása azonban nem feltétlenül nulla.
+> A pontszerű test egyensúlyának feltétele, hogy a pontszerű testre ható erők eredője nulla legyen.
+>
+> ### Tengely körül foratható merev test egyensúlya
+>
+> Tengely körül forgatható merev test két erő hatására akkor van egyensúlyban, ha az erő és az erőkarjának szorzata mindkét erő esetében egyenlő.
+>
+> $\frac{F_{1}}{F_{2}} = \frac{k_{1}}{k_{2}}$
+>
+> ### Forgatónyomaték
+>
+> Az erő hatásvonalának a forgástengelytől mért távolságát **erőkar**nak nevezzük.
+>
+> Azt a pontot, ahol az erő a testre hat, az erő **támadáspont**jának nevezzük.
+>
+> ![Forgatónyomaték](../images/fizika-forgatonyomatek-001.png)
+>
+> A forgatónyomaték az erő nagyságának és az erőkarnak a szorzata.
+> - jele: $M$
+> - mértékegysége: $Nm$
+> - $M = F * k$
+>
+> A forgatónyomaték  az erő forgatóhatására jellemző mennyiség.
+>
+> Rögzített tengely esetén, ha az erő hatásvonala átmegy a tengelyen, akkor az erő nem fejt ki forgatónyomatékot a testre.
