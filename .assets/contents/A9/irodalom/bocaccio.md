@@ -44,6 +44,17 @@
 > - Kiket ábrázol:
 >    - vér, babonás együgyű férjek, kolostorok lakói, agyafúrt kereskedők, beképzelt orvosok, babonás certardóri parasztok, ...
 
+> ## Ötödik nap kilencedik novella - A sólyom feláldozása
+>
+> - Műfaja: novella
+> - Témája: az igaz szerelem
+> - Szerkezete:
+>    1. bevezetése hosszadalmas, több részből álló. Funkciója a késleltetés, az érdeklődés felkeltése.
+>    1. Federicio mindenét elpazarolta, Giovanna miatt elszegényedett, vidékre költözött. Mikor Giovanna megözvegyült, fiával Federicio birtoka mellé költözött. Mikor fia megbetegedett, azt kívánta anyjától, hogy hozza el Federicio solymát. Giovanna elment érte, de Federicio nem tudta neki adni, mert feltálalta ebédre.
+>    1. A fia halála után Giovanna férjhez ment Federiciohoz, mert "én inkább akarok férfit vagyon nélkül, mint vagyont férfi nélkül".
+
+> ## Hatodik nap negyedik novella
+
 ---
 
 - [Vissza az előző oldalra](../irodalom.md)
