@@ -10,12 +10,12 @@
 > Óceán:
 > - Általános mélységük 4-5000m
 > - áramlási rendszerük van
-> - átlagos sótartalmuk $35-38$ %$_{°}$
+> - átlagos sótartalmuk $35-38 °/$_{oo}$
 
 > Tenger:
 > -szigetekkel, félszigetekkel, szorosokkal határolódnak el az óceántól.
 > - nincs számottevő áramlásuk
-> - sótartalmuk változó $1-41$ %$_{°}$
+> - sótartalmuk változó $1-41$ °/$_{oo}$
 
 > Beltenger:
 > - földrészek között vagy földrészen belül találhatóak
