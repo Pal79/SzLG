@@ -15,6 +15,7 @@
 - [Összetett mondatok](./nyelvtan/osszetett-mondat.md)
 - [Helyesírássunk alapelvei](./nyelvtan/helyesirasunk-alapelvei.md)
 - [Állandósult szókapcsolatok](./nyelvtan/allandosult-szokapcsolatok.md)
+- [Hangalak és jelntés kapcsolata](./nyelvtan/hangalak-es-jelentes-kapcsolata.md)
 
 ---
 
