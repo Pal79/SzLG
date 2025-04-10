@@ -24,6 +24,7 @@
 - [Petrarca](./irodalom/petrarca.md)
 - [Bocaccio](./irodalom/bocaccio.md)
 - [Janus Pannonius](./irodalom/janus-pannonius.md)
+- [Balassi Bálint](./irodalom/balassi-balint.md)
 
 ---
 
