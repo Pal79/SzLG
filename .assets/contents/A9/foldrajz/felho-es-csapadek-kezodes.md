@@ -20,3 +20,7 @@
 > - Ónos eső:
 >
 > ![felhő és csapadék képződés 001](../images/foldrajz-felho-es-csapadek-kepzodes-004.svg)
+>
+> - harmat:
+>
+> 
