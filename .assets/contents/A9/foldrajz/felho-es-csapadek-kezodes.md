@@ -23,4 +23,8 @@
 >
 > - harmat:
 >
-> 
+> ![felhő és csapadék képződés 001](../images/foldrajz-felho-es-csapadek-kepzodes-005.svg)
+>
+> ## Általános légkörzés
+>
+> ![felhő és csapadék képződés 001](../images/foldrajz-felho-es-csapadek-kepzodes-006.svg)
