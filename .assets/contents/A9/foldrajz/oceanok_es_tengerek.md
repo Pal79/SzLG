@@ -24,6 +24,8 @@
 > Perem tenger
 > - földrészeket kísérő kis vízborítású vízfelületek
 > - pl.: Északi-tenger
+>
+> ![perem tenger](../images/foldrajz-oceanok-es-tengerek.svg)
 
 > Sós tengerek
 > - száraz meleg területeken a jelentős párolgás miatt
