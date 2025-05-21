@@ -25,6 +25,9 @@
 - [Bocaccio](./irodalom/bocaccio.md)
 - [Janus Pannonius](./irodalom/janus-pannonius.md)
 - [Balassi Bálint](./irodalom/balassi-balint.md)
+- [William Shakespeare](./irodalom/william-shapespeare.md)
+- [Rómeó és Júlia](./irodalom/romeo-es-julia.md)
+
 
 ---
 
