@@ -35,6 +35,7 @@
 > - előszínpad a szabadban játszódó jelenetekhez
 > - hátső színpad az előszínpad mögött volt, függönnyel választották el tőle, az épületek szobáiban történt jelenetekre
 > - felső színpad a magasban (hegyen, égben) játszódó jelenetekre
+>
 > Nem voltak díszletek, nem felvonásokra hanem jelenetek tagolódtak. A női szerepeket fiúk/férfiak játszották
 
 ---
