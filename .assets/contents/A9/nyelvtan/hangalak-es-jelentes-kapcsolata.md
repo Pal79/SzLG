@@ -3,7 +3,7 @@
 
 > A nyelvi nyelven a hangalak és a jelentés kapcsolata általában önkényes és szokásszerű megállapodáson alapul. Kivételt képeznek a hangutánzó és a hangulatfestő szavak, mert alakjuk és jelentésük között a kapcsolat szükségszerű és okszerű. A hangalakjukból következtetni lehet a jelentésükre.
 >
-> H -> J
+> ![hangalak és jelentés](../images/nyelvtan-hangalak-jelentes.svg)
 > 
 > pl.:
 > - hangutánzó: kakukk, cincog, ...
@@ -13,7 +13,7 @@
 > 
 > a hangalakhoz csak egyetlen jelntés kapcsolódik
 >
-> H - J
+> ![egyjelentésű szavak](../images/nyelvtan-egyjelentesu.svg)
 >
 > pl.: műanyag, hétfő, ...
 >
@@ -21,11 +21,7 @@
 >
 > a szó hangalakjához többfélejelentés fűződik, ezek közül az egyik alapjelentés, a többi a későbbiekben kialakult, de vele összefüggő mellékjelentés.
 >
-> |  |  |  |
-> | :-- | :-- | :-- |
-> |  | /  | J |
-> | H |  | \| |
-> |  | \ | J |
+> ![többjelentésű szavak](../images/nyelvtan-tobbjelentesu.svg)
 > 
 > pl.: levél, toll, körte, gerinc, ...
 >
@@ -33,11 +29,7 @@
 >
 > a hangalak véletlenül azonos, de jelentésük teljesen más, s a jelentésük között nincs összefüggés.
 >
-> |  |  |  |
-> | :-- | :-- | :-- |
-> |  | / | J |
-> | H |  |  |
-> |  | \ | J |
+> ![azonos alakú szavak](../images/nyelvtan-azonos-alaku.svg)
 >
 > pl.: nyúl, vár, fog, ég, ...
 >
@@ -45,11 +37,7 @@
 >
 > eltérő hangalakokkal, azonos jelentést fejeznek ki.
 >
-> |  |  |  |
-> | :-- | :-- | :-- |
-> |  | / | H |
-> | J | - | H |
-> |  | \ | H |
+> ![rokon értelmű szavak](../images/nyelvtan-rokon-ertelmu.svg)
 >
 > pl.:
 > - öreg, vén, agg, koros
