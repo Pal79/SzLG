@@ -11,7 +11,7 @@
 - [Térképészeti alapismeretek](./foldrajz/terkepeszeti-alapismeretek.md)
 - [Földünk alakja, fő mozgásai és azok következményei, Hold fázisok](./foldrajz/foldunk-alakja-fo-mozgasai-es-azok-kovetkezmenyei-hold-fazisok.md)
 - [Első negyedéves vizsga](./foldrajz/elso-negyedeves-vizsga.md)
-- [Óceánok és Tengerek](./foldrajz/oceanok_es_tengerek.md)
+- [Óceánok és Tengerek](./foldrajz/folyok-tavak-tengerek-oceanok.md)
 
 ---
 
