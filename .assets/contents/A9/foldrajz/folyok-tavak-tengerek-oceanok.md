@@ -69,15 +69,6 @@
 >    - víztározók
 >    - bányatavak
 
-> ## Tengeráramlatok
->
-> **Hatalmas "folyók" az óceánokban**
->
-> Az egy környéki melegvíz cserélődik ki a sarkvidék környéki hideg vizekre.
-> A hőmérséklet különbség indítja be a vízmozgást $->$ fizikai törvényszerűség a hőmérséklet különbség kiegyenlítésére való törekvés.
->
-> Az irányát, mozgását befolyásolják a szelek (három nagy szélrendszer: sarki, nyugati és passzát szelek) és a földrészek partvonalainak elhelyezkedése. A Föld forgása és a Hold is befolyásolja.
-
 ## Óceánok és tengerek
 
 > Jeges-tenger -> Jeges-óceán, Antarktiszt övező terület -> Déli-óceán
@@ -107,6 +98,15 @@
 
 > **Édes tengerek**:
 > - csapadékos hideg területeken
+
+> ## Tengeráramlatok
+>
+> **Hatalmas "folyók" az óceánokban**
+>
+> Az egy környéki melegvíz cserélődik ki a sarkvidék környéki hideg vizekre.
+> A hőmérséklet különbség indítja be a vízmozgást $->$ fizikai törvényszerűség a hőmérséklet különbség kiegyenlítésére való törekvés.
+>
+> Az irányát, mozgását befolyásolják a szelek (három nagy szélrendszer: sarki, nyugati és passzát szelek) és a földrészek partvonalainak elhelyezkedése. A Föld forgása és a Hold is befolyásolja.
 
 ---
 
