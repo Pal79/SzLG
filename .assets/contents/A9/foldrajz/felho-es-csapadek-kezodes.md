@@ -1,6 +1,11 @@
 
 ---
 
+- [Vissza az előző oldalra](../foldrajz.md)
+- [Vissza a főoldalra](../../../../README.md)
+
+---
+
 # Felhő és csapadék képződés
 
 ---
@@ -28,3 +33,10 @@
 > ## Általános légkörzés
 >
 > ![felhő és csapadék képződés 001](../images/foldrajz-felho-es-csapadek-kepzodes-006.svg)
+
+---
+
+- [Vissza az előző oldalra](../foldrajz.md)
+- [Vissza a főoldalra](../../../../README.md)
+
+---
