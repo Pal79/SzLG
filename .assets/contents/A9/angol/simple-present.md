@@ -47,13 +47,13 @@
 > - drink $->$ drinks.
 >
 > "es" ragot kapnak az igék, amelyek a következő betűkkel/betűcsoportokkal végződnek: (s,ss,sh,ch,x,o,z)
-> - pass -> passes (átmegy)
-> - wash -> washes (mos)
-> - teach -> teaches (tanít)
-> - fix -> fixes (megjavít)
-> - go -> goes (megy)
-> - do -> does (csinál)
-> buzz -> buzzes (zümmög)
+> - pass $->$ passes (átmegy)
+> - wash $->$ washes (mos)
+> - teach $->$ teaches (tanít)
+> - fix $->$ fixes (megjavít)
+> - go $->$ goes (megy)
+> - do $->$ does (csinál)
+> buzz $->$ buzzes (zümmög)
 >
 > **Tagadás** (Hogyan mondjuk, hogy nem?):
 > A tagadáshoz a "do not (don't)" vagy "does not (doesn't)" segédigéket használjuk, plusz az ige alapformáját.
