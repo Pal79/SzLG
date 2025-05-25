@@ -105,7 +105,7 @@ Sokféle lehetnek de az angolban az egyik fontos megkülönböztetés a **megsz�
 >     - Egyes számú megszámolható főnevek előtt
 >     - **Nem haszáljuk** többes számú vagy megszámlálhatatlan főnevek előtt
 >
-> Esetek, mikor elhagyhatjuk a névelőt:
+>     Esetek, mikor elhagyhatjuk a névelőt:
 >     - Általános kijelentéseknél, többes számú megszámolható vagy megszámlálhatatlan főneveknél:
 >         - Dogs are friendly. (A kutyák barátságosak.)
 >         - Money is important. (A pénz fontos.)
