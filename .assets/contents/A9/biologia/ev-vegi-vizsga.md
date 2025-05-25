@@ -143,7 +143,7 @@ Kommunikáció az állatok között
 >
 > ![etológia 015](../images/biologia-etologia-015.png)
 >
-Az állatok közül a madarak hazatalálási módját, vonulási tájékozódását vizsgálták legtöbbször.
+> Az állatok közül a madarak hazatalálási módját, vonulási tájékozódását vizsgálták legtöbbször.
 >
 > ![etológia 016](../images/biologia-etologia-016.png)
 >
@@ -217,7 +217,7 @@ Az állatok közül a madarak hazatalálási módját, vonulási tájékozódás
 >
 > ![etológia 025](../images/biologia-etologia-025.png)
 >
-A küzdelem az állati agresszió egyik menyilvánulása, amely csak saját fajtárssal szemben értelmezhető. A legyőzött egyed elismeri vereségét, és behódoló pózt vesz fel. Gyakran csak az erő jelzése is elegendő a rangsorvita eldöntésére.
+> A küzdelem az állati agresszió egyik menyilvánulása, amely csak saját fajtárssal szemben értelmezhető. A legyőzött egyed elismeri vereségét, és behódoló pózt vesz fel. Gyakran csak az erő jelzése is elegendő a rangsorvita eldöntésére.
 >
 > ### A személyes tér kialakítása és védelme
 >
