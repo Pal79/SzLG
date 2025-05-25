@@ -7,7 +7,7 @@
 
 - [Élőlények](./biologia/elolenyek.md)
 - [Ökológia](./biologia/okologia.md)
-- [Etológia](./biologia/etologia.md)
+- [Év végi vizsga](./biologia/ev-vegi-vizsga.md)
 
 ---
 
