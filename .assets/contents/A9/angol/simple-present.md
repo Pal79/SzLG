@@ -56,6 +56,7 @@
 > buzz $->$ buzzes (zümmög)
 >
 > **Tagadás** (Hogyan mondjuk, hogy nem?):
+>
 > A tagadáshoz a "do not (don't)" vagy "does not (doesn't)" segédigéket használjuk, plusz az ige alapformáját.
 >
 > Minden más személy (I, you, we, they):
