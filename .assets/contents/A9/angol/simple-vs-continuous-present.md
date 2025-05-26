@@ -85,7 +85,8 @@ Gondolkodás, vélemény: know, believe, understand, think (gondol valaminek), r
 >> A "have" használható folyamatosan, ha nem birtoklást jelent, hanem egy cselekvést vagy tapasztalatot:
 >> - I am having lunch now. (Most ebédelek.) - Itt a "have" nem birtoklást jelent, hanem "eszik" értelemben van.
 >> - We are having a good time. (Jól érezzük magunkat.)
->> - A "think" használható folyamatosan, ha gondolkodási folyamatot jelent, nem véleményt:
+>>
+>> A "think" használható folyamatosan, ha gondolkodási folyamatot jelent, nem véleményt:
 >> - I think he's right. (Azt hiszem/gondolom, igaza van.) - Egyszerű jelen (vélemény).
 >> - I am thinking about my vacation. (Épp a nyaralásomon gondolkodom.) - Folyamatos jelen (folyamat).
 
