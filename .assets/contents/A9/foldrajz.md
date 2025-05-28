@@ -13,6 +13,7 @@
 - [Első negyedéves vizsga](./foldrajz/elso-negyedeves-vizsga.md)
 - [Felhő és csapadék képződés](./foldrajz/felho-es-csapadek-kezodes.md)
 - [Folyók, tavak, tengerek, óceánok](./foldrajz/folyok-tavak-tengerek-oceanok.md)
+- [Év végi vizsga](./foldrajz/ev-vegi-vizsga.md)
 
 ---
 
