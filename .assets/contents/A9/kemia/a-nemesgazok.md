@@ -8,6 +8,7 @@
 
 > # A nemesgázok
 > :memo: A nemesgáz-elektronszerkezet a hélium ($He$) esetében 2 (külső), míg a többi nemesgáz esetében 8 külső elektront jelent.
+>
 > :memo: A nemesgázatomok között szilárd halmazállapotban gyenge másodrendű kötés, a diszperziós kölcsönhatás alakul ki.
 > A nemesgázok helye a periódusos rendszerben és elektronszerkezete
 >
