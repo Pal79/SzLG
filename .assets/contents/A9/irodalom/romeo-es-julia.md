@@ -6,7 +6,7 @@
 
 ---
 
-># Rómeó és Júlia
+> # Rómeó és Júlia
 >
 > - **Keletkezése**: 1595, első nyomtatása 1597 a sorsüldözött szerelmesek története, vándor téma az európai irodalomban.
 > - **Műfaja**: lírai tragédia
