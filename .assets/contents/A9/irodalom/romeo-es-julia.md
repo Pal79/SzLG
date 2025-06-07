@@ -17,9 +17,9 @@
 >
 > | szereplők |  |
 > | :-- | :-- |
-> | Rómeó | viszály elszenvedői |
-> | Júlia | viszály elszenvedői |
-> | Mercutio | viszály elszenvedői |
+> | Rómeó | felülemelkedik a cselekményeken |
+> | Júlia | felülemelkedik a cselekményeken |
+> | Mercutio | felülemelkedik a cselekményeken |
 > | Montague szülők | viszály mellett |
 > | Capulet szülők | viszály mellett |
 > | Tybalt | viszály mellett |
