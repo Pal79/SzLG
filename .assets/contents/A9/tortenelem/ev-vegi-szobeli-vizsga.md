@@ -1,4 +1,11 @@
 
+---
+
+- [Vissza az előző oldalra](../tortenelem.md)
+- [Vissza a főoldalra](../../../../README.md)
+
+---
+
 <details>
     <summary>Magyar őstörténet és honfoglalás</summary>
 
@@ -422,3 +429,10 @@ Luxemburgi Zsigmond egy rendkívül művelt, hét nyelven beszélő, diplomácia
 ---
 
 </details>
+
+---
+
+- [Vissza az előző oldalra](../tortenelem.md)
+- [Vissza a főoldalra](../../../../README.md)
+
+---
