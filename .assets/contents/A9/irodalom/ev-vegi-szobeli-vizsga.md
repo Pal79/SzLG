@@ -1,4 +1,11 @@
 
+---
+
+- [Vissza az előző oldalra](../irodalom.md)
+- [Vissza a főoldalra](../../../../README.md)
+
+---
+
 <details>
     <summary>Bocaccio</summary>
 
@@ -350,3 +357,10 @@ A Hamlet időtlen klasszikus, mert olyan alapvető emberi dilemmákat és kérd�
 ---
 
 </details>
+
+---
+
+- [Vissza az előző oldalra](../irodalom.md)
+- [Vissza a főoldalra](../../../../README.md)
+
+---
