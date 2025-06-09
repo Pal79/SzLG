@@ -551,6 +551,7 @@ A légkör dinamikus rendszer, amely folyamatosan kölcsönhatásban áll a föl
 ---
 
 </details>
+
 ---
 
 - [Vissza az előző oldalra](../foldrajz.md)
