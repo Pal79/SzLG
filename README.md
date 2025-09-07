@@ -1,7 +1,9 @@
 
 ---
 
-| Szent László Gimnázium - 9/A |
+# Szent László Gimnázium
+
+|  **9/A** |
 | :-: |
 | [Órarend](.assets/contents/A9/orarend.md) |
 |  |
@@ -17,7 +19,7 @@
 
 ---
 
-| Szent László Gimnázium - 10/A |
+| **10/A** |
 | :-: |
 | [Órarend](.assets/contents/A10/orarend.md) |
 |  |
