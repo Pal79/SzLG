@@ -1,4 +1,9 @@
 
+---
+
+[Vissza](../fizika.md)
+
+---
 
 # Folyadékok
 Felveszik a tárolóedény alakját, részecskék egymáson könnyen elgördülnek egymáson.
@@ -15,3 +20,9 @@ Diffundál, diffúzióra képes (pl. a festék részecskéi behatolnak a részec
 ## Sűrűség
 $[\rho]=\frac{m}{V}=\frac{Kg}{m^{3}}$
 # Nyomás
+
+---
+
+[Vissza](../fizika.md)
+
+---
