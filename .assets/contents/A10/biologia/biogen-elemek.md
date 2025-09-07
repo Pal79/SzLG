@@ -1,6 +1,10 @@
 
 ---
 
+[Vissza](../biologia.md)
+
+---
+
 # Biogén elemek
 ## Elsődleges biogén elemek: $C$, $H$, $O$, $N$, $S$, $P$
 - $C$: minden szerves molekulában megtalálható
@@ -30,3 +34,9 @@ enzimalkotók (enzimek), kevés kell belőlük
 - Poláros oldószer
 - ion ha a hidrátburok megsérül, akkor a fehérje kicsapódik (pl. főttojás)
 - Kolloid rendszerek (ozmózis)
+
+---
+
+[Vissza](../biologia.md)
+
+---
