@@ -4,7 +4,7 @@
 # Szent László Gimnázium
 
 | 9/A | 10/A |
-|-----|------|
+|:---:|:----:|
 | [Órarend](.assets/contents/A9/orarend.md) | [Órarend](.assets/contents/A10/orarend.md) |
 | [Nyelvtan](.assets/contents/A9/nyelvtan.md) | [Nyelvtan](.assets/contents/A10/nyelvtan.md) |
 | [Irodalom](.assets/contents/A9/irodalom.md) | [Irodalom](.assets/contents/A10/irodalom.md) |
