@@ -29,7 +29,25 @@
 >
 > 1664 elején `téli hadjárat` a Dunántúl déli területét adták át a törököknek. Szervezkedni kezdett az udvari politika ellen, ekkor érte váratlan halála, Csáktornya melletti vadászaton egy vadkan halálosan megsebesítette.
 >
+> ---
+>
 > ## Szigeti veszedelem
+> ### Keletkezése:
+> 1645 - 1648, megjelent Bécsben 1651-ben
+> ### Műfaja:
+> eposz (hősköltemény)
+> ### Témája:
+> Szihetvár 1566-os ostroma. A várat az ő dédapja védte, a mű tisztelgés az ő emléke előtt.
+> ### Barokk stílusjegyek:
+> - monumentális
+> - mozgalmasság
+> - meggyőzés: *a török legyőzhető*
+> - hősiesség kultusza
+> - hősi halál, mártír halál
+> - csodás elemek a keresztény mitológiából valók
+> - szellemesség kedvelése, az eposz számozott versszakainak száma: 1566
+> ### Az eopsz célzata:
+> Felhívás kora magyarságához a szigeti vitézek erényeivel, erkölcsi fölényével megmenthető az ország, ki lehet űzni a törököt.
 
 ---
 
