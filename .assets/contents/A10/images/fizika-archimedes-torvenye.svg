@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400"
+   height="200"
+   viewBox="0 0 105.83333 52.916666"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="fizika-archimedes-torvenye.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.9469416"
+     inkscape:cx="189.85785"
+     inkscape:cy="102.30946"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 5.764025,27.814575 c 2.7575823,-1.358301 5.757624,-2.352916 9.373276,-2.424123 3.393773,0.01884 5.009855,1.867061 10.18132,3.393771 4.571247,0.392546 7.805763,-1.220009 10.666143,-3.393771 3.042617,-1.705952 6.870617,-0.22201 10.66614,2.908945 3.937884,1.411455 7.695512,-0.769788 10.666142,-2.908945 5.438538,-0.742036 7.371572,1.879776 11.150968,2.908945 3.768404,-0.653808 7.328694,-0.962301 10.666142,-2.424125 4.711702,-0.873138 6.989279,1.749103 11.63579,2.747343 4.215838,0.332571 6.587429,-1.426281 9.211678,-2.585736"
+       id="path10618"
+       sodipodi:nodetypes="cccccccccc" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect10672"
+       width="31.190384"
+       height="8.7268457"
+       x="34.691898"
+       y="33.30925" />
+    <g
+       id="g10680"
+       transform="translate(28.766266,13.736702)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 16.95752,12.311576 1.735165,-6.4757237 1.713513,6.3949197"
+         id="path10674" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+         d="M 18.692685,8.5831928 V 20.865416"
+         id="path10676" />
+    </g>
+    <g
+       id="g10680-9"
+       transform="rotate(180,32.971641,28.440647)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 16.95752,12.311576 1.735165,-6.4757237 1.713513,6.3949197"
+         id="path10674-7" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+         d="M 18.692685,8.5831928 V 20.865416"
+         id="path10676-3" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+       x="52.307194"
+       y="48.823639"
+       id="text10730"><tspan
+         sodipodi:role="line"
+         id="tspan10728"
+         style="stroke-width:0.264583"
+         x="52.307194"
+         y="48.823639">Fg</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+       x="51.499149"
+       y="22.319891"
+       id="text10734"><tspan
+         sodipodi:role="line"
+         id="tspan10732"
+         style="stroke-width:0.264583"
+         x="51.499149"
+         y="22.319891">Fh</tspan></text>
+  </g>
+</svg>
