@@ -61,6 +61,12 @@ A_{1} >> A_{2} => F_{1} >> F_{2}
 $$
 # Archimedes törvénye
 Minden folyadékba és gázba mártott testre, felhajterő hat, amelynek nagysága egyenlő a test által kiszorított folyadék súlyával.
+>
+![archimedes torvénye](../images/fizika-archimedes-torvenye.svg)
+>
+$F_{h} = V_{test} * \rho_{foly} * g$
+>
+$F_{g} = m_{t} * g = m_{foly} * g = V_{test} * \rho_{foly} * g$
 
 ---
 
