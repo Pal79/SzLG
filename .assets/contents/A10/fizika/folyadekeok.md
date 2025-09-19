@@ -67,6 +67,7 @@ Minden folyadékba és gázba mártott testre, felhajterő hat, amelynek nagysá
 $F_{h} = V_{test} * \rho_{foly} * g$
 >
 $F_{g} = m_{t} * g = m_{foly} * g = V_{test} * \rho_{foly} * g$
+# Úszás, lebegés, merülés
 
 ---
 
