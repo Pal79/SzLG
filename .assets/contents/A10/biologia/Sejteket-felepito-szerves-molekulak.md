@@ -36,6 +36,44 @@ Egy gyűrűből áll
         - a keményítő, tartalék tápanyag
 ![Sejteket felépítő szerves molekulák 006](../images/biologia-sejteket-felepito-szerves-molekulak-006.svg)
 ## Fehérjék
+Minden sejt alap építőelemei, összetett nagy molekulák, melyek aminosavakból épülnek fel.
+>
+![aminosav lánc](../images/biologia-aminosav-lanc.svg)
+>
+![feherjek 001](../images/biologia-feherjek-001.svg)
+>
+![fehérjék 002](../images/biologia-feherjek-002.svg)
+>
+>
+![propeptid lánc](../images/biologia-feherjek-003.svg)
+>
+### Fehérjék szerkezete
+### Elsődleges:
+ez határozza meg a többi sorrendet az aminosav láncban.
+### Másodlagos:
+| $\alpha$ hélix | $\beta$ redő |
+| :-- | :-- |
+| ![alfa hélix](../images/biologia-alfa-helix.svg) | ![beta redő](../images/biologia-beta-redo.svg) |
+### Harmadlagos:
+| szál alakú (fibrilláris) | gombolyag (globuláris) |
+| :-- | :-- |
+| ha a másodlagos szerkezete csak egyféle |  |
+| - pókselyem, hernyóselyem, haj, köröm | - enzimek |
+|  | ![globuláris](../images/biologia-globularis.svg) |
+### Negyedleges:
+több fehérje szál kapcsolódik össze.
+| Hemoglobin |
+| :-- |
+| négy fehérje szálból áll |
+| ![hemoglobin](../images/biologia-hemoglobin.svg) |
+#### Tulajdonságai:
+vízben jól oldódnak, hidrátburkuk van, ha ezt elveszítik, kicsapódnak (denaturáció)
+- Kétféle kicsapódás létezik:
+    - visszafordítható: reverzibilis (pl.: hús megsózása)
+    - vissza nem fordítható: irreverzibilis (pl.: melegítés, nehézfémsók)
+#### Biológiai szerepe:
+sejtépítő, szállítás, kémiai folyamatokat katalizálnak, véralvadás
+
 ## Zsír, olaj
 ## Nukleinsavak
 
