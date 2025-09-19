@@ -29,6 +29,7 @@ enzimalkotók (enzimek), kevés kell belőlük
 - $Cu$
 - $Zn$
 - $Ma$
+![nyomelemek](../images/biologia-sejtek-001.svg)
 ## Legfontosabb szervetlen vegyület $H_{2}O$
 - Nagyon fontos oldószer
 - Poláros oldószer
