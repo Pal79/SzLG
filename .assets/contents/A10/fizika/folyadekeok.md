@@ -49,6 +49,18 @@ Zárt edényben a külső erők által gerjeszett nyomás gyengítetlenül terje
 ![pascal törvénye](../images/fizika-pascal-torvenye.svg)
 >
 ## Hidraulikus emelő működési elve
+![hidraulikus emelő](../images/fizika-hidraulikus-emelo.svg)
+>
+$$
+\begin{aligned}
+P_{1} = P_{2} \\
+\frac{F_{1}}{A_{1}} = \frac{F_{2}}{A_{2}} \\
+\frac{F_{1}}{F_{2}} = \frac{A_{1}}{A_{2}} \\ \\
+A_{1} >> A_{2} => F_{1} >> F_{2}
+\end{aligned}
+$$
+# Archimedes törvénye
+Minden folyadékba és gázba mártott testre, felhajterő hat, amelynek nagysága egyenlő a test által kiszorított folyadék súlyával.
 
 ---
 
