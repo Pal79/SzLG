@@ -10,3 +10,4 @@
 - [Zrínyi Miklós](./irodalom/zrinyi-miklos.md)
 - [Mikes Kelemen](./irodalom/mikes-kelemen.md)
 - [Racionalizmus és a klasszicizmus](./irodalom/racionalizmus-es-a-klasszicizmus.md)
+- [Felvilágosodás irodalma](./irodalom/felvilagosodas-irodalma.md)
