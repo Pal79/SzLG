@@ -7,6 +7,9 @@
    viewBox="0 0 105.83333 52.916666"
    version="1.1"
    id="svg5"
+   inkscape:export-filename="bitmap.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="biologia-aminosav-lanc.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -24,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="194.98469"
-     inkscape:cy="109.77833"
+     inkscape:zoom="2.9469416"
+     inkscape:cx="171.70343"
+     inkscape:cy="105.02414"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
      inkscape:window-x="0"
@@ -39,67 +42,62 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <circle
+    <ellipse
        style="fill:#000000;stroke:#000000;stroke-width:0.264583"
-       id="path1572"
-       cx="18.222437"
-       cy="27.053026"
-       r="1.1786592" />
-    <circle
+       id="path1543"
+       cx="17.274126"
+       cy="26.108704"
+       rx="2.7473404"
+       ry="2.7473388" />
+    <ellipse
        style="fill:#000000;stroke:#000000;stroke-width:0.264583"
-       id="path1572-3"
-       cx="31.617985"
-       cy="27.221401"
-       r="1.1786592" />
-    <circle
+       id="path1543-3"
+       cx="41.802658"
+       cy="26.03688"
+       rx="2.7473404"
+       ry="2.7473388" />
+    <ellipse
        style="fill:#000000;stroke:#000000;stroke-width:0.264583"
-       id="path1572-6"
-       cx="45.1632"
-       cy="27.13574"
-       r="1.1786592" />
-    <circle
+       id="path1543-6"
+       cx="69.294014"
+       cy="26.180536"
+       rx="2.7473404"
+       ry="2.7473388" />
+    <ellipse
        style="fill:#000000;stroke:#000000;stroke-width:0.264583"
-       id="path1572-7"
-       cx="58.558754"
-       cy="27.221401"
-       r="1.1786592" />
-    <circle
+       id="path1543-7"
+       cx="83.946495"
+       cy="26.216446"
+       rx="2.7473404"
+       ry="2.7473388" />
+    <ellipse
        style="fill:#000000;stroke:#000000;stroke-width:0.264583"
-       id="path1572-5"
-       cx="73.833076"
-       cy="27.221401"
-       r="1.1786592" />
-    <circle
+       id="path1543-5"
+       cx="55.359791"
+       cy="26.072796"
+       rx="2.7473404"
+       ry="2.7473388" />
+    <ellipse
        style="fill:#000000;stroke:#000000;stroke-width:0.264583"
-       id="path1572-35"
-       cx="89.709015"
-       cy="27.314945"
-       r="1.1786592" />
+       id="path1543-35"
+       cx="29.215172"
+       cy="26.072796"
+       rx="2.7473404"
+       ry="2.7473388" />
     <path
        style="fill:#000000;stroke:#000000;stroke-width:0.264583"
-       d="M 17.717299,27.053021 H 88.773577"
-       id="path1847" />
+       d="M 16.950906,26.108705 H 83.695097"
+       id="path1800" />
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#000000;stroke:#000000;stroke-width:0.264583"
-       x="39.269913"
-       y="40.018265"
-       id="text1987"><tspan
+       x="41.030529"
+       y="39.52219"
+       id="text1856"><tspan
          sodipodi:role="line"
-         id="tspan1985"
+         id="tspan1854"
          style="stroke-width:0.264583"
-         x="39.269913"
-         y="40.018265">Aminosav lánc</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;fill:#000000;stroke:#000000;stroke-width:0.264583"
-       x="28.156845"
-       y="7.5209637"
-       id="text1991"><tspan
-         sodipodi:role="line"
-         id="tspan1989"
-         style="stroke-width:0.264583"
-         x="28.156845"
-         y="7.5209637" /></text>
+         x="41.030529"
+         y="39.52219">Aminosav-lánc</tspan></text>
   </g>
 </svg>
