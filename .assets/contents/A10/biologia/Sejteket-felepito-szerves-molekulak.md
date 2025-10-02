@@ -57,8 +57,10 @@ Minden sejt alap építő elemei. Összetett nagy molekulák, amelyek aminosvakb
 - Harmadlagos:
     - szál alakú - fibrilláris
         - ha másodlagos szerkezete egyféle - alfa hélix vagy beta redő
+            - pl.: pókselyem, hernyóselyem, haj, köröm
     - gombolyag - globuláris
         - mindkét szerkezet megtalálható benne
+            - pl.: enzimek
 - Negyedleges:
     - több fehérjeszál kapcsolódik össze
         - hemoglobin
