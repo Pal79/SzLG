@@ -37,6 +37,38 @@ Egy gyűrűből áll
 ![Sejteket felépítő szerves molekulák 006](../images/biologia-sejteket-felepito-szerves-molekulak-006.svg)
 ## Fehérjék
 Minden sejt alap építő elemei. Összetett nagy molekulák, amelyek aminosvakból épülnek fel.
+>
+![aminosav lánc](../images/biologia-aminosav-lanc.png)
+>
+![aminosavak 001](../images/biologia-aminosavak-001.svg)
+>
+![aminosavak 002](../images/biologia-aminosavak-002.svg)
+>
+![aminosavak 003](../images/biologia-aminosavak-003.svg)
+>
+### Fehérjék szerkezete:
+- Elsődleges:
+    - ez határozza meg a többi sorrendet - aminosav sorrend
+- Másodlagos:
+    - $\alpha$ hélix:
+        - ![alfa hélix](../images/biologia-alfa-helix.svg)
+    - $\beta$ redő:
+        - ![béta redő](../images/biologia-beta-redo.svg)
+- Harmadlagos:
+    - szál alakú - fibrilláris
+        - ha másodlagos szerkezete egyféle - alfa hélix vagy beta redő
+    - gombolyag - globuláris
+        - mindkét szerkezet megtalálható benne
+- Negyedleges:
+    - több fehérjeszál kapcsolódik össze
+        - hemoglobin
+            - ![hemoglobin](../images/biologia-hemoglobin.svg)
+    - tulajdonságai:
+        - vízben jól oldódnak, hidrátburkuk van, ha ezt elveszítik, kicsapódnak (denaturáció)
+            - visszafordítható: reverzibilis pl.: hús sózásánál
+            - vissza nem fordítható: irrreverzibilis pl.: tojás melegítése, nehézfémsók
+    - biológiai szerepe:
+        - sejtépítő, szállítás, kémiai folyamatokat katalizálnak, véralvadás
 
 ## Zsír, olaj
 ## Nukleinsavak
