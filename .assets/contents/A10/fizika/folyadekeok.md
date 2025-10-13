@@ -68,6 +68,19 @@ $F_{h} = V_{test} * \rho_{foly} * g$
 >
 $F_{g} = m_{t} * g = m_{foly} * g = V_{test} * \rho_{foly} * g$
 # Úszás, lebegés, merülés
+## Úszás
+- $V_{test} > V^{'}$
+- $F_{h} = F_{g}$
+- Képlet: $V^{'}\rho_{foly} * g = V_{test} * \rho{test} * g$
+- $V^{'} * \rho_{foly} = V_{test} * \rho_{test}$
+- $\rho_{foly} > \rho_{test}$
+- $[\rho_{foly} > \rho_{test}]$
+## Lebegés
+$V_{test} = V^{'}$
+$\rho_{foly} = \rho_{test}$ a test és a folyadék sűrűsége megegyezik
+## merülés
+$V_{test} < V^{'}$
+$\rho_{foly} < \rho_{test}$
 
 ---
 
