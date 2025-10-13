@@ -6,3 +6,4 @@
 ---
 
 - [Folyadékok](./fizika/folyadekeok.md)
+- [Hőtan](./fizika/hotan.md)
