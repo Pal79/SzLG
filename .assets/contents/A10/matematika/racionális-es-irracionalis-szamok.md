@@ -64,14 +64,7 @@ $6\sqrt{2} = 3\sqrt{8}$
 >
 $\sqrt{6^{2}2}=\sqrt{72}$&nbsp;&nbsp;&nbsp;$\sqrt{3^{2}8}=\sqrt{72}$
 ### Kiemelés gyökjel alól
-$$
-\begin{aligned}
-\sqrt{18}+\sqrt{8}-\sqrt{50}= \\
-\sqrt{9\cdot2}+\sqrt{4\cdot2}-\sqrt{25\cdot2}= \\
-\sqrt{3^{2}\cdot2}+\sqrt{2^{2}\cdot2}-\sqrt{5^{2}\cdot2}= \\
-3\sqrt{2}+2\sqrt{2}-5\sqrt{2}=0
-\end{aligned}
-$$
+$\sqrt{18}+\sqrt{8}-\sqrt{50}=\sqrt{9\cdot2}+\sqrt{4\cdot2}-\sqrt{25\cdot2}=\sqrt{3^{2}\cdot2}+\sqrt{2^{2}\cdot2}-\sqrt{5^{2}\cdot2}=3\sqrt{2}+2\sqrt{2}-5\sqrt{2}=0$
 
 ---
 
