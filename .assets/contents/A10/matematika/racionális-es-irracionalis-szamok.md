@@ -50,7 +50,7 @@ példák:
 - $\frac{1}{\sqrt{3}} \cdot \frac{\sqrt{3}}{\sqrt{3}}=\frac{\sqrt{3}}{(\sqrt{3})^{2}}=\frac{\sqrt{3}}{\sqrt{3^2}}=\frac{\sqrt{3}}{3}$
 - $\frac{1}{\sqrt{5}} \cdot \frac{\sqrt{5}}{\sqrt{5}}=\frac{\sqrt{5}}{(\sqrt{5})^{2}}=\frac{\sqrt{5}}{\sqrt{5^{2}}}=\frac{\sqrt{5}}{5}$
 - $\frac{2}{\sqrt{7}} \cdot \frac{\sqrt{7}}{\sqrt{7}}=\frac{2\sqrt{7}}{7}$
-- $\frac{7}{3\sqrt{5}}\frac{\sqrt{5}}{\sqrt{5}}=\frac{7\sqrt{5}}{15}$
+- $\frac{7}{3\sqrt{5}} \cdot \frac{\sqrt{5}}{\sqrt{5}}=\frac{7\sqrt{5}}{15}$
 ## Négyzetgyökvonás azonosságainak alkalmazása
 ### Bevitel a gyökjel alá:
 $3\sqrt{5}<5\sqrt{2}$
