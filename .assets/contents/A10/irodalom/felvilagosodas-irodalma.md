@@ -97,7 +97,16 @@ Eszerint a Világ szép és jó, mivel a legfőbb jó és a legtökéletesebb l�
         - Eldorádó
 `"Az ember az élet értelmét a munkában találja meg, mert - Az ember nem pihenésre termett ... ez az egyetlen módja annak, hogy tűrhetővé tegyük életünket."`
 `"Dolgozzunk, ne okoskodjunk"`
-
+## Rousseau (1712 - 1778)
+Genfben született, kispolgári családban. Nem járt iskolába, apja tanította meg írni és olvasni.
+>
+16 éves korában egyik csavargásból későn tért haza, a városkaput bezárták, nem mert hazamenni.
+>
+Egy csinos 28 éves asszony vette pártfogásba 1740-ig.
+>
+1742-ben párizsba ment, megismerkedett az enciklopédistákkal és ekkor kezdett el foglalkozni az irodalommal és a filozófiával.
+>
+1762 `Emile vagy a nevelésről`, a parlament a könyvet elítélte, neki menekülni kellett.
 
 ---
 
