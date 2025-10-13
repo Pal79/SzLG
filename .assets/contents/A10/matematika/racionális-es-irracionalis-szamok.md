@@ -30,7 +30,7 @@ Az a nem negatív szám, amelynek a négyzete $a$. $(\sqrt{a}^{2} = a)$
 ### feltétel: $a \geq 0$
 négyzetgyök alatt nem állhat negatív szám.
 ## A négyzetgyökvonás azonosságai
-1. $\sqrt{a*b} = \sqrt{a} * \sqrt{b}$
+1. $\sqrt{a \cdot b} = \sqrt{a} \cdot \sqrt{b}$
 - szorzat négyzetgyöke egyenlő a tényezők négyzetgyökének szorzatával.
 2. $\sqrt{\frac{a}{b}} = \frac{\sqrt{a}}{\sqrt{b}}$
 - tört négyzetgyöke megegyezik a számláló és a nevező négyzetgyökének hányadosával.
@@ -39,17 +39,17 @@ négyzetgyök alatt nem állhat negatív szám.
 >
 példák:
 - $\frac{\sqrt{50}}{\sqrt{2}}=\sqrt{\frac{50}{2}}=\sqrt{25}=5$
-- $\sqrt{50}*\sqrt{2}=\sqrt{50*2}=\sqrt{100}=10$
+- $\sqrt{50} \cdot \sqrt{2}=\sqrt{50 \cdot 2}=\sqrt{100}=10$
 - $\frac{\sqrt{27}}{\sqrt{3}}=\sqrt{\frac{27}{3}}=\sqrt{9}=3$
-- $\sqrt{5^{3}}*\sqrt{5}=\sqrt{5^{3}*5}=\sqrt{5^{4}}=5^{2}=25$
+- $\sqrt{5^{3}} \cdot \sqrt{5}=\sqrt{5^{3} \cdot 5}=\sqrt{5^{4}}=5^{2}=25$
 ## Gyöktelenítés
 Cél, hogy a tört nevezőjében ne legyen gyökjel.
 >
 példák:
-- $\frac{1}{\sqrt{2}}*\frac{\sqrt{2}}{\sqrt{2}}=\frac{\sqrt{2}}{(\sqrt{2})^{2}}=\frac{\sqrt{2}}{2}$
-- $\frac{1}{\sqrt{3}}*\frac{\sqrt{3}}{\sqrt{3}}=\frac{\sqrt{3}}{(\sqrt{3})^{2}}=\frac{\sqrt{3}}{\sqrt{3^2}}=\frac{\sqrt{3}}{3}$
-- $\frac{1}{\sqrt{5}}*\frac{\sqrt{5}}{\sqrt{5}}=\frac{\sqrt{5}}{(\sqrt{5})^{2}}=\frac{\sqrt{5}}{\sqrt{5^{2}}}=\frac{\sqrt{5}}{5}$
-- $\frac{2}{\sqrt{7}}*\frac{\sqrt{7}}{\sqrt{7}}=\frac{2\sqrt{7}}{7}$
+- $\frac{1}{\sqrt{2}} \cdot \frac{\sqrt{2}}{\sqrt{2}}=\frac{\sqrt{2}}{(\sqrt{2})^{2}}=\frac{\sqrt{2}}{2}$
+- $\frac{1}{\sqrt{3}} \cdot \frac{\sqrt{3}}{\sqrt{3}}=\frac{\sqrt{3}}{(\sqrt{3})^{2}}=\frac{\sqrt{3}}{\sqrt{3^2}}=\frac{\sqrt{3}}{3}$
+- $\frac{1}{\sqrt{5}} \cdot \frac{\sqrt{5}}{\sqrt{5}}=\frac{\sqrt{5}}{(\sqrt{5})^{2}}=\frac{\sqrt{5}}{\sqrt{5^{2}}}=\frac{\sqrt{5}}{5}$
+- $\frac{2}{\sqrt{7}} \cdot \frac{\sqrt{7}}{\sqrt{7}}=\frac{2\sqrt{7}}{7}$
 - $\frac{7}{3\sqrt{5}}\frac{\sqrt{5}}{\sqrt{5}}=\frac{7\sqrt{5}}{15}$
 ## Négyzetgyökvonás azonosságainak alkalmazása
 ### Bevitel a gyökjel alá:
