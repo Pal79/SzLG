@@ -107,6 +107,13 @@ Egy csinos 28 éves asszony vette pártfogásba 1740-ig.
 1742-ben párizsba ment, megismerkedett az enciklopédistákkal és ekkor kezdett el foglalkozni az irodalommal és a filozófiával.
 >
 1762 `Emile vagy a nevelésről`, a parlament a könyvet elítélte, neki menekülni kellett.
+>
+Svájvban, Angliában él, csak 1770-ben térhetett vissza Párizsba. Szegényen és magányosan élt.
+>
+1778-ban egyik tisztelője Párizs melletti kastélyába hívta, ott halt meg. Egy kis tó szigetén temették el, hamvait 1794-ben szállították Voltaire sírja mellé a Pantheonba.
+### Társadalmi szerződés (1762)
+Az emberek nem mondtak le szabadságukról a fejedelem javára, csupán megbízták, hogy védje meg őket. Az uralkodó hatalmát, tehát nem Isten kegyelméből kapja, hanem a néptől nyeri: a társadalmi rend tehát megállapodás eredménye. A nép korlátozhatja az uralkodói hatalmat, ha a szerződés előnytlenné válik, fel is bontható és új szerződést kell kötni.
+### Értekezés a tudományokról és a művészetekről (1750)
 
 ---
 
