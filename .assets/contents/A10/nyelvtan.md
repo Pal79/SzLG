@@ -10,3 +10,4 @@
 - [Ragok és jelek rendszere](./nyelvtan/ragok-es-jelek-rendszere.md)
 - [Jelentésbeli kapcsoló elemek](./nyelvtan/jelentesbeli-kapcsolo-elemek.md)
 - [Intertextualitás](./nyelvtan/intertextualitas.md)
+- [Szövegfonetikai eszközök és az írásjelek](./nyelvtan/szovegfonetikai-eszkozok-es-az-irasjelek.md)
