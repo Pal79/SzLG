@@ -39,8 +39,6 @@ Pascal törvénye kimondja, hogy a folyadékban vagy gázban keltett nyomás min
 Hidraulikus emelő:
 >
 ![Hidraulikus emelő](../images/fizika-hidraulikus-emelo.svg)
->
-$P_{1}=P_{2}$
 ## Archimedes törvénye
 Archimedes törvénye szerint:
 >
