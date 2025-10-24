@@ -26,25 +26,27 @@ $P_{h}=\frac{F}{A}=\frac{m_{foly} \cdot g}{A}=\frac{S_{foly} \cdot V_{foly} \cdo
 - $ρ$: sűrűség ($kg/m^{3}$)
 - $g$: nehézségi gyorsulás ($9,81 m/s^{2}$)
 - $h$: mélység ($m$)
+>
 ![Hidrosztatikai nyomás](../images/fizika-hidrosztatikai-nyomas.svg)
+>
 ![Hidrosztatikai nyomás](../images/fizika-hidrosztatikai-nyomas-002.svg)
 ## Pascal törvénye
 Pascal törvénye kimondja, hogy a folyadékban vagy gázban keltett nyomás minden irányban egyformán terjed tovább, és ugyanakkora mértékben hat minden irányban.
 ![Pascal törvény](../images/fizika-pascal-torvenye.svg)
+>
 :memo: Ez a hidraulikus emelő működésének alapja.
+>
 ![Hidraulikus emelő](../images/fizika-hidraulikus-emelo.svg)
+>
 $P_{1}=P_{2}$
 ## Archimedes törvénye
 Archimedes törvénye szerint:
 >
 Egy folyadékba vagy gázba merülő testre felhajtóerő hat, amely egyenlő a test által kiszorított folyadék súlyával.
-
-Ff=ρ⋅g⋅V
-F
-f
-	​
-
-=ρ⋅g⋅V
+>
+![Archimedes törvénye](../images/fizika-archimedes-torvenye.svg)
+>
+$F_{g}=m_{t} \cdot g=m_{foly} \cdot g=V_{test} \cdot \rho _{foly} \cdot g$
 ## Úszás, lebegés, merülés
 A test és a folyadék sűrűségének viszonyától függ:
 - Úszás: a test sűrűsége kisebb, mint a folyadéké → a test részben a felszínen marad.
