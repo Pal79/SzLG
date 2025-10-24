@@ -13,10 +13,10 @@ Felveszik az edényük alakját, részecskéik egymáson könnyen elmozdulhatnak
 A nyomás a felületre merőlegesen ható nyomóerő és a felület nagyságának hányadosa.
 - jele: $p$ ($p=\frac{F}{A}$)
 - mértékegysége: $[p]=\frac{[F]}{A}=\frac{N}{m^{2}}=Pa$
+>
 :memo: $1 Pascal (Pa) = 1 N/m^{2}$
 ## Légnyomás
-A légnyomás a levegő (a légkör) által a föld felszínére és a benne lévő testekre kifejtett nyomás.
-Ezt a levegő súlya okozza.
+A légnyomás a levegő (a légkör) által a föld felszínére és a benne lévő testekre kifejtett nyomás. Ezt a levegő súlya okozza.
 - Tengerszinten kb.: $101 325 Pa = 1013 hPa = 1 atm$.
 ![Toricelli kísérlet](../images/fizika-torricelli-kiserlet.svg)
 ## Hidrosztatikai nyomás
@@ -35,6 +35,8 @@ Pascal törvénye kimondja, hogy a folyadékban vagy gázban keltett nyomás min
 ![Pascal törvény](../images/fizika-pascal-torvenye.svg)
 >
 :memo: Ez a hidraulikus emelő működésének alapja.
+>
+Hidraulikus emelő:
 >
 ![Hidraulikus emelő](../images/fizika-hidraulikus-emelo.svg)
 >
