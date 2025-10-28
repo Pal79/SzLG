@@ -73,7 +73,47 @@ Minden sejt alap építő elemei. Összetett nagy molekulák, amelyek aminosvakb
         - sejtépítő, szállítás, kémiai folyamatokat katalizálnak, véralvadás
 
 ## Zsír, olaj
+Zsírok általában állatokban vannak és szilárdok (kivétel: halolaj), olajok pedig növényekben találhatóak (Kivétel: kókuszzsír). Az olajok és zsírok energia tárolók.
+### Szerkezetük:
+Glicerin:
+- $CH_{2}$ csoportok: 15-17-24
+>
+![glicrein](../images/biologia-glicerin.svg)
+- Zsírok: olajsav, szterinsav, linolinsav, palmintisav
+>
+Olajsav:
+>
+![olajsav](../images/biologia-glicerin-olajsavaknal.svg)
+>
+Kettős oldékonyság:
+>
+![](../images/biologia-amfoter-polaros-apolaros.svg)
+>
+Határhártyákat alakítanak ki (sejtfal)
+>
+[micella](../images/biologia-micella.svg)
+>
+Foszforitid kettős réteg:
+>
+![foszforititd](../images/biologia-foszforitid.svg)
+>
+Szteránvázuk van, melynek sokféle oldallánc kapcsolódhat hozzájuk:
+>
+[szteránváz](../images/biologia-szteranvaz.svg)
+>
+pl.: epesavak, hormonok (pl.: nemi), koleszterin, D-vitamin
+>
+Színanyagok
+>
+![színanyag](../images/biologia-szteranvaz-kettos-kotes.svg)
+>
+Konjugált (kettős kötés), minden 2. kötés kettős kötés, energia gerjesztődik, ezért színes lesz.
+- karotin - sárga (sárgarépa)
+- likopin - piros (paradicsom)
+- xantofil - sárga
+- A-vitamin - látóbíbor kialakításáért felelős
 ## Nukleinsavak
+Nukleotid származékok
 
 ---
 
