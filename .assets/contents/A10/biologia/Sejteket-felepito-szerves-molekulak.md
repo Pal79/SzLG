@@ -91,7 +91,7 @@ Kettős oldékonyság:
 >
 Határhártyákat alakítanak ki (sejtfal)
 >
-[micella](../images/biologia-micella.svg)
+![micella](../images/biologia-micella.svg)
 >
 Foszforitid kettős réteg:
 >
@@ -99,7 +99,7 @@ Foszforitid kettős réteg:
 >
 Szteránvázuk van, melynek sokféle oldallánc kapcsolódhat hozzájuk:
 >
-[szteránváz](../images/biologia-szteranvaz.svg)
+![szteránváz](../images/biologia-szteranvaz.svg)
 >
 pl.: epesavak, hormonok (pl.: nemi), koleszterin, D-vitamin
 >
