@@ -113,7 +113,33 @@ Konjugált (kettős kötés), minden 2. kötés kettős kötés, energia gerjesz
 - xantofil - sárga
 - A-vitamin - látóbíbor kialakításáért felelős
 ## Nukleinsavak
-Nukleotid származékok
+- Nukleotid származékok
+    - $5C$ atomos cukor - ribóz, dezoxiribóz
+- Foszforsav
+    - $H_{3}PO4$
+    - jelölés: $P$
+- Szerves bázis
+    - egygyűrűs: citozin, timin, uracil
+    - kétgyűrűs: ademin, guanin
+- DNS (kettős spirál)
+    - 4 féle szerves bázis: C, T, A, G
+>
+![dns]()
+>
+A két szál egymást kölcsönösen meghatározza, tehát a DNS képes megkettőződni:
+>
+![dns kettőződés](../images/biologia-dns-kettozodes.svg)
+- RNS (ribóz foszforsav bázis)
+    - 1 szál
+    - mRNS
+        - hírvivő -> genetikai kód
+    - tRNS
+        - szállító -> aminosavak szállítása
+    - rRNS
+        - riboszóma -> fehérjeszintézis helye
+- Nukleotid származék
+    - ATP - ADP - AMP
+    - NAD - NADH
 
 ---
 
