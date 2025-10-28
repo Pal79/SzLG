@@ -124,7 +124,7 @@ Konjugált (kettős kötés), minden 2. kötés kettős kötés, energia gerjesz
 - DNS (kettős spirál)
     - 4 féle szerves bázis: C, T, A, G
 >
-![dns]()
+![dns](../images/biologia-dns.svg)
 >
 A két szál egymást kölcsönösen meghatározza, tehát a DNS képes megkettőződni:
 >
@@ -140,7 +140,10 @@ A két szál egymást kölcsönösen meghatározza, tehát a DNS képes megkett�
 - Nukleotid származék
     - ATP - ADP - AMP
     - NAD - NADH
-
+>
+energia szállító molekula, hidrogén szállító molekula
+>
+![nukleotid származék](../images/biologia-nukleotid-szarmazek.svg)
 ---
 
 [Vissza](../biologia.md)
