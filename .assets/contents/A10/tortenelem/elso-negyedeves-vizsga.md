@@ -5,6 +5,10 @@
 
 ---
 
+[Letöltés PDF formátumban](../pdf/tortenelem-elso-negyedeves-vizsga.pdf)
+
+---
+
 # A török fenyegetés árnyékában
 A 14. – 15. század fordulóján Európa délkeleti részét egy új, gyorsan terjeszkedő hatalom árnyékolta be: az Oszmán Birodalom. Kis-Ázsiából kiindulva a törökök fokozatosan hódították meg a Balkán-félszigetet, és ezzel közvetlenül Magyarország határaihoz közeledtek. A következő évszázadban a Magyar Királyság vált a keresztény Európa egyik legfontosabb védőbástyájává a török terjeszkedéssel szemben.
 ## Az Oszmán Birodalom felemelkedése
