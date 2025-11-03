@@ -11,3 +11,4 @@
 - [Mikes Kelemen](./irodalom/mikes-kelemen.md)
 - [Racionalizmus és a klasszicizmus](./irodalom/racionalizmus-es-a-klasszicizmus.md)
 - [Felvilágosodás irodalma](./irodalom/felvilagosodas-irodalma.md)
+- [Első negyedéves vizsga PDF](./pdf/irodalom-negyedeves-vizsga.pdf)
