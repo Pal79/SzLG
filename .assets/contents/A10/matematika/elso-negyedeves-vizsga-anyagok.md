@@ -121,13 +121,12 @@ $\sqrt[4]{32}+\sqrt[4]{162} = \sqrt[4]{16 \cdot 2} + \sqrt[4]{81 \cdot 2} = 2\sq
 # Másodfokú egyenlet három alakja
 ## Általános alak
 Ez egy másodfokú egyenlet, mert a legmagasabb kitevő $x^{2}$
-$$
-\begin{aligned}
-x^{2} - 2x - 3 = 0 \\\\
-x_{1} = 3 \\
-x_{2} = -1
-\end{aligned}
-$$
+$x^{2} - 2x - 3 = 0$
+>
+$x_{1} = 3$
+>
+$x_{2} = -1$
+>
 Ez a kiinduló forma:
 $a = 1$
 >
