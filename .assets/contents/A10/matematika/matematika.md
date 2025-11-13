@@ -3,7 +3,7 @@
 - $\sqrt(16) = 4$, mert $4^{2} = 16$
 >
 Páros gyökvonásnál kikötés kell:
-- $[K] a >= 0$ $\rarr$ $(\sqrt[n]{a})^{n} = a$
+- $[K] a >= 0$ $\rightarrow$ $(\sqrt[n]{a})^{n} = a$
 >
 Páratlan gyökvonásnál nem kell kikötés:
 - $(\sqrt[3]{a})^{3} = a$
