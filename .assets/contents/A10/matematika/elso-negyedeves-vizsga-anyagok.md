@@ -19,6 +19,43 @@ $\sqrt[n]{a} = b$, ha $b^{n} = a$
 - $a$ = alap (gyök alatti szám)
 - $n$ = gyök fokszáma, ha nincs kiírva, akkor $n = 2$
 - $b$ = gyökérték
+
+Ha szorzat vagy osztás van a gyök alatt, szétbontható
+>
+Ez megengedett, mert a gyök szorzásra és osztásra “elosztható”:
+>
+$\sqrt[n]{a \cdot b} = \sqrt[n]{a} \cdot \sqrt[n]{b}$
+>
+Példák:
+>
+$\sqrt[3]{8x^{3}} = \sqrt[3]{8} \cdot \sqrt[3]{x^{3}} = 2x$
+>
+$\sqrt[4]{16a^{4} \cdot b^{8}} = \sqrt[4]{16} \cdot \sqrt[4]{a^{4}} \cdot \sqrt[4]{b^{8}} = 2ab^{2}$
+>
+$\sqrt[5]{\frac{32a^{10}}{b^{5}}} = \frac{\sqrt[5]{32a^{10}}}{\sqrt[5]{b^{5}}} = \frac{2a^{2}}{b}$
+>
+Ha összeadás vagy kivonás van a gyök alatt, nem bontható szét
+>
+$\sqrt[n]{a + b} \neq \sqrt[n]{a} + \sqrt[n]{b}$
+>
+$\sqrt[n]{a-b} \neq \sqrt[n]{a} - \sqrt[n]{b}$
+>
+Példa:
+>
+$\sqrt{9+16}=\sqrt{25}=5$
+>
+$\sqrt{9}+\sqrt{16}=3+4=7$
+>
+Miért nem lehet szétbontani összeadásra?
+>
+Mert a gyök (és hatványozás) nem lineáris művelet.
+>
+A gyökvonás nem „tartja meg” az összeadást.
+>
+Másképp fogalmazva:
+>
+A gyök nem disztributív az összeadásra.
+
 ## Algebrai gyökvonás
 $\sqrt[5]{b^{2}}$ másképp írva $(b^{3})^{1/5}$
 ### Szabály
@@ -92,13 +129,11 @@ x_{2} = -1
 \end{aligned}
 $$
 Ez a kiinduló forma:
-$$
-\begin{aligned}
-a = 1 \\
-b = -2 \\
-c = -3
-\end{aligned}
-$$
+$a = 1$
+>
+$b = -2$
+>
+$c = -3$
 - Általános alakban lévő egyenletet a megoldóképlettel tudjuk megoldani: $x_{1,2} = \frac{-b \pm \sqrt{b^{2} - 4ac}}{2a}$
 - számok behelyettesítése: $x_{1,2} = \frac{2 \pm \sqrt{(-2)^{2} - 4 \cdot 1 \cdot (-3)}}{2}$
 - kiszámoljuk: $x_{1,2} = \frac{2 \pm \sqrt{4 + 12}}{2} = \frac{2 \pm \sqrt{16}}{2} = \frac{2 \pm 4}{2}$
