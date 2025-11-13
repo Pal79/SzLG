@@ -57,8 +57,8 @@ $\sqrt[4]{32}+\sqrt[4]{162} = \sqrt[4]{16 \cdot 2} + \sqrt[4]{81 \cdot 2} = 2\sq
         - $\sqrt[4]{81 \cdot 2} = \sqrt[4]{81} \cdot \sqrt[4]{2}$
 - egyszerűsítsük a gyökökből, amit lehet:
     - tudjuk, hogy:
-        - $16 = 2^{4} \rarr \sqrt[4]{16} = 2$
-        - $81 = 3^{4} \rarr \sqrt[4]{81} = 3$
+        - $16 = 2^{4} \rightarrow \sqrt[4]{16} = 2$
+        - $81 = 3^{4} \rightarrow \sqrt[4]{81} = 3$
     - tehát:
         - $\sqrt[4]{16} \cdot \sqrt[4]{2} = 2\sqrt[4]{2}$
         - $\sqrt[4]{81} \cdot \sqrt[4]{2} = 3\sqrt[4]{2}$
@@ -105,8 +105,8 @@ Ha már ismerjük a gyököket ($x_{1} = 3, x_{2} = -1$), akkor a másodfokú eg
 - Visszakaptuk az eredeti egyenletet, tehát helyes.
 - Ez az alak azt mutatja meg, hogy az egyenlet zérushelyei (vagyis ahol 0 lesz az értéke)
 - pontosan azok a számok, ahol valamelyik zárójeles tényező 0 lesz:
-    - $x -3 = 0 \rarr x = 3$
-    - $x + 1 = 0 \rarr x = -1$
+    - $x -3 = 0 \rightarrow x = 3$
+    - $x + 1 = 0 \rightarrow x = -1$
 ## Teljes négyzet alak
 - Ez az alak a négyzetté egészítés módszeréből születik.
 - Cél: a kifejezést úgy írni fel, hogy egy négyzet legyen benne, és valami maradék.
@@ -119,7 +119,7 @@ Ha már ismerjük a gyököket ($x_{1} = 3, x_{2} = -1$), akkor a másodfokú eg
 Ez a forma segít grafikusan értelmezni az egyenletet, mert: $y = (x-1)^{2}-4$ alakban látszik, hogy a parabola csúcspontja ($1,-4$).
 ### Ellenőrzés
 Ha megoldjuk:
-- $(x-1)^{2}=4 \rarr x-1 = \pm 2$
+- $(x-1)^{2}=4 \rightarrow x-1 = \pm 2$
 - $x_{1} = 3$, $x_{2} = -1$
 >
 Ugyanazokat a gyököket kaptuk, tehát mindhárom alak ugyanazt az egyenletet írja le.
