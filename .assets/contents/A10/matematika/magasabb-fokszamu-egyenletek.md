@@ -97,6 +97,7 @@
     - $y1 = - \frac{8}{2} = -4$
     - $y2 = - \frac{14}{2} = -7$
 - Ha $y1 = -4$ és $y2 = -7$, akkor nincs megoldás, mert valós szám négyzete nem lehet negatív
+---
 ### g. feladat
 - $64x^{4} - 20x^{2} + 1 = 0$
     - új ismeretlen bevezetése: $y = x^{2}$
@@ -114,7 +115,7 @@
     - $x3 = \frac{1}{4}$
     - $x4 = - \frac{1}{4}$
 ---
-### h feladat
+### h. feladat
 - $25x^{4} + 74x^{2} - 3 = 0$
     - új ismeretlen bevezetése: $y = x^{2}$
 - $25y^{2} + 74y - 3 = 0$
@@ -129,5 +130,60 @@
     - $x2 = - \frac{1}{5}$
 - Ha $y2 = -3$, akkor nincs megoldás, mert valós szám négyzete nem lehet negatív
 ---
-### i feladat
-- $$
+### i. feladat
+- $x^{6} - 7x^{3} - 8 = 0$
+    - új ismeretlen bevezetése: $y = x^{3}$
+- $y^{2} - 7y - 8 = 0$
+    - $a = 1$
+    - $b = -7$
+    - $c = -8$
+- $y1,2 = \frac{-b \pm \sqrt{b^{2} - 4 \cdot a \cdot c}}{2 \cdot a} = \frac{7 \pm \sqrt{(-7)^{2} - 4 \cdot 1 \cdot (-8)}}{2 \cdot 1} = \frac{7 \pm \sqrt{81}}{2} =$
+    - $y1 = \frac{16}{2} = 8$
+    - $y2 = - \frac{2}{2} = -1$
+- Ha $y1 = 8 \implies x^{3} = 8 \implies x = 2$
+- Ha $y2 = -1 \implies x^{3} = -1 \implies x = -1$
+---
+### j. feladat
+- $x^{6} - 28x^{3} + 27 = 0$
+    - új ismeretlen bevezetése: $y = x^{3}$
+- $y^{2} - 28y + 27 = 0$
+    - $a = 1$
+    - $b = -28$
+    - $c = 27$
+- $y1,2 = \frac{-b \pm \sqrt{b^{2} - 4 \cdot a \cdot c}}{2 \cdot a} = \frac{28 \pm \sqrt{(-28)^{2} - 4 \cdot 1 \cdot 27}}{2} = \frac{28 \pm \sqrt{784 - 108}}{2} = \frac{28 \pm \sqrt{676}}{2} =$
+    - $y1 = \frac{54}{2} = 27$
+    - $y2 = \frac{2}{2} = 1$
+- Ha $y1 = 27 \implies x^{3} = 27 \implies x = 3$
+- Ha $y2 = 1 \implies x^{3} = 1 \implies x = 3$
+---
+### k. feladat
+- $x^{6} + 9x^{3} + 8 = 0$
+    - új ismeretlen bevezetése: $y = x^{3}$
+- $y^{2} + 9y + 8 = 0$
+    - $a = 1$
+    - $b = 9$
+    - $c = 8$
+- $y1,2 = \frac{-b \pm \sqrt{b^{2} - 4 \cdot a \cdot c}}{2 \cdot a} = \frac{-9 \pm \sqrt{9^{2} - 4 \cdot 1 \cdot 8}}{2 \cdot 1} = \frac{-9 \pm \sqrt{81 - 32}}{2} = \frac{-9 \pm \sqrt{49}}{2} =$
+    - $y1 = - \frac{2}{2} = -1$
+    - $y2 = - \frac{16}{2} = -8$
+- Ha $y1 = -1 \implies x^{3} = -1 \implies x = -1$
+- Ha $y2 = -8 \implies x^{3} = -8 \implies x = -2$
+---
+### l. feladat
+- $x^{6} - 4x{3} -5 = 0$
+    - új ismeretlen bevezetése: $y = x^{3}$
+- $y^{2} - 4y - 5 = 0$
+    - $a = 1$
+    - $b = -4$
+    - $c = -5$
+- $y1,2 = \frac{-b \pm \sqrt{b^{2} - 4 \cdot a \cdot c}}{2 \cdot a} = \frac{4 \pm \sqrt{(-4) - 20}}{2} = \frac{4 \pm \sqrt{16 + 20}}{2} = \frac{4 \pm \sqrt{36}}{2} =$
+    - $y1 = \frac{10}{2} = 5$
+    - $y2 = - \frac{2}{2} = -1$
+- Ha $y1 = 5 \implies x^{3} = 5 \implies x = \sqrt[3]{5}$
+- Ha $y2 = -1 \implies x^{3} = -1 \implies x = -1$
+
+---
+
+[Vissza](../matematika.md)
+
+---
