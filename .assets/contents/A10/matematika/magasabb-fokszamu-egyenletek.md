@@ -170,7 +170,7 @@
 - Ha $y2 = -8 \implies x^{3} = -8 \implies x = -2$
 ---
 ### l. feladat
-- $x^{6} - 4x{3} -5 = 0$
+- $x^{6} - 4x^{3} -5 = 0$
     - új ismeretlen bevezetése: $y = x^{3}$
 - $y^{2} - 4y - 5 = 0$
     - $a = 1$
