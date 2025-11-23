@@ -176,7 +176,7 @@
     - $a = 1$
     - $b = -4$
     - $c = -5$
-- $y1,2 = \frac{-b \pm \sqrt{b^{2} - 4 \cdot a \cdot c}}{2 \cdot a} = \frac{4 \pm \sqrt{(-4) - 20}}{2} = \frac{4 \pm \sqrt{16 + 20}}{2} = \frac{4 \pm \sqrt{36}}{2} =$
+- $y1,2 = \frac{-b \pm \sqrt{b^{2} - 4 \cdot a \cdot c}}{2 \cdot a} = \frac{4 \pm \sqrt{(-4)^{2} - 4 \cdot 1 \cdot (-5}}{2} = \frac{4 \pm \sqrt{16 + 20}}{2} = \frac{4 \pm \sqrt{36}}{2} =$
     - $y1 = \frac{10}{2} = 5$
     - $y2 = - \frac{2}{2} = -1$
 - Ha $y1 = 5 \implies x^{3} = 5 \implies x = \sqrt[3]{5}$
