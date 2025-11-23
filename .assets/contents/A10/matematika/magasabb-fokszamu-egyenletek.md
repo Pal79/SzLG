@@ -63,7 +63,7 @@
     - $a = 1$
     - $b = -8$
     - $c = -9$
-- $y1,2 = \frac{-b \pm \sqrt{b^{2} - 4 \cdot a \cdot c}}{2 \cdot a} = \frac{8 \pm \sqrt{100}}{2} =$
+- $y1,2 = \frac{-b \pm \sqrt{b^{2} - 4 \cdot a \cdot c}}{2 \cdot a} = \frac{8 \pm \sqrt{(-8)^{2} - 4 \cdot 1 \cdot (-9)}}{2} = \frac{8 \pm \sqrt{100}}{2} =$
     - $y1 = \frac{18}{2} = 9$
     - $y2 = - \frac{2}{2} = -1$
 - Ha $y1 = 9 \implies x^{2} = 9 \implies |x| = 3$
@@ -78,7 +78,7 @@
     - $a = 1$
     - $b = -20$
     - $c = -125$
-- $y1,2 = \frac{-b \pm \sqrt{b^{2} - 4 \cdot a \cdot c}}{2 \cdot a} = \frac{20 \pm \sqrt{900}}{2} =$
+- $y1,2 = \frac{-b \pm \sqrt{b^{2} - 4 \cdot a \cdot c}}{2 \cdot a} = \frac{20 \pm \sqrt{(-20)^{2} - 4 \cdot 1 \cdot (-125)}}{2} = \frac{20 \pm \sqrt{900}}{2} =$
     - $y1 = \frac{50}{2} = 25$
     - $y2 = - \frac{10}{2} = -5$
 - Ha $y1 = 25 \implies x^{2} = 25 \implies |x| = 5$
@@ -93,7 +93,7 @@
     - $a = 1$
     - $b = 11$
     - $c = 28$
-- $y1,2 = \frac{-b \pm \sqrt{b^{2} - 4 \cdot a \cdot c}}{2 \cdot a} = \frac{-11 \pm \sqrt{9}}{2}$
+- $y1,2 = \frac{-b \pm \sqrt{b^{2} - 4 \cdot a \cdot c}}{2 \cdot a} = \frac{-11 \pm \sqrt{11^{2} - 4 \cdot 1 \cdot 28}}{2} = \frac{-11 \pm \sqrt{9}}{2}$
     - $y1 = - \frac{8}{2} = -4$
     - $y2 = - \frac{14}{2} = -7$
 - Ha $y1 = -4$ és $y2 = -7$, akkor nincs megoldás, mert valós szám négyzete nem lehet negatív
@@ -105,7 +105,7 @@
     - $a = 64$
     - $b = -20$
     - $c = 1$
-- $y1,2 = \frac{-b \pm \sqrt{b^{2} - 4 \cdot a \cdot c}}{2 \cdot a} = \frac{20 \pm \sqrt{400 - 256}}{128} = \frac{20 \pm \sqrt{144}}{128} =$
+- $y1,2 = \frac{-b \pm \sqrt{b^{2} - 4 \cdot a \cdot c}}{2 \cdot a} = \frac{20 \pm \sqrt{(-20)^{2} - 4 \cdot 64 \cdot 15}}{2 \cdot 64} = \frac{20 \pm \sqrt{400 - 256}}{128} = \frac{20 \pm \sqrt{144}}{128} =$
     - $y1 = \frac{32}{128} = \frac{1}{4}$
     - $y2 = \frac{8}{128} = \frac{1}{16}$
 - Ha $y1 = \frac{1}{4} \implies x^{2} = \frac{1}{4} \implies |x| = \frac{1}{2}$
