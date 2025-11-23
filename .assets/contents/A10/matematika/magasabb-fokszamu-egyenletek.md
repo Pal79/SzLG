@@ -105,7 +105,7 @@
     - $a = 64$
     - $b = -20$
     - $c = 1$
-- $y1,2 = \frac{-b \pm \sqrt{b^{2} - 4 \cdot a \cdot c}}{2 \cdot a} = \frac{20 \pm \sqrt{400 - 256}}{128} = \frac{20 \pm \sqrt{144}} =$
+- $y1,2 = \frac{-b \pm \sqrt{b^{2} - 4 \cdot a \cdot c}}{2 \cdot a} = \frac{20 \pm \sqrt{400 - 256}}{128} = \frac{20 \pm \sqrt{144}}{128} =$
     - $y1 = \frac{32}{128} = \frac{1}{4}$
     - $y2 = \frac{8}{128} = \frac{1}{16}$
 - Ha $y1 = \frac{1}{4} \implies x^{2} = \frac{1}{4} \implies |x| = \frac{1}{2}$
