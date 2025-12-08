@@ -130,3 +130,12 @@
 | $x = \frac{7}{7} = 1$ |  |  |
 |  |  |  |
 |  |  | Ellenőrzés:<br>bal: $\sqrt{5 \cdot 1 - 6} = \sqrt{-1}$<br>jobb: $\sqrt{1 - 2 \cdot 1} = \sqrt{-1}$ |
+## (2201) Oldjuk meg a valós számok halmazán a következő egyenleteket
+#### a. feladat
+| $\sqrt{x + 6} = x$ |  | Kikötés:<br>$x + 6 \ge 0$<br>$x \ge - 6$ és $x \ge 0$ |
+| :-: | :-: | :-: |
+| $\sqrt{x + 6} = x$ | $()^{2}$ |  |
+| $x + 6 = x^{2}$ | $/-x, -6$ |  |
+| $x^{2} - x - 6 = 0$ |  |  |
+| $a = 1$<br>$b = -1$<br>$c = -6$ |  |  |
+| $\frac{1 \pm \sqrt{(-1) - 4 \cdot 1 \cdot (-6)}}{2} =$<br>$\frac{1 \pm \sqrt{25}}{2} =$ | $x1 = \frac{6}{2} = 3$<br>$\frac{-4}{2} = -2$ | Megoldás: $x = 3$<br>$x2 = -2$ Nem megoldás a kikötés miatt |
