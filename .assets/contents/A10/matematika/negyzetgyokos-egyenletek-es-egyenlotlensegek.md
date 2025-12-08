@@ -70,7 +70,7 @@
 #### g. feladat
 | $\sqrt{4x - 5} = \sqrt{x + 1}$ |  |  |
 | :-: | :-: | :-: |
-|  |  | Kikötés:<br>$4x - 5 \ge 0$ és $x + 1 \ge 0$<br>$4x \ge 0$&nbsp;&nbsp;&nbsp;&nbsp;$x \ge 0$<br>$x \ge \frac{5}{4}$ |
+|  |  | Kikötés:<br>$4x - 5 \ge 0$ és $x + 1 \ge 0$ <br> $4x \ge 0$ &nbsp;&nbsp;&nbsp;&nbsp; $x \ge 0$ <br> $x \ge \frac{5}{4}$ |
 | $\sqrt{4x - 5} = \sqrt{x + 1}$ | $/()^{2}$ |  |
 | $4x - 5 = x + 1$ | $/+5$ |  |
 | $4x = x + 6$ | $/-x$ |  |
@@ -81,7 +81,7 @@
 #### h. feladat
 | $\sqrt{5x + 1} = \sqrt{7x + 1}$ |  |  |
 | :-: | :-: | :-: |
-|  |  | Kikötés:<br>$5x + 1 \ge 0$ és $7x + 1 \ge 0$<br>$5x \ge -1$&nbsp;&nbsp;&nbsp;&nbsp;$7x \ge -1$<br>$x \ge - \frac{1}{5}$&nbsp;&nbsp;&nbsp;&nbsp;$x \ge - \frac{1}{7}$ |
+|  |  | Kikötés: <br> $5x + 1 \ge 0$ és $7x + 1 \ge 0$ <br> $5x \ge -1$ &nbsp;&nbsp;&nbsp;&nbsp; $7x \ge -1$ <br> $x \ge - \frac{1}{5}$ &nbsp;&nbsp;&nbsp;&nbsp; $x \ge - \frac{1}{7}$ |
 | $\sqrt{5x + 1} = \sqrt{7x + 1}$ | $/()^{2}$ |  |
 | $5x + 1 = 7x + 1$ | $/-1$ |  |
 | $5x = 7x$ | $/-5x$ |  |
@@ -92,7 +92,7 @@
 #### i. feladat
 | $\sqrt{3x - 4} = \sqrt{x - 2}$ |  |  |
 | :-: | :-: | :-: |
-|  |  | Kikötés:<br>$3x - 4 \ge 0$ és $x - 2 \ge 0$<br>$4x \ge 4$&nbsp;&nbsp;&nbsp;&nbsp;$x \ge 2$<br>$x \ge \frac{4}{3}$ |
+|  |  | Kikötés:<br> $3x - 4 \ge 0$ és $x - 2 \ge 0$ <br> $4x \ge 4$ &nbsp;&nbsp;&nbsp;&nbsp; $x \ge 2$ <br> $x \ge \frac{4}{3}$ |
 | $\sqrt{3x - 4} = \sqrt{x - 2}$ | $()^{2}$ |  |
 | $3x - 4 = x -2$ | $/x +4$ |  |
 | $3x = x + 2$ | $/-x$ |  |
@@ -103,7 +103,7 @@
 #### j.feladat
 | $\sqrt{6x + 7} = \sqrt{x + 2}$ |  |  |
 | :-: | :-: | :-: |
-|  |  | Kikötés:<br>$6x + 7 \ge 0$ és $x + 2 \ge 0$<br>$6x \ge -7$&nbsp;&nbsp;&nbsp;&nbsp;$x \ge -2$<br>$x \ge - \frac{7}{6}$ |
+|  |  | Kikötés:<br> $6x + 7 \ge 0$ és $x + 2 \ge 0$ <br> $6x \ge -7$ &nbsp;&nbsp;&nbsp;&nbsp; $x \ge -2$ <br> $x \ge - \frac{7}{6}$ |
 | $\sqrt{6x + 7} = \sqrt{x + 2}$ | $()^{2}$ |  |
 | $6x + 7 = x + 2$ | $/-x, -7$ |  |
 | $5x = -5$ | $/:-5$ |  |
@@ -113,7 +113,7 @@
 #### k. feladat
 | $\sqrt{13x + 5} = \sqrt{24x - 3}$ |  |  |
 | :-: | :-: | :-: |
-|  |  | Kikötés:<br>$13x + 5 \ge 0$ és $24x - 3 \ge 0$<br>$13x \ge -5$&nbsp;&nbsp;&nbsp;&nbsp;$24x \ge 3$<br>$x \ge - \frac{5}{13}$&nbsp;&nbsp;&nbsp;&nbsp;$x \ge \frac{3}{24}$ |
+|  |  | Kikötés:<br> $13x + 5 \ge 0$ és $24x - 3 \ge 0$ <br> $13x \ge -5$ &nbsp;&nbsp;&nbsp;&nbsp; $24x \ge 3$ <br> $x \ge - \frac{5}{13}$ &nbsp;&nbsp;&nbsp;&nbsp; $x \ge \frac{3}{24}$ |
 | $\sqrt{13x + 5} = \sqrt{24x - 3}$ | $()^{2}$ |  |
 | $13x + 5 = 24x - 3$ | $/-13x, +3$ |  |
 | $8 = 11x$ | $/:11$ |  |
@@ -123,7 +123,7 @@
 #### l. feladat
 | $\sqrt{5x - 6} = \sqrt{1 - 2x}$ |  |  |
 | :-: | :-: | :-: |
-|  |  | Kikötés:<br>$5x - 6 \ge 0$ és $1 - 2x \ge 0$ $/-1$<br>$5x \ge 6$&nbsp;&nbsp;&nbsp;&nbsp;$-2x \ge -1$<br>$x \ge \frac{6}{5}$&nbsp;&nbsp;&nbsp;&nbsp;$x \ge \frac{1}{2}$ |
+|  |  | Kikötés:<br> $5x - 6 \ge 0$ és $1 - 2x \ge 0$ $/-1$ <br> $5x \ge 6$ &nbsp;&nbsp;&nbsp;&nbsp; $-2x \ge -1$ <br> $x \ge \frac{6}{5}$ &nbsp;&nbsp;&nbsp;&nbsp; $x \ge \frac{1}{2}$ |
 | $\sqrt{5x - 6} = \sqrt{1 - 2x}$ | $()^{2}$ |  |
 | $5x - 6 = 1 - 2x$ | $/+6, +2x$ |  |
 | $7x = 7$ | $/:7$ |  |
@@ -149,3 +149,11 @@
 | $x^{2} - 9x + 14 = 0$ |  |  |
 | $a = 1$<br>$b = -9$<br>$c = 14$ |  |  |
 | $\frac{9 \pm \sqrt{(-9) - 4 \cdot 1 \cdot 14}}{2 \cdot 1} = \frac{9 \pm \sqrt{25}}{2} =$ | $x1 = \frac{14}{2} = 7$<br>$\frac{4}{2} = 2$ | Megoldás: $x = 7$<br>$x = 2$ Nem megoldás a kikötés miatt, mert $x \ge 4$ |
+#### c. feladat
+| $\sqrt{3x + 1} = x - 1$ |  | Kikötés:<br>$3x + 1 \ge 0$ és $x -1 \ge 0$<br>$3x \ge -1$&nbsp;&nbsp;&nbsp;&nbsp;$x \ge 1$<br>$x \ge \frac{-1}{3}$ |
+| :-: | :-: | :-: |
+| $\sqrt{3x + 1} = x - 1$ | $/()^{2}$ |  |
+| $3x + 1 = (x - 1)^{2}$ |  |  |
+| $3x + 1 = x^{2} - 2x + 1$ | $/-3x, -1$ |  |
+| $x^{2} - 5x = 0$ |  |  |
+|  |  |  |
