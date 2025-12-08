@@ -57,8 +57,8 @@
     - $b = 7$
     - $c = 6$
 - $\frac{-7 \pm \sqrt{7^{2} - 4 \cdot 1 \cdot 6}}{2 \cdot 1} = \frac{-7 \pm \sqrt{49 - 24}}{2} = \frac{-7 \pm \sqrt{25}}{2} =$
-    - $- \frac{2}{2} = -1$
-    - $- \frac{12}{2} = -6$
+    - $x1 = - \frac{2}{2} = -1$
+    - $x2 = - \frac{12}{2} = -6$
 - Megoldás: $x < -6$ és $x > -1$
 #### f. feladat
 - $x^{2} + 6x + 10 > 0$
@@ -74,9 +74,9 @@
     - $a = 2$
     - $b = -1$
     - $c = -6$
-- $\frac{1 \pm \sqrt{(-1)^{2} - 4 \cdot 2 \cdot (-6)}}{2 \cdot 2} = \frac{1 \pm \sqrt{49}}{4}$
-    - $\frac{8}{4} = 2$
-    - $\frac{-6}{4} = \frac{-3}{2} = -1.5$
+- $\frac{1 \pm \sqrt{(-1)^{2} - 4 \cdot 2 \cdot (-6)}}{2 \cdot 2} = \frac{1 \pm \sqrt{49}}{4} =$
+    - $x1 = \frac{8}{4} = 2$
+    - $x2 = \frac{-6}{4} = \frac{-3}{2} = -1.5$
 - Megoldás: $\frac{-3}{2} \le x \le 2$
 #### h. feladat
 - $4x^{2} + 12x + 5 < 0$
