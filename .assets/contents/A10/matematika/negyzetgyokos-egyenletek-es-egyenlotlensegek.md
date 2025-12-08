@@ -175,4 +175,4 @@
 | $0 = x^{2} - 2x + 1 + 3x - 7$ |  |  |
 | $x^{2} + x -6$ |  |  |
 | $a = 1$<br>$b = 1$<br>$c = -6$ |  |  |
-| $\frac{-1 \pm \sqrt{1^{2} - 4 \cdot 1 \cdot (-6)}}{2 \cdot 1} = \frac{-1 \pm \sqrt{25}}{2}$ | $x1 = \frac{4}{2} = 2$<br>$\frac{-6}{2} = -3$ | Megoldás: $x = -3$<br>$x = 2$ nem megoldás a kikötés miatt, mert: $x \le 1$
+| $\frac{-1 \pm \sqrt{1^{2} - 4 \cdot 1 \cdot (-6)}}{2 \cdot 1} = \frac{-1 \pm \sqrt{25}}{2}$ | $x1 = \frac{4}{2} = 2$<br>$\frac{-6}{2} = -3$ | Megoldás: $x = -3$<br>$x = 2$ nem megoldás a kikötés miatt, mert: $x \le 1$ |
