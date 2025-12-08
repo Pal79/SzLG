@@ -195,29 +195,54 @@
 | $a = 4$<br>$b = 3$<br>$c = 0$ |  |  |
 | $\frac{-3 \pm \sqrt{3^{2} - 4 \cdot 4 \cdot 0}}{2 \cdot 4} = \frac{-3 \pm \sqrt{9}}{8} =$ | $x1 = 0$<br>$x2 = \frac{-6}{8} = \frac{-3}{4}$ | Megoldás: $x = 0$ és $x = \frac{-3}{4}$ |
 #### h. feladat
-| $\sqrt{3x - 5} = x - 1$ |  |  Kikötés:<br>$3x - 5 \ge 0$ és $x - 1 \ge 0$<br>$3x \ge 5$ &nbsp;&nbsp;&nbsp;&nbsp; $x \ge 1$<br>$x \ge \frac{5}{3}$ |
-| :-: | :-: | :-: |
-| $\sqrt{3x - 5} = x - 1$ | $/()^{2}$ |  |
-| $3x - 5 = (x - 1)^{2}$ |  |  |
-| $3x - 5 = x^{2} - 2x + 1$ | $/-3x, +5$ |  |
-| $x^{2} - 5x + 6 = 0$ |  |  |
-| $a = 1$<br>$b = -5$<br>$c = 6$ |  |  |
-| $\frac{5 \pm \sqrt{(-5)^{2} - 4 \cdot 1 \cdot 6}}{2} = \frac{5 \pm \sqrt{1}}{2} =$ | $x1 = \frac{6}{2} = 3$<br>$x2 = \frac{4}{2} = 2$ | Megoldás: $x = 3$ és $x = 2$ |
+- $\sqrt{3x - 5} = x - 1$
+    - Kikötés:
+        - $3x - 5 \ge 0 \Rightarrow 3x \ge 5 \Rightarrow x \ge \frac{5}{3}$
+        - $x - 1 \ge 0 \Rightarrow x \ge 1$
+- $\sqrt{3x - 5} = x - 1$ &nbsp;&nbsp;&nbsp;&nbsp; $/()^{2}$
+- $3x - 5 = (x - 1)^{2}$
+- $3x - 5 = x^{2} - 2x + 1$ &nbsp;&nbsp;&nbsp;&nbsp; $/-3x, +5$
+- $x^{2} - 5x + 6 = 0$
+    - $a = 1$
+    - $b = -5$
+    - $c = 6$
+- $\frac{5 \pm \sqrt{(-5)^{2} - 4 \cdot 1 \cdot 6}}{2} = \frac{5 \pm \sqrt{1}}{2} =$
+    - $x1 = \frac{6}{2} = 3$
+    - $x2 = \frac{4}{2} = 2$
+- Megoldás: $x = 3$ és $x = 2$
 #### i. feladat
-| $\sqrt{5x + 5} = 2x - 3$ |  | Kikötés:<br>$5x + 5 \ge 0$ és $2x - 3 \ge 0$<br>$5x \ge -5$ &nbsp;&nbsp;&nbsp;&nbsp; $2x \ge 3$<br>$x \ge \frac{-5}{5}$ &nbsp;&nbsp;&nbsp;&nbsp; $x \ge \frac{3}{2}$ |
-| :-: | :-: | :-: |
-| $\sqrt{5x + 5} = 2x - 3$ | $/()^{2}$ |  |
-| $5x + 5 = (2x - 3)^{2}$ |  |  |
-| $5x + 5 = 4x^{2} - 12x + 9$ | $/-5x, -5$ |  |
-| $4x^{2} - 17x + 4 = 0$ |  |  |
-| $a = 4$<br>$b = -17$<br>$c = 4$ |  |  |
-| $\frac{17 \pm \sqrt{(-17)^{2} - 4 \cdot 4 \cdot 4}}{2 \cdot 4} = \frac{17 \pm \sqrt{225}}{8} =$ | $x1 = \frac{32}{8} = 4$<br>$\frac{2}{8} = \frac{1}{4}$ | Megoldás: $x = 4$<br>$x = \frac{1}{4}$ nem megoldás a kikötés miatt: $x \ge \frac{3}{2}$ |
+- $\sqrt{5x + 5} = 2x - 3$
+    - Kikötés:
+        - $5x + 5 \ge 0 \Rightarrow 5x \ge -5 \Rightarrow x \ge \frac{-5}{5}$
+        - $2x - 3 \ge 0 \Rightarrow 2x \ge 3 \Rightarrow x \ge \frac{3}{2}$
+- $\sqrt{5x + 5} = 2x - 3$ &nbsp;&nbsp;&nbsp;&nbsp; $/()^{2}$
+- $5x + 5 = (2x - 3)^{2}$
+- $5x + 5 = 4x^{2} - 12x + 9$ &nbsp;&nbsp;&nbsp;&nbsp; $/-5x, -5$
+- $4x^{2} - 17x + 4 = 0$
+    - $a = 4$
+    - $b = -17$
+    - $c = 4$
+- $\frac{17 \pm \sqrt{(-17)^{2} - 4 \cdot 4 \cdot 4}}{2 \cdot 4} = \frac{17 \pm \sqrt{225}}{8} =$
+    - $x1 = \frac{32}{8} = 4$
+    - $x2 = \frac{2}{8} = \frac{1}{4}$
+- Megoldás:
+    - $x = 4$
+    - $x = \frac{1}{4}$ nem megoldás a kikötés miatt: $x \ge \frac{3}{2}$ |
 #### j.feladat
-| $\sqrt{x^{2} + 2x + 9} = 2x + 3$ |  | Kikötés:<br>$x^{2} + 2x + 9 \ge 0$ és $2x + 3 \ge 0$<br>$D = 2^{2} - 4 \cdot 1 \cdot 9 = -32$ &nbsp;&nbsp;&nbsp;&nbsp; $2x \ge -3$<br>$- 32 < 0$ ezért nincs valós gyök, így: $x^{2} + 2x + 9 > 0$ &nbsp;&nbsp;&nbsp;&nbsp; $x \ge \frac{-3}{2}$ |
-| :-: | :-: | :-: |
-| $\sqrt{x^{2} + 2x + 9} = 2x + 3$ | $/()^{2}$ |  |
-| $x^{2} + 2x + 9 = (2x + 3)^{2}$ |  |  |
-| $x^{2} + 2x + 9 = 4x^{2} + 12x + 9$ | $/-x^{2}, -2x, -9$ |  |
-| $3x^{2} + 10x = 0$ |  |  |
-| $a = 3$<br>$b = 10$<br>$c = 0$ |  |  |
-| $\frac{-10 \pm \sqrt{10^{2} - 4 \cdot 3 \cdot 0}}{2 \cdot 3} = \frac{-10 \pm \sqrt{100}}{6}$ | $x1 = 0$<br>$x2 = \frac{-20}{6} = \frac{-10}{3}$ | Megoldás: $x = 0$<br>$x = \frac{-10}{3}$ nem megoldás a kikötés miatt: $\frac{-3}{2}$ |
+- $\sqrt{x^{2} + 2x + 9} = 2x + 3$
+    - Kikötés:
+        - $x^{2} + 2x + 9 \ge 0 \Rightarrow D = 2^{2} - 4 \cdot 1 \cdot 9 = -32 \Rightarrow - 32 < 0$ ezért nincs valós gyök, így: $x^{2} + 2x + 9 > 0$
+        - $2x + 3 \ge 0 \Rightarrow 2x \ge -3 \Rightarrow x \ge \frac{-3}{2}$
+- $\sqrt{x^{2} + 2x + 9} = 2x + 3$ &nbsp;&nbsp;&nbsp;&nbsp; $/()^{2}$
+- $x^{2} + 2x + 9 = (2x + 3)^{2}$
+- $x^{2} + 2x + 9 = 4x^{2} + 12x + 9$ &nbsp;&nbsp;&nbsp;&nbsp; $/-x^{2}, -2x, -9$
+- $3x^{2} + 10x = 0$
+    - $a = 3$
+    - $b = 10$
+    - $c = 0$
+- $\frac{-10 \pm \sqrt{10^{2} - 4 \cdot 3 \cdot 0}}{2 \cdot 3} = \frac{-10 \pm \sqrt{100}}{6}$
+    - $x1 = 0$
+    - $x2 = \frac{-20}{6} = \frac{-10}{3}$
+- Megoldás:
+    - $x = 0$
+    - $x = \frac{-10}{3}$ nem megoldás a kikötés miatt: $\frac{-3}{2}$ |
