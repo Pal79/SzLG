@@ -185,3 +185,13 @@
 | $4x^{2} -19x + 12 = 0$ |  |  |
 | $a = 4$<br>$b = -19$<br>$12$ |  |  |
 | $\frac{19 \pm \sqrt{(-19)^{2} - 4 \cdot 4 \cdot 12}}{2 \cdot 4} = \frac{19 \pm \sqrt{169}}{8} =$ | $x1 = \frac{32}{8} = 4$<br>$x2 = \frac{3}{4} = 0.75$ | Megoldás: $x = 4$<br>$x = \frac{3}{4}$ nem megoldás a kikötés miatt: $x \ge \frac{4}{2}$ |
+#### g. feladat
+| $\sqrt{5x + 4} = 2x + 2$ |  | Kikötés:<br>$5x + 4 \ge 0$ és $2x + 2 \ge 0$<br>$5x \ge -4$ &nbsp;&nbsp;&nbsp;&nbsp; $2x \ge -2$<br>$x \ge \frac{-4}{5}$ &nbsp;&nbsp;&nbsp;&nbsp; $x \ge \frac{-2}{2}$ |
+| :-: | :-: | :-: |
+| $\sqrt{5x + 4} = 2x + 2$ | $/()^{2}$ |  |
+| $5x + 4 = (2x + 2)^{2}$ |  |  |
+| $5x + 4 = 4x^{2} + 8x + 4$ | $/-5x, -4$ |  |
+| $4x^{2} + 3x = 0$ |  |  |
+| $a = 4$<br>$b = 3$<br>$c = 0$ |  |  |
+| $\frac{-3 \pm \sqrt{3^{2} - 4 \cdot 4 \cdot 0}}{2 \cdot 4} = \frac{-3 \pm \sqrt{9}}{8} =$ | $x1 = 0$<br>$x2 = \frac{-6}{8} = \frac{-3}{4}$ | Megoldás: $x = 0$ és $x = \frac{-3}{4}$ |
+#### h. feladat
