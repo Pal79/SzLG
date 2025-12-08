@@ -195,3 +195,20 @@
 | $a = 4$<br>$b = 3$<br>$c = 0$ |  |  |
 | $\frac{-3 \pm \sqrt{3^{2} - 4 \cdot 4 \cdot 0}}{2 \cdot 4} = \frac{-3 \pm \sqrt{9}}{8} =$ | $x1 = 0$<br>$x2 = \frac{-6}{8} = \frac{-3}{4}$ | Megoldás: $x = 0$ és $x = \frac{-3}{4}$ |
 #### h. feladat
+| $\sqrt{3x - 5} = x - 1$ |  |  Kikötés:<br>$3x - 5 \ge 0$ és $x - 1 \ge 0$<br>$3x \ge 5$ &nbsp;&nbsp;&nbsp;&nbsp; $x \ge 1$<br>$x \ge \frac{5}{3}$ |
+| :-: | :-: | :-: |
+| $\sqrt{3x - 5} = x - 1$ | $/()^{2}$ |  |
+| $3x - 5 = (x - 1)^{2}$ |  |  |
+| $3x - 5 = x^{2} - 2x + 1$ | $/-3x, +5$ |  |
+| $x^{2} - 5x + 6 = 0$ |  |  |
+| $a = 1$<br>$b = -5$<br>$c = 6$ |  |  |
+| $\frac{5 \pm \sqrt{(-5)^{2} - 4 \cdot 1 \cdot 6}}{2} = \frac{5 \pm \sqrt{1}}{2} =$ | $x1 = \frac{6}{2} = 3$<br>$x2 = \frac{4}{2} = 2$ | Megoldás: $x = 3$ és $x = 2$ |
+#### i. feladat
+| $\sqrt{5x + 5} = 2x - 3$ |  | Kikötés:<br>$5x + 5 \ge 0$ és $2x - 3 \ge 0$<br>$5x \ge -5$ &nbsp;&nbsp;&nbsp;&nbsp; $2x \ge 3$<br>$x \ge \frac{-5}{5}$ &nbsp;&nbsp;&nbsp;&nbsp; $x \ge \frac{3}{2}$ |
+| :-: | :-: | :-: |
+| $\sqrt{5x + 5} = 2x - 3$ | $/()^{2}$ |  |
+| $5x + 5 = (2x - 3)^{2}$ |  |  |
+| $5x + 5 = 4x^{2} - 12x + 9$ | $/-5x, -5$ |  |
+| $4x^{2} - 17x + 4 = 0$ |  |  |
+| $a = 4$<br>$b = -17$<br>$c = 4$ |  |  |
+| $\frac{17 \pm \sqrt{(-17)^{2} - 4 \cdot 4 \cdot 4}}{2 \cdot 4} = \frac{17 \pm \sqrt{225}}{8} =$ | $x1 = \frac{32}{8} = 4$<br>$\frac{2}{8} = \frac{1}{4}$ | Megoldás: $x = 4$<br>$x = \frac{1}{4}$ nem megoldás a kikötés miatt: $x \ge \frac{3}{2}$ |
