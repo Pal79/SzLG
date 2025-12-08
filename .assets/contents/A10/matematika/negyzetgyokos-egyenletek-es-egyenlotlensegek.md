@@ -212,3 +212,12 @@
 | $4x^{2} - 17x + 4 = 0$ |  |  |
 | $a = 4$<br>$b = -17$<br>$c = 4$ |  |  |
 | $\frac{17 \pm \sqrt{(-17)^{2} - 4 \cdot 4 \cdot 4}}{2 \cdot 4} = \frac{17 \pm \sqrt{225}}{8} =$ | $x1 = \frac{32}{8} = 4$<br>$\frac{2}{8} = \frac{1}{4}$ | Megoldás: $x = 4$<br>$x = \frac{1}{4}$ nem megoldás a kikötés miatt: $x \ge \frac{3}{2}$ |
+#### j.feladat
+| $\sqrt{x^{2} + 2x + 9} = 2x + 3$ |  | Kikötés:<br>$x^{2} + 2x + 9 \ge 0$ és $2x + 3 \ge 0$<br>$D = 2^{2} - 4 \cdot 1 \cdot 9 = -32$ &nbsp;&nbsp;&nbsp;&nbsp; $2x \ge -3$<br>$- 32 < 0$ ezért nincs valós gyök, így: $x^{2} + 2x + 9 > 0$ &nbsp;&nbsp;&nbsp;&nbsp; $x \ge \frac{-3}{2}$ |
+| :-: | :-: | :-: |
+| $\sqrt{x^{2} + 2x + 9} = 2x + 3$ | $/()^{2}$ |  |
+| $x^{2} + 2x + 9 = (2x + 3)^{2}$ |  |  |
+| $x^{2} + 2x + 9 = 4x^{2} + 12x + 9$ | $/-x^{2}, -2x, -9$ |  |
+| $3x^{2} + 10x = 0$ |  |  |
+| $a = 3$<br>$b = 10$<br>$c = 0$ |  |  |
+| $\frac{-10 \pm \sqrt{10^{2} - 4 \cdot 3 \cdot 0}}{2 \cdot 3} = \frac{-10 \pm \sqrt{100}}{6}$ | $x1 = 0$<br>$x2 = \frac{-20}{6} = \frac{-10}{3}$ | Megoldás: $x = 0$<br>$x = \frac{-10}{3}$ nem megoldás a kikötés miatt: $\frac{-3}{2}$ |
