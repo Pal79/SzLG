@@ -140,7 +140,7 @@
 | $a = 1$<br>$b = -1$<br>$c = -6$ |  |  |
 | $\frac{1 \pm \sqrt{(-1) - 4 \cdot 1 \cdot (-6)}}{2} =$<br>$\frac{1 \pm \sqrt{25}}{2} =$ | $x1 = \frac{6}{2} = 3$<br>$\frac{-4}{2} = -2$ | Megoldás: $x = 3$<br>$x2 = -2$ Nem megoldás a kikötés miatt |
 #### b. feladat
-| $\sqrt{x + 2} = x - 4$ |  | Kikötés:<br>$x + 2 \ge 0$ és $x - 4 \ge 0$<br>$x \ge -2$&nbsp;&nbsp;&nbsp;&nbsp;$x \ge 4$ |
+| $\sqrt{x + 2} = x - 4$ |  | Kikötés:<br>$x + 2 \ge 0$ és $x - 4 \ge 0$<br>$x \ge -2$ &nbsp;&nbsp;&nbsp;&nbsp; $x \ge 4$ |
 | :-: | :-: | :-: |
 | $\sqrt{x + 2} = x - 4$ | $/()^{2}$ |  |
 | $x + 2 = (x - 4)^{2}$ |  |  |
@@ -150,7 +150,7 @@
 | $a = 1$<br>$b = -9$<br>$c = 14$ |  |  |
 | $\frac{9 \pm \sqrt{(-9) - 4 \cdot 1 \cdot 14}}{2 \cdot 1} = \frac{9 \pm \sqrt{25}}{2} =$ | $x1 = \frac{14}{2} = 7$<br>$\frac{4}{2} = 2$ | Megoldás: $x = 7$<br>$x = 2$ Nem megoldás a kikötés miatt, mert $x \ge 4$ |
 #### c. feladat
-| $\sqrt{3x + 1} = x - 1$ |  | Kikötés:<br>$3x + 1 \ge 0$ és $x -1 \ge 0$<br>$3x \ge -1$&nbsp;&nbsp;&nbsp;&nbsp;$x \ge 1$<br>$x \ge \frac{-1}{3}$ |
+| $\sqrt{3x + 1} = x - 1$ |  | Kikötés:<br>$3x + 1 \ge 0$ és $x -1 \ge 0$<br>$3x \ge -1$ &nbsp;&nbsp;&nbsp;&nbsp; $x \ge 1$<br>$x \ge \frac{-1}{3}$ |
 | :-: | :-: | :-: |
 | $\sqrt{3x + 1} = x - 1$ | $/()^{2}$ |  |
 | $3x + 1 = (x - 1)^{2}$ |  |  |
