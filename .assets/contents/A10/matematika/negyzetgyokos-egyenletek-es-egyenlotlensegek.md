@@ -158,3 +158,12 @@
 | $x^{2} - 5x = 0$ |  |  |
 | $a = 1$<br>$b = -5$<br>$c = 0$ |  |  |
 | $\frac{5 \pm \sqrt{(-5)^{2} - 4 \cdot 1 \cdot 0}}{2} = \frac{5 \pm \sqrt{25}}{2} =$ | $x1 = \frac{10}{2} = 5$<br>$x2 = 0$ | Megoldás: $x = 5$<br>$x = 0$ nem megoldás a kikötés miatt: $x \ge 1$ |
+#### d. feladat
+| $\sqrt{2x + 8} = x + 4$ |  | Kikötés:<br>$2x + 8 \ge 0$ és $x + 4 \ge 0$<br>$2x \ge -8$ &nbsp;&nbsp;&nbsp;&nbsp; $x \ge -4$<br>$x \ge \frac{-8}{2}$ |
+| :-: | :-: | :-: |
+| $\sqrt{2x + 8} = x + 4$ | $/()^{2}$ |  |
+| $2x + 8 = (x + 4)^{2}$ |  |  |
+| $2x + 8 = x^{2} + 8x + 16$ | $/-2x, -8$ |  |
+| $x^{2} + 6x + 8 = 0$ |  |  |
+| $a = 1$<br>$b = 6$<br>$c = 8$ |  |  |
+| $\frac{-6 \pm \sqrt{6^{2} - 4 \cdot 1 \cdot 8}}{2} = \frac{-6 \pm \sqrt{4}}{2}$ | $x1 = \frac{-4}{2} = -2$<br>$x2 = \frac{-8}{2} = -4$ | Megoldás: $x = -4$ és $x = -2$ |
