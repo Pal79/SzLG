@@ -176,3 +176,12 @@
 | $x^{2} + x -6$ |  |  |
 | $a = 1$<br>$b = 1$<br>$c = -6$ |  |  |
 | $\frac{-1 \pm \sqrt{1^{2} - 4 \cdot 1 \cdot (-6)}}{2 \cdot 1} = \frac{-1 \pm \sqrt{25}}{2}$ | $x1 = \frac{4}{2} = 2$<br>$\frac{-6}{2} = -3$ | Megoldás: $x = -3$<br>$x = 2$ nem megoldás a kikötés miatt, mert: $x \le 1$ |
+#### f. feladat
+| $\sqrt{3x + 4} = 2x - 4$ |  | Kikötés:<br>$3x + 4 \ge 0$ és $2x - 4 \ge 0$<br>$3x \ge -4$ &nbsp;&nbsp;&nbsp;&nbsp; $2x \ge 4$<br>$x \frac{-4}{3}$ &nbsp;&nbsp;&nbsp;&nbsp; $x \ge \frac{4}{2}$ |
+| :-: | :-: | :-: |
+| $\sqrt{3x + 4} = 2x - 4$ | $/()^{2}$ |  |
+| $3x + 4 = (2x - 4)^{2}$ |  |  |
+| $3x + 4 = 4x^{2} -16x + 16$ | $/-3x, -4$ |  |
+| $4x^{2} -19x + 12 = 0$ |  |  |
+| $a = 4$<br>$b = -19$<br>$12$ |  |  |
+| $\frac{19 \pm \sqrt{(-19)^{2} - 4 \cdot 4 \cdot 12}}{2 \cdot 4} = \frac{19 \pm \sqrt{169}}{8} =$ | $x1 = \frac{32}{8} = 4$<br>$x2 = \frac{3}{4} = 0.75$ | Megoldás: $x = 4$<br>$x = \frac{3}{4}$ nem megoldás a kikötés miatt: $x \ge \frac{4}{2}$ |
