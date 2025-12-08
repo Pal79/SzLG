@@ -84,7 +84,7 @@
     - $a = 4$
     - $b = 12$
     - $c = 5$
-$\frac{-12 \pm \sqrt{12^{2} - 4 \cdot 4 \cdot 5}}{2 \cdot 4} = \frac{-12 \pm \sqrt{144 - 80}}{8} = \frac{-12 \pm \sqrt{64}}{8} =$
+- $\frac{-12 \pm \sqrt{12^{2} - 4 \cdot 4 \cdot 5}}{2 \cdot 4} = \frac{-12 \pm \sqrt{144 - 80}}{8} = \frac{-12 \pm \sqrt{64}}{8} =$
     - $x1 = \frac{-4}{8} = \frac{-1}{2} = -0.5$
     - $x2 = \frac{-20}{8} = \frac{-5}{2} = -2.5$
 - Megoldás: $-2.5 < x < -0.5$
@@ -105,6 +105,7 @@ $\frac{-12 \pm \sqrt{12^{2} - 4 \cdot 4 \cdot 5}}{2 \cdot 4} = \frac{-12 \pm \sq
 - $\frac{-11 \pm \sqrt{11^{2} - 4 \cdot 15 \cdot 2}}{2 \cdot 15} = \frac{-11 \pm \sqrt{121 - 120}}{30} = \frac{-11 \pm \sqrt{1}}{30} =$
     - $x1 = \frac{-10}{30} = \frac{-1}{3} = -0.3$
     - $x2 = \frac{-12}{30} = \frac{-2}{5} = -0.4$
+- Megoldás: $x < -\frac{2}{5}$ vagy $x > -\frac{1}{3}$
 #### k. feladat
 - $35x^{2} - 46x + 15 \le 0$
 - $35x^{2} - 46x + 15 = 0$
