@@ -167,3 +167,12 @@
 | $x^{2} + 6x + 8 = 0$ |  |  |
 | $a = 1$<br>$b = 6$<br>$c = 8$ |  |  |
 | $\frac{-6 \pm \sqrt{6^{2} - 4 \cdot 1 \cdot 8}}{2} = \frac{-6 \pm \sqrt{4}}{2}$ | $x1 = \frac{-4}{2} = -2$<br>$x2 = \frac{-8}{2} = -4$ | Megoldás: $x = -4$ és $x = -2$ |
+#### e. feladat
+| $\sqrt{7 - 3x} = 1 - x$ |  | Kikötés:<br>$7 - 3x \ge 0$ és $1 - x \ge 0$<br>$-3x \ge -7$ &nbsp;&nbsp;&nbsp;&nbsp; $-x \ge -1$<br>$x \le \frac{7}{3}$ &nbsp;&nbsp;&nbsp;&nbsp; $x \le 1$ |
+| :-: | :-: | :-: |
+| $\sqrt{7 - 3x} = 1 - x$ | $()^{2}$ |  |
+| $7 - 3x = 1 - 2x + x^{2}$ |  |  |
+| $0 = x^{2} - 2x + 1 + 3x - 7$ |  |  |
+| $x^{2} + x -6$ |  |  |
+| $a = 1$<br>$b = 1$<br>$c = -6$ |  |  |
+| $\frac{-1 \pm \sqrt{1^{2} - 4 \cdot 1 \cdot (-6)}}{2 \cdot 1} = \frac{-1 \pm \sqrt{25}}{2}$ | $x1 = \frac{4}{2} = 2$<br>$\frac{-6}{2} = -3$ | Megoldás: $x = -3$<br>$x = 2$ nem megoldás a kikötés miatt, mert: $x \le 1$
