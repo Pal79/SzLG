@@ -156,4 +156,5 @@
 | $3x + 1 = (x - 1)^{2}$ |  |  |
 | $3x + 1 = x^{2} - 2x + 1$ | $/-3x, -1$ |  |
 | $x^{2} - 5x = 0$ |  |  |
-|  |  |  |
+| $a = 1$<br>$b = -5$<br>$c = 0$ |  |  |
+| $\frac{5 \pm \sqrt{(-5)^{2} - 4 \cdot 1 \cdot 0}}{2} = \frac{5 \pm \sqrt{25}}{2} =$ | $x1 = \frac{10}{2} = 5$<br>$x2 = 0$ | Megoldás: $x = 5$<br>$x = 0$ nem megoldás a kikötés miatt: $x \ge 1$ |
