@@ -1,0 +1,71 @@
+
+---
+
+[Vissza](../nyelvtan.md)
+
+---
+
+# Stilisztika
+A stílus az a kifejezésmód, ahogyan a társalgó ember szóban vagy írásban kifejezi magát, vagyis mondanivalójának megfelelően válogat a rendelkezésre álló nyelvi eszközök között és a kiválasztott eszközöket a nyelv szabályai szerint elrendezi.
+>
+A stílust a nyelvhasználat módját befolyásoló tényezők:
+- a megnyilatkoztatás tárgya
+- a közlés célja
+- a közlés körülményei
+- a megszólaló egyénisége
+>
+A stílus rétegek:
+1. társalgási stílus:
+    - A mindennapok és az emberi kapcsolatok közlési formája. A stílust a társas érintkezés alakította ki, ezért legfőbb stílusjegyei a kötetlenség, fordulatosság.
+    - Szókincse változatos a köznyelvi szókészlet mellett csoportnyelvvé, tájnyelvvé, zsargon és ... elemek egyaránt megtalálhatók.
+    - Kedveli a beszédhelyzetekre utaló szavakat és kifejezéseket, így lehetnek benne tréfás, familiáris, gúnyos, durva, vulgáris szavak is.
+    - Tartalamazza a becézés a kedveskedés az udvariasság nyelvi kifejezőit is.
+    - Mondattani sajátosságai:
+        - Könnyen érthető, bonyolultságtól mentes, rövid mondatok alkalmazása. Élő szóban ritkábbak az összetett mondatok, mint az írásban. A közvetlen kommunikációban a mondatok igen gyakran hiányosak, mert a beszédhelyzetben kiegészülnek.
+        - A beszélőnek rendszerint a kötetlen társalgásban van a legnagyobb lehetősége, személyiségének kifejezésére.
+        - A társalgásban sok gondot okozhatnak a köszönés és megszólítás formák.
+        - Nyelv helyességi hibák a beszélt nyelvi szövegek lazábbak, szabálytalanabb szerkezetűek, mint az írott szövegek. Beszéd közben gyakran megállunk, szünetet tartunk, a szünetek helyére töltelékszavakat, üres frázisokat iktatunk be.
+    - Műfajok:
+        - Szóban
+            - párbeszéd
+            - elbeszélés
+        - Írásban
+            - levél
+            - napló
+1. tudományos és szakmai
+    - A tudományos művek jellemző nyelvhasználata. E művek célja és feladata a valóság törvényszerűségeinek megismerése és megismertetése, adatszerű bizonyítással.
+    - Érthetőségre és egyértelműségre törekszik.
+    - Pontosan körülhatárlot szakszavakat használ.
+    - Pontosan, szabatosan fogalmaz.
+    - Szövegszerkesztése logikus gondolkodást tükröz.
+    - Mondatai általában ténymegállapító, kijelentő mondatok, áttekinthető szórenddel.
+    - Szívesen alkalmaz párhuzamos szerkezetű módot, figyelemfelkeltő kérdéseket, idézeteket, személyekre, tudományos eredményekre utaló hivatkozásokat, ábrákat.
+    - Műfajai:
+        - tudományos értekezés
+        - esszé
+        - ismeret terjesztést szolgáló előadás
+        - cikk
+        - tanulmány
+        - szakmai kérdést tárgyaló vita
+        - hozzászólás 
+1. publicisztikai
+    - Az újságírás (sajtó, rádió, TV, intermnet) a propaganda, az agitáció stílusa.
+    - A pulicisztika feladata a társadalom tagjainak tájékoztatása a politikai, gazdasági, társadalmi, kultúrális élet időszerű eseményeiről.
+    - A tájékoztatás nem kizárólagos cél, benne van az állásfoglalás szándéka is.
+    - Műfajai:
+        - hír
+        - hivatalos közlemény
+        - tudósítás
+        - riport
+        - interjú
+        - kommentár
+        - ...
+1. közéleti írásbeliség: hivatalos...
+1. közéleti szóbeliség: előadói vagy szónoki...
+1. szépirodalmi vagy művészi
+
+---
+
+[Vissza](../nyelvtan.md)
+
+---
