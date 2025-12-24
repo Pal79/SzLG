@@ -6,7 +6,7 @@
 ---
 
 <h1>Hivatalos levél formai követelményei</h1>
-<table border=0>
+<table style="border: none;">
     <tr>
         <td>Kérvény címzettje (név, beosztás)<br>Az intézmény neve és címe</td>
         <td></td>
