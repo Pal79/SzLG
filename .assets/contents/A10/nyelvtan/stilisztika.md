@@ -60,6 +60,12 @@ A stílus rétegek:
         - interjú
         - kommentár
         - ...
+    - A stílusréteg jellemző vonása a közérthetőségre, a  meggyőzésre, a közvetlen hatásra való törekvés.
+    - Egy cél szolgálatában áll az érdeklődést keltő cím.
+    - Az érzelmi hatást keltő eszközök előtérbe állítása.
+    - Az újságírói szókincs használata sajátos új szavak neologizmusok használata.
+    - Gondosan ffeltüntetett tényanyag ... , kortársak neve, időmegjelölés, szervezetekre, intézményekre való hivatkozás, dokumentumok szó szerinti vagy tartalmi idézése.
+    - Mondat szerkesztése, mondat főrésze általában egyszerű, könnyen érthető
 1. közéleti írásbeliség: hivatalos...
 1. közéleti szóbeliség: előadói vagy szónoki...
 1. szépirodalmi vagy művészi
