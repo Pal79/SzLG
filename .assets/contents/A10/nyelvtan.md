@@ -13,3 +13,4 @@
 - [Szövegfonetikai eszközök és az írásjelek](./nyelvtan/szovegfonetikai-eszkozok-es-az-irasjelek.md)
 - [Első negyedéves vizsga PDF](./pdf/nyelvtan-elso-negyedeves-vizsga.pdf)
 - [Hivatalos levél formai követelményei](./nyelvtan/hivatalos-level-formai-kovetelmenyei.md)
+- [Stilisztika](./nyelvtan/stilisztika.md)
