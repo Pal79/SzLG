@@ -14,10 +14,26 @@ Nálunk a polgárság hiánya miatt a nemesség képviselői lettek a terjesztő
     - a kultúrális haladás sürgetése
     - a magyar nyelv művelése
 
-1. szakasz 1772-1795
+## 1. szakasz 1772-1795
     - 1772: Besenyei György - Ágis tragédiája
     - 1795: a magyar jakobinus mozgalom felszámolása, Martinovits Ignác és társai kivégzése
-## Mária Terézia
+### Mária Terézia (1740 - 1780)
+Magyar nemzeti testőrsége Bécsben.  
+A vidéki nemes ifjak művelődhettek, látóhatáruk kitágult, rádöbbentek hazájuk elmaradottságára.
+### II. József felvilágosult abszolutizmusa (1780 - 1790)
+Szabadon terjedhettek a gondolatok és fontos reformintézkedései, parasztság terheinek csökkentése, szabad költözködés, türelmi rendelet (szabad vallás), szerzetes rendek felzámolása, az iskolák államosítása, a német nyelv bevezetése a latin helyett Magyarországon.  
+## 2. szakasz 1795-1825
+Magyar reformkor kezdete  
+Kazincy Ferenc nyelvújító mozgalma.
+### Besenyei György (1747 - 1811)
+Bercelen született nemesi családban.  
+A sárospataki kollégimuban tanult.  
+1765-ben kerül Bécsbe, Mária Terézia testőrei közé.  
+Sokat olvasott, megismerkedett a felvilágosodás eszméivel.  
+Bécsben döbbent rá hazája mérhetetlen elmaradottságaira.  
+1773-ban kilépett a testőrségből és a református ügyek bécsi képviselője lett.  
+1780-ban udvari könyvtáros lett, 1782-ben hazatért és visszavonult Bihar megyei birtokára gazdálkodni (bihari remete).  
+Pusztakovácsiban halt meg.
 
 ---
 
