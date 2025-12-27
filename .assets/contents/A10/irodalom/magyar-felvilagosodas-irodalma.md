@@ -62,6 +62,12 @@ Szabadulása után Bécsben telepedett le.
 1809-ben segédkezett lefordítani Napóleon magyarokhoz írt kiáltványát.  
 A Bécsből kivonuló seregekkel Párizsba ment, de Napóleon bukása után letartóztatták és Linzbe száműzték és ott is halt meg.
 #### Franiaországi változásokra
+Műfaja: epigramma  
+- 1.-4. sor rabságban élő, nemzetek, országokhoz szól
+- 5.-6. az uralkodókhoz v. királyokhoz
+- 7.-8. a rabságban élő nemzetekhez, bátorítás, buzdítás.Az uralkodók számára pedig fenyegetés
+
+Francia forradalom alkalmából lett írva
 
 ---
 
