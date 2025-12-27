@@ -53,7 +53,15 @@ Ezt csak a nép anyanyelvén lehet megoldani.
 A magyar nyelv jelen állapotában alkalmatlan erre, ezért a legsürgetőbb feladat a nyelv művelése, tökéletesítése.  
 Ennek leghatásosabb eszköze a szépirodalom: fordítsunk műveket a fejlett nyelvekből, támogassuk a könyvkiadást, színházakat, folyóiratokat alapítsunk.  
 `"Minden nemzet a maga nyelvén lett tudós, de idegenen sohasem."`
-### Batsányi János
+### Batsányi János (1763 - 1845)
+Tapolcán született, kispolgárgi családban.  
+Iskoláit több városban végezte.  
+Kassán joggyakornok volt, de forradalmi versei miatt elvesztette állását.  
+1794-ben letartóztatták a jakobinus mozgalomban való részvételéért, a vádat nem sikerült rábizonyítani, de a bátor hangú védőirata miatt elítélték egy évre (Kufstein).  
+Szabadulása után Bécsben telepedett le.  
+1809-ben segédkezett lefordítani Napóleon magyarokhoz írt kiáltványát.  
+A Bécsből kivonuló seregekkel Párizsba ment, de Napóleon bukása után letartóztatták és Linzbe száműzték és ott is halt meg.
+#### Franiaországi változásokra
 
 ---
 
