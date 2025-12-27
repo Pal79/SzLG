@@ -15,8 +15,8 @@ Nálunk a polgárság hiánya miatt a nemesség képviselői lettek a terjesztő
     - a magyar nyelv művelése
 
 ## 1. szakasz 1772-1795
-    - 1772: Besenyei György - Ágis tragédiája
-    - 1795: a magyar jakobinus mozgalom felszámolása, Martinovits Ignác és társai kivégzése
+- 1772: Besenyei György - Ágis tragédiája
+- 1795: a magyar jakobinus mozgalom felszámolása, Martinovits Ignác és társai kivégzése
 ### Mária Terézia (1740 - 1780)
 Magyar nemzeti testőrsége Bécsben.  
 A vidéki nemes ifjak művelődhettek, látóhatáruk kitágult, rádöbbentek hazájuk elmaradottságára.
