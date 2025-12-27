@@ -34,6 +34,26 @@ Bécsben döbbent rá hazája mérhetetlen elmaradottságaira.
 1773-ban kilépett a testőrségből és a református ügyek bécsi képviselője lett.  
 1780-ban udvari könyvtáros lett, 1782-ben hazatért és visszavonult Bihar megyei birtokára gazdálkodni (bihari remete).  
 Pusztakovácsiban halt meg.
+- Művei:
+    - 1772 - Ágis tragédiája
+    - 1777 - A filozófus
+    - 1804 - Tariménes utazása (1930-ban adták ki)
+
+Az új magyar irodalom első programadója, irodalmi életünk szervezője.  
+Kultúrális programjait röpirataiban adta ki:
+- Magyarság
+- Magyar néző
+- Egy magyar társaság irnánt való jámbor szándék
+- A holmi
+
+A legfőbb cél a közboldogság, a közjó elérése.  
+Ennek legfőbb akadája a nép tudatlansága, műveletlensége.  
+Ezt úgy lehet megszüntetni, ha elterjesztjük a modern tudományokat.  
+Ezt csak a nép anyanyelvén lehet megoldani.  
+A magyar nyelv jelen állapotában alkalmatlan erre, ezért a legsürgetőbb feladat a nyelv művelése, tökéletesítése.  
+Ennek leghatásosabb eszköze a szépirodalom: fordítsunk műveket a fejlett nyelvekből, támogassuk a könyvkiadást, színházakat, folyóiratokat alapítsunk.  
+`"Minden nemzet a maga nyelvén lett tudós, de idegenen sohasem."`
+### Batsányi János
 
 ---
 
