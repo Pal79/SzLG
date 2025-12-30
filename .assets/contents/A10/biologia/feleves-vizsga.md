@@ -5,91 +5,248 @@
 
 ---
 
-A genetika az élőlények öröklődésével és változékonyságával foglalkozó tudomány. Ahhoz, hogy megértsük, hogyan öröklődnek a tulajdonságaink, tisztázni kell az alapvető fogalmakat és a mendeli szabályokat.  
-1. Genetikai alapfogalmak
-- Gén: A DNS-molekula egy szakasza, amely egy adott tulajdonság (például hajszín) kialakításáért felelős információt hordozza.
-- Allél: A gén különböző változatai. Például a "szemszín" génnek lehet barna és kék alléle. Egy egyedben egy génből általában két allél van jelen (egy apai és egy anyai).
-- Genotípus: Az egyed genetikai összetétele, azaz a sejtekben lévő allélok összessége (például: AA, Aa vagy aa).
-- Fenotípus: A megjelenő tulajdonságok összessége, amit a genotípus és a környezet kölcsönhatása határoz meg (például: barna szem).
-- Homozigóta: Olyan egyed, amelyben az adott tulajdonságra nézve két azonos allél található (például: AA – domináns homozigóta, vagy aa – recesszív homozigóta).
-- Heterozigóta: Olyan egyed, amelyben a vizsgált gén két különböző alléllal rendelkezik (például: Aa).
-
-2. Mendel törvényei  
-Gregor Mendel, az "örökléstan atyja", borsókísérletei alapján fektette le az öröklődés alapjait.  
-I. Az uniformitás törvénye (Hasonlóság törvénye)  
-Ha két különböző homozigóta szülőt keresztezünk (például egy sárga és egy zöld borsót: AA×aa), az első utódnemzedék (F1​) minden tagja egyforma lesz (mind Aa, azaz sárga).  
-II. A szegregáció törvénye (Hasadás törvénye)  
-Ha az első nemzedék heterozigóta egyedeit egymás között keresztezzük (Aa×Aa), a szülői tulajdonságok újra megjelennek a második utódnemzedékben (F2​). A genotípus és a fenotípus meghatározott arányban válik szét (például 3:1 arányban a domináns tulajdonság javára).  
-III. A független öröklődés törvénye  
-A különböző tulajdonságok (például a borsó színe és a héjának felszíne) egymástól függetlenül öröklődnek, feltéve, hogy a génjeik külön kromoszómákon helyezkednek el. Ezáltal az utódokban új kombinációk is megjelenhetnek.
-
-
-
-
-# Mendel genetikai kísérlete – a genetika első lépései
-A genetikai kutatások kezdeti szakaszának legfontosabb módszere az azonos fajhoz tartozó egyedek ivaros szaporítása, a keresztezés volt. A korszerű genetika megteremtése Gregor Mendel (1822–1884) brünni szerzetes nevéhez fűződik, aki korát messze megelőzve jutott el az öröklődés törvényszerűségeinek máig érvényes szabályai felismeréséhez! A szülők és az utódnemzedékek egy-egy kiválasztott tulajdonságának az összehasonlításából próbált levonni következtetéseket. A genetikai keresztezésekben a vizsgált tulajdonságokra nézve mindig tiszta származéksorú szülőket használt fel. Mai kifejezéssel ezek homozigóták voltak, ami azt jelenti, hogy mind a két szülő örökítőanyagában a vizsgált tulajdonságra nézve azonos volt a genetikai tartalom. Mendel idejében a kromoszómákat még nem ismerték. Úgy jutott tiszta származéksorú szülőkhöz, hogy a „szülőpár” utódait több nemzedéken keresztül egymás között keresztezte. Ha ezekkel a keresztezésekkel a vizsgált tulajdonságra nézve mindig a szülőpárral azonos tulajdonságot kapott, feltételezte, hogy tiszta származéksorúak.
-## A genetika alaptörvényei – Mendel törvényei
-A kerti borsó egyik jellegzetes öröklődő tulajdonsága a borsómagvak sima vagy ráncos felszíne ![genetika 01](../images/biologia-genetika-001.png)  
-![genetika 02](../images/biologia-genetika-002.png)  
-Mendel ilyen borsókkal is dolgozott kísérletei során. A tulajdonságpárok jelölésére azonos betűket használt. Az egyik változatot nagybetűvel jelölte, a másikat pedig kicsivel. Ezt a jelölési módot a mai napig használjuk. Ebben az esetben a sima tulajdonságot hordozó homozigóta apai tulajdonságpár jele: $AA$, míg a ráncos tulajdonságú homozigóta anyai tulajdonságpár jele: aa. Természetesen az apai vagy az anyai haploid ivarsejtekben csak egyetlen ($A$ vagy $a$) változat található. A szülők ivarsejtjei között létrejöhető keresztezési lehetőségeket egy táblázat segítségével elemezte. A latin parentes szó szülőket jelent, ezért $P$ betűvel jelölte a genetikai táblázatokban (Punnett-táblázat) a szülői nemzedéket. Hasonlóan az utódokra vonatkozó latin ﬁliales, fiúi szóból ered az általa alkalmazott jelölés az első vagy a második utódnemzedékre: $F_{1}$, illetve $F_{2}$. A két homozigóta szülő ivarsejtjeinek kereszteződése után az $F_{1}$ nemzedék mindegyik tagjának örökítőanyagában mind az apai, mind az anyai tulajdonság megtalálható. Az $F_{1}$ nemzedék tagjai tehát Aa tulajdonságpárral rendelkező heterozigóták (a hetero szó azt jelenti, nem egyforma, más), ugyanakkor valamennyi borsószem egységesen sima felszínű lett. A heterozigóták örökítőanyagában meglévő két szülői tulajdonság közül csak az egyik jelentkezett az utódban, a genetika nyelvén ez az uralkodó, vagy más néven domináns jelleg, szemben a másik, rejtve maradó, recesszív tulajdonsággal. A jelenséget Mendel az uniformitás törvényében foglalta össze, amely azt fejezi ki, hogy a homozigóta szülői formák keresztezéséből származó első utódnemzedék valamennyi egyede mind örökítőanyagának összetételét, mind megjelenését tekintve azonos.  
-![genetika 03](../images/biologia-genetika-003.png)  
-Az $F_{2}$ nemzedékben a heterozigóták utódainak háromnegyed részére megint a domináns tulajdonság volt jellemző, de egynegyed részénél az eredeti homozigóta szülői tulajdonságok közül a recesszív jelleg jelent meg. Az $F_{1}$ nemzedék egyöntetűsége után tehát az $F_{2}$ nemzedékben ismét megjelenik a szülői tulajdonságok közül a ráncos jelleg is a sima mellett. A  szülői tulajdonságok $3 : 1$ arányú megjelenése azonban nem tükrözi a háttérben lévő örökítőanyag-arányokat. A domináns forma kétféle örökítőanyag-összetétele miatt ugyanis az utódok 25%-a homozigóta domináns, 50%-a heterozigóta domináns, míg a maradék 25% homozigóta recesszív.  
-
-Mendel számos más tulajdonságpárral is elvégezte vizsgálatait, és mindig ugyanerre az eredményre jutott. Ezek alapján fogalmazta meg a hasadás törvényét, amelyben azt foglalta össze, hogy a szülői tulajdonságok nem olvadnak össze az $F_{1}$ nemzedék heterozigóta egyedeiben, hanem változás nélkül újra megjelennek az $F_{2}$ nemzedékben.  
-![genetika 04](../images/biologia-genetika-004.png)
-![genetika 05](../images/biologia-genetika-005.png)  
-Mendel vizsgálataival a különböző tulajdonságok öröklődésének egymáshoz való viszonyát is tisztázta. Mendel olyan keresztezéseket is végzett, ahol a szülők két vizsgált tulajdonságban különböztek egymástól. Az egyik ilyen kísérletében a sima és a ráncos tulajdonságpár mellett a borsómagvak sziklevelének sárga és zöld tulajdonságpárját is vizsgálta, és az eredményeket matematikai, statisztikai módszerekkel értékelte. A vizsgálathoz felhasznált homozigóta szülők közül a domináns hím jellegű sima $AA$ és sárga $BB$ tulajdonságpárokkal rendelkezett. A recesszív női tulajdonságpárjaira a ráncos $aa$ és a zöld $bb$ volt a jellemző.  
-![genetika 06](../images/biologia-genetika-006.png)  
-Mint az várható volt, az $F_{1}$ nemzedék mindegyik tagja egyforma lett. A heterozigótákat egymással keresztezve az $F_{2}$ nemzedékben $9$ különböző genetikai összetétel és $4$ eltérő jelleg jelent meg. A genetikai hátteret megvizsgálva azt látni, hogy mindkét tulajdonság arányai külön-külön megfelelnek az egy tulajdonságpár öröklődésénél tapasztaltaknak. Vagyis a kapott értékek ($4 AA : 8 Aa : 4 aa$) egyszerűsített formában ($1 AA : 2 Aa : 1 aa$) a már ismert arányokat mutatják. Ha a genetikai táblázatot egy keresztvonallal négy csoportra osztjuk, mindegyik csoporton belül a megjelent tulajdonság $3 : 1$ arányú megoszlását is tapasztalhatjuk. Ha azonban az összes megjelent tulajdonság $9 : 3 : 3 : 1$ arányban létrejött változatait együttesen vizsgáljuk, akkor azt találjuk, hogy két olyan tulajdonságpár is egymás mellé került az utódokban, amelyek az eredeti szülői kromoszómákban együtt nem találhatók meg. A ráncos–sárga és a sima–zöld tulajdonságpárok megjelenése Mendelt arra a következtetésre juttatta, hogy a két tulajdonság ivarsejtekbe kerülő örökítőanyaga egymástól teljesen függetlenül és véletlenszerűen kombinálódhat, így teljesen új tulajdonságegyütteseket hozhat létre.
-
-Számos hasonló vizsgálatának eredményét foglalta össze a független öröklődés törvényében, amely azt mondja ki, hogy az egyes tulajdonságpárok független öröklődésekor az $F_{2}$ nemzedékben az eredeti szülői formáktól eltérő kombinációk is megjelennek. Természetesen ez csakis olyan keresztezésekre vonatkozik, amelyekben a szülői jellegek egynél több tulajdonságpárban különböznek egymástól. Mendel további kutatásai során három különböző tulajdonságpár öröklődésének vizsgálatát is elvégezte, és ott $27$ különböző örökítőanyag-kombinációt kapott. A függetlenül kombinálódó tulajdonságpárok esetén az $F_{1}$ nemzedékben egy tulajdonságpár $3$, két tulajdonságpár $9$, három tulajdonságpár $27$, míg $n$ tulajdonságpár $3n$ kombinációt eredményezhet.
+A genetika az élőlények öröklődésével és változékonyságával foglalkozó tudomány. Ahhoz, hogy megértsük, hogyan öröklődnek a tulajdonságaink, tisztázni kell az alapvető fogalmakat és a mendeli szabályokat.
+# Genetikai alapfogalmak
+## Gén
+A gén a biológia és az öröklődés alapegysége. Szerkezetileg a gén a DNS-molekula egy meghatározott szakasza, amely egy adott tulajdonság kialakításáért felelős információt hordozza.
+1. A gén szerkezete és helye  
+A gének az élőlények sejtmagjában található kromoszómákon helyezkednek el, meghatározott sorrendben.
+- `DNS-szakasz`: A gén nukleotidok (A, T, C, G bázisok) sorozatából áll. Ez a sorrend határozza meg a kódolt információt.
+- `Lókusz`: Így nevezzük a gén pontos helyét a kromoszómán.
+- `Funkció`: A gének többsége egy-egy fehérje felépítéséhez szükséges "receptet" tartalmazza (ez a génexpresszió). A fehérjék pedig meghatározzák a sejt és a szervezet működését, kinézetét.
+2. Fontos fogalmak a génekkel kapcsolatban  
+A gének megértéséhez ismernünk kell az alábbi alapfogalmakat:
+| Fogalom | Jelentése |
+| :-- | :-- |
+| Allél | Egy gén változata (pl. a "szemszín" génnek van barna és kék alléle). |
+| Genotípus | Az egyed génjeinek (alléljainak) összessége. |
+| Fenotípus | A megjelenő tulajdonság (amit látunk, pl. kék szem), amit a genotípus és a környezet együtt határoz meg. |
+| Homozigóta | Ha az egyed két egyforma allélt hordoz egy adott génből (pl. AA vagy aa). |
+| Heterozigóta | Ha két különböző allélt hordoz (pl. Aa). |
+3. Hogyan működik a gén? (A centrális dogma)  
+A génben tárolt információ nem közvetlenül válik tulajdonsággá, hanem egy többcsatornás folyamaton keresztül:
+- `Transzkripció (Átírás)`: A DNS-ben lévő információról egy másolat készül, az mRNS (hírvivő RNS).
+- `Transzláció (Fordítás)`: A sejt szervecskéi (riboszómák) az mRNS alapján sorrendbe rakják az aminosavakat, és felépítik a fehérjét.
+4. Mutációk  
+A gének szerkezete megváltozhat, ezt nevezzük mutációnak.
+- Ez történhet külső hatásra (pl. UV-sugárzás, vegyszerek) vagy véletlen hiba folytán a DNS másolása közben.
+- A mutációk lehetnek károsak (betegséget okozók), de ezek az evolúció alapjai is, mivel új tulajdonságokat hozhatnak létre.
+### Miért fontos ez nekünk?
+A gének ismerete lehetővé teszi:
+- Öröklődő betegségek szűrését.
+- Mezőgazdasági nemesítést (ellenállóbb növények).
+- Géntechnológiát (pl. inzulin termeltetése baktériumokkal).
 
 ---
 
-# Egygénes domináns-recesszív öröklődés
-Mendel munkásságát követően a XX. század elején elvégzett keresztezési kísérletekből világossá vált a genetikai alaptörvények általános érvénye. Kezdetben a mendeli kísérleteket ismételték meg, majd egyre szélesebb körben terjedtek el a különböző növényekkel és állatokkal végzett vizsgálatok. Az örökítőanyag egy tulajdonságért felelős szakaszát génnek nevezték el, a gének változatait pedig alléleknek. A mendeli példánál maradva a borsó sárga vagy zöld színéért egy gén felelős. Azonban két változata, két allélje lehet ennek a génnek, az egyik sárga, a másik zöld maghéjszínt alakít ki. A génnek tehát két allélje ismeretes, egy borsó örökítőanyagában vagy az egyik, vagy a másik, vagy mindkettő előfordulhat. A homozigóta azt jelenti, hogy a zigótában a génnek azonos alléljei találhatók (jelölése: $AA$, illetve $aa$), a heterozigótákban viszont különbözők (jelölése $Aa$).
-
-Azt, hogy egy élőlény milyen alléleket hordoz egy tulajdonságra nézve, a genotípussal fejezzük ki. A genotípus lehet homozigóta ($AA$ vagy $aa$) vagy heterozigóta ($Aa$). Láttuk, hogy egy domináns tulajdonság kétféle genetikai háttérrel is megjelenhet, lehet a genotípus $AA$ vagy $Aa$. A megjelenő tulajdonságot fenotípusnak nevezzük. Például a zöld maghéjszínű borsó genotípusa aa, fenotípusa pedig zöld.
-
-A domináns-recesszív öröklődés állatokra vonatkozó egyik példája a feketetarka és a vöröstarka szőrszínezetű szarvasmarhák keresztezése.  
-![genetika 07](../images/biologia-genetika-007.png)  
-Ebben a borsókeresztezésekhez hasonlóan egyetlen gén határozza meg a tulajdonságot, vagyis egygénes öröklődést mutattak ki. A heterozigóták domináns allélja ($V$) a feketetarka, a recesszív allél ($v$) a vöröstarka színezet kialakításáért felelős. Az $F_{1}$ nemzedék az uniformitás törvényének megfelelően csak heterozigóta $Vv$ genotípusú és feketetarka fenotípusú egyedekből áll. Az $F_{2}$ nemzedékben az allélpárok hasadása után $3 : 1$ arányban jelennek meg a domináns feketetarka és a recesszív vöröstarka szarvasmarhák.
-
-Ugyancsak domináns-recesszív öröklésmenetet mutat a szarvasmarhák szarvatlansága is. A szarvval rendelkező állat erre az allélpárra nézve homozigóta recesszív ($aa$). A szarvatlan fenotípusú szarvasmarha homozigóta ($AA$) és heterozigóta ($Aa$) genotípusú is lehet. Így érthető, hogy a szarvas forma, amely szelekciós előnyt jelentett az ivari partnerért folytatott küzdelemben, megjelenését követően elterjedt. Sőt, mivel a szarvalt formákból hasadással a következő nemzedékben nem jelenhetett meg a szarvatlan forma, egyeduralkodóvá vált. Hasonlóan öröklődik a nyulak fekete ($A$) és fehér ($a$) színe is.
-
-Láttuk, hogy a domináns-recesszív öröklődésmenetben a homozigóta domináns, és a homozigóta recesszív egyedek keresztezésekor az $F_{1}$ nemzedékben csupa heterozigóta utód jön létre. Ha ezeket egymás között keresztezzük, kellő számú utód esetén, 75%–25% lesz a domináns és a recesszív fenotípusú egyedek aránya. A fekete fenotípusú nyulakról azonban nem lehet megállapítani, hogy melyik homozigóta és melyik heterozigóta. Ezt tesztelő keresztezéssel állapíthatjuk meg. Ennek során az ismeretlen genotípusú ($AA$ vagy $Aa$), domináns fenotípusú egyedet egy recesszív fenotípusú ($aa$) egyeddel kell keresztezni. Abban az esetben, ha az ismeretlen genotípusú, domináns fenotípusú egyed homozigóta volt, akkor valamennyi utód domináns fenotípusú ($Aa$) lesz. Ellenben, ha az ismeretlen genotípusú egyed heterozigóta volt, akkor az utódok között 50%-ban a recesszív fenotípus is meg fog jelenni.
-## Az albinizmus öröklődése embernél
-Az ember számos tulajdonságának és néhány betegségtünetének is a domináns-recesszív öröklődésben találták meg az okát. Jól ismert genetikai eltérés például az albinizmus, amelynek következtében a bőr, a haj és a szem pigmentáltsága, festéktartalma majdnem teljesen hiányzik, vagyis kórosan színhiányos az érintett személy. Családfák vizsgálatakor kimutatták, hogy az ember albinizmusa recesszív tulajdonság, az albínók homozigóták (aa). Átlag $25-30 000$ gyerek közül születik egy albínó. Az emberek túlnyomó többsége tehát a pigmentáltság szempontjából homozigóta domináns $AA$, és csak kevés a heterozigóta, $Aa$ allélpárral rendelkező közöttük. A pigmentáltság szempontjából egy homozigóta domináns és egy recesszív albínó házasságából született gyermekek normálisan pigmentáltak.  
-![genetika 008](../images/biologia-genetika-008.png)  
-Az albínó jellegre heterozigóták házasságából már 25%-os az albínó utód létrejöttének valószínűsége, míg a heterozigóta és a recesszív albínó párnál ez 50%-os valószínűségű. Természetesen két recesszív albínó szülő mindegyik gyermeke albínó lesz.
+## Allél:
+Az allél a gén változata. Míg a gén egy adott tulajdonságért felelős (például hajszín), az allél határozza meg, hogy ez a tulajdonság pontosan hogyan jelenjen meg (például barna vagy szőke).  
+Egy élőlény minden génből kettőt hordoz (egyet az apjától, egyet az anyjától), így egy adott génnek két allélja van jelen minden sejtjében.
+1. Az allélok típusai az öröklődésben  
+Az allélok közötti kölcsönhatás határozza meg, hogy mit látunk az élőlényen (fenotípus).
+- `Domináns allél`: Olyan változat, amely elnyomja a másikat. Ha jelen van, a tulajdonsága mindenképpen megjelenik. Jelölése: nagybetű (pl. "A").
+- `Recesszív (lappangó) allél`: Csak akkor tud megnyilvánulni, ha a domináns párja nincs jelen. Jelölése: kisbetű (pl. "a").
+2. Allélkapcsolatok (Példákkal)  
+A genetika három fő állapotot különböztet meg aszerint, hogy milyen allélpárok találkoznak:
+### A) Homozigóta
+A két allél megegyezik.
+- `Homozigóta domináns (AA)`: Mindkét szülőtől domináns allélt kapott (pl. mindkettő barna szemet kódol).
+- `Homozigóta recesszív (aa)`: Mindkét szülőtől lappangó allélt kapott (pl. kék szemet kódol).
+### B) Heterozigóta (Aa)
+A két allél különböző. Itt dől el, melyik az erősebb változat.
+### C) Speciális esetek
+- `Intermedier öröklődés`: Egyik allél sem domináns a másik felett, a kettő "összekeveredik". (Pl. piros és fehér virágú szülőktől rózsaszín utód).
+- `Kodominancia`: Mindkét allél egyszerre és teljes mértékben kifejeződik. (Pl. az AB vércsoport, ahol az "A" és a "B" allél is látszik).
+3. Hol találhatók az allélok?  
+Az allélok a homológ kromoszómapárok azonos pontjain (lókuszain) helyezkednek el. Mivel a kromoszómák párokban vannak, minden tulajdonságra két "kódunk" van.
+4. Példa: A szemszín (egyszerűsítve)  
+Tegyük fel, hogy a barna szem (B) domináns, a kék szem (b) recesszív.
+- `BB (Homozigóta domináns)`: Barna szem.
+- `Bb (Heterozigóta)`: Barna szem (mert a B elnyomja a b-t).
+- `bb (Homozigóta recesszív)`: Kék szem.
+| Fogalom | Jelölés | Megjelenés (Fenotípus) |
+| :-- | :-- | :-- |
+| Domináns allél | A | Mindig látszik, ha jelen van |
+| Recesszív allél | a | Csak akkor látszik, ha párban van (aa) |
+| Genotípus | AA, Aa, aa | A belső genetikai kód |
+| Lókusz | - | A gén/allél helye a kromoszómán |
 
 ---
 
-# Intermedier öröklésmenet
-Egyes esetekben a domináns allél nem képes a recesszív allél hatásának teljes elnyomására, fenotípusos kifejeződése gyengébb a heterozigótákban, mint a homozigótákban. A heterozigóta fenotípusa a két homozigóta fenotípus köztes formáját mutatja. Ez az intermedier, másik nevén részleges dominanciával járó vagy köztes öröklésmenet. A hazai kertekben is jól ismert dísznövény a csodatölcsér. Különböző virágszínű egyedeiben a virág színének öröklődéséért egy gén a felelős. Ha homozigóta növények piros és fehér virágú egyedeit keresztezik egymással, az $F_{1}$ nemzedékben egyforma genotípusú és fenotípusú utódok jelennek meg. Az eddigiektől eltérően azonban azzal a különbséggel, hogy a heterozigótákban a domináns fenotípus gyengébben jelentkezik, így az utódok egységesen rózsaszínűek lesznek. Két ilyen heterozigótát keresztezve egymással az $F_{2}$ nemzedék tagjai $1 : 2 : 1$ arányban piros, rózsaszín és fehér virágúak lesznek.  
-![genetika 09](../images/biologia-genetika-009.png)  
-![genetika 10](../images/biologia-genetika-010.png)  
-Ezzel teljesen megegyező öröklésmenetet mutat a kerti oroszlánszáj sziromszínének öröklődése. Intermedier módon öröklődik a vörös és fehér színű shorthorn szarvasmarhák szőrzetszíne és a szagosbükköny (bíbor és fehér) sziromszíne is. Az intermedier öröklődésmenetben a három különböző genotípus három egymástól jól elkülöníthető fenotípust alakít ki, így a genotípus ránézésre is azonnal megállapítható.
-## Kodomináns öröklődésmenet
-Az öröklődésnek egy jellegzetes formája a kettős dominancia, idegen kifejezéssel a kodominancia jelensége. Ebben az esetben nem beszélhetünk domináns és recesszív allélról, heterozigóta formában mind a két allél hatása teljes mértékben érvényre jut. Egyik legjobban ismert példája az emberi $AB0$ vércsoportrendszer öröklődése. Az $AB0$ vércsoportok létrejöttének genetikai hátterét alapvetően három allél határozza meg, ezek közül kettő, az $I^{A}$ és az $I^{B}$ domináns az $i$ alléllal szemben. Mivel egy diploid szervezetben azonos génhelyre csak két allél kerülhet, így ezek viszonya határozza meg az utódokban kialakuló vércsoportot.  
-![genetika 11](../images/biologia-genetika-011.png)
-Az $A$ és a $B$ vércsoport genotípusaiban domináns allélok találhatók. Az $A$ vércsoportot a homozigóta $I^{A}I^{A}$, illetve a heterozigóta $I^{A}i$ allélpár, a $B$ vércsoportot az $I^{B}I^{B}$, illetve az $I^{B}i$ allélpár hozza létre. A $0$ vércsoport hátterében pedig a homozigóta $ii$ allélpár áll. Mivel az $I^{A}$ allél és az $I^{B}$ allél egyformán domináns az $i$ alléllal szemben, együttes előfordulásukkor az $I^{A}I^{B}$ allélpárban a két allél kodomináns, vagyis mindkettő hatása egyaránt érvényesül, tehát az utódban kialakuló vércsoport $AB$ típusú. Az $AB0$ vércsoportrendszerhez hasonlóan kodominánsan öröklődik egy másik vércsoportrendszer, az $MN$ vércsoportrendszer is. Az $MN$ vércsoportot két kodomináns allél határozza meg: $M$ és $N$. A két allél háromféle fenotípust alakíthat ki: $MM$, $MN$, $NN$. Mindegyik kombináció önálló genotípust is jelent. Ezeken kívül az emberre további kisebb jelentőségű, de hasonlóan öröklődő vércsoportrendszerek is jellemzők.
-## Eltérés a mendeli hasadási aránytól – letális allélkombináció
-A genetikai kutatások megindulását követően hamar kiderült, hogy a gének többsége uralkodó és lappangó viszonyban van egymással, az intermedier vagy a kodomináns öröklődésmenet sokkal ritkább.  
-A domináns-recesszív módon öröklődő tulajdonságokkal kapcsolatos kísérletek közben érdekes megfigyelésre jutottak azok a kutatók, akik egerek szőrzetszínének öröklődését vizsgálták. Ha sárga színű egereket kereszteztek egymással, akkor az utódok kétharmada sárga, egyharmada szürke színű lett. A szürke egereket egymás között keresztezve csak szürke utódokat kaptak. A sárga és a szürke egerek keresztezéséből sárga és szürke színű egerek is születtek $1 : 1$ arányban. A kutatók az eredményekből arra következtettek, hogy a szürke szín a recesszív ($aa$), a sárga a domináns jelleg, hiszen a sárgák keresztezéséből szürke utódok is származtak. Ezek a sárga egerek tehát  heterozigóták ($Aa$). Ugyanakkor a keresztezésben a hasadási aránya eltért a mendeli számarányoktól, hiszen a domináns és a recesszív fenotípusú egyedek aránya $2 : 1$ volt, nem $3 : 1$. Ráadásul a sárga egerek keresztezéséből származó almokban az utódszám alacsonyabb volt, mintegy $25$%-kal. Az eredmények azzal magyarázhatók, hogy a homozigóta domináns ($AA$) egyedek nem életképesek, már embrionális állapotban elpusztulnak, nem fejlődnek ki. A homozigóta domináns allélkombináció letális (halálos). Hasonló módon öröklődik a kanárimadarak „kontyossága” (bóbita a fejen). A kontyos kanárimadarak heterozigóták, a konty nélküliek homozigóta recesszívek. A homozigóta domináns allélkombináció letális.
-# Eltérések a Mendel-szabályoktól
-## A tarajforma öröklődése házityúkoknál
-Eddig olyan példákat vizsgáltunk, amelyekben egy tulajdonság megjelenését egy allélpár határozta meg. Van azonban számos olyan eset is, amikor egyetlen tulajdonság kialakításában nem egy, hanem egynél több allélpár vesz részt. Ezekben az esetekben a gének, illetve azok alléljai által meghatározott termékek lépnek egymással kölcsönhatásba, és ennek az interakciónak az eredménye nyilvánul meg a fenotípusban. Így öröklődik például a tarajforma a különböző házityúkfajták keresztezésekor.  
-![genetika 12](../images/biologia-genetika-012.png)  
-A házityúkok tarajformáját két allélpár határozza meg. A baromfitenyésztők között régi tapasztalat volt, hogy a dekoratív, látványosan fűrészelt taraj esetenként akkor is megjelenik, ha korábban a tenyészetre nem volt jellemző. Kísérletek során a vaskos, alig fűrészelt, úgynevezett borsótarajú kakasokkal kereszteztek hosszúkás, középen árkolt, úgynevezett rózsatarajú tyúkokat. A szülői nemzedék egyedei homozigóták voltak a vizsgált jellegre nézve. Az első nemzedék ($F_{1}$) valamennyi csibéje egyformának bizonyult, de egy harmadik fenotípusú tarajuk volt, a rövid, duzzadt, úgynevezett diótaraj. A $F_{1}$ egyedek keresztezéséből származó $F_{2}$ nemzedékben négyféle fenotípust találtak. Volt közöttük dió-, borsó- és rózsatarajú is, valamint újdonságként a fűrészelt tarajforma is megjelent. A hasadási arányuk a dihibridek ($AaBb$) keresztezésének megfelelő arányt mutatta, a diótarajúból 9, a rózsa- és borsótarajúból 3-3, míg a fűrészelt tarajúból 1 egységnyi kelt ki a tojásokból. Az eredmény azzal magyarázható, hogy a kakas taréjalakjáért két gén 2-2 allélja felelős ($Rr$ és $Bb$). A homozigóta rózsatarajú egyedek ($RRbb$) a másik génre nézve homozigóta recesszívek, míg a borsótarajúak esetében a helyzet fordított ($rrBB$). A két típus keresztezéséből csupa heterozigóta egyed származik ($RrBb$), amelyek egy új fenotípussal rendelkeznek, diótarajúak lesznek. A dió forma megjelenésének az a feltétele, hogy mindkét génből tartalmazzanak legalább egy domináns allélt. A heterozigóták keresztezéséből származó második nemzedékben 9/16 a diótarajúak ($RRBB$, $RrBB$, $RRBb$, $RrBb$), 3/16 a rózsatarajúak ($RRbb$, $Rrbb$), 3/16 a borsótarajúak ($rrBB$,$rrBb$) és 1/16 a fűrészelt tarajúak ($rrbb$) aránya.
-## Egy allélpár – több tulajdonság
-Ismerünk a fentivel ellentétes típusú öröklődésmenetet is, amikor egynél több tulajdonság kialakítását egyetlen gén határozza meg. Ilyen például a kerti borsó egyik génje, amelyik mind a virág, mind a maghéj színének kialakításában részt vesz. Ez tulajdonképpen azt jelenti, hogy a gén egy olyan anyagnak, ebben az esetben az antocián nevű színezéknek az előállítását szabályozza, amely a virágban és a maghéjban egyaránt előfordul. A virágban bordó, a maghéjban, ahol más színanyagokkal is keveredik, szürkésbarna színt hoz létre.  
-![genetika 13](../images/biologia-genetika-013.png)  
-Az ilyen típusú öröklésmenetnek jóval bonyolultabb esete a sarlósejtes vérszegénység öröklődése.  
-![genetika 14](../images/biologia-genetika-014.png)  
-A hemoglobin előállításáért felelős gén recesszív alléljának hatására a hemoglobin térszekezete módosul. Emiatt a vörösvérsejtek sarló alakúak lesznek, és rendszeresen összecsapódva vérrögöket képeznek. A szervezet folyamatosan eltávolítja ezeket a rögöket, ami vérszegénységet okoz. Ugyanakkor a vérrögök akadályozzák a test különböző részeiben a normális vérkeringést. A rendellenes vörösvérsejtek oxigénszállító képessége is jóval gyengébb, mint a normálisaké, amely egy sor jellegzetes fenotípus-változást idéz elő. Mindezek következményeként a homozigóta recesszív egyedek csak rövid ideig élnek. Ezekben az esetekben tehát egy adott gén által kódolt fehérje közvetve befolyásol különböző anyagcsere-folyamatokat, amelyek tovább hatnak az egyes szervek működésére. Így egyetlen gén allélpárjának hatása többféle fenotípusos következménnyel járhat. Az albinizmus is jó példa az ilyen jellegű öröklődésre. A recesszíven öröklődő teljes festékhiányos állapot egy sor tulajdonságot (pl. hajszín, szemszín, bőrszín, fényérzékenység stb.) befolyásol.
-# Génkölcsönhatások II.
+## Genotípus
+A genotípus az élőlények belső, genetikai összetétele. Ez a sejtekben rejlő "kód", amely az egyed összes öröklött információját (génjeit és azok változatait, az allélokat) tartalmazza.  
+Fontos hangsúlyozni, hogy a genotípus a láthatatlan alapozás: nem mindig egyezik meg azzal, amit kívülről látunk az élőlényen.
+1. Genotípus vs. Fenotípus  
+A két fogalom közötti különbség megértése kulcsfontosságú a biológiában:
+- `Genotípus`: A DNS-ben kódolt allélok összessége (pl. Aa). Ez a belső utasításkészlet.
+- `Fenotípus`: A megjelenő tulajdonság (pl. barna szem), amit a genotípus és a környezet hatása együttesen alakít ki.
+- `Képletben kifejezve`: Fenotípus = Genotípus + Környezeti hatások
+2. A genotípus lehetséges változatai  
+Mivel minden génből kettőt hordozunk (anyai és apai ágról), egy adott tulajdonságra nézve a genotípus háromféle lehet (egyszerű domináns-recesszív öröklődés esetén):
+- `Homozigóta domináns`: Mindkét szülőtől az erősebb (domináns) allélt kaptuk.
+    - Jelölése: AA
+- `Heterozigóta`: Az egyik szülőtől domináns, a másiktól recesszív allélt kaptunk.
+    - Jelölése: Aa
+    - Érdekesség: Ebben az esetben a genotípusban ott rejtőzik a gyengébb tulajdonság is, de „kívülről” (fenotípus) a domináns látszik.
+- Homozigóta recesszív: Mindkét szülőtől a gyengébb (recesszív) allélt kaptuk.
+    - Jelölése: aa
+    - A tulajdonság csak ebben a genotípusos állapotban fog megjelenni a fenotípusban.
+3. Miért fontos ismerni a genotípust?  
+`Lappangó hordozás`: A heterozigóta egyedek (Aa) hordozhatnak olyan betegségeket okozó recesszív géneket, amelyek rajtuk nem látszanak, de az utódaiknál (ha a másik szülő is hordozó) megjelenhetnek.  
+`Nemesítés`: A mezőgazdaságban a genotípus ismerete segít kiválasztani a legjobb tulajdonságokkal rendelkező egyedeket a szaporításhoz.  
+`Személyre szabott orvoslás`: A genotípusunk határozza meg, hogyan reagálunk bizonyos gyógyszerekre vagy milyen betegségekre vagyunk hajlamosak.  
+Példa: A borsó színe (Mendel nyomán)
+- Sárga szín (domináns): S
+- Zöld szín (recesszív): s
 
+| Genotípus | Típus | Fenotípus (Megjelenés) |
+| :-- | :-- | :-- |
+| SS | Homozigóta domináns | Sárga |
+| Ss | Heterozigóta | Sárga (hordozza a zöldet) |
+| ss | Homozigóta recesszív | Zöld |
+
+Látható, hogy két különböző genotípus (SS és Ss) ugyanazt a fenotípust (sárga) eredményezi!
+
+---
+
+## Fenotípus
+A fenotípus az élőlény megjelenő tulajdonságainak összessége. Ez minden, amit egy élőlényen „kívülről” megfigyelhetünk, megmérhetünk vagy tesztelhetünk. Nemcsak a külső alakot (pl. szemszín, magasság) jelenti, hanem a szervezet belső működését, biokémiai folyamatait és bizonyos viselkedési formáit is.
+1. A fenotípus "receptje"  
+A fenotípus nem csupán a génekből áll. Kialakulását az alábbi összefüggés írja le a legjobban:
+- Fenotípus = Genotípus + Környezeti hatások  
+Ez azt jelenti, hogy két azonos genotípusú élőlény (például az egypetéjű ikrek) fenotípusa is eltérhet egymástól, ha különböző környezetben nőnek fel (például az egyik többet sportol vagy máshogy étkezik).
+2. Mit foglal magában a fenotípus?  
+A fenotípust több szinten is értelmezhetjük:
+- Morfológiai (alaktani) tulajdonságok: Testmagasság, bőrszín, virágszín, levél alakja.
+- Fiziológiai (működéstani) tulajdonságok: Vércsoport, emésztőenzimek hatékonysága, hormontermelés szintje.
+- Viselkedési jegyek: Madarak éneke, pókok hálószövési mintázata.
+3. Dominancia és a fenotípus rejtélye  
+Mivel a domináns-recesszív öröklődés során a domináns allél elnyomja a recesszívet, a fenotípus alapján nem mindig lehet megmondani a pontos genotípust.  
+Példa a borsónál:
+- Ha egy borsó sárga (ez a fenotípus), a genotípusa lehet SS (homozigóta domináns) vagy Ss (heterozigóta) is.
+- A zöld fenotípus viszont egyértelműen elárulja a genotípust: csak ss (homozigóta recesszív) lehet.
+4. Környezeti hatás: A fenotípusos plaszticitás  
+Vannak tulajdonságok, amelyeket a környezet drasztikusan módosíthat. Ezt hívjuk plaszticitásnak.
+- Példa (Himalája-nyúl): Ez a nyúl fehér szőrű, de a fülei és a lábai feketék. Ha leborotváljuk a szőrét a hátán és jégtömlőt teszünk rá, ott is fekete szőr fog nőni. A genotípusa ugyanaz marad, de a hideg (környezet) hatására megváltozik a fenotípusa (a szőrszíne).
+- Példa (Emberek): A testmagasságunkat a génjeink meghatározzák, de ha gyermekkorban valaki nem kap elég tápanyagot, nem fogja elérni a genetikailag kódolt magasságát.
+
+| Szempont | Genotípus | Fenotípus |
+| :-- | :-- | :-- |
+| Mi az? | Az örökölt belső kód (DNS). | A megjelenő tulajdonságok. |
+| Láthatóság | Láthatatlan (csak laborban vizsgálható). | Megfigyelhető, mérhető. |
+| Változás | Az egyed élete során állandó. | Az életkor és a környezet hatására változhat. |
+| Meghatározója | A szülők ivarsejtjei. | A genotípus ÉS a környezet. |
+
+---
+
+## Homozigóta
+A homozigóta kifejezés azt az állapotot jelöli, amikor egy egyed egy adott génből két azonos allélt (változatot) hordoz. Mivel minden élőlény két készlet kromoszómával rendelkezik (egyik az apától, másik az anyától származik), minden génből két példányunk van. Ha ez a két példány teljesen megegyezik, homozigótáról beszélünk.
+1. A homozigóta típusai  
+Attól függően, hogy milyen típusú allélokból van két egyforma, két esetet különböztetünk meg:
+### A) Homozigóta domináns
+Amikor az egyed mindkét szülőtől az erősebb, uralkodó allélt örökli.
+- Jelölése: Két nagybetű (pl. AA).
+- Megjelenés (Fenotípus): A domináns tulajdonság látszik rajta.
+- Utódok: Ha két homozigóta domináns egyed szaporodik, minden utódjuk is domináns lesz.
+### B) Homozigóta recesszív
+Amikor az egyed mindkét szülőtől a gyengébb, lappangó allélt örökli.
+- Jelölése: Két kisbetű (pl. aa).
+- Megjelenés (Fenotípus): Ez az egyetlen állapot, amikor a recesszív tulajdonság megmutatkozik. (Például a kék szem vagy a zöld borsó színe).
+- Utódok: Ha két ilyen egyed szaporodik, az összes utód csak recesszív tulajdonságú lehet.
+2. A "tiszta származási vonal"  
+A nemesítésben és Mendel kísérleteiben a homozigóta egyedeket tiszta származási vonalnak nevezik.
+- Ez azt jelenti, hogy ha ezeket az egyedeket egymás között vagy önmegtermékenyítéssel szaporítják, az utódok nemzedékeken át pontosan ugyanazokat a tulajdonságokat mutatják, mint a szülők. Nincs bennük "rejtett" információ, ami később meglepetést okozna.
+3. Példa: Az emberi vércsoport (Rh-faktor)  
+Az Rh-faktor esetében a pozitív (+) tulajdonság domináns, a negatív (-) pedig recesszív.
+
+| Genotípus | Jelölés | Típus | Fenotípus (Vércsoport) |
+| :-- | :-- | :-- | :-- |
+| ++ | DD | Homozigóta domináns | Rh-pozitív |
+| +- | Dd | Heterozigóta | Rh-pozitív (hordozza a negatívat) |
+| -- | dd | Homozigóta recesszív | Rh-negatív |
+
+Látható, hogy az Rh-negatív ember mindig homozigóta, hiszen csak két negatív allél találkozásakor jöhet létre ez a csoport.
+4. Letális (halálos) homozigótaság  
+Vannak olyan mutáns allélok, amelyek heterozigóta formában (Aa) csak egy különleges tulajdonságot adnak, de homozigóta formában (AA vagy aa) életképtelenséget okoznak.
+- Például egyes kutyafajtáknál vagy egereknél bizonyos színezetért felelős gének homozigóta állapotban már az anyaméhen belüli elhalást okozzák.
+
+---
+
+## Heterozigóta
+A heterozigóta kifejezés azt az állapotot jelöli, amikor egy egyed egy adott génből két különböző allélt (változatot) hordoz. Ez úgy jön létre, hogy az egyed az egyik szülőtől az egyik változatot (pl. domináns), a másik szülőtől pedig a másik változatot (pl. recesszív) örökli.  
+A heterozigóta egyedeket a genetikában gyakran hibrideknek is nevezik.
+1. A heterozigóta genotípusa és fenotípusa  
+A heterozigóta állapot leírásakor szinte mindig egy nagybetűt és egy kisbetűt használunk:
+- Genotípus: Aa (ahol az "A" a domináns, az "a" pedig a recesszív allél).
+- Fenotípus (megjelenés): Teljes dominancia esetén az egyed külsején a domináns tulajdonság látszik, de a sejtjeiben „rejtve” ott hordozza a recesszív allélt is.
+2. A heterozigóták jelentősége: A hordozók  
+A heterozigóták kulcsszerepet játszanak a genetikai sokféleség megőrzésében. Mivel rajtuk nem látszik a gyengébb (recesszív) tulajdonság, hordozóknak nevezzük őket.
+- Rejtett variáció: Egy egészséges ember is hordozhat heterozigóta formában olyan recesszív allélokat, amelyek betegséget okoznának, ha homozigóta formában jelennének meg.
+- Veszély: Ha két hordozó (Aa) szülőnek gyermeke születik, 25% az esélye annak, hogy az utód homozigóta recesszív (aa) lesz, és így megjelenik rajta a szülőkben még rejtett betegség vagy tulajdonság.
+3. Mi történik a fenotípusban? (Különböző esetek)  
+A heterozigóták megjelenése attól függ, hogyan viszonyulnak egymáshoz az allélok:
+- Teljes dominancia: Csak a domináns tulajdonság látszik (pl. barna szemű ember, aki hordozza a kék szem génjét).
+- Intermedier (köztes) öröklődés: A két allél "átlagolódik".
+    - Példa: Piros virág (AA) + Fehér virág (aa) = Rózsaszín virág (Aa).
+- Kodominancia: Mindkét allél teljes mértékben látszik.
+    - Példa: AB vércsoport. Az egyed egyik szülőtől "A", a másiktól "B" allélt kapott, és mindkettő kifejeződik a vérsejtjein.
+4. Heterózis hatás (Hibrid vigor)  
+A mezőgazdaságban megfigyelték, hogy a heterozigóta (hibrid) egyedek gyakran életerősebbek, nagyobbra nőnek és ellenállóbbak, mint a homozigóta (tiszta vonalú) szüleik. Ezt hívják heterózis hatásnak. Emiatt vásárolnak a gazdák minden évben hibrid vetőmagokat.
+
+| Állapot | Genotípus | Típus | Fenotípus |
+| :-- | :-- | :-- | :-- |
+| Homozigóta | SS | Tiszta vonal | Sárga |
+| Heterozigóta | Ss | Hibrid | Sárga (de zöldet hordoz) |
+| Homozigóta | ss | Tiszta vonal | Zöld |
+
+---
+
+## 2. Mendel törvényei  
+Gregor Mendel, az ágostoni szerzetes a 19. század közepén végzett borsókísérleteivel fektette le a genetika alapjait. Megfigyeléseit három (néha négyként említett) alapvető törvénybe foglalta, amelyek a tulajdonságok öröklődésének rendjét írják le.
+1. Az uniformitás törvénye (Mendel I. törvénye)
+
+A hasonlóság vagy egyöntetűség törvénye.
+
+    Lényege: Ha két különböző, adott tulajdonságra nézve homozigóta (tiszta származási vonalú) szülőt keresztezünk, az első utódnemzedék (F1​) összes egyede genotípusosan és fenotípusosan is teljesen egyforma lesz.
+
+    Példa: Homozigóta sárga (SS) és homozigóta zöld (ss) borsó keresztezéséből minden utód heterozigóta sárga (Ss) lesz.
+
+2. A szegregáció törvénye (Mendel II. törvénye)
+
+A hasadás törvénye.
+
+    Lényege: Ha az első utódnemzedék (F1​) heterozigóta egyedeit egymás között keresztezzük, a második utódnemzedékben (F2​) a szülői tulajdonságok újra megjelennek, méghozzá meghatározott számarányban.
+
+    Számarányok teljes dominancia esetén:
+
+        Genotípus: 1:2:1 (1 SS,2 Ss,1 ss)
+
+        Fenotípus: 3:1 (3 saˊrga,1 zo¨ld)
+
+    Ez bizonyítja, hogy a recesszív allél nem tűnt el az F1​ nemzedékben, csak rejtve maradt.
+
+3. A független kombinálódás törvénye (Mendel III. törvénye)
+
+Ez a törvény akkor érvényes, ha egyszerre több, egymástól független tulajdonság öröklődését vizsgáljuk (pl. a borsó színe ÉS alakja).
+
+    Lényege: A különböző tulajdonságok egymástól függetlenül öröklődnek, mert az azokat meghatározó gének külön kromoszómákon találhatók. Az utódokban a szülői tulajdonságoktól eltérő, új kombinációk is megjelennek.
+
+    Példa: Sárga-sima és zöld-ráncos szülők utódai között megjelenhet a sárga-ráncos és a zöld-sima változat is.
+
+    Fenotípusos arány (F2​): 9:3:3:1
+
++1. A gaméták tisztaságának törvénye
+
+Ezt gyakran a szegregáció törvényének alapjaként említik.
+
+    Lényege: Az ivarsejtek (gaméták) képződésekor (meiózis) a homológ kromoszómapárok elválnak, így minden ivarsejt csak egyféle allélt hordozhat egy adott tulajdonságra nézve. Az ivarsejt tehát genetikai értelemben mindig "tiszta".
+
+Törvény neve,Miről szól?,Kulcsarány (F2​)
+I. Uniformitás,Az első nemzedék egyformasága.,100% egyforma
+II. Szegregáció,A rejtett tulajdonság újra megjelenik.,3:1
+III. Független kombinálódás,Új tulajdonság-kombinációk jönnek létre.,9:3:3:1
+
+Fontos megjegyzés: Mendel III. törvénye nem érvényes, ha a gének ugyanazon a kromoszómán, egymáshoz közel találhatók (ezt nevezzük génkapcsoltságnak).
 
 ---
 
