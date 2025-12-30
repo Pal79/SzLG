@@ -9,3 +9,4 @@
 - [Világnépesség növekedése](./foldrajz/vilagnepesseg-novekedese.md)
 - [Népesség földrajz](./foldrajz/nepesseg-foldrajz.md)
 - [Első negyedéves vizsga PDF](./pdf/foldrajz-elso-negyedeves-vizsga.pdf)
+- [Féléves vizsga](./foldrajz/feleves-vizsga.md)
