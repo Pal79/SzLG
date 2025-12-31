@@ -9,3 +9,4 @@
 - [Sejteket felépítő szerves molekulák](./biologia/Sejteket-felepito-szerves-molekulak.md)
 - [Sejt](./biologia/sejt.md)
 - [Első negyedéves vizsga PDF](./pdf/biologia-negyedeves-vizsga.pdf)
+- [Féléves vizsga](./biologia/feleves-vizsga.md)
