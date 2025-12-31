@@ -203,48 +203,31 @@ A mezőgazdaságban megfigyelték, hogy a heterozigóta (hibrid) egyedek gyakran
 
 ## 2. Mendel törvényei  
 Gregor Mendel, az ágostoni szerzetes a 19. század közepén végzett borsókísérleteivel fektette le a genetika alapjait. Megfigyeléseit három (néha négyként említett) alapvető törvénybe foglalta, amelyek a tulajdonságok öröklődésének rendjét írják le.
-1. Az uniformitás törvénye (Mendel I. törvénye)
-
+### 1. Az uniformitás törvénye (Mendel I. törvénye)
 A hasonlóság vagy egyöntetűség törvénye.
-
-    Lényege: Ha két különböző, adott tulajdonságra nézve homozigóta (tiszta származási vonalú) szülőt keresztezünk, az első utódnemzedék (F1​) összes egyede genotípusosan és fenotípusosan is teljesen egyforma lesz.
-
-    Példa: Homozigóta sárga (SS) és homozigóta zöld (ss) borsó keresztezéséből minden utód heterozigóta sárga (Ss) lesz.
-
-2. A szegregáció törvénye (Mendel II. törvénye)
-
+- Lényege: Ha két különböző, adott tulajdonságra nézve homozigóta (tiszta származási vonalú) szülőt keresztezünk, az első utódnemzedék ($F_{1}$​) összes egyede genotípusosan és fenotípusosan is teljesen egyforma lesz.
+- Példa: Homozigóta sárga (SS) és homozigóta zöld (ss) borsó keresztezéséből minden utód heterozigóta sárga (Ss) lesz.
+### 2. A szegregáció törvénye (Mendel II. törvénye)
 A hasadás törvénye.
-
-    Lényege: Ha az első utódnemzedék (F1​) heterozigóta egyedeit egymás között keresztezzük, a második utódnemzedékben (F2​) a szülői tulajdonságok újra megjelennek, méghozzá meghatározott számarányban.
-
-    Számarányok teljes dominancia esetén:
-
-        Genotípus: 1:2:1 (1 SS,2 Ss,1 ss)
-
-        Fenotípus: 3:1 (3 saˊrga,1 zo¨ld)
-
-    Ez bizonyítja, hogy a recesszív allél nem tűnt el az F1​ nemzedékben, csak rejtve maradt.
-
-3. A független kombinálódás törvénye (Mendel III. törvénye)
-
+- Lényege: Ha az első utódnemzedék ($F_{1}$​) heterozigóta egyedeit egymás között keresztezzük, a második utódnemzedékben ($F_{2}$​) a szülői tulajdonságok újra megjelennek, méghozzá meghatározott számarányban.
+- Számarányok teljes dominancia esetén:
+    - Genotípus: 1:2:1 (1 SS,2 Ss,1 ss)
+    - Fenotípus: 3:1 (3 sárga,1 zöld)  
+Ez bizonyítja, hogy a recesszív allél nem tűnt el az F1​ nemzedékben, csak rejtve maradt.
+### 3. A független kombinálódás törvénye (Mendel III. törvénye)
 Ez a törvény akkor érvényes, ha egyszerre több, egymástól független tulajdonság öröklődését vizsgáljuk (pl. a borsó színe ÉS alakja).
-
-    Lényege: A különböző tulajdonságok egymástól függetlenül öröklődnek, mert az azokat meghatározó gének külön kromoszómákon találhatók. Az utódokban a szülői tulajdonságoktól eltérő, új kombinációk is megjelennek.
-
-    Példa: Sárga-sima és zöld-ráncos szülők utódai között megjelenhet a sárga-ráncos és a zöld-sima változat is.
-
-    Fenotípusos arány (F2​): 9:3:3:1
-
-+1. A gaméták tisztaságának törvénye
-
+- Lényege: A különböző tulajdonságok egymástól függetlenül öröklődnek, mert az azokat meghatározó gének külön kromoszómákon találhatók. Az utódokban a szülői tulajdonságoktól eltérő, új kombinációk is megjelennek.
+- Példa: Sárga-sima és zöld-ráncos szülők utódai között megjelenhet a sárga-ráncos és a zöld-sima változat is.
+- Fenotípusos arány ($F_{2}$​): 9:3:3:1
+### +1. A gaméták tisztaságának törvénye
 Ezt gyakran a szegregáció törvényének alapjaként említik.
+- Lényege: Az ivarsejtek (gaméták) képződésekor (meiózis) a homológ kromoszómapárok elválnak, így minden ivarsejt csak egyféle allélt hordozhat egy adott tulajdonságra nézve. Az ivarsejt tehát genetikai értelemben mindig "tiszta".
 
-    Lényege: Az ivarsejtek (gaméták) képződésekor (meiózis) a homológ kromoszómapárok elválnak, így minden ivarsejt csak egyféle allélt hordozhat egy adott tulajdonságra nézve. Az ivarsejt tehát genetikai értelemben mindig "tiszta".
-
-Törvény neve,Miről szól?,Kulcsarány (F2​)
-I. Uniformitás,Az első nemzedék egyformasága.,100% egyforma
-II. Szegregáció,A rejtett tulajdonság újra megjelenik.,3:1
-III. Független kombinálódás,Új tulajdonság-kombinációk jönnek létre.,9:3:3:1
+| Törvény neve | Miről szól? | Kulcsarány ($F_{2}$​) |
+| :-- | :-- | :-- |
+| I. Uniformitás | Az első nemzedék egyformasága. | 100% egyforma |
+| II. Szegregáció | A rejtett tulajdonság újra megjelenik. |3:1 |
+| III. Független kombinálódás | Új tulajdonság-kombinációk jönnek létre. | 9:3:3:1 |
 
 Fontos megjegyzés: Mendel III. törvénye nem érvényes, ha a gének ugyanazon a kromoszómán, egymáshoz közel találhatók (ezt nevezzük génkapcsoltságnak).
 
