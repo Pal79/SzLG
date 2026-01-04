@@ -13,3 +13,4 @@
 - [Felvilágosodás irodalma](./irodalom/felvilagosodas-irodalma.md)
 - [Első negyedéves vizsga PDF](./pdf/irodalom-negyedeves-vizsga.pdf)
 - [Magyar felvilágosodás irodalma](./irodalom/magyar-felvilagosodas-irodalma.md)
+- [Félévi vizsga](./irodalom/irodalom-felevi-vizsga.md)
