@@ -18,7 +18,7 @@ A török hódoltság súlyos népességcsökkenéssel járt:
 ## 5. Mindennapi élet és vallás a hódoltságban
 A törökök általában vallási türelmet tanúsítottak. A keresztény lakosság gyakorolhatta hitét, bár külön adó terhelte. A hódoltság területén az iszlám vallás elsősorban a városokban jelent meg (mecsetek, fürdők). A reformáció gyorsan terjedt, mivel a török hatalom nem támogatta a katolikus egyházat. A protestáns felekezetek különösen az Alföldön váltak meghatározóvá.
 ## 6. A végvári harcok és a hódoltság mindennapjai
-## A hódoltság határán alakult ki a végvárrendszer, amely folyamatos katonai összecsapások színtere volt. A harcok nem egyszeri nagy csatákból, hanem mindennapos portyákból és kisebb ütközetekből álltak. Ezek a harcok állandó bizonytalanságban tartották a lakosságot, ugyanakkor hozzájárultak a török előrenyomulás lassításához.
+A hódoltság határán alakult ki a végvárrendszer, amely folyamatos katonai összecsapások színtere volt. A harcok nem egyszeri nagy csatákból, hanem mindennapos portyákból és kisebb ütközetekből álltak. Ezek a harcok állandó bizonytalanságban tartották a lakosságot, ugyanakkor hozzájárultak a török előrenyomulás lassításához.
 ## 7. A hódoltság felszámolása
 A 17. század végén megváltoztak az erőviszonyok. A Habsburgok vezetésével létrejött Szent Liga sikeres hadjáratokat indított a törökök ellen. Buda visszafoglalása (1686) döntő jelentőségű volt. Az 1699-es karlócai béke lezárta a török hódoltság korszakát Magyarország nagy részén.
 ## Összegzés – a török hódoltság mérlege
