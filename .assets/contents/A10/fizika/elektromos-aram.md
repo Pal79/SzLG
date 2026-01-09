@@ -16,7 +16,7 @@ A töltéshordozók (elektornok vagy ionok) rendezett egyirányú mozgása.
 
 ```mermaid
 gantt
-    title A Gantt Diagram
+    title Az elektromos áram felosztása
     dateFormat  YYYY-MM-DD
     section Section
     A task           :a1, 2014-01-01, 30d
