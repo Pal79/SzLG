@@ -17,7 +17,7 @@ A töltéshordozók (elektornok vagy ionok) rendezett egyirányú mozgása.
 
 ```mermaid
 flowchart TD
-    A[Az elektromos áram felosztása] -->
+    A{Az elektromos áram felosztása}
     B --> [Szállítási áram]
     B --> [Vezetési áram]
 ```
