@@ -66,7 +66,25 @@ A stílus rétegek:
     - Az újságírói szókincs használata sajátos új szavak neologizmusok használata.
     - Gondosan ffeltüntetett tényanyag ... , kortársak neve, időmegjelölés, szervezetekre, intézményekre való hivatkozás, dokumentumok szó szerinti vagy tartalmi idézése.
     - Mondat szerkesztése, mondat főrésze általában egyszerű, könnyen érthető
-1. közéleti írásbeliség: hivatalos...
+1. közéleti írásbeliség: hivatalos stílus
+    - A közélet hivatalos érintekési formáiban jelentkezik: a tövény alkotás, a rendeletek, a közlemények és minden fajta hivatalos érintkezéshez szükséges írásbeli megnyilvánulás nyelvi megformálásában.
+    - szóhasználataira jellemző:
+        - sajátos, többnyire latin eredetű műszók és hivatalos kifejezések használata
+        - a szavak összefüggésében a szószerkezetben az idegen nyelvek hatása (latin-német)
+        - az elavult formákhoz, fordulatokhoz való merev ragaszkodás
+    - Mondat szerkesztésében:
+        - félve érthetetlenül pontosnak, ezáltal tömörnek is kell lennie, mivel legtöbbször joggyakorlati kérdésekről van szó
+        - a legfeltűnőbb jel a bonyolultság, ami legtöbbször a terpeszkedő kifejezéseknek köszönhető - ez nehezíti a megértést
+    - A hivatalos stílus nagy súlyt helyez a fogalmak tisztázására a tartalmi és formai tagolásásra (bekezdések, fő és alpontok, betű és számjelzések)
+    - Műfajai
+        - kérvény
+        - önéletrajz
+        - elismervény
+        - kötelezvény
+        - jelentés
+        - jegyzőkönyv
+        - felszólítás
+        - motivációs levél
 1. közéleti szóbeliség: előadói vagy szónoki...
 1. szépirodalmi vagy művészi
 
