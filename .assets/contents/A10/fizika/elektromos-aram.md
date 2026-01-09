@@ -23,8 +23,8 @@ A vezető keresztmetszetén áthaladó töltésmennyiség és az áthaladó idej
 Jele: $I = \frac{Q}{t}$  
 Mértékegysége: $[I] = \frac{[Q]}{[t]} = \frac{C}{s} = A$ (C = Columb (töltés mértékegysége))
 ### Kontinuitási törvény (folytonossági törvény):
-Elágazás mentes vezetőben a töltéshordozók nem halmozódhatnak fel.  
-Elágazás mentes vezetőben ... teljes hosszában ugyanekkora az áramerősség.
+Elágazásmentes vezetőben a töltéshordozók nem halmozódhatnak fel. Ezért a vezető bármely keresztmetszetén ugyanannyi töltés áramlik át egységnyi idő alatt, tehát a vezető teljes hosszában ugyanekkora az áramerősség.  
+:memo: Érdekesség: Ez akkor is igaz, ha a vezető helyenként elvékonyodik vagy kiszélesedik. Ott, ahol vékonyabb a vezeték, a töltéshordozók sebessége (vándorlási sebessége) megnő, hogy ugyanannyi töltés érjen át ugyanannyi idő alatt.
 ### Ohm törvény:
 A vezetőre kapcsolt feszültség egyenesen arányos a hatására a vezetőben megindult áram áramerősségével, azaz hányadosuk állandó, ezt az állandót a vezető ellenállásának nevezzük.  
 Jele: $R = \frac{U}{I}$  
