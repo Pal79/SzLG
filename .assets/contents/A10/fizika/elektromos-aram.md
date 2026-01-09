@@ -30,7 +30,7 @@ A vezetőre kapcsolt feszültség egyenesen arányos a hatására a vezetőben m
 Jele: $R = \frac{U}{I}$  
 Mértékegysége: $[R] = \frac{[U]}{[I]} = \frac{V}{A} = \Omega$
 ### A vezeték ellenállása:
-A vezeték ellenállása egyenesen arányos a vezető hosszával.  $R = \rho \frac{L}{A}$
+A vezeték ellenállása egyenesen arányos a vezető hosszával.  $R = \rho \frac{L}{A}$, ahol $\rho$ a fajlagos ellenállás, $l$ a hossz, $A$ pedig a keresztmetszet.
 ### Kirchhoff törvény
 
 ---
