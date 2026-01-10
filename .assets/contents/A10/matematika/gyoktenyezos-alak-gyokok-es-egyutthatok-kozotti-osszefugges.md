@@ -126,7 +126,7 @@
 - $\frac{2}{3}$ és $\frac{1}{2}$
     - $(x - \frac{2}{3}) \cdot (x - \frac{1}{2}) = $
     - $= x^{2} - \frac{1}{2}x -\frac{2}{3}x + \frac{1}{3} = $
-    - $= 6 \cdot (x^{2} - \frac{1}{2}x - \frac{2}{3}x + \frac{1}{3}) = $ // közös nevezőre hozás és egészre szorzás
+    - $= 6 \cdot (x^{2} - \frac{1}{2}x - \frac{2}{3}x + \frac{1}{3}) =$ // közös nevezőre hozás és egészre szorzás
     - $= 6x^{2} - \frac{3}{6}x - \frac{4}{6}x + \frac{2}{6} =$
     - $= 6x^{2} - 3x - 4x + 2 =$
     - $= 6x^{2}-7x+2$
@@ -134,10 +134,11 @@
 - $\frac{1}{3}$ és $- \frac{2}{5}$
     - $(x-\frac{1}{3}) \cdot (x+\frac{2}{5}) = $
     - $= x^{2} + \frac{2}{5}x - \frac{1}{3}x - \frac{2}{15} =$
-    - $= 15 \cdot(x^{2} + \frac{2}{5}x - \frac{1}{3}x - \frac{2}{15}) = $ // közös nevezőre hozás és egészre szorzás
+    - $= 15 \cdot(x^{2} + \frac{2}{5}x - \frac{1}{3}x - \frac{2}{15}) =$ // közös nevezőre hozás és egészre szorzás
     - $= 15x^{2} + \frac{6}{15}x - \frac{5}{15}x - \frac{2}{15} =$
     - $= 15x^{2} + 6x - 5x - 2 =$
     - $= 15x^{2} + x - 2$
+
 #### j. feladat
 - $- \frac{3}{4}$ és $- \frac{1}{5}$
     - $(x + \frac{3}{4}) \cdot (x + \frac{1}{5}) =$
@@ -154,6 +155,7 @@
     - $= 30x^{2} - \frac{21}{30}x + \frac{40}{30}x - \frac{28}{30} =$
     - $= 30x^{2} - 21x + 40x - 28 =$
     - $= 30x^{2} + 19x - 28$
+
 #### l. feladat
 - $- \frac{7}{8}$ és $\frac{13}{9}$
     - $(x + \frac{7}{8})(x - \frac{13}{9}) =$
