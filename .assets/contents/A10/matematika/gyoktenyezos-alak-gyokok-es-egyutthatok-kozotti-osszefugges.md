@@ -126,7 +126,7 @@
 - $\frac{2}{3}$ és $\frac{1}{2}$
     - $(x - \frac{2}{3}) \cdot (x - \frac{1}{2}) = $
     - $= x^{2} - \frac{1}{2}x -\frac{2}{3}x + \frac{1}{3} = $
-    - $= 6 \cdot (x^{2} - \frac{1}{2}x -\frac{2}{3}x + \frac{1}{3}) = $ // közös nevezőre hozás és egészre szorzás
+    - $= 6 \cdot (x^{2} - \frac{1}{2}x - \frac{2}{3}x + \frac{1}{3}) = $ // közös nevezőre hozás és egészre szorzás
     - $= 6x^{2} - \frac{3}{6}x - \frac{4}{6}x + \frac{2}{6} =$
     - $= 6x^{2} - 3x - 4x + 2 =$
     - $= 6x^{2}-7x+2$
