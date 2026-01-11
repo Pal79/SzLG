@@ -112,7 +112,7 @@ Az országok fejlettségi szintjétől és demográfiai szakaszától függően 
 - Hol látható? Erősen elöregedő társadalmakban, például Japánban, Németországban vagy Magyarországon.
 - Következmény: Népességfogyás, elöregedés, munkaerőhiány a jövőben.
 
-### 3. Érdekesség: A nemek aránya
+## 3. Érdekesség: A nemek aránya
 
 A korfán megfigyelhető egy fontos biológiai és társadalmi törvényszerűség:
 - Születéskor: Világszerte több fiú születik (kb. 100 lányra 105-107 fiú jut).
