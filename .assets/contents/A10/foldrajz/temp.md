@@ -194,7 +194,7 @@ Az állam megpróbálja elkerülni a nagy gazdasági válságokat és kordában 
 - Monetáris politika: A jegybankon keresztül szabályozza a forgalomban lévő pénz mennyiségét és a kamatokat.
 - Fiskális (költségvetési) politika: Az adók mértékével és az állami kiadásokkal ösztönzi vagy hűti a gazdaságot.
 
-## Összefoglaló: Az állami szerepvállalás mértéke
+## Összefoglaló: Az állami szerepvállalás mértéke
 
 | Gazdasági modell | Állam szerepe | Példa |
 | :--------------: | :-----------: | :---: |
