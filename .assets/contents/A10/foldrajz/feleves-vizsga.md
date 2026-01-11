@@ -303,6 +303,7 @@ Ez a szektor nem hoz létre kézzelfogható anyagi terméket, hanem tevékenysé
 A modern gazdaságokban a szolgáltatásokból vált ki ez a terület, amely a tudásalapú gazdaságot jelenti.
 - `Tevékenységek`: Kutatás-fejlesztés (K+F), informatika (IT), szoftverfejlesztés, felsőoktatás, magas szintű pénzügyi elemzések.
 - `Jellemzője`: Itt nem a fizikai munka, hanem a szellemi tőke és az információ feldolgozása a fő értékteremtő erő.
+
 | Szektor | Elnevezés | Tevékenység lényege | Gazdasági szerepe |
 | :-: | :-: | :-: | :-: |
 | Primer | Mezőgazdaság | Alapanyag-előállítás | Élelmezésbiztonság |
