@@ -166,7 +166,7 @@ Gyakran előforduló kérdés, hogy mi a város "fő profilja":
 </details>
 
 <details>
-    </summary>Államok és szerepük a piacgazdaságban - állami feladatkörök (pl. közrend, közbiztonság fenntartása)</summary>
+    <summary>Államok és szerepük a piacgazdaságban - állami feladatkörök (pl. közrend, közbiztonság fenntartása)</summary>
 
 ---
 
