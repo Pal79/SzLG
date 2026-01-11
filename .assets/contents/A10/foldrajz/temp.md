@@ -239,9 +239,9 @@ Magyarország a rendszerváltás óta a TNC-k kedvelt célpontja, főként a ked
 | Élelmiszer/Vegyi | Coca-Cola | Dunaharaszti |
 |           | Lego | Nyíregyháza |
 |           | BorsodChem (Wanhua) | Kazincbarcika |
-| Szolgáltatás | Google, Microsoft | Budapest |
+| Szolgáltatás | Google, Microsoft | Budapest |  
 
-## 4. Hatásuk a gazdaságra (Pro és Kontra)
+## 4. Hatásuk a gazdaságra (Pro és Kontra)
 Előnyök:
 - Munkahelyteremtés: Több tízezer embernek adnak közvetlenül munkát.
 - Technológiai transzfer: Modern gépeket és munkaszervezési kultúrát hoznak az országba.
