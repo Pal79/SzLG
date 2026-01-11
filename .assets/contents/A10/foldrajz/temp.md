@@ -270,12 +270,12 @@ A 20. század végétől a világgazdaságot három meghatározó erőtér, a TR
     - Vezető szerep: Elektronika, robotika, autóipar, félvezetőgyártás.
     - Jellemző: Rendkívül gyors fejlődés, exportorientáltság. Kína mára a Triád önálló, meghatározó oszlopává vált.
 
-## 2. Új felemelkedő központok
+## 2. Új felemelkedő központok
 A 21. században a Triád egyeduralma megtört. Új szereplők jelentek meg, akiket gyakran a BRICS (Brazília, Oroszország, India, Kína, Dél-afrikai Köztársaság) országcsoporttal azonosítunk.
 - India felemelkedése: 2026-ra India megszilárdította helyét a világ 4. legnagyobb gazdaságaként, megelőzve Japánt. Fő ereje a hatalmas és fiatal népesség, az informatika (IT-szolgáltatások) és a növekvő ipari termelés.
 - Délkelet-Ázsia (ASEAN): Országok, mint Indonézia vagy Vietnam, a világ új "műhelyeivé" válnak, ahová a termelés Kínából is átvándorol az olcsóbb munkaerő miatt.
 
-## 3. Centrum–Periféria modell
+## 3. Centrum–Periféria modell
 A világgazdaságot a hierarchia jellemzi, amit a centrum-periféria modell ír le:
 
 | Régió típusa | Jellemzők | Példák |
@@ -300,7 +300,7 @@ A világgazdaságot a hierarchia jellemzi, amit a centrum-periféria modell ír 
 
 A transznacionális vállalatok (TNC-k) – a köznyelvben gyakran csak „multik” – a globalizált világgazdaság legfontosabb szereplői. Ezek olyan óriásvállalatok, amelyek székhelye egy adott országban (anyavállalat) van, de tevékenységüket számos más országban lévő leányvállalatukon keresztül végzik.
 
-## 1. A transznacionális vállalatok fő ismérvei
+## 1. A transznacionális vállalatok fő ismérvei
 A TNC-k működésének lényege a hatékonyság és a profitmaximalizálás globális szinten.
 - Nemzetközi kiterjedtség: Legalább két országban van telephelyük, de a legnagyobbak akár 100+ országban is jelen vannak.
 - Központosított irányítás: A stratégiai döntéseket (pénzügyek, fejlesztések) az anyavállalat hozza meg a központban (pl. Tokió, New York, München), míg a termelés és az értékesítés a leányvállalatoknál zajlik.
@@ -308,13 +308,13 @@ A TNC-k működésének lényege a hatékonyság és a profitmaximalizálás glo
 - Piacszerzés: Gyakran azért alapítanak leányvállalatot egy országban, hogy kikerüljék a vámokat és közelebb legyenek a helyi vásárlókhoz.
 - Hatalmas tőkeerő: Sok TNC éves bevétele meghaladja kisebb országok teljes GDP-jét.
 
-## 2. Jellemző vállalati stratégiák (A "szétszóródás")
+## 2. Jellemző vállalati stratégiák (A "szétszóródás")
 A TNC-k a termelési folyamatot részekre bontják:
 - K+F (Kutatás-fejlesztés): Magasan képzett munkaerőt igényel, ezért általában a fejlett centrumországokban marad (pl. egyetemi városok közelében).
 - Alkatrészgyártás: Oda kerül, ahol jó az infrastruktúra és szakképzett, de megfizethető a munkaerő (pl. Kelet-Közép-Európa).
 - Összeszerelés ("Csavarhúzós ipar"): Alacsony képzettségű, olcsó munkaerőt igényel (pl. Délkelet-Ázsia).
 
-## 3. Ismertebb leányvállalatok Magyarországon
+## 3. Ismertebb leányvállalatok Magyarországon
 Magyarország a rendszerváltás óta a TNC-k kedvelt célpontja, főként a kedvező földrajzi fekvés, az adókedvezmények és a szakképzett munkaerő miatt.
 
 | Ágazat | Vállalat neve | Telephely (példa) |
@@ -351,7 +351,7 @@ Kockázatok:
 
 A gazdasági tevékenységeket hagyományosan három (illetve ma már négy) fő szektorba soroljuk. Ezek az ágazatok egymásra épülnek, és arányuk megváltozása jelzi egy ország fejlettségi szintjét.
 
-## 1. Mezőgazdaság (Primer / Elsődleges szektor)
+## 1. Mezőgazdaság (Primer / Elsődleges szektor)
 Ez a szektor a természet által nyújtott javak közvetlen kinyerésével és előállításával foglalkozik.
 - Fogalma: Olyan tevékenységek összessége, amelyek növényi és állati eredetű alapanyagokat állítanak elő élelmezési vagy ipari célokra.
 - Felosztása:
@@ -360,7 +360,7 @@ Ez a szektor a természet által nyújtott javak közvetlen kinyerésével és e
     - Erdőgazdálkodás, halászat és vadászat: Szintén ide tartoznak.
 - Jellemzők: Erősen függ a természeti adottságoktól (éghajlat, talaj). A modern gazdaságokban magas a gépesítettség és a vegyszerhasználat, így kevés munkaerőt igényel.
 
-## 2. Ipar (Szekunder / Másodlagos szektor)
+## 2. Ipar (Szekunder / Másodlagos szektor)
 Az ipar feladata a primer szektor által kinyert nyersanyagok feldolgozása és késztermékké alakítása.
 - Fogalma: Anyagi javak tömeges előállítása gépi erővel, munkamegosztás keretében.
 - Felosztása:
@@ -379,11 +379,11 @@ Ez a szektor nem állít elő kézzelfogható tárgyakat (nem anyagi szféra), h
     - Személyi szolgáltatások: Vendéglátás, turizmus, fodrász, javító szolgáltatások.
 - Jellemzők: A leggyorsabban fejlődő ágazat. A modern társadalmakban (posztindusztriális szakasz) a népesség több mint 70%-a itt dolgozik.
 
-## +1. A "Tudásszektor" (Kvaterner / Negyedleges szektor)
+## +1. A "Tudásszektor" (Kvaterner / Negyedleges szektor)
 A szolgáltatásokból vált ki az utóbbi évtizedekben a magas szellemi hozzáadott értéket képviselő ágazat.
 - Idetartozik: Kutatás-fejlesztés (K+F), informatika, szoftverfejlesztés, felsőoktatás, magas szintű pénzügyi tanácsadás.
 
-## Összefoglaló táblázat
+## Összefoglaló táblázat
 
 | Szektor | Elnevezés | Fő cél | Kapcsolat a természettel |
 | :-----: | :-------: | :----: | :----------------------: |
