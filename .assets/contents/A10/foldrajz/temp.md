@@ -187,9 +187,10 @@ A gazdaság ágait négy fő szektorba soroljuk. Ezek aránya megmutatja az orsz
 | :---------------: | :-------------------------------: |
 | Alacsony | A népesség 60-80%-a a primer szektorban (mezőgazdaság) dolgozik. |
 | Közepes | Erősödik a szekunder szektor (ipar), sok a gyári munkás. |
-| Magas | A tercier és kvaterner szektor dominál (70-80% felett). Ez a posztindusztriális társadalom. |
+| Magas | A tercier és kvaterner szektor dominál (70-80% felett). Ez a posztindusztriális társadalom. |  
 
 ### Kulcsfogalom: Foglalkozási átrétegződés
+
 Ez az a folyamat, amikor a gazdaság fejlődésével a munkaerő tömegesen vándorol át az egyik szektorból a másikba (pl. a gépesítés miatt a mezőgazdaságból a gyárakba, majd onnan a szolgáltatásokba).
 
 ---
@@ -299,6 +300,7 @@ Ez a szektor nem állít elő kézzelfogható tárgyakat (nem anyagi szféra), h
 ## +1. A "Tudásszektor" (Kvaterner / Negyedleges szektor)
 A szolgáltatásokból vált ki az utóbbi évtizedekben a magas szellemi hozzáadott értéket képviselő ágazat.
 - Idetartozik: Kutatás-fejlesztés (K+F), informatika, szoftverfejlesztés, felsőoktatás, magas szintű pénzügyi tanácsadás.
+
 ## Összefoglaló táblázat
 
 | Szektor | Elnevezés | Fő cél | Kapcsolat a természettel |
