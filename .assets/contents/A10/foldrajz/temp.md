@@ -213,7 +213,7 @@ Az állam megpróbálja elkerülni a nagy gazdasági válságokat és kordában 
 
 A gazdasági fejlettség mérése és a társadalom foglalkozási szerkezete szorosan összefügg: a mutatók elárulják, hol tart egy ország, a szerkezet pedig megmutatja, miből élnek az ott lakók.
 
-## 1. A gazdasági fejlettség fő mutatói
+## 1. A gazdasági fejlettség fő mutatói
 A fejlettséget nem csak pénzben mérjük, hiszen egy gazdag országban is lehet rossz az oktatás vagy az egészségügy.
 
 ### A) Gazdasági (pénzbeli) mutatók
@@ -244,7 +244,7 @@ A gazdaság ágait négy fő szektorba soroljuk. Ezek aránya megmutatja az orsz
 | Közepes | Erősödik a szekunder szektor (ipar), sok a gyári munkás. |
 | Magas | A tercier és kvaterner szektor dominál (70-80% felett). Ez a posztindusztriális társadalom. |
 
-### Kulcsfogalom: Foglalkozási átrétegződés
+### Kulcsfogalom: Foglalkozási átrétegződés
 Ez az a folyamat, amikor a gazdaság fejlődésével a munkaerő tömegesen vándorol át az egyik szektorból a másikba (pl. a gépesítés miatt a mezőgazdaságból a gyárakba, majd onnan a szolgáltatásokba).
 
 ---
