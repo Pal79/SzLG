@@ -18,11 +18,13 @@ A 20. század végétől napjainkig tart.
 - Környezeti hatás: Globális problémák jelentkeznek (klímaváltozás, ózonlyuk, biodiverzitás csökkenése). Ugyanakkor megjelenik a környezetvédelem és a fenntarthatóság igénye.
 - Szemlélet: Fenntartható fejlődés – olyan fejlődés, amely kielégíti a jelen szükségleteit anélkül, hogy veszélyeztetné a jövő generációit.
 ## Összefoglaló táblázat
+
 | Korszak | Kapcsolat jellege | Fő erőforrás | Környezeti állapot |
 | :-----: | :---------------: | :----------: | :----------------: |
 | Preindusztriális | Alkalmazkodás | Termőföld, izomerő | Érintetlen / Enyhén módosított |
 | Indusztriális | Kihasználás | Szén, kőolaj, vas | Erősen szennyezett |
 | Posztindusztriális | Felelősség / Megóvás | Információ, megújulók | Globális válság / Regeneráció kísérlete |
+
 # A világnépesség növekedése, kontinensek népessége, nagy népességű országok ismerete
 ## 1. A világnépesség növekedése és trendjei
 A Föld népessége jelenleg meghaladta a 8,3 milliárd főt (2026-os becslések alapján). Bár a lélekszám még nő, a növekedés üteme lassul.
@@ -36,6 +38,7 @@ A Föld népessége jelenleg meghaladta a 8,3 milliárd főt (2026-os becslések
 
 ## 2. A kontinensek népessége (2026)
 A népesség eloszlása rendkívül egyenetlen. A „súlypont” egyértelműen Kelet- és Dél-Ázsiában van.
+
 | Kontinens | Népesség aránya | Jellemző trend |
 | :-------: | :-------------: | :------------: |
 | Ázsia | ~59% | A legnépesebb, de a növekedés már lassul (főleg Kínában). |
@@ -44,6 +47,7 @@ A népesség eloszlása rendkívül egyenetlen. A „súlypont” egyértelműen
 | Latin-Amerika | ~8% | Lassuló növekedés, stabilizálódó lélekszám. |
 | Észak-Amerika | ~5% | Mérsékelt növekedés, főleg a bevándorlás miatt. |
 | Ausztrália és Óceánia | <1% | Alacsony népsűrűség. |
+
 ## 3. A legnépesebb országok (TOP 5)
 A rangsorban történelmi csere történt az elmúlt években: India megelőzte Kínát.
 - India: ~1,45 milliárd fő (továbbra is nő).
@@ -96,6 +100,7 @@ Olyan lakóhelyek, amelyek távol esnek egymástól, és általában csak egy-k�
 ## 2. Csoportos települések: Falu vs. Város
 A középiskolai tananyag központi eleme a két fő településtípus összehasonlítása.
 ### Összehasonlító táblázat
+
 | Szempont | Falu (Község) | Város |
 | :------: | :-----------: | :---: |
 | Lélekszám | Alacsony (pár száztól pár ezerig) | Magas (tízezrektől milliókig) |
@@ -104,6 +109,7 @@ A középiskolai tananyag központi eleme a két fő településtípus összehas
 | Szerepkör (Funkció) | Lakóhely, mezőgazdasági termelés | Központi funkciók: kórház, egyetem, mozi, bankok |
 | Kapcsolatok | Közvetlen, az emberek ismerik egymást | Személytelenebb, nagyobb az anonimitás |
 | Infrastruktúra | Hiányosabb tömegközlekedés, kevesebb üzlet | Fejlett közlekedési hálózat, szaküzletek, szolgáltatások |
+
 ## 3. Az urbanizáció (városiasodás) folyamata
 A városok nemcsak nőnek, hanem át is alakítják a környezetüket. Ennek főbb fogalmai:
 - Városodás: Mennyiségi folyamat, amikor a városok száma és a városi lakosság aránya nő.
@@ -143,6 +149,7 @@ Az állam megpróbálja elkerülni a nagy gazdasági válságokat és kordában 
 | Szabadpiaci (liberális) | Minimális, csak a kereteket adja | USA |
 | Szociális piacgazdaság | Erős jóléti funkciók, magas adók | Németország, Skandináv államok |
 | Tervgazdaság (diktatúra) | Teljes irányítás, nincs magántulajdon | Észak-Korea, (régen a Szovjetunió) |
+
 # A gazdasági fejlettség mutatói (pl. GDP, HDI), a gazdasági és a foglalkozási szerkezet
 A gazdasági fejlettség mérése és a társadalom foglalkozási szerkezete szorosan összefügg: a mutatók elárulják, hol tart egy ország, a szerkezet pedig megmutatja, miből élnek az ott lakók.
 ## 1. A gazdasági fejlettség fő mutatói
@@ -171,7 +178,8 @@ A gazdaság ágait négy fő szektorba soroljuk. Ezek aránya megmutatja az orsz
 | Alacsony | A népesség 60-80%-a a primer szektorban (mezőgazdaság) dolgozik. |
 | Közepes | Erősödik a szekunder szektor (ipar), sok a gyári munkás. |
 | Magas | A tercier és kvaterner szektor dominál (70-80% felett). Ez a posztindusztriális társadalom. |
-### Kulcsfogalom: Foglalkozási átrétegződés
+
+### Kulcsfogalom: Foglalkozási átrétegződés  
 Ez az a folyamat, amikor a gazdaság fejlődésével a munkaerő tömegesen vándorol át az egyik szektorból a másikba (pl. a gépesítés miatt a mezőgazdaságból a gyárakba, majd onnan a szolgáltatásokba).
 # A világgazdaság központjai, erőterei, jellemzőik (pl. TRIÁD)
 A világgazdaság nem egyenletesen oszlik el a Földön; bizonyos területek (centrumok) irányítják a folyamatokat, míg mások (perifériák) kiszolgálják azokat. A 2026-os adatok alapján ez a szerkezet egyre inkább többpólusúvá válik.
@@ -198,6 +206,7 @@ A világgazdaságot a hierarchia jellemzi, amit a centrum-periféria modell ír 
 | Centrum | Magas technológia, K+F, tőkeerő, irányító szerep, magas HDI. | USA, Németország, Japán |
 | Félperiféria | Közepesen fejlett ipar, összeszerelő üzemek, felzárkózó gazdaság. | Magyarország, Lengyelország, Brazília, Kína egyes részei |
 | Periféria | Nyersanyagexport, olcsó munkaerő, tőkehiány, függőség a centrumtól. | Fekete-Afrika nagy része, Közép-Ázsia egyes országai |
+
 ## 4. Aktuális trendek 2026-ban
 - Geopolitikai feszültségek: A szabadkereskedelem helyett felerősödött a protekcionizmus (védővámok, pl. USA vs. Kína).
 - Technológiai verseny: Aki uralja a mesterséges intelligenciát (AI) és a chipgyártást, az uralja a gazdaságot. Ebben az USA és Kína vív különpárharcot.
@@ -231,6 +240,7 @@ Magyarország a rendszerváltás óta a TNC-k kedvelt célpontja, főként a ked
 |           | Lego | Nyíregyháza |
 |           | BorsodChem (Wanhua) | Kazincbarcika |
 | Szolgáltatás | Google, Microsoft | Budapest |
+
 ## 4. Hatásuk a gazdaságra (Pro és Kontra)
 Előnyök:
 - Munkahelyteremtés: Több tízezer embernek adnak közvetlenül munkát.
@@ -278,3 +288,4 @@ A szolgáltatásokból vált ki az utóbbi évtizedekben a magas szellemi hozzá
 | Szekunder | Másodlagos | Feldolgozás, gyártás | Közvetett (átalakítás) |
 | Tercier | Harmadlagos | Kiszolgálás, segítés | Minimális (erőforrás-felhasználó) |
 | Kvaterner | Negyedleges | Információ, innováció | Elvont (virtuális/szellemi) |
+
