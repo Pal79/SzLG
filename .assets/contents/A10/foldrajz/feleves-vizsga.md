@@ -194,7 +194,7 @@ A történelem során a társadalmak egy folyamatos foglalkozási átrétegződ�
 | :-: | :-: | :-: |
 | Alacsony (fejlődő) | Primer | A lakosság többsége (akár 60-80%) a mezőgazdaságban dolgozik. |
 | Közepes (ipari) | Szekunder | Az ipar jelentősége nő, a mezőgazdaságból a gyárakba áramlik a munkaerő. |
-| Magas (fejlett) | Tercier/Kvaterner | A szolgáltatások és az informatika dominálnak (70-80% felett). |
+| Magas (fejlett) | Tercier/Kvaterner | A szolgáltatások és az informatika dominálnak (70-80% felett). |  
 :memo: Érdekesség: Egy ország akkor tekinthető modern, posztindusztriális (ipar utáni) társadalomnak, ha a szolgáltató szektorban dolgozók aránya tartósan magas, és a gazdasági növekedést már nem a nyersanyagok, hanem az információ és a tudás hajtja.
 
 ---
