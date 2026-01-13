@@ -21,6 +21,28 @@
         * $a_{k}=\frac{4+9}{2}=6.5$
         * $g=\sqrt{4\cdot9}=6$
 
+## 2210 feladat
+### a.
+* $a=3$
+* $b=27$
+    * $a_{k}=\frac{3+27}{2}=15$
+    * $g=\sqrt{3 \cdot 27}=9$
+### b.
+* $a=12$
+* $b=27$
+    * $a_{k}=\frac{12+27}{2}=19.5$
+    * $g=\sqrt{12 \cdot 27}=18$
+### c.
+* $a=20$
+* $b=45$
+    * $a_{k}=\frac{20+45}{2}=32.5$
+    * $g=\sqrt{20 \cdot 45}=30$
+### d.
+* $a=40$
+* $b=90$
+    * $a_{k}=\frac{40+90}{2}=65$
+    * $g=\sqrt{40 \cdot 90}=60$
+
 ---
 
 </details>
@@ -54,6 +76,60 @@ Az $ax^{2}+bx+c=0$ alakú egyenletek megoldására szolgál.
 Ha az egyenlet gyökei $x_{1}$ és $x_{2}$, akkor a másodfokú kifejezés felírható szorzatként.
 * **Alak**: $a(x-x_{1})(x-x_{2})=0$
 * **Példa**: Ha a gyökök 2 és 3, az egyenlet: $(x-2)(x-3)=0$
+
+## 2168. feladat
+### a.
+* $x^{2}+x-6$;
+
+* $x^{2}+5x+6$
+    * $a=1$
+    * $b=5$
+    * $c=6$
+        * $x_{1,2}=\frac{-5 \pm \sqrt{5^{2} - 4 \cdot 1 \cdot 6}}{2 \cdot 1}=$
+            * $D = 5^{2} - 4 \cdot 1 \cdot 6 = 1$
+        * $=\frac{-5 \pm  \sqrt{1}}{2}=$
+            * $x_{1} = \frac{-5+1}{2} = \frac{-4}{2} = -2$
+            * $x_{2} = \frac{-5-1}{2} = \frac{-6}{2} = -3$
+* Szorzattá alakítás:
+    * $(x+2)(x+3)$
+
+### $x^{2}−2x−8$
+* $a=1$
+* $b=-2$
+* $c=-8$
+    * $x_{1,2}=\frac{2 \pm \sqrt{(-2)^{2} - 4 \cdot 1 \cdot (-8)}}{2 \cdot 1}=$
+        * $D = (-2)^{2} - 4 \cdot 1 \cdot (-8) = 36$
+    * $\frac{2 \pm \sqrt{36}}{2}$
+        * $x_{1} = \frac{2 + \sqrt{36}}{2} = \frac{8}{2} = 4$
+        * $x_{2} = \frac{2 - \sqrt{36}}{2} =  \frac{-4}{2} = -2$
+* Szorzattá alakítás:
+    * $(x-4)(x+2)$
+
+### $x^{2}−6x+5$
+* $a = 1$
+* $b = (-6)$
+* $c = 5$
+    * $x_{1,2} = \frac{6 \pm \sqrt{(-6)^{2} - 4 \cdot 1 \cdot 5 }}{2 \cdot 1} =$
+        * $D = (-6)^{2} - 4 \cdot 1 \cdot 5 = 16$
+    * $\frac{6 \pm \sqrt{16}}{2} =$
+        * $x_{1} = \frac{6 + \sqrt{16}}{2} = \frac{10}{2} = 5$
+        * $x_{2} = \frac{6 - \sqrt{16}}{2} = \frac{2}{2} = 1$
+* Szorzattá alakítás:
+    * $(x - 5)(x - 1)$
+
+## 2169 feladat
+### a.
+* 3 és 4
+    * $(x-3)(x-4)=x^{2}-4x-3x+12=x^{2}-7x+12$
+### b.
+* -2 és 7
+    * $(x+2)(x-7)=x^{2}-7x+2x-14=x^{2}-5x-14$
+### c.
+* -3 és -6
+    * $(x+3)(x+6)=x^{2}+6x+3x+18=x^{2}+9x+18$
+### d.
+* 1 és -5
+    * $(x-1)(x+5)=x^{2}+5x-x-5=x^{2}+4x-5$
 
 ---
 
