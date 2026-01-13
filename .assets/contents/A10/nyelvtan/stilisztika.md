@@ -15,7 +15,7 @@ A stílust a nyelvhasználat módját befolyásoló tényezők:
 - a megszólaló egyénisége
 >
 A stílus rétegek:
-1. társalgási stílus:
+1. **társalgási stílus**:
     - A mindennapok és az emberi kapcsolatok közlési formája. A stílust a társas érintkezés alakította ki, ezért legfőbb stílusjegyei a kötetlenség, fordulatosság.
     - Szókincse változatos a köznyelvi szókészlet mellett csoportnyelvvé, tájnyelvvé, zsargon és ... elemek egyaránt megtalálhatók.
     - Kedveli a beszédhelyzetekre utaló szavakat és kifejezéseket, így lehetnek benne tréfás, familiáris, gúnyos, durva, vulgáris szavak is.
@@ -32,7 +32,7 @@ A stílus rétegek:
         - Írásban
             - levél
             - napló
-1. tudományos és szakmai
+1. **tudományos és szakmai**:
     - A tudományos művek jellemző nyelvhasználata. E művek célja és feladata a valóság törvényszerűségeinek megismerése és megismertetése, adatszerű bizonyítással.
     - Érthetőségre és egyértelműségre törekszik.
     - Pontosan körülhatárlot szakszavakat használ.
@@ -48,7 +48,7 @@ A stílus rétegek:
         - tanulmány
         - szakmai kérdést tárgyaló vita
         - hozzászólás 
-1. publicisztikai
+1. **publicisztikai**:
     - Az újságírás (sajtó, rádió, TV, intermnet) a propaganda, az agitáció stílusa.
     - A pulicisztika feladata a társadalom tagjainak tájékoztatása a politikai, gazdasági, társadalmi, kultúrális élet időszerű eseményeiről.
     - A tájékoztatás nem kizárólagos cél, benne van az állásfoglalás szándéka is.
@@ -66,7 +66,7 @@ A stílus rétegek:
     - Az újságírói szókincs használata sajátos új szavak neologizmusok használata.
     - Gondosan ffeltüntetett tényanyag ... , kortársak neve, időmegjelölés, szervezetekre, intézményekre való hivatkozás, dokumentumok szó szerinti vagy tartalmi idézése.
     - Mondat szerkesztése, mondat főrésze általában egyszerű, könnyen érthető
-1. közéleti írásbeliség: hivatalos stílus
+1. **közéleti írásbeliség: hivatalos stílus**:
     - A közélet hivatalos érintekési formáiban jelentkezik: a tövény alkotás, a rendeletek, a közlemények és minden fajta hivatalos érintkezéshez szükséges írásbeli megnyilvánulás nyelvi megformálásában.
     - szóhasználataira jellemző:
         - sajátos, többnyire latin eredetű műszók és hivatalos kifejezések használata
@@ -85,8 +85,8 @@ A stílus rétegek:
         - jegyzőkönyv
         - felszólítás
         - motivációs levél
-1. közéleti szóbeliség: előadói vagy szónoki...
-1. szépirodalmi vagy művészi
+1. **közéleti szóbeliség: előadói vagy szónoki...**
+1. **szépirodalmi vagy művészi**
 
 ---
 
