@@ -49,7 +49,7 @@ A stílus rétegek:
         - szakmai kérdést tárgyaló vita
         - hozzászólás 
 1. **publicisztikai**:
-    - Az újságírás (sajtó, rádió, TV, intermnet) a propaganda, az agitáció stílusa.
+    - Az újságírás (sajtó, rádió, TV, internet) a propaganda, az agitáció stílusa.
     - A pulicisztika feladata a társadalom tagjainak tájékoztatása a politikai, gazdasági, társadalmi, kultúrális élet időszerű eseményeiről.
     - A tájékoztatás nem kizárólagos cél, benne van az állásfoglalás szándéka is.
     - Műfajai:
