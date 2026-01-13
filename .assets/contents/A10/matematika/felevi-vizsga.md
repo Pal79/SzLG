@@ -203,10 +203,13 @@ A megoldóképletben a gyök alatti kifejezés:
 $D = b^{2}-4\cdot a\cdot c$  
 ez határozza meg a megoldások számát.
 * Ha $D>0$: két különböző megoldás
+
 ![diszkrimináns 1.](../images/matematika-diszkriminans-001.svg)
 * Ha $D=0$: egy valós megoldás (két egybeeső)
+
 ![diszkrimináns 2.](../images/matematika-diszkriminans-002.svg)
 * Ha $D<0$: nincs valós megoldás
+
 ![diszkrimináns 3.](../images/matematika-diszkriminans-003.svg)
 
 ---
