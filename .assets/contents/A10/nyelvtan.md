@@ -14,3 +14,4 @@
 - [Első negyedéves vizsga PDF](./pdf/nyelvtan-elso-negyedeves-vizsga.pdf)
 - [Hivatalos levél formai követelményei](./nyelvtan/hivatalos-level-formai-kovetelmenyei.md)
 - [Stilisztika](./nyelvtan/stilisztika.md)
+- [Állásinterjú, felvételi beszélgetés, meghallgatás](./nyelvtan/allasinterju-feveteli-beszelgetes-meghallgatas.md)
