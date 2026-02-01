@@ -129,6 +129,12 @@ Számítsd ki a harmadik oldalt (koszinusztétel).
 Egy háromszögben:
 $a = 12\text{ cm}$, $b = 15\text{ cm}$, $c = 17\text{ cm}$.  
 Számítsd ki a legnagyobb szöget (koszinusztétel + trigonometria).
+- $a = 12\text{ cm}$
+- $b = 15\text{ cm}$
+- $c = 17\text{ cm}$
+- Itt szükséges a koszinusztétel: [Négy trigonometriai alap tétel](./negy-trigonometriai-alap-tetel.md)
+    - $cos(\gamma) = \frac{a^{2} + b^{2} - c^{2}}{2ab} = \frac{12^{2} + 15^{2} - 17^{2}}{2 \cdot 12 \cdot 15} = \frac{144 + 225 - 289}{2 \cdot 12 \cdot 15} = \frac{80}{360} = \frac{2}{9} = 0.2222$
+    - $\gamma = arccos(0.2222) \approx 77.16^\circ$
 
 8. feladat  
 Egy rádiótorony $60\text{m}$ magas. A torony tetejéről egy drótkötél a talaj egy pontjához csatlakozik úgy, hogy a kötél $40^\circ$-os szöget zár be a talajjal.  
@@ -141,6 +147,7 @@ Egy repülőgép $5^\circ$-os emelkedési szöggel emelkedik. Mekkora magasságo
 Egy hegycsúcsot két különböző pontból figyelünk.  
 Az első pontból a csúcs emelkedési szöge $18^\circ$, a második pontból (ami $300\text{m}$-el közelebb van a hegyhez) $25^\circ$.  
 Milyen magas a hegy?
+
 
 ---
 
