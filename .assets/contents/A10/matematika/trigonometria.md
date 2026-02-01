@@ -15,8 +15,8 @@
 ## Definíciók
 ### Szinusz
 - A `szinusz` egy derékszögű háromszögben a szöggel szemközti befogó és az átfogó aránya. (hegycsúcsok magasságának a kiszámításához a mai napig használják).
-    - $ sin (\alpha) $ Megadja: szemközti befogó / átfogó $= \frac{a}{c}$ 
-### Koszinusz
+    - $sin(\alpha) $ Megadja: szemközti befogó / átfogó $= \frac{a}{c}$ 
+### Koszinusz
 - A `koszinusz` a derékszögű háromszögben a szög melletti befogó és az átfogó aránya.
     - $cos(\alpha)$ megadja: szomszédos befogó / átfogó $= \frac{b}{c}$
 ### Tangens
