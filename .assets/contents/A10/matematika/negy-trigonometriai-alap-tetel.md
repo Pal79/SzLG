@@ -19,24 +19,24 @@ Mikor használjuk?
 
 ## Koszinusztétel
 Tetszőleges háromszögben:
-$c^2 = a^2 + b^2 - 2ab\cos\gamma$
+$c^2 = a^2 + b^2 - 2ab \cdot \cos(\gamma)$
 
 Hasonlóképpen:  
-$a^2 = b^2 + c^2 - 2bc\cos\alpha$  
-$b^2 = a^2 + c^2 - 2ac\cos\beta$
+$a^2 = b^2 + c^2 - 2bc \cdot \cos(\alpha)$  
+$b^2 = a^2 + c^2 - 2ac \cdot \cos(\beta)$
 
-Mit mond ki?
+Mit mond ki?  
 A harmadik oldal négyzete = két oldal négyzetének összege – kétszer a szorzatuk és a közbezárt szög koszinuszának szorzata.
 
 Mikor használjuk?
 - Ha két oldal + közbezárt szög adott
-- Ha három oldal adott → szöget keresünk
+- Ha három oldal adott $\implies$ szöget keresünk
 
 ## Tangens tétel
 Tetszőleges háromszögben:
 $\frac{a - b}{a + b} = \frac{\tan\left(\frac{\alpha - \beta}{2}\right)}{\tan\left(\frac{\alpha + \beta}{2}\right)}$
 
-Mit mond ki?
+Mit mond ki?  
 Két oldal különbségének és összegének aránya kapcsolatban van a szemközti szögek félösszegének és félkülönbségének tangensével.
 
 Mikor használjuk?
@@ -50,9 +50,9 @@ $\cot\gamma = \frac{a^2 + b^2 - c^2}{4T}$
 ahol T a háromszög területe.
 
 Másik alakja:
-$\cot\gamma = \frac{a\cos\beta + b\cos\alpha}{a\sin\beta + b\sin\alpha}$
+$\cot(\gamma) = \frac{a \cdot \cos(\beta) + b \cdot \cos(\alpha)}{a \cdot \sin(\beta) + b \cdot \sin(\alpha)}$
 
-Mit mond ki?
+Mit mond ki?  
 A kotangens a háromszög oldalai és területe között teremt kapcsolatot.
 
 Mikor használjuk?
@@ -60,11 +60,11 @@ Mikor használjuk?
 - Terület–szög–oldal összefüggéseknél
 - Trigonometrikus átalakításoknál
 
-## Összefoglaló
+## Összefoglaló
 | Tétel | Képlet | Mire jó? |
 | :-- | :-- | :-- |
 | **Szinusz tétel** | $\frac{a}{\sin \alpha} = \frac{b}{\sin \beta} = \frac{c}{\sin \gamma}$ | Oldal-szög arányok |
-| **Koszinusz tétel** | $c^2 = a^2 + b^2 - 2ab\cos\gamma$ | Oldal vagy szög számítása |
+| **Koszinusz tétel** | $c^2 = a^2 + b^2 - 2ab \cdot \cos(\gamma)$ | Oldal vagy szög számítása |
 | **Tangens tétel** | $\frac{a - b}{a + b} = \frac{\tan\left(\frac{\alpha - \beta}{2}\right)}{\tan\left(\frac{\alpha + \beta}{2}\right)}$ | Fél-szöges összefüggések |
 | **Kotangens tétel** | $\cot\gamma = \frac{a^2 + b^2 - c^2}{4T}$ | Terület-szög-oldal kapcsolat |
 
