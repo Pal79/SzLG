@@ -15,14 +15,14 @@
 ## Definíciók
 ### Szinusz
 - A `szinusz` egy derékszögű háromszögben a szöggel szemközti befogó és az átfogó aránya. (hegycsúcsok magasságának a kiszámításához a mai napig használják).
-    - $sin(\alpha) $ Megadja: szemközti befogó / átfogó $= \frac{a}{c}$ 
+    - $sin(\alpha)$ Megadja: szemközti befogó / átfogó $= \frac{a}{c}$ 
 ### Koszinusz
 - A `koszinusz` a derékszögű háromszögben a szög melletti befogó és az átfogó aránya.
     - $cos(\alpha)$ megadja: szomszédos befogó / átfogó $= \frac{b}{c}$
 ### Tangens
 - A `tangens` a befogókról szól: a szöggel szemközti és a szög melletti befogók arányát írja le.
     - $tan(\alpha)$ megadja: szemközti befogó / szomszédos befogó $=\frac{a}{b}$
-### Kotangens
+### Kotangens
 - A `kotangens` a tangens reciproka, vagyis a két befogó arányát fordítva adja meg.
     - $cot(\alpha)$ megadja: szomszédos befogó / szemközti befogó $=\frac{b}{a}$
 ## Mikor melyiket használjuk?
