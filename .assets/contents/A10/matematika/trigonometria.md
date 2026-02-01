@@ -72,7 +72,10 @@ Ha átfogó van $\implies$ sin/cos
 Ha befogó van $\implies$ tan/cot  
 Ha szöget keresel $\implies$ arcsin/arccos/arctan/arccot
 
-## Feladatok / megoldás
+- [Összes trigonometriai alak](./osszes-trigonometriai-alak.md)
+- [Négy trigonometriai alap tétel](./negy-trigonometriai-alap-tetel.md)
+
+## Feladatok / megoldások
 1. feladat  
 Egy derékszögű háromszög egyik befogója $a = 12\text{ cm}$, a hozzá tartozó szög pedig $\alpha = 35^\circ$.  
 Számítsd ki a másik befogót.
@@ -122,7 +125,6 @@ Számítsd ki a harmadik oldalt (koszinusztétel).
 - $b = 25\text{ cm}$
 - $\gamma = 47^\circ$
 - $c = ?$
-- Itt szükséges a koszinusztétel: [Négy trigonometriai alap tétel](./negy-trigonometriai-alap-tetel.md)
     - $c^{2} = a^{2} + b^{2} - 2ab \cdot cos(\alpha) = 18^{2} + 25^{2} - 2 \cdot 18 \cdot 25 \cdot cos{47} = \sqrt{335.2014759} = 18.30850829\text{cm}$
 
 7. feladat  
@@ -132,13 +134,16 @@ Számítsd ki a legnagyobb szöget (koszinusztétel + trigonometria).
 - $a = 12\text{ cm}$
 - $b = 15\text{ cm}$
 - $c = 17\text{ cm}$
-- Itt szükséges a koszinusztétel: [Négy trigonometriai alap tétel](./negy-trigonometriai-alap-tetel.md)
     - $cos(\gamma) = \frac{a^{2} + b^{2} - c^{2}}{2ab} = \frac{12^{2} + 15^{2} - 17^{2}}{2 \cdot 12 \cdot 15} = \frac{144 + 225 - 289}{2 \cdot 12 \cdot 15} = \frac{80}{360} = \frac{2}{9} = 0.2222$
     - $\gamma = arccos(0.2222) \approx 77.16^\circ$
 
 8. feladat  
 Egy rádiótorony $60\text{m}$ magas. A torony tetejéről egy drótkötél a talaj egy pontjához csatlakozik úgy, hogy a kötél $40^\circ$-os szöget zár be a talajjal.  
 Milyen hosszú a drótkötél?
+- $a = 60\text{m}$
+- $\alpha = 40^\circ$
+- $c = ?$
+    - $sin(\alpha) = \frac{a}{c} \implies c = \frac{a}{sin(\alpha)} = $
 
 9. Feladat  
 Egy repülőgép $5^\circ$-os emelkedési szöggel emelkedik. Mekkora magasságot ér el $2\text{km}$ vízszintes megtétele után?
