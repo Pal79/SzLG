@@ -97,15 +97,33 @@ Milyen messze van az autó a domb lábától?
 4. feladat  
 Egy torony tetejéről egy templom tornya $12^\circ$-os emelkedési szög alatt látszik. A két torony közti vízszintes távolság $150\text{m}$.
 Milyen magas a templom tornya, ha a megfigyelő torony $40\text{m}$ magas?
+- $\alpha = 12^\circ$
+- $b = 150\text{m}$
+- $a = ?$
+- $Saját_{magasság} = 40\text{m}$
+    - $a = b \cdot tan(\alpha) = 150 \cdot tan(12) = 31.88348425m$
+    - $Saját_{magasság} + a = 40 + 31.88348425 = 71.88348425m$
 
 5. feladat  
 Egy hajó $25^\circ$-os emelkedési szög alatt lát egy szikla tetejét. A hajó $180\text{m}$-re van a szikla lábától.  
 Milyen magas a szikla?
+- $\alpha = 25^\circ$
+- $b = 180\text{m}$
+- $a = ?$
+    - $a = b \cdot tan(\alpha) = 180 \cdot tan(25) = 83.93537847\text{m}$
+
+---
 
 6. feladat  
 Egy háromszög két oldala:
 $a = 18\text{ cm}$, $b = 25\text{ cm}$, és a közbezárt szög $\gamma = 47^\circ$.  
 Számítsd ki a harmadik oldalt (koszinusztétel).
+- $a = 18\text{ cm}$
+- $b = 25\text{ cm}$
+- $\gamma = 47^\circ$
+- $c = ?$
+- Itt szükséges a koszinusztétel: [Négy trigonometriai alap tétel](./negy-trigonometriai-alap-tetel.md)
+    - $c^{2} = a^{2} + b^{2} - 2ab \cdot cos(\alpha) = 18^{2} + 25^{2} - 2 \cdot 18 \cdot 25 \cdot cos{47} = \sqrt{335.2014759} = 18.30850829\text{cm}$
 
 7. feladat  
 Egy háromszögben:
