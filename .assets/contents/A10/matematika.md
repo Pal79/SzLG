@@ -10,3 +10,4 @@
 - [Magasabb fokszámú egyenletek](./matematika/magasabb-fokszamu-egyenletek.md)
 - [A gyöktényezős alak. Gyökök és együtthatók közötti összefüggés](./matematika/gyoktenyezos-alak-gyokok-es-egyutthatok-kozotti-osszefugges.md)
 - [Másodfokú egyenlőtlenségek](./matematika/masodfoku-egyenlotlensegek.md)
+- [Trigonometria](./matematika/trigonometria.md)
