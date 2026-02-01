@@ -10,6 +10,8 @@
 - A `koszinusz` a derékszögű háromszögben a szög melletti befogó és az átfogó aránya.
 - A `tangens` a befogókról szól: a szöggel szemközti és a szög melletti befogók arányát írja le.
 ## SZÖGFÜGGVÉNYEK DERÉKSZÖGŰ HÁROMSZÖGBEN
+![derékszögű háromszög](../images/matematika-trigonometria.svg)
+
 $sin \alpha = \frac{szöggel szemközti befogó}{átfogó} = \frac{a}{c}$
 
 $cos \alpha = \frac{szög melletti befogó}{átfogó} = \frac{b}{c}$
