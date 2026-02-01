@@ -48,7 +48,7 @@
 - `Tangens`:
     - $\alpha = \arctan(\frac{a}{b})$
 - `Kotangens`:
-    - $\alpha = \operatorname{arccot}(\alpha) \left (\frac{b}{a}\right)$
+    - $\alpha = arccot \left (\frac{b}{a}\right)$
 #### Tipikus feladatok:
 - dőlésszög meghatározása
 - emelkedők, lejtők meredeksége
