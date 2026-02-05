@@ -15,3 +15,4 @@
 - [Magyar felvilágosodás irodalma](./irodalom/magyar-felvilagosodas-irodalma.md)
 - [Félévi vizsga](./irodalom/irodalom-felevi-vizsga.md)
 - [Kazinczy Ferenc](./irodalom/kazinczy-ferenc.md)
+- [Csokonai Vitéz Mihály](./irodalom/csokonai.md)
