@@ -29,6 +29,13 @@ A nyelvi harcban a szembenálló két tábort neológusokra (újítók) és orto
     - 1815: Kölcsey Ferenc és Szemere Pál válasza a támadásra. Ebben a neológusok nevében gúnyolták ki a maradiak körülményes, nehézkes és pórias (vagyis műveletlen, vidékias) nyelvét.
     - 1819: Kazinczy - Orthologus és neologus nálunk és más nemzeteknél - Ez a harc elvi lezárása és összefoglalása. Kazinczy itt békülékenyebb hangot üt meg: kijelenti, hogy a nyelv egészséges fejlődéséhez az ortológiára (hagyományőrzés) és a neológiára (újítás) egyaránt szükség van.
 ## A nyelvújító szógyarapító eljárásai
+1. nyelvjárási szavakat tettek köznyelvivé - betyár, róna, kamat, csuk, 
+2. elavult szavakat régi magyar személy neveket mentettek meg a feledéstől - év, hon, hölgy, szobor - Ákos, Árpád, Gyula, Zoltán
+3. idegen szavak önkényes átalakításával magyarosabb hangzásúvá tételével - bálna, pillér, Lipcse (Kappanhágó (Koppenhága), Istókhalma (Stockholm))
+4. elvonás vagy szócsonkítás: árnyékból -> árny csendesből -> csend, emlékezetből -> emlék, romlik - rom, címer -> cím, gyárt -> gyár
+5. összerántás: cső + orr = csőr, könnyű + elméjű = könnyelmű
+6. szóképzés: alakít, értelem, hordár, régészet
+7. szóösszetétel: búskomor, folyóirat, szemüveg, jogerős, raktár
 
 ---
 
