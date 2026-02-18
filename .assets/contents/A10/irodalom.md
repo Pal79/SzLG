@@ -16,3 +16,4 @@
 - [Félévi vizsga](./irodalom/irodalom-felevi-vizsga.md)
 - [Kazinczy Ferenc](./irodalom/kazinczy-ferenc.md)
 - [Csokonai Vitéz Mihály](./irodalom/csokonai.md)
+- [Berzsenyi Dániel](./irodalom/berzsenyi-daniel.md)
