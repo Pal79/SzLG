@@ -25,6 +25,21 @@ Ferromágneses anyagok
 - a ferromágneses anyagok a külső mágneses tér megszűnte után is megtartják mágneses tulajdonságaikat.
 (Pierre Curie) - Curie pont az a hőm pont, ahol a ferromágneses anyagok elvesztik mágneses tulajdonságukat
 
+## Mágneses tér jellemzése indukcióvektor 
+Lorenz erő a mágnese tér által a mágneses térben mozgó töltésekre van hatással.  
+$F_{max} = B v * q$
+$vec{F}_{max} = \vec{B} \vec{v} * q$
+B - indukcióvektor
+
+$[B] = \frac{[F_{max}]}{[v*q]} = \frac{N}{\frac{m}{s}q} = T (\text{Tesla})$
+
+
+Lorenz erő áramjárta vezető esetén
+$F_{max} = B * I * l$
+
+Lorenz erő áram járta vezetők esetén
+$M_{max} = B I A N$
+
 ---
 
 [Vissza](../fizika.md)
