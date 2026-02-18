@@ -34,6 +34,44 @@ Hangneme:
 3. versszak - boldogtalanság: hervadó, pusztuló kert
 4. versszak - búcsú a reménytől, búcsú az élettől - reménytelenség
 
+# Irodalom
+## A Magánossághoz
+Keletkezése: 1798 kisasszon barátjának parkja  
+Műfaja: elégiko-óda
+- 1. versszak:
+    - a megszemélyesített magány megszólítása, "áldott magánosság", "kedves istenasszony". A Világ nyüzsgésétől elvonul az egyedüllétet menedéknek tekinti. Kéri, hogy ne hagyja el.
+- 2.-3. versszak:
+    - A magány lakhelyét írja le, az emberektől távoli természetben szeret gyönyörködni, ide vágyódik a megsebzett lelkű költő is.
+- 4.-5. versszak:
+    - az előző kettő ellentéte. A magányosság kerüli a királyi udvarokat, menekül a városok zajától, de a fösvények számára menedék.
+- 6.-7. versszak:
+    - a magány áldásait jótéteményeit emeli ki. A bölcsesség forrása a művész számára az alkotó ihlet lehetősége.
+- 8.-9. versszak:
+    - a magánosság megérti őt, hűséges, nincs tettetés szavában.
+- 10.-11. versszak:
+    - a meghalás számára nem valamiféle borzalom, a magánosság ott is vele lesz.
+
+## Tihanyi ekhóhoz
+- Keletkezése:
+    - első változata 1796-98, a végső 1803
+- ekhó = visszhang
+- műfaja: elégia
+- témája: mint azaz előző vers (magánossághoz)
+- típusa: létösszegző költemény
+- hangneme: kevert (retorikus és elégikus)
+- jellegzetessége: ekhós vers, minden nyolcadik sor a hetedik sor megismétlése, vagyis visszhangja
+
+`Első rész (1.-2. versszak)`: 
+Az ekhó megszólítása a vershelyzet, a lírai én magányosan üldögél a füredi parton és a tihanyi visszhangot szólongatja
+
+`Második rész (3.-6. versszak)`: 
+Elmagányosodásának okait sorolja fel, utalva életének meghatározó mozzanataira: a kollégiumból való kicsapás, a pártfogók és a mecénások közönye, Lilla másé lett
+
+`Harmadik rész (7.-10. versszak)`: 
+Levonja a következtetést, nincs keresnivalója az emberi társadalomban. Rousseau példáját szeretné követni, egy remetelakban élni le hátralévő életét -> kivonulni a társadalomból, vissza a természetbe
+
+Vers zárlata a halál: már csak az utókor ítéletében, elismerésében bízik.
+
 ---
 
 [Vissza](../irodalom.md)
