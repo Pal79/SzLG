@@ -15,3 +15,4 @@
 - [Hivatalos levél formai követelményei](./nyelvtan/hivatalos-level-formai-kovetelmenyei.md)
 - [Stilisztika](./nyelvtan/stilisztika.md)
 - [Állásinterjú, felvételi beszélgetés, meghallgatás](./nyelvtan/allasinterju-feveteli-beszelgetes-meghallgatas.md)
+- [Közéleti szóbeliség](./nyelvtan/kozeleti-szobeliseg.md)
