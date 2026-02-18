@@ -28,6 +28,13 @@
     * a beszélgetésünk során nézzünk a felvételiző szemébe
     * ne tegezzük le az interjúztatót
 
+Az állásinterjú egy beszélgetés, amely a potenciális munkaadó és a munkára jelentkező között zajlik.  
+Munkaadó igyekszik kideríteni hogy a pályázó alkalmas e a megpályázott állás betöltésére, míg a pályázó meg szeretné ismerni a pozíciót és egyúttal meggyőzni a leendő munkaadót.  
+Formája az általános beszélgetéstől a komoly társalgásig mindenféle lehet.  
+A pályázó a meghirdetett pozícióra önéletrajzával motivációs levéllel és egyéb más szükséges dokumentumokkal jelentkezik.  
+Egyes esetekben telefonos interjú előzi meg a személyes találkozást - időt megspórolva mindkét félnek.  
+Nagyobb vállalatnál gyakori hogy több interjún is részt kell venni.
+
 ---
 
 [Vissza](../nyelvtan.md)
