@@ -19,3 +19,4 @@
 | [Csokonai Vitéz Mihály](./irodalom/csokonai.md) |
 | [Berzsenyi Dániel](./irodalom/berzsenyi-daniel.md) |
 | [Romantika](./irodalom/romantika.md) |
+| [Háromnegyed éves vizsga](./pdf/irodalom-haromnegyedeves-vizsga.pdf) |
