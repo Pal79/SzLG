@@ -30,10 +30,10 @@ $sin60^{\circ} = \frac{\sqrt{3}}{2}$, $cos60^{\circ} = \frac{1}{2}$, $tg60^{\cir
 
 |  | $30^{\circ}$ | $45^{\circ}$ | $60^{\circ}$ |
 | :---: | :---: | :---: | :---: |
-| sin | $\frac{1}{2}$ | $\frac{\sqrt{2}}{2}$ | $\frac{\sqrt{3}}{2}$ |
-| cos | $\frac{\sqrt{3}}{2}$ | $\frac{\sqrt{2}}{2}$ | $\frac{1}{2}$ |
-| tg | $\frac{\sqrt{3}}{3}$ | $1$ | $\sqrt{3}$ |
-| ctg | $\sqrt{3}$ | $1$ | $\frac{\sqrt{3}}{3}$ |
+| sin |  $\frac{1}{2}$  |  $\frac{\sqrt{2}}{2}$  |  $\frac{\sqrt{3}}{2}$  |
+| cos |  $\frac{\sqrt{3}}{2}$  |  $\frac{\sqrt{2}}{2}$  |  $\frac{1}{2}$  |
+| tg |  $\frac{\sqrt{3}}{3}$  |  $1$  |  $\sqrt{3}$  |
+| ctg |  $\sqrt{3}$  |  $1$  |  $\frac{\sqrt{3}}{3}$  |
 
 ---
 
