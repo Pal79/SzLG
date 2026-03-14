@@ -35,6 +35,9 @@ $sin60^{\circ} = \frac{\sqrt{3}}{2}$, $cos60^{\circ} = \frac{1}{2}$, $tg60^{\cir
 | tg |  $\frac{\sqrt{3}}{3}$  |  $1$  |  $\sqrt{3}$  |
 | ctg |  $\sqrt{3}$  |  $1$  |  $\frac{\sqrt{3}}{3}$  |
 
+## Vektorok
+![vektorok](../images/vektorok.drawio.svg)
+
 ---
 
 [Vissza](../matematika.md)
