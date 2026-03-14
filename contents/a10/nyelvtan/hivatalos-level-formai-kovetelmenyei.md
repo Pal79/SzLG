@@ -5,8 +5,7 @@
 
 ---
 
-<iframe src="../pdf/contents/a10/pdf/hivatalos-level-formai-kovetelmenyei.pdf" width="100%" height="500px">
-</iframe>
+[Hivatalos levél formai követelményei](../pdf/hivatalos-level-formai-kovetelmenyei.pdf)
 
 ---
 
