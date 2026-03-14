@@ -12,3 +12,4 @@
 | [Féléves vizsga](./matematika/feleves-vizsga.md) |
 | [Trigonometria](./matematika/trigonometria.md) |
 | [Vektorok](./matematika/vektorok.md) |
+| [Háromnegyed éves vizsga](./matematika/haromnegyed-eves-vizsga.md) |
