@@ -6,8 +6,9 @@
 ---
 
 # Trigonometria
-Egy derékszögű háromszög egyik befogójának hossza $5cm$, átfogójának hossza $8cm$.  
-Határozza meg a háromszög másik befogójának hosszát, és a hegyesszögeinek nagyságát.  
+## Derékszögő háromszögnél
+> Egy derékszögű háromszög egyik befogójának hossza $5cm$, átfogójának hossza $8cm$.  
+> Határozza meg a háromszög másik befogójának hosszát, és a hegyesszögeinek nagyságát.  
 ![pitagorasz 001](../images/pitagorasz-001.drawio.svg)  
 $b = 5cm$  
 $c = 8cm$
