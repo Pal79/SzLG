@@ -13,3 +13,5 @@
 | [Trigonometria](./matematika/trigonometria.md) |
 | [Vektorok](./matematika/vektorok.md) |
 | [Háromnegyed éves vizsga](./matematika/haromnegyed-eves-vizsga.md) |
+|  |
+| [Gyakorlások](./matematika/gyakorlas.md) |
