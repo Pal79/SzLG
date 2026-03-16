@@ -16,7 +16,7 @@
 ---
 
 # Nevezetes szögfüggvények
-Nevezetes szögeknek szoktuk mondani a $30^{\circ}$-os, a $45^{\circ}$-os és a $60^{\circ}$-os szögeket.  
+Nevezetes szögeknek szoktuk mondani a \\30^{\circ}$-os, a $45^{\circ}$-os és a $60^{\circ}\\-os szögeket.  
 Ezen szögek szögfüggvényeinek pontos értékét az alábbiakban lehet meghatározni.
 
 1. A $45^{\circ}$-os szög szögfüggvényeinek meghatározásához tekintsük az ábrán az egységnyi befogójú derékszögű háromszöget. Ennek hegyesszögei $45^{\circ}$-osak. Átfogóját Pitagorász tétele segítségével kapjuk: $BA = c = \sqrt{2}$.  
