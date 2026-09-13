@@ -23,8 +23,8 @@ Felveszik az edényük alakját, részecskéik egymáson könnyen elmozdulhatnak
 A nyomás a felületre merőlegesen ható nyomóerő és a felület nagyságának hányadosa.
 - jele: $p$ ($p=\frac{F}{A}$)
 - mértékegysége: $[p]=\frac{[F]}{A}=\frac{N}{m^{2}}=Pa$
->
-:memo: $1 Pascal (Pa) = 1 N/m^{2}$
+
+$1 Pascal (Pa) = 1 N/m^{2}$
 ## Légnyomás
 A légnyomás a levegő (a légkör) által a föld felszínére és a benne lévő testekre kifejtett nyomás. Ezt a levegő súlya okozza.
 - Tengerszinten kb.: $101 325 Pa = 1013 hPa = 1 atm$.
@@ -36,26 +36,26 @@ $P_{h}=\frac{F}{A}=\frac{m_{foly} \cdot g}{A}=\frac{S_{foly} \cdot V_{foly} \cdo
 - $ρ$: sűrűség ($kg/m^{3}$)
 - $g$: nehézségi gyorsulás ($9,81 m/s^{2}$)
 - $h$: mélység ($m$)
->
+
 ![Hidrosztatikai nyomás](../images/fizika-hidrosztatikai-nyomas.svg)
->
+
 ![Hidrosztatikai nyomás](../images/fizika-hidrosztatikai-nyomas-002.svg)
 ## Pascal törvénye
 Pascal törvénye kimondja, hogy a folyadékban vagy gázban keltett nyomás minden irányban egyformán terjed tovább, és ugyanakkora mértékben hat minden irányban.
 ![Pascal törvény](../images/fizika-pascal-torvenye.svg)
->
-:memo: Ez a hidraulikus emelő működésének alapja.
->
+
+Ez a hidraulikus emelő működésének alapja.
+
 Hidraulikus emelő:
->
+
 ![Hidraulikus emelő](../images/fizika-hidraulikus-emelo.svg)
 ## Archimedes törvénye
 Archimedes törvénye szerint:
->
+
 Egy folyadékba vagy gázba merülő testre felhajtóerő hat, amely egyenlő a test által kiszorított folyadék súlyával.
->
+
 ![Archimedes törvénye](../images/fizika-archimedes-torvenye.svg)
->
+
 $F_{g}=m_{t} \cdot g=m_{foly} \cdot g=V_{test} \cdot \rho _{foly} \cdot g$
 ## Úszás, lebegés, merülés
 A test és a folyadék sűrűségének viszonyától függ:
