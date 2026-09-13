@@ -1,4 +1,14 @@
 
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']]
+    }
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+
 ---
 
 [Vissza](../biologia.md)
@@ -7,7 +17,7 @@
 
 (BIO = élő)
 
-### Élőlények:
+## Élőlények:
 mutatják az életjelenséget és az életkritériumokat.
 
 Nyílt rendszer: a környezetével állandó kapcsolatban áll.
@@ -25,7 +35,7 @@ anyagot felvesz -lead
 
 Életjelenség: mozgás, táplálkozás, ingerlékenység, növekedés, fejlődés (önfejlesztés)
 
-### Biokutatás
+## Biokutatás
 
 - módszerei:
    - megfigyelés
@@ -43,9 +53,5 @@ anyagot felvesz -lead
    - biológiai
    - prebiológiai
 - Miller kísérletek: ősóceán, gázok, villámlások kezdetleges szerves anyagok
-
----
-
-[Vissza](../biologia.md)
 
 ---

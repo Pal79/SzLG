@@ -1,9 +1,21 @@
 
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']]
+    }
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+
 ---
 
 [Vissza](../biologia.md)
 
 ---
+
+# Ökológia
 
 Ökológia a biológia azon része, mely élőlény és környezeténke a kapcsolata.
 
@@ -27,14 +39,14 @@
 
 Fény: növények -fotoszintézis (szervetlenből szervest állít elő. pl.: szőlőcukor)
 
-### Tűrőképesség
+## Tűrőképesség
 
 <img src='../images/biologia_turokepesseg-001.svg' alt='tűrőképesség gauss görbe' width='512'>
 
 - Tágtűrésű: <img src='../images/biologia_turokepesseg-002.svg' alt='tágtűrés' width='512'>
 - Szűktűrésű: <img src='../images/biologia_turokepesseg-003.svg' alt='szűtűrés' width='512'>
 
-### Populációk
+## Populációk
 
 Tényleges szaporodási közösség.
 
@@ -63,7 +75,7 @@ Tényleges szaporodási közösség.
 | :-- | :-- |
 | <img src='../images/biologia_populacio-egyedszama-001.svg' alt='populacio egyedszama 001' width='348'> | <img src='../images/biologia_populacio-egyedszama-002.svg' alt='populacio egyedszama 002' width='348'><br>Környezet eltartóképessége gátat szab |
 
-### Populációk kölcsönhatása
+## Populációk kölcsönhatása
 
 Hatások jelölése: +, -, 0
 Összes jelölés: ++, +-, +0, --, 0-, 00

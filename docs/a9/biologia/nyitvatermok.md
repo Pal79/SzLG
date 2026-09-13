@@ -1,4 +1,14 @@
 
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']]
+    }
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+
 A nyitvatermők (Gymnospermae) a növényvilág egyik fontos törzse, amely fejlődésbiológiai szempontból átmenetet képez a virágtalan harasztok és a fejlettebb zárvatermők között. Nevüket (görögül "gymnos" = meztelen, "sperma" = mag) arról kapták, hogy magkezdeményeik és magjaik szabadon ülnek, azaz nincsenek termésfallal (magházzal) körülvéve, mint a zárvatermőknél. Ez a tulajdonság alapvető megkülönböztető jegyük.
 Főbb Jellemzők
 

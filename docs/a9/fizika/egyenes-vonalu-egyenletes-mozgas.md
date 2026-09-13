@@ -1,9 +1,21 @@
 
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']]
+    }
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+
 ---
 
 [Vissza](../fizika.md)
 
 ---
+
+# Egyenes vonalú egyenletes mozgás
 
 Egy testről akkor mondjuk, hogy egyenes vonalú egyeneltes mozgást végez ha pályája egyenes és egyenlő időközök alatt ugyanakkora utakat tesz meg.
 
@@ -31,9 +43,5 @@ $3.6\frac{Km}{h} = 1\frac{m}{s}$&nbsp;&nbsp;&nbsp;példa: $72\frac{km}{h} = 20\f
 - $v3 = 40\frac{m}{s}$
 
 Egyenes vonalú egyenletes mozgást végző test út-idő grafikonja mindig egy olyan "félegyenes" amelynek kezdőpontja az origo és annál meredekebb, minél nagyobb a test sebessége.
-
----
-
-[Vissza](../fizika.md)
 
 ---

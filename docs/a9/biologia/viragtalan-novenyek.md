@@ -1,4 +1,14 @@
 
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']]
+    }
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+
 > A virágtalan növények a növényvilág egy nagy és sokszínű csoportját alkotják, amelyekre az a közös jellemző, hogy nem fejlesztenek virágot és magot a szaporodásuk során. Ehelyett spórákkal (vagy egyéb ivartalan módon) szaporodnak. Ez a kategória a modern rendszertanban már nem egyetlen összefüggő, monofiletikus csoportot jelent, hanem egy hagyományos gyűjtőfogalom, amely több, egymástól eltérő fejlődési vonalat foglal magában.
 > ## A Virágtalan Növények Fő Jellemzői
 >> - Spórás szaporodás: Ez a legmeghatározóbb közös tulajdonságuk. A spórák egysejtű szaporítóképletek, amelyekből kedvező körülmények között új növények fejlődhetnek.

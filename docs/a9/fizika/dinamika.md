@@ -1,13 +1,25 @@
 
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']]
+    }
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+
 ---
 
 [Vissza](../fizika.md)
 
 ---
 
-### Dinamika alaptörvénye
+# Dinamika
 
-```Galilei: "minden állítást kísérlettel kell alátámasztani"```
+## Dinamika alaptörvénye
+
+`Galilei: "minden állítást kísérlettel kell alátámasztani"`
 
 Newton I. törvénye (tehetetlenség törvénye):
 - Minden test megtartja egyenes vonalú egyenletes mozgását, mindaddig míg egy másik test vagy mező ennek megváltoztatására nem kényszeríti.
@@ -22,9 +34,5 @@ Eötvös Lóránt igen fontos mérésekkel bebizonyította, hogy a kétféle tö
 
 Sűrűség:
 - a test tömegének és térfogatának jellemzett fizikai mennyiség. Jele: 'ró' [ $\rho$ ] ; mértékegysége: $\frac{kg}{m^{3}}$
-
----
-
-[Vissza](../fizika.md)
 
 ---

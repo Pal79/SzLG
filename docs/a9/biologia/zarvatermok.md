@@ -1,4 +1,14 @@
 
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']]
+    }
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+
 A zárvatermők (Angiospermae), más néven virágos növények, a növényvilág legsikeresebb, legváltozatosabb és egyértelműen legdominánsabb csoportját alkotják. Becslések szerint mintegy 300 000 fajuk létezik, ami a ma élő növényfajok körülbelül 90%-át teszi ki. A nevüket (görögül "angeion" = edény, tok; "sperma" = mag) arról kapták, hogy magjaik termésben (termőlevélben), "zárva" helyezkednek el, ellentétben a nyitvatermőkkel, amelyek magjai szabadon ülnek.
 A Zárvatermők Fő Jellemzői
 
