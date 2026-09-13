@@ -1,7 +1,7 @@
 
 ---
 
-[Vissza](../../README.md) |
+[Vissza](../index.md) |
 
 ---
 

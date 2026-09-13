@@ -1,6 +1,6 @@
 
 ---
 
-| [Vissza](../../README.md)
+| [Vissza](../index.md)
 | :-: |
 | **JELENLEG NINCS TARTALOM** |
