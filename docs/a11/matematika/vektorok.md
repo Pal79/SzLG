@@ -32,3 +32,20 @@ A vektorok önmagukkal párhuzamosan eltolhatók.
 ![Vektorok párhuzamos eltolás](../images/matematika-vektorok-parhuzamos-eltolas.svg)
 
 Megjegyzendő "szabály": vég mínusz kezdet
+
+---
+
+## Legfontosabb alapfogalmak és definíciók
+- **Vektor**: Irányított szakasz. Rendelkezik nagysággal (hosszal), iránnyal és állással.
+- **Vektor hossza (abszolút értéke / normája)**: A vektort ábrázoló szakasz hossza. Jelölése: $|a|$
+- **Nullvektor**: Olyan vektor, amelynek a hossza $0$, és az iránya határozatlan (tetszőleges irányúnak tekinthető). Jelölése: $0$
+- **Egységvektor**: Olyan vektor, amelynek a hossza pontosan 1 egység. Jelölése gyakran: $e$
+- **Ellentett vektor**: Az $a$ vektor ellentettje az a $−a$ vektor, amelynek hossza és állása megegyezik $a$-éval, de az iránya ellentétes.
+- **Egyenlő vektorok**: Két vektor egyenlő, ha a hosszuk és az irányuk is megegyezik (párhuzamos eltolással egymásba vihetők).
+- **Egyállású (kollineáris) vektorok**: Olyan vektorok, amelyek párhuzamos egyeneseken vagy ugyanazon az egyenesen fekszenek.
+- **Helyvektor**: A koordináta-rendszer origójából egy adott $P$ pontba mutató vektor. A helyvektor koordinátái megegyeznek a pont koordinátáival: $r_{p}=(x,y)$.
+- **Skaláris szorzat**: Két vektor skaláris szorzata egy szám (skalár), amely a két vektor hosszának és a köztük lévő szög koszinuszának a szorzata: $a \cdot b = |a| \cdot |b| \cdot cos(\alpha)$.
+- **Meredekségi / Irányvektor**: Egy egyenessel párhuzamos, nem nullvektor, amely kijelöli az egyenes irányát.
+- **Normálvektor**: Egy adott egyenesre vagy síkra merőleges, nem nullvektor.
+
+---
