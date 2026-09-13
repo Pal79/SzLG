@@ -1,0 +1,31 @@
+
+---
+
+[Vissza](../index.md)
+
+---
+
+# Irodalom
+
+- [Barokk](./irodalom/barokk.md)
+- [Pázmány Péter](./irodalom/pazmany-peter.md)
+- [Zrínyi Miklós](./irodalom/zrinyi-miklos.md)
+- [Mikes Kelemen](./irodalom/mikes-kelemen.md)
+- [Racionalizmus és a klasszicizmus](./irodalom/racionalizmus-es-a-klasszicizmus.md)
+- [Felvilágosodás irodalma](./irodalom/felvilagosodas-irodalma.md)
+- [Első negyedéves vizsga PDF](./pdf/irodalom-negyedeves-vizsga.pdf)
+- [Magyar felvilágosodás irodalma](./irodalom/magyar-felvilagosodas-irodalma.md)
+- [Féléves vizsga](./irodalom/feleves-vizsga.md)
+- [Kazinczy Ferenc](./irodalom/kazinczy-ferenc.md)
+- [Csokonai Vitéz Mihály](./irodalom/csokonai.md)
+- [Berzsenyi Dániel](./irodalom/berzsenyi-daniel.md)
+- [Romantika](./irodalom/romantika.md)
+- [Háromnegyed éves vizsga PDF](./pdf/irodalom-haromnegyedeves-vizsga.pdf)
+- [Puskin](./irodalom/puskin.md)
+- [Katona József](./irodalom/katona-jozsef.md)
+- [Kölcsey Ferenc](./irodalom/kolcsey-ferenc.md)
+- [Vörösmarty Mihály](./irodalom/vorosmarty-mihaly.md)
+- [Petőfi Sándor](./irodalom/petofi-sandor.md)
+- [Év végi vizsga](./irodalom/ev-vegi-vizsgak.md)
+
+---
