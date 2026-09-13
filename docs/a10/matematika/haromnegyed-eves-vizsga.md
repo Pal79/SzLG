@@ -17,7 +17,7 @@
 
 # Háromnegyedéves vizsga
 
-## Nevezetes szögfüggvények</h3>
+## Nevezetes szögfüggvények
 Nevezetes szögeknek szoktuk mondani a $30^{\circ}$-os, a $45^{\circ}$-os és a $60^{\circ}$-os szögeket.  
 Ezen szögek szögfüggvényeinek pontos értékét az alábbiakban lehet meghatározni.
 

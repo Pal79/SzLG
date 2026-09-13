@@ -47,7 +47,7 @@ négyzetgyök alatt nem állhat negatív szám.
 1. $\sqrt{\frac{a}{b}} = \frac{\sqrt{a}}{\sqrt{b}}$
     - tört négyzetgyöke megegyezik a számláló és a nevező négyzetgyökének hányadosával.
 1. $(\sqrt{a})^{k} = \sqrt{a^{k}}$
-    - a négyzetgyökvonás és hatványozás művelete felcserélhető.</li>
+    - a négyzetgyökvonás és hatványozás művelete felcserélhető.
 
 ### példák:
 $\frac{\sqrt{50}}{\sqrt{2}}=\sqrt{\frac{50}{2}}=\sqrt{25}=5$
