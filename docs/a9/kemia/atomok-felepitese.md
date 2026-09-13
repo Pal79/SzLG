@@ -1,14 +1,21 @@
 
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']]
+    }
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+
 ---
 
 - [Vissza](../kemia.md)
-- [Vissza a főoldalra](../../../../README.md)
 
 ---
 
 # Atomok felépítése
-
----
 
 Az atomok átmérője átlagosan kb. egy tízmilliomod milliméter (tízmillió szénatomot szorosan egymás mellé helyezünk, akkor kb. egy milliméter hosszú láncot kapunk).
 
@@ -51,7 +58,6 @@ mértékegysége: $\frac{g}{mol}$
 
 ---
 
-- [Vissza](../kemia.md)
-- [Vissza a főoldalra](../../../../README.md)
+[Vissza](../kemia.md)
 
 ---

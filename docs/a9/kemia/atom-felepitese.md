@@ -1,14 +1,21 @@
 
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']]
+    }
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+
 ---
 
-- [Vissza az előző oldalra](../foldrajz.md)
-- [Vissza a főoldalra](../../../../README.md)
+[Vissza](../kemia.md)
 
 ---
 
 # Atom felépítése
-
----
 
 ### Az atom mérete
 
@@ -42,7 +49,6 @@ Legegyszerűbb atom: $H$ 1 proton és 1 elektron
 
 ---
 
-- [Vissza az előző oldalra](../foldrajz.md)
-- [Vissza a főoldalra](../../../../README.md)
+[Vissza](../kemia.md)
 
 ---
