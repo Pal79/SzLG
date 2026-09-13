@@ -5,7 +5,7 @@
 
 ---
 
-# Biológia</title>
+# Biológia
 
 - [Biogén elemek](./biologia/biogen-elemek.md)
 - [Sejteket felépítő szerves molekulák](./biologia/sejteket-felepito-szerves-molekulak.md)
