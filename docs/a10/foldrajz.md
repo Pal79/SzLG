@@ -5,7 +5,7 @@
 
 ---
 
-# Földrajz</title>
+# Földrajz
 
 - [A természet és a társadalom kapcsolata](./foldrajz/a-termeszet-es-a-tarsadalom-kapcsolata.md)
 - [Világnépesség növekedése](./foldrajz/vilagnepesseg-novekedese.md)
