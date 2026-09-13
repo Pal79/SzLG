@@ -11,8 +11,7 @@
 
 ---
 
-- [Vissza a főoldalra](../../../../README.md)
-- [Vissza az előző oldalra](../matematika.md)
+[Vissza](../matematika.md)
 
 ---
 
@@ -56,10 +55,5 @@ $$
 x &= \frac{39}{32}
 \end{aligned}
 $$
-
----
-
-- [Vissza a főoldalra](../../../../README.md)
-- [Vissza az előző oldalra](../matematika.md)
 
 ---

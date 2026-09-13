@@ -92,7 +92,7 @@ $$
 \end{aligned}
 $$
 
-> :memo: Egy szorzat akkor 0, ha egyik tényezője 0
+Egy szorzat akkor 0, ha egyik tényezője 0
 
 ---
 
@@ -243,7 +243,7 @@ $$
 
 ---
 
-> :memo: Ha a tört nevezője ismeretlent tartalmaz, akkor kikötés kell. Nullával nem tudunk osztani, nulla nem lehet a tört nevezőjében
+Ha a tört nevezője ismeretlent tartalmaz, akkor kikötés kell. Nullával nem tudunk osztani, nulla nem lehet a tört nevezőjében
 
 $$
 \begin{aligned}
@@ -253,7 +253,7 @@ $$
 \end{aligned}
 $$
 
-> AZONOSSÁG
+AZONOSSÁG
 
 $\forall x \in \mathbb{R}$ &nbsp;&nbsp;&nbsp; jó megoldás &nbsp;&nbsp;&nbsp; $x \neq 2$
 
@@ -270,9 +270,9 @@ x-4-x+2 &= 3x+9 && / öv \\
 \end{aligned}
 $$
 
-> :memo: Törtvonal zárójelet helyettesít
+Törtvonal zárójelet helyettesít
 
-> Ellenőrzés
+Ellenőrzés
 
 $$
 \begin{aligned}
@@ -282,9 +282,9 @@ x = -5 \\
 \end{aligned}
 $$
 
-> Jobb oldal = 3
+Jobb oldal = 3
 
-> Bal oldal = jobb oldal
+Bal oldal = jobb oldal
 
 ---
 

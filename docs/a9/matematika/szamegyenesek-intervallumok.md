@@ -107,3 +107,7 @@ B / A = ]-3;-2[ \cup ]1;3[
 $$
 
 ---
+
+[Vissza](../matematika.md)
+
+---
