@@ -36,14 +36,14 @@
    - Cillagképpel
    - GPS-el
 
-> ***Az északi irány meghatározása mutatós óra és a Nap segítségével***
-> Rajzoljunk egy papírlapra egy mutatós órát (mert nem biztos, hogy olyan van a karunkon), mely a pontos időt mutatja. A kismutatót irányítsuk a Nap felé, majd a kismutató és a 12-es közötti szöget felezzük meg. A szögfelező az ábrákon látható módon kijelöli az észak–déli irányt. A nyári időszámításnál az óraállítást figyelembe kell venni, tehát a műveletet úgy érdemes elvégezni, hogy gondolatban visszaállítjuk a kismutatót egy órával, vagy a 12-es helyett az 1-es és a kismutató közti szöget felezzük meg.
-> <img src='../images/foldrajz-eszaki-irany-001.png' alt='északi irány meghatározása 1' width='258'>
-> <img src='../images/foldrajz-eszaki-irany-002.png' alt='északi irány meghatározása 2' width='258'>
+***Az északi irány meghatározása mutatós óra és a Nap segítségével***
+Rajzoljunk egy papírlapra egy mutatós órát (mert nem biztos, hogy olyan van a karunkon), mely a pontos időt mutatja. A kismutatót irányítsuk a Nap felé, majd a kismutató és a 12-es közötti szöget felezzük meg. A szögfelező az ábrákon látható módon kijelöli az észak–déli irányt. A nyári időszámításnál az óraállítást figyelembe kell venni, tehát a műveletet úgy érdemes elvégezni, hogy gondolatban visszaállítjuk a kismutatót egy órával, vagy a 12-es helyett az 1-es és a kismutató közti szöget felezzük meg.
+<img src='../images/foldrajz-eszaki-irany-001.png' alt='északi irány meghatározása 1' width='258'>
+<img src='../images/foldrajz-eszaki-irany-002.png' alt='északi irány meghatározása 2' width='258'>
 
-> ***Északi irány meghatározása csillagképek segítségével***
-> Az északi félgömbön a csillagképek látszólagos mozgásukat a Sarkcsillag körül végzik. Erre mutat jelenleg a Föld tengelye, tehát erre van észak. Azonosítása a Göncölszekér segítségével történhet, ami a Nagy Medve csillagkép része. A Sarkcsillagot úgy a legkönnyebb megtalálni, hogy a Göncölszekér két hátsó kerekét alkotó csillag közötti távolságot a két csillagot összekötő egyenes mentén az ábrának megfelelően ötször felmérjük. Persze a Sarkcsillag sem egészen pontosan észak felé található, hanem attól majdnem háromnegyed fokra eltér, tehát az északi égi pólushoz képest ilyen kicsi szögben körbejár.
-> <img src='../images/foldrajz-eszaki-irany-003.png' alt='északi irány meghatározása 3' width='258'>
+***Északi irány meghatározása csillagképek segítségével***
+Az északi félgömbön a csillagképek látszólagos mozgásukat a Sarkcsillag körül végzik. Erre mutat jelenleg a Föld tengelye, tehát erre van észak. Azonosítása a Göncölszekér segítségével történhet, ami a Nagy Medve csillagkép része. A Sarkcsillagot úgy a legkönnyebb megtalálni, hogy a Göncölszekér két hátsó kerekét alkotó csillag közötti távolságot a két csillagot összekötő egyenes mentén az ábrának megfelelően ötször felmérjük. Persze a Sarkcsillag sem egészen pontosan észak felé található, hanem attól majdnem háromnegyed fokra eltér, tehát az északi égi pólushoz képest ilyen kicsi szögben körbejár.
+<img src='../images/foldrajz-eszaki-irany-003.png' alt='északi irány meghatározása 3' width='258'>
 
 - **méretarány számítás**
 

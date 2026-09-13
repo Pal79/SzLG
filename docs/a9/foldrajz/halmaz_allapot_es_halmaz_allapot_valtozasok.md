@@ -11,14 +11,11 @@
 
 ---
 
-- [Vissza az előző oldalra](../foldrajz.md)
-- [Vissza a főoldalra](../../../../README.md)
+[Vissza](../foldrajz.md)
 
 ---
 
 # Halmazállapot és halmazállapot változások
-
----
 
 ### Halmazállapotok:
 
@@ -37,10 +34,5 @@
 - Depozíció: légneműből szilárd (dér)
 - Szublimáció: szilárdból lesz légnemű (szén-dioxid jég)
 - Párolgás: folyékonyból légnemű (bármilyen hőmérsékleten végbemegy)
-
----
-
-- [Vissza az előző oldalra](../foldrajz.md)
-- [Vissza a főoldalra](../../../../README.md)
 
 ---

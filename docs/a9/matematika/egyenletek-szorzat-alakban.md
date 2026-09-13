@@ -11,8 +11,7 @@
 
 ---
 
-- [Vissza a főoldalra](../../../../README.md)
-- [Vissza az előző oldalra](../matematika.md)
+[Vissza](../matematika.md)
 
 ---
 
@@ -20,10 +19,10 @@
 
 ---
 
-> :memo: Egy szorzat akkor nulla, ha egyik tényezője nulla
+Egy szorzat akkor nulla, ha egyik tényezője nulla
 
-> Negyedfokú egyenlet
-> - jelen esetben: 1 ismeretlen és 4 tényező
+Negyedfokú egyenlet
+- jelen esetben: 1 ismeretlen és 4 tényező
 
 $$
 \begin{aligned}
@@ -85,7 +84,6 @@ $$
 
 ---
 
-- [Vissza a főoldalra](../../../../README.md)
-- [Vissza az előző oldalra](../matematika.md)
+[Vissza](../matematika.md)
 
 ---

@@ -9,6 +9,12 @@
 </script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
 
+---
+
+[Vissza](../foldrajz.md)
+
+---
+
 | Állandó gázok | Változó gázok | Erősen változó gázok |
 | :-- | :-- | :-- |
 | Nitrogén 78% $N_{2}$ | Metán $CH_{4}$ | **Vízgőz** |
@@ -16,3 +22,5 @@
 | Nemesgázok<br>pl.: Argon, Hélium, Xenon,... | Hidrogén $H_{2}$ | **Kén-dioxid** $SO_{2}$ |
 |  | **Szén-dioxid** $CO_{2}$ | Nitrogén-dioxid | 
 |  | Szénmonoxid $CO$ |  |
+
+---

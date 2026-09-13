@@ -9,6 +9,12 @@
 </script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
 
+---
+
+[Vissza](../biologia.md)
+
+---
+
 A virágos növények, más néven zárvatermők (Angiospermae), a növényvilág legfejlettebb és legdominánsabb csoportját alkotják, mintegy 300 000 ismert fajjal. Ők a Földön található növényfajok körülbelül 90%-át teszik ki. Nevüket arról kapták, hogy virágokat fejlesztenek, és a magjaik termésben (termőlevélben), "zárva" helyezkednek el, ellentétben a nyitvatermőkkel, amelyek magjai szabadon ülnek.
 Főbb Jellemzők
 
@@ -50,3 +56,8 @@ A virágos növények rendkívül fontosak mind az ökoszisztémák, mind az emb
 
 A virágos növények a növényvilág legfejlettebb, legsikeresebb és legváltozatosabb csoportját képezik, kulcsszerepet játszva a bolygó életében.
 
+---
+
+[Vissza](../biologia.md)
+
+---

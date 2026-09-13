@@ -11,34 +11,38 @@
 
 ---
 
-# Óceánok és tengerek
+[Vissza](../foldrajz.md)
 
 ---
 
-> Jeges-tenger -> Jeges-óceán, Antarktiszt övező terület -> Déli-óceán
+# Óceánok és tengerek
 
-> Óceán:
-> - Általános mélységük 4-5000m
-> - áramlási rendszerük van
-> - átlagos sótartalmuk $35-38 °/$_{oo}$
+Jeges-tenger -Jeges-óceán, Antarktiszt övező terület -Déli-óceán
 
-> Tenger:
-> -szigetekkel, félszigetekkel, szorosokkal határolódnak el az óceántól.
-> - nincs számottevő áramlásuk
-> - sótartalmuk változó $1-41$ °/$_{oo}$
+Óceán:
+- Általános mélységük 4-5000m
+- áramlási rendszerük van
+- átlagos sótartalmuk $35-38 °/$_{oo}$
 
-> Beltenger:
-> - földrészek között vagy földrészen belül találhatóak
-> - pl.: Földközi-tenger, Vörös-tenger, Fekete-tenger, Kaszpi-tenger, Balti-tenger
+Tenger:
+-szigetekkel, félszigetekkel, szorosokkal határolódnak el az óceántól.
+- nincs számottevő áramlásuk
+- sótartalmuk változó $1-41$ °/$_{oo}$
 
-> Perem tenger
-> - földrészeket kísérő kis vízborítású vízfelületek
-> - pl.: Északi-tenger
+Beltenger:
+- földrészek között vagy földrészen belül találhatóak
+- pl.: Földközi-tenger, Vörös-tenger, Fekete-tenger, Kaszpi-tenger, Balti-tenger
+
+Perem tenger
+- földrészeket kísérő kis vízborítású vízfelületek
+- pl.: Északi-tenger
 >
-> ![perem tenger](../images/foldrajz-oceanok-es-tengerek.svg)
+![perem tenger](../images/foldrajz-oceanok-es-tengerek.svg)
 
-> Sós tengerek
-> - száraz meleg területeken a jelentős párolgás miatt
+Sós tengerek
+- száraz meleg területeken a jelentős párolgás miatt
 
-> Édes tengerek
-> - csapadékos hideg területeken
+Édes tengerek
+- csapadékos hideg területeken
+
+---

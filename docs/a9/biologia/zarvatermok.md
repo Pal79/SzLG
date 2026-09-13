@@ -9,6 +9,12 @@
 </script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
 
+---
+
+[Vissza](../biologia.md)
+
+---
+
 A zárvatermők (Angiospermae), más néven virágos növények, a növényvilág legsikeresebb, legváltozatosabb és egyértelműen legdominánsabb csoportját alkotják. Becslések szerint mintegy 300 000 fajuk létezik, ami a ma élő növényfajok körülbelül 90%-át teszi ki. A nevüket (görögül "angeion" = edény, tok; "sperma" = mag) arról kapták, hogy magjaik termésben (termőlevélben), "zárva" helyezkednek el, ellentétben a nyitvatermőkkel, amelyek magjai szabadon ülnek.
 A Zárvatermők Fő Jellemzői
 
@@ -60,3 +66,9 @@ A zárvatermők alapvető fontosságúak mind az ökoszisztémák, mind az ember
     Ökoszisztéma-szolgáltatások: Hozzájárulnak a talajképzéshez, az erózió megakadályozásához és a vízciklus szabályozásához.
 
 A zárvatermők a növényvilág evolúciójának csúcsát képviselik, és a virág és a termés kialakulása kulcsszerepet játszott abban, hogy globálisan dominánssá válhattak, és a Földön szinte minden élőhelyen megtelepedtek.
+
+---
+
+[Vissza](../biologia.md)
+
+---

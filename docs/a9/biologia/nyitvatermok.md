@@ -54,3 +54,5 @@ Jelentőség
         Egyéb termékek: Gyantát, terpentint, kolofóniumot is nyernek belőlük. A Ginkgo biloba leveleit gyógyászati célokra használják.
 
 A nyitvatermők tehát a szárazföldi növények evolúciójában fontos lépcsőfokot képviselnek, és bár fajszámuk kisebb, ökológiai és gazdasági jelentőségük rendkívül nagy.
+
+---

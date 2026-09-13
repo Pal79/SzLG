@@ -11,13 +11,15 @@
 
 ---
 
-# Felszín alatti vizek
+[Vissza](../foldrajz.md)
 
 ---
 
-> ![felszin alati vizek 001](../images/foldrajz-felszin-alatti-vizek-001.svg)
+# Felszín alatti vizek
 
-> Folyók
->
-> - Tölcsértorkolat:
->    - alapvetően nyílt óceánokba torkollik
+![felszin alati vizek 001](../images/foldrajz-felszin-alatti-vizek-001.svg)
+
+Folyók
+
+- Tölcsértorkolat:
+   - alapvetően nyílt óceánokba torkollik

@@ -61,3 +61,7 @@ Elon Musk (rakéta)sprotauója az űrben. A SpaceX lőtte ki a piros Tesla Roads
 Curiosity: nedves törmelékbe fúrt 6cm mélyen a Marson, önmagát navigálja a terepen, 2000˚C-ot bír a hővédő pajzsa, saját facebook profilja van. **ÉRDEMES MEGNÉZNI**: [Curiosity on Mars](https://de-de.facebook.com/MarsCuriosity/)
 
 ---
+
+[Vissza](../foldrajz.md)
+
+---

@@ -11,6 +11,10 @@
 
 ---
 
+[Vissza](../fizika.md)
+
+---
+
 ### Mozgás
 
 A testek egymáshoz viszonytott helyváltoztatása.
@@ -35,3 +39,5 @@ A vektorok összeadását, vagyis eredőjük előállítását így végezzük e
    1. irány és nagyság szerint megrajzoljuk az egyik vektort,
    1. ennek végpontjából irány és nagyság szerint felmérjük a másik vektort,
    1. az eredőt (**összegvektort**) úgy kapjuk meg, hogy megrajzoljuk az első összetevő kezdőpontjából a második végpontjába mutató vektort.
+
+---
