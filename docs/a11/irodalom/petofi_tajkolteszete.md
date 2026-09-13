@@ -1,4 +1,14 @@
 
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']]
+    }
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+
 ---
 
 [Vissza](../irodalom.md)
@@ -10,7 +20,7 @@
 
 ## Az alföld
 **műfaja**: tájleíró költemény  
-**1.-2. versszak**: kétféle tájideál, a romantikus vadregényes <-> az alföld tengersík vidéke. Az alföld szabadság vágyának kifejezője "börtönéből szabadult sas lelkem"  
+**1.-2. versszak**: kétféle tájideál, a romantikus vadregényes $\leftrightarrow$ az alföld tengersík vidéke. Az alföld szabadság vágyának kifejezője "börtönéből szabadult sas lelkem"  
 **3.-5. versszak**: a duna tisza köze mozgalmasság a nézőpont magasból lefelé irányul  
 **6.-7. versszak**: közelkép a tanyákról, búzatáblák nádasok  
 **8. versszak**: pillantás a tanyán túlra egy csárdáig a nézőpont távolodó  
