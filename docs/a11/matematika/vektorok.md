@@ -17,6 +17,12 @@
 
 # Vektorok
 
+Skaláris szorzat a koordináta rendszerben
+
+![vektorok a koordináta rendszerben](../images/matematika-vektorok-001.svg)
+
+Mivel a vektor párhuzamosan eltolható önmagával, ezért a kezdőpontja az origo.
+
 ## Paralelogramma szabály
 A paralelogramma szabály két vektor összeadásának geometrikus módszere. Akkor a legcélszerűbb használni, ha a két vektor közös kezdőpontból indul.
 
