@@ -35,6 +35,4 @@
 **4.-6. versszak**: közelképek halászkunyhó, csőszház, tanyák, csárdák az emberi élet színterei azok csöndje, mozdulatlanság, tétlenség, némaság  
 **7.-9. versszak**: ismét a kinti világ a pusztaság rajza, de most dinamikus képekkel, amelyek látomásba csapnak át: hóviharok, a betyár fenyegetett élete, kiűzött király hasonlat
 
-# Szerelmi költészete
-
 ---
