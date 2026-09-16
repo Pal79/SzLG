@@ -28,11 +28,12 @@ $$c^{2} = a^{2} + b^{2} - 2 \cdot a \cdot b \cdot \cos\gamma$$
 ## Derékszögű háromszög
 Derékszögű háromszögben az egyik szög $90^{\circ}$, és az oldalak között az alábbi trigonometriai arányok érvényesek egy hegyesszög ($\alpha$) esetén:
 
-| Függvény | Definíció | Képlet |
-| :------: | :-------: | :----: |
-| **Szinusz** (sin) | szöggel szemközti befogó / átfogó | $sin \alpha = \frac{a}{c}$ |
-| **Koszinusz** (cos) | szög melletti befogó / átfogó | $cos \alpha = \frac{b}{c}$ |
-| **Tangens** (tan) | szöggel szemközti befogó / szög melletti befogó | $tan \alpha = \frac{a}{b}$ |
+- **Szinusz** (sin):
+    - szöggel szemközti befogó / átfogó: $sin \alpha = \frac{a}{c}$
+- **Koszinusz** (cos):
+    - szög melletti befogó / átfogó: $cos \alpha = \frac{b}{c}$
+- **Tangens** (tan):
+    - szöggel szemközti befogó / szög melletti befogó: $tan \alpha = \frac{a}{b}$
 
 ### Fontos összefüggések derékszögű háromszögekre:
 - $\sin^{2}\alpha + \cos^{2}\alpha = 1$
