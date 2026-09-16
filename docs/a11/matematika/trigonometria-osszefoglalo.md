@@ -51,7 +51,7 @@ $T = \frac{a \cdot b \cdot \sin\gamma}{2} = \frac{a \cdot c \cdot \sin\beta}{2} 
 A háromszög területe kifejezhető a három oldal és a köré írható kör sugarának segítségével:
 $T = \frac{a \cdot b \cdot c}{4R} \implies R = \frac{a \cdot b \cdot c}{4T}$
 
-*(A fent említett szinusztételből is kiszámítható: $R = \frac{a}{2\sin\alpha}$)*
+(A fent említett szinusztételből is kiszámítható: $R = \frac{a}{2\sin\alpha}$)
 
 ### 3. Beírható kör sugara ($r$)
 A háromszög területe a félkerület ($s = \frac{a+b+c}{2}$) és a beírható kör sugarának szorzata:
