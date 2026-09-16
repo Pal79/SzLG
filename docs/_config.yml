@@ -1,4 +1,7 @@
 theme: jekyll-theme-cayman
 title: Szent László Gimnázium
+
 kramdown:
-    math_engine: mathjax
+  math_engine: mathjax
+  hard_wrap: true
+  input: GFM
