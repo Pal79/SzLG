@@ -68,7 +68,7 @@ $\|\vec{a}\| = \sqrt{4^{2} + (-3)^{2}} = \sqrt{16 + 9} = \sqrt{25} = 5$
 
 $\|\vec{b}\| = \sqrt{12^{2} + (-5)^{2}} = \sqrt{144 + 25} = \sqrt{169} = 13$
 
-$cos \gamma = \frac{a \cdot b}{|\vec{a}| \cdot |\vec{b}|} = \frac{63}{5 \cdot 13} = \frac{63}{65} = 0.9692$
+$cos \gamma = \frac{a \cdot b}{\|\vec{a}\| \cdot \|\vec{b}\|} = \frac{63}{5 \cdot 13} = \frac{63}{65} = 0.9692$
 
 $\gamma = cos(0.9692)^{-1} \approx 14.26^{\circ}$
 
