@@ -30,9 +30,9 @@ Derékszögű háromszögben az egyik szög $90^{\circ}$, és az oldalak közöt
 
 | Függvény | Definíció | Képlet |
 | :------: | :-------: | :----: |
-| **Szinusz** (sin) | szöggel szemközti befogó / átfogó | $\sin \alpha = \frac{a}{c}$ |
-| **Koszinusz** (cos) | szög melletti befogó / átfogó | $\cos \alpha = \frac{b}{c}$ |
-| **Tangens** (tan) | szöggel szemközti befogó / szög melletti befogó | $\tan \alpha = \frac{a}{b}$ |
+| **Szinusz** (sin) | szöggel szemközti befogó / átfogó | $sin \alpha = \frac{a}{c}$ |
+| **Koszinusz** (cos) | szög melletti befogó / átfogó | $cos \alpha = \frac{b}{c}$ |
+| **Tangens** (tan) | szöggel szemközti befogó / szög melletti befogó | $tan \alpha = \frac{a}{b}$ |
 
 ### Fontos összefüggések derékszögű háromszögekre:
 - $\sin^{2}\alpha + \cos^{2}\alpha = 1$
@@ -44,16 +44,17 @@ Derékszögű háromszögben az egyik szög $90^{\circ}$, és az oldalak közöt
 
 ### 1. Terület szinusz segítségével
 Általános háromszög területét kiszámíthatjuk két oldal és a közbezárt szög segítségével:
-$$T = \frac{a \cdot b \cdot \sin\gamma}{2} = \frac{a \cdot c \cdot \sin\beta}{2} = \frac{b \cdot c \cdot \sin\alpha}{2}$$
+$T = \frac{a \cdot b \cdot \sin\gamma}{2} = \frac{a \cdot c \cdot \sin\beta}{2} = \frac{b \cdot c \cdot \sin\alpha}{2}$
 
 ### 2. Köré írható kör sugara ($R$)
 A háromszög területe kifejezhető a három oldal és a köré írható kör sugarának segítségével:
-$$T = \frac{a \cdot b \cdot c}{4R} \implies R = \frac{a \cdot b \cdot c}{4T}$$
+$T = \frac{a \cdot b \cdot c}{4R} \implies R = \frac{a \cdot b \cdot c}{4T}$
 
 *(A fent említett szinusztételből is kiszámítható: $R = \frac{a}{2\sin\alpha}$)*
 
 ### 3. Beírható kör sugara ($r$)
 A háromszög területe a félkerület ($s = \frac{a+b+c}{2}$) és a beírható kör sugarának szorzata:
-$$T = r \cdot s = r \cdot \frac{a+b+c}{2} \implies r = \frac{2T}{a+b+c}$$
+
+$T = r \cdot s = r \cdot \frac{a+b+c}{2} \implies r = \frac{2T}{a+b+c}$
 
 ---
