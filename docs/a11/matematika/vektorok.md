@@ -57,6 +57,7 @@ Megjegyzendő "szabály": vég mínusz kezdet
 ---
 
 ## Két vektor hajlásszögének kiszámítása
+
 $\vec{a} = (4, -3)$
 
 $\vec{b} = (12, -5)$
