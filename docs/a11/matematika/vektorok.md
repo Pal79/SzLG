@@ -55,3 +55,36 @@ Megjegyzendő "szabály": vég mínusz kezdet
 - **Normálvektor**: Egy adott egyenesre vagy síkra merőleges, nem nullvektor.
 
 ---
+
+## Két vektor hajlásszögének kiszámítása
+$\vec{a} = (4, -3)$
+
+$\vec{b} = (12, -5)$
+
+$a \cdot b = 4 \cdot 12 + (-3) \cdot (-5) = 48 + 15 = 63$
+
+$|\vec{a}| = \sqrt{4^{2} + (-3)^{2}} = \sqrt{16 + 9} = \sqrt{25} = 5$
+
+$|\vec{b}| = \sqrt{12^{2} + (-5)^{2}} = \sqrt{144 + 25} = \sqrt{169} = 13$
+
+$cos \gamma = \frac{a \cdot b}{|\vec{a}| \cdot |\vec{b}|} = \frac{63}{5 \cdot 13} = \frac{63}{65} = 0.9692$
+
+$\gamma = cos(0.9692)^{-1} \approx 14.26^{\circ}$
+
+---
+
+$|\vec{a}| = (-0.5, -3)$
+
+$|\vec{b}| = (12, -1.4)$
+
+$a \cdot b = (-0.5) \cdot 12 + (-3) \cdot (-1.4) = -1.8$
+
+$|\vec{a}| = \sqrt{(-0.5)^{2} + (-3)^{2}} = \sqrt{9.25}$
+
+$|\vec{b}| = \sqrt{12^{2} + (-1.4)^{2}} = \sqrt{145.96}$
+
+$cos\gamma = \frac{-1.8}{\sqrt{9.25} \cdot \sqrt{145.96}} = \frac{-1.8}{36.7441} = -0.0489$
+
+$\gamma \approx 92.80^{\circ}$
+
+---
