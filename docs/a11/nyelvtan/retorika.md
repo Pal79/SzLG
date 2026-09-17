@@ -60,6 +60,22 @@ Fontos, hogy:
 1. cáfolás (reputáció)
 1. befejezés, lezárás
 
+## Az érvelés
+`Érv`: meggyőződésünk bizonyítására, illetve mások megállapításának cáfolására felhasznált tény, bizonyíték vagy körülmény.
+
+`Az érvelés`: érvek felhasználása az igazság bizonyítására
+
+Az érvelésnek nem az a célja, hogy legyőzzünk hanem, hogy meggyőzzünk másokat és az együtt gondolkodással közelebb jussunk az igazsághoz.
+
+## Az érvelés módszerei
+1. dedukció: először az általános tételt fogalmazzuk meg és abból vonjuk le az egyedi esetekre vonatkozó következtetéseinket.
+    - Pl: Arisztotelész:
+        - minden ember halandó
+        - Szokratész ember
+        - tehát Szokratész halandó
+1. indukció: egyedi jelenségekből egyedi tényekből indulunk ki és azokból általánosítunk, vonjuk le a következtetést. Ügyelni kell arra, hogy megfelelő mennyiségű, tárgyszerű és pontos adatok alapján szabad általánosítani.
+    - Pl: Petőfi Sándor XIX. század költői
+
 ---
 
 [Vissza](../nyelvtan.md)
