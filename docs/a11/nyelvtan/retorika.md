@@ -96,6 +96,7 @@ Bírálhatjuk például a források megbízhatóságát a fogalmak meghatározá
 1. ellentéten alapuló érvek: szarkazmus,...
 1. tekintélyen alapuló érvek: orvos-beteg, idős-fiatal,...
 
+## Beszéd megszerkesztésének mente
 
 ---
 
