@@ -68,13 +68,23 @@ Fontos, hogy:
 Az érvelésnek nem az a célja, hogy legyőzzünk hanem, hogy meggyőzzünk másokat és az együtt gondolkodással közelebb jussunk az igazsághoz.
 
 ## Az érvelés módszerei
-1. dedukció: először az általános tételt fogalmazzuk meg és abból vonjuk le az egyedi esetekre vonatkozó következtetéseinket.
-    - Pl: Arisztotelész:
-        - minden ember halandó
-        - Szokratész ember
-        - tehát Szokratész halandó
-1. indukció: egyedi jelenségekből egyedi tényekből indulunk ki és azokból általánosítunk, vonjuk le a következtetést. Ügyelni kell arra, hogy megfelelő mennyiségű, tárgyszerű és pontos adatok alapján szabad általánosítani.
-    - Pl: Petőfi Sándor XIX. század költői
+### 1. dedukció:
+először az általános tételt fogalmazzuk meg és abból vonjuk le az egyedi esetekre vonatkozó következtetéseinket.
+Pl: Arisztotelész:
+  - minden ember halandó
+  - Szokratész ember
+  - tehát Szokratész halandó
+### 2. indukció:
+egyedi jelenségekből egyedi tényekből indulunk ki és azokból általánosítunk, vonjuk le a következtetést.
+
+Ügyelni kell arra, hogy megfelelő mennyiségű, tárgyszerű és pontos adatok alapján szabad általánosítani.
+  - Pl: Petőfi Sándor XIX. század költői
+### 3. cáfolat:
+Az érvelés része ahhoz, hogy eredményesen és tisztességesen cáfolhassuk mások érveit, meg kell ismernünk azokat, meg kell értenünk csak így tudjuk megtalálni érvelésük gyenge pontjait.
+
+Bírálnunk csak az érveket szabad soha nem az ellenfél személyét.
+
+Bírálhatjuk például a források megbízhatóságát a fogalmak meghatározásának pontatlanságát a z egyoldalú megközelítés módot a bizonyítékok hiányát vagy nem elegendő voltát...
 
 ---
 
