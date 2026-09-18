@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300"
+   height="200"
+   viewBox="0 0 79.374998 52.916666"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="matematika-trigonometria-001.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="3.1715002"
+     inkscape:cx="142.67696"
+     inkscape:cy="98.849118"
+     inkscape:window-width="1710"
+     inkscape:window-height="1074"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Réteg 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.264999"
+       d="M 14.015449,39.960714 H 65.405428 L 37.04083,11.596116 Z"
+       id="path1" />
+    <path
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.264999"
+       d="m 18.687265,33.703818 c 2.782119,1.604038 3.337788,4.15825 3.253586,6.423747"
+       id="path2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.276143"
+       d="m 56.483394,39.958698 c -0.333098,-2.453872 0.49207,-4.521655 2.827513,-6.086013"
+       id="path3"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.264999"
+       d="m 33.11984,15.93423 c 3.434517,3.376789 5.831811,1.774903 8.175678,-0.08343"
+       id="path4"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;font-family:Symbol;-inkscape-font-specification:Symbol;writing-mode:lr-tb;direction:ltr;fill:none;stroke:#1a1a1a;stroke-width:0.264999"
+       x="17.853012"
+       y="38.041935"
+       id="text7"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         x="17.853012"
+         y="38.041935">α</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;font-family:Symbol;-inkscape-font-specification:Symbol;writing-mode:lr-tb;direction:ltr;fill:none;stroke:#1a1a1a;stroke-width:0.264999"
+       x="58.981682"
+       y="38.041931"
+       id="text10"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         style="stroke-width:0.265"
+         x="58.981682"
+         y="38.041931">β</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;font-family:Symbol;-inkscape-font-specification:Symbol;writing-mode:lr-tb;direction:ltr;fill:none;stroke:#1a1a1a;stroke-width:0.264999"
+       x="36.290001"
+       y="16.351357"
+       id="text11"><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         style="stroke-width:0.265"
+         x="36.290001"
+         y="16.351357">ϒ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;font-family:Symbol;-inkscape-font-specification:Symbol;writing-mode:lr-tb;direction:ltr;fill:none;stroke:#1a1a1a;stroke-width:0.264999"
+       x="11.846391"
+       y="42.630322"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         style="stroke-width:0.265"
+         x="11.846391"
+         y="42.630322">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;font-family:Symbol;-inkscape-font-specification:Symbol;writing-mode:lr-tb;direction:ltr;fill:none;stroke:#1a1a1a;stroke-width:0.264999"
+       x="66.323105"
+       y="42.964024"
+       id="text13"><tspan
+         sodipodi:role="line"
+         id="tspan13"
+         style="stroke-width:0.265"
+         x="66.323105"
+         y="42.964024">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;font-family:Symbol;-inkscape-font-specification:Symbol;writing-mode:lr-tb;direction:ltr;fill:none;stroke:#1a1a1a;stroke-width:0.264999"
+       x="36.039722"
+       y="10.511587"
+       id="text14"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         style="stroke-width:0.265"
+         x="36.039722"
+         y="10.511587">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;font-family:Symbol;-inkscape-font-specification:Symbol;writing-mode:lr-tb;direction:ltr;fill:none;stroke:#1a1a1a;stroke-width:0.264999"
+       x="51.056278"
+       y="24.026484"
+       id="text15"><tspan
+         sodipodi:role="line"
+         id="tspan15"
+         style="stroke-width:0.265"
+         x="51.056278"
+         y="24.026484">a</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;font-family:Symbol;-inkscape-font-specification:Symbol;writing-mode:lr-tb;direction:ltr;fill:none;stroke:#1a1a1a;stroke-width:0.264999"
+       x="23.943058"
+       y="24.026485"
+       id="text16"><tspan
+         sodipodi:role="line"
+         id="tspan16"
+         style="stroke-width:0.265"
+         x="23.943058"
+         y="24.026485">b</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;font-family:Symbol;-inkscape-font-specification:Symbol;writing-mode:lr-tb;direction:ltr;fill:none;stroke:#1a1a1a;stroke-width:0.264999"
+       x="38.375629"
+       y="42.797173"
+       id="text17"><tspan
+         sodipodi:role="line"
+         id="tspan17"
+         style="stroke-width:0.265"
+         x="38.375629"
+         y="42.797173">c</tspan></text>
+  </g>
+</svg>
