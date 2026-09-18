@@ -84,12 +84,13 @@ A velük szemben lévő belső szögek rendre $\alpha$, $\beta$ és $\gamma$.
 
 Töltsük ki a következő táblázatot.
 
-| a | b | c | $\alpha$ | $\beta$ | $\gamma$ |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| $5cm$ |  |  |  | $45^{\circ}$ | $62^{\circ}$ |
-|  |  | $9m$ | $12^{\circ}$ | $74^{\circ}$ |  |
-|  | $4dm$ |  | $51^{\circ}$ |  | $73^{\circ}$ |
+| sor | a | b | c | $\alpha$ | $\beta$ | $\gamma$ |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| **1.** | $5cm$ |  |  |  | $45^{\circ}$ | $62^{\circ}$ |
+| **2.** |  |  | $9m$ | $12^{\circ}$ | $74^{\circ}$ |  |
+| **3.** |  | $4dm$ |  | $51^{\circ}$ |  | $73^{\circ}$ |
 
+#### 1.sor:
 $$
 \begin{aligned}
 a = 5cm && \| && \alpha = ? \\
@@ -101,6 +102,21 @@ c = ? && \| && \gamma = 62^{\circ} \\
 b = \frac{b}{a} \cdot a = \frac{\sin\beta}{\sin\alpha} \cdot 5 = \frac{\sin45^{\circ}}{\sin73^{\circ}} \cdot 5 = \frac{0.7071}{0.9563} \cdot 5 = 0.7394 \cdot 5 = 3.7cm \\
 \\\\
 c = \frac{c}{a} \cdot a = \frac{\sin\gamma}{\sin\alpha} \cdot a = \frac{\sin62^{\circ}}{\sin73^{\circ}} \cdot 5 = \frac{0.8829}{0.9563} \cdot 5 = 0.9232 \cdot 5 = 4.62cm
+\end{aligned}
+$$
+
+#### 2.sor:
+$$
+\begin{aligned}
+a = ? && \| && \alpha = 12^{\circ} \\
+b = ? && \| && \beta = 74^{\circ} \\
+c = 9m && \| && \gamma = ? \\
+\\\\
+\gamma = 180^{\circ} - (12^{\circ} + 74^{\circ}) = 94^{\circ} \\
+\\\\
+a = \frac{a}{c} \frac{\sin\alpha}{\sin\gamma} \cdot c = \frac{\sin12^{\circ}}{\sin94^{\circ}} \cdot 9 = \frac{0.2079}{0.9975} \cdot 9 = 0.2084 \cdot 9 = 1.8757 \implies 1.88m \\
+\\\\
+b_{1} = \frac{b}{c} \cdot c = \frac{\sin\beta}{\sin\gamma} \cdot c = \frac{\sin74^{\circ}}{\sin94^{\circ}} \cdot 9 = \frac{0.9612}{0.9975} \cdot 9 = 0.9636 \cdot 9 = 8.67m
 \end{aligned}
 $$
 
