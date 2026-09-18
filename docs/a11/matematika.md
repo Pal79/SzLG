@@ -10,5 +10,6 @@
 ---
 
 - [Vektorok](./matematika/vektorok.md)
+- [Szinustétel](./matematika/szinusztetel.md)
 
 ---
