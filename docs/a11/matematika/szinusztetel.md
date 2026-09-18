@@ -58,6 +58,26 @@ $$
 a = 3 && \| && \alpha = 45^{\circ} \\
 b = 4 && \| && \beta = ? \\
 c = ? && \| && \gamma = ? \\
-\\
+\\\\
+\beta_{1} = 4 \cdot \frac{\sin\alpha}{3} = 4 \cdot \frac{\sin45^{\circ}}{3} = \frac{0.7071}{3} = 1.2357 \cdot 4 = 70.53^{\circ} \\
+\\\\
+\gamma = 180^{\circ} - (45^{\circ} + 70.53^{\circ}) = 64.47^{\circ} \\
+\\\\
+c_{1} = \frac{\sin\gamma}{\sin\alpha} \cdot a = \frac{\sin64.47^{\circ}}{\sin45^{\circ}} \cdot 3 = \frac{0.9023}{0.7071} \cdot 3 = 1.2761 \cdot 3 = 3.8281 \\
+\\\\
+\\\\
+a_{1,2} = 3 \\
+b_{1,2} = 4 \\
+\alpha = 45^{\circ} \\
+\beta_{2} = 180^{\circ} - 70.53^{\circ} = 109.47^{\circ} \\
+\gamma_{2} = 25.53^{\circ} \\
+\\\\
+c_{2} = \frac{\sin\gamma}{\sin\alpha} \cdot a = \frac{\sin25.53^{\circ}}{\sin45^{\circ}} \cdot 3 = \frac{4.4309}{0.7071} \cdot 3 = 6.2662 \cdot 3 = 18.80^{\circ}
 \end{aligned}
 $$
+
+---
+
+[Vissza](../matematika.md)
+
+---
