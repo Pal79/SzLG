@@ -114,11 +114,34 @@ c = 9m && \| && \gamma = ? \\
 \\\\
 \gamma = 180^{\circ} - (12^{\circ} + 74^{\circ}) = 94^{\circ} \\
 \\\\
-a = \frac{a}{c} \frac{\sin\alpha}{\sin\gamma} \cdot c = \frac{\sin12^{\circ}}{\sin94^{\circ}} \cdot 9 = \frac{0.2079}{0.9975} \cdot 9 = 0.2084 \cdot 9 = 1.8757 \implies 1.88m \\
+a = \frac{a}{c} \cdot c = \frac{\sin\alpha}{\sin\gamma} \cdot c = \frac{\sin12^{\circ}}{\sin94^{\circ}} \cdot 9 = \frac{0.2079}{0.9975} \cdot 9 = 0.2084 \cdot 9 = 1.8757 \approx 1.88m \\
 \\\\
-b_{1} = \frac{b}{c} \cdot c = \frac{\sin\beta}{\sin\gamma} \cdot c = \frac{\sin74^{\circ}}{\sin94^{\circ}} \cdot 9 = \frac{0.9612}{0.9975} \cdot 9 = 0.9636 \cdot 9 = 8.67m
+b = \frac{b}{c} \cdot c = \frac{\sin\beta}{\sin\gamma} \cdot c = \frac{\sin74^{\circ}}{\sin94^{\circ}} \cdot 9 = \frac{0.9612}{0.9975} \cdot 9 = 0.9636 \cdot 9 = 8.67m
 \end{aligned}
 $$
+
+#### 3. sor:
+$$
+\begin{aligned}
+a = ? && \| && \alpha = 51^{\circ} \\
+b = 4dm && \| && \beta = ? \\
+c = ? && \| && \gamma = 73^{\circ} \\
+\\\\
+\beta = 180^{\circ} - (51^{\circ} + 73^{\circ}) = 180^{\circ} - 124^{\circ} = 56^{\circ} \\
+\\\\
+a = \frac{a}{b} = \frac{\sin\alpha}{\sin\beta} \cdot b = \frac{\sin51^{\circ}}{\sin56^{\circ}} \cdot 4 = \frac{0.7771}{0.8290} \cdot 4 = 0.9373 \cdot 4 = 3.75dm \\
+\\\\
+c = \frac{c}{b} = \frac{\sin\gamma}{\sin\beta} \cdot b = \frac{\sin73^{\circ}}{\sin56^{\circ}} \cdot 4 = \frac{0.9563}{0.8290} \cdot 4 = 1.1535 \cdot 4 = 4.6142dm
+\end{aligned}
+$$
+
+### Megoldás:
+
+| sor | a | b | c | $\alpha$ | $\beta$ | $\gamma$ |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| **1.** | $5cm$ | $3.7cm$ | $4.62cm$ | $73^{\circ}$ | $45^{\circ}$ | $62^{\circ}$ |
+| **2.** | $1.88m$ | $8.67m$ | $9m$ | $12^{\circ}$ | $74^{\circ}$ | $94^{\circ}$ |
+| **3.** | $3.75dm$ | $4dm$ | $4.6142dm$ | $51^{\circ}$ | $56^{\circ}$ | $73^{\circ}$ |
 
 ### 3300. feladat
 Egy háromszög oldalainak hossza $a$, $b$ és $c$.
