@@ -77,7 +77,7 @@ c_{2} = \frac{\sin\gamma}{\sin\alpha} \cdot a = \frac{\sin25.53^{\circ}}{\sin45^
 $$
 
 ## Lecke
-### 3299. feladat
+### 3299. feladat
 Egy háromszög oldalainak hossza $a$, $b$ és $c$.
 
 A velük szemben lévő belső szögek rendre $\alpha$, $\beta$ és $\gamma$.
@@ -89,6 +89,20 @@ Töltsük ki a következő táblázatot.
 | $5cm$ |  |  |  | $45^{\circ}$ | $62^{\circ}$ |
 |  |  | $9m$ | $12^{\circ}$ | $74^{\circ}$ |  |
 |  | $4dm$ |  | $51^{\circ}$ |  | $73^{\circ}$ |
+
+$$
+\begin{aligned}
+a = 5cm && \| && \alpha = ? \\
+b = ? && \| && \beta = 45^{\circ} \\
+c = ? && \| && \gamma = 62^{\circ} \\
+\\\\
+\alpha = 180^{\circ} - (45^{\circ} + 62^{\circ}) = 180^{\circ} - 107^{\circ} = 73^{\circ} \\
+\\\\
+b = \frac{b}{a} \cdot a = \frac{\sin\beta}{\sin\alpha} \cdot 5 = \frac{\sin45^{\circ}}{\sin73^{\circ}} \cdot 5 = \frac{0.7071}{0.9563} \cdot 5 = 0.7394 \cdot 5 = 3.7cm \\
+\\\\
+c = \frac{c}{a} \cdot a = \frac{\sin\gamma}{\sin\alpha} \cdot a = \frac{\sin62^{\circ}}{\sin73^{\circ}} \cdot 5 = \frac{0.8829}{0.9563} \cdot 5 = 0.9232 \cdot 5 = 4.62cm
+\end{aligned}
+$$
 
 ### 3300. feladat
 Egy háromszög oldalainak hossza $a$, $b$ és $c$.
