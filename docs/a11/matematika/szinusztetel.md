@@ -76,6 +76,33 @@ c_{2} = \frac{\sin\gamma}{\sin\alpha} \cdot a = \frac{\sin25.53^{\circ}}{\sin45^
 \end{aligned}
 $$
 
+## Lecke
+### 3299. feladat
+Egy háromszög oldalainak hossza $a$, $b$ és $c$.
+
+A velük szemben lévő belső szögek rendre $\alpha$, $\beta$ és $\gamma$.
+
+Töltsük ki a következő táblázatot.
+
+| a | b | c | $\alpha$ | $\beta$ | $\gamma$ |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| $5cm$ |  |  |  | $45^{\circ}$ | $62^{\circ}$ |
+|  |  | $9m$ | $12^{\circ}$ | $74^{\circ}$ |  |
+|  | $4dm$ |  | $51^{\circ}$ |  | $73^{\circ}$ |
+
+### 3300. feladat
+Egy háromszög oldalainak hossza $a$, $b$ és $c$.
+
+A velük szemben levő szögek rendre $\alpha$, $\beta$ és $\gamma$.
+
+Töltsük ki a következő táblázatot.
+
+| a | b | c | $\alpha$ | $\beta$ | $\gamma$ |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| $9cm$ | $5cm$ |  | $70^{\circ}$ |  |  |
+|  | $12m$ | $8m$ |  | $102^{\circ}$ |  |
+| $18dm$ |  | $120cm$ | $65^{\circ}$ |  |  |
+
 ---
 
 [Vissza](../matematika.md)
