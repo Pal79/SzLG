@@ -191,6 +191,7 @@ $$
 
 #### 3. sor:
 $$
+\begin{aligned}
 a = 18dm && \| && \alpha = 65^{\circ} \\
 b = ? && \| && \beta = ? \\
 c = 120cm = 12dm && \| && \gamma = ? \\
@@ -202,6 +203,7 @@ c = 120cm = 12dm && \| && \gamma = ? \\
 \beta = 180^{\circ} - (65^{\circ} + 37.17^{\circ}) = 180^{\circ} - 102.17^{\circ} = 77.83^{\circ} \\
 \\\\
 b = \frac{b}{a} = \frac{\sin\beta}{\sin\alpha} \cdot a = \frac{\sin77.83^{\circ}}{\sin65^{\circ}} \cdot 18 = \frac{0.9775}{0.9063} \cdot 18 = 1.0786 \cdot 18 = 19.41dm
+\end{aligned}
 $$
 
 ### Megoldás:
