@@ -12,7 +12,7 @@
 
 # Szinusztétel
 
-## Háromszög trigonometrikus képlete
+## Háromszög trigonometrikus képlete
 A háromszög területe egyenlő két oldal hosszának és az általuk közbezárt szög szinusza szorzatának felével egyenlő.
 
 ![trigonometria](../images/matematika-trigonometria-001.svg)
@@ -172,7 +172,7 @@ c = \frac{c}{b} = \frac{\sin\gamma}{\sin\beta} \cdot b = \frac{\sin78.53^{\circ}
 \end{aligned}
 $$
 
-### Megoldás:
+### Megoldás:
 
 | sor | a | b | c | $\alpha$ | $\beta$ | $\gamma$ |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
