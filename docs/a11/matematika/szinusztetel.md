@@ -189,12 +189,28 @@ a = \frac{a}{b} = \frac{\sin\alpha}{\sin\beta} \cdot b = \frac{\sin37.3^{\circ}}
 \end{aligned}
 $$
 
+#### 3. sor:
+$$
+a = 18dm && \| && \alpha = 65^{\circ} \\
+b = ? && \| && \beta = ? \\
+c = 120cm = 12dm && \| && \gamma = ? \\
+\\\\
+\sin\gamma = \frac{\sin\alpha}{a} \cdot c = \frac{\sin65^{\circ}}{18} \cdot 12 = \frac{0.9063}{18} \cdot 12 = 0.0503 \cdot 12 = 0.6042 \\
+\\
+\gamma = \sin^{-1}(0.6042) = 37.17^{\circ} \\
+\\\\
+\beta = 180^{\circ} - (65^{\circ} + 37.17^{\circ}) = 180^{\circ} - 102.17^{\circ} = 77.83^{\circ} \\
+\\\\
+b = \frac{b}{a} = \frac{\sin\beta}{\sin\alpha} \cdot a = \frac{\sin77.83^{\circ}}{\sin65^{\circ}} \cdot 18 = \frac{0.9775}{0.9063} \cdot 18 = 1.0786 \cdot 18 = 19.41dm
+$$
+
 ### Megoldás:
 
 | sor | a | b | c | $\alpha$ | $\beta$ | $\gamma$ |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **1.** | $9cm$ | $5cm$ | $9.3863cm$ | $70^{\circ}$ | $31.47^{\circ}$ | $78.53^{\circ}$ |
 | **2.** | $7.43m$ | $12m$ | $8m$ | $37.3^{\circ}$ | $102^{\circ}$ | $40.7^{\circ}$ |
+| **3.** | $18dm$ | $19.41dm$ | $120cm$ | $65^{\circ}$ | $77.83^{\circ}$ | $37.17^{\circ}$ |
 
 ---
 
