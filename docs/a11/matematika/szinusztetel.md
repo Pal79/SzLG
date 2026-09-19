@@ -172,11 +172,29 @@ c = \frac{c}{b} = \frac{\sin\gamma}{\sin\beta} \cdot b = \frac{\sin78.53^{\circ}
 \end{aligned}
 $$
 
+#### 2. sor:
+$$
+\begin{aligned}
+a = ? && \| && \alpha = ? \\
+b = 12m && \| && \beta = 102^{\circ} \\
+c = 8m && \| && \gamma = ? \\
+\\\\
+\sin\gamma = \frac{\sin\beta}{b} \cdot c = \frac{\sin102^{\circ}}{12} \cdot 8 = \frac{0.9781}{12} \cdot 8 = 0.0815 \cdot 8 = 0.6521 \\
+\\
+\gamma = \sin^{-1}(0.6521) = 40.7^{\circ} \\
+\\\\
+\alpha = 180^{\circ} - (102^{\circ} + 40.7^{\circ}) = 180^{\circ} - 142.7^{\circ} = 37.3^{\circ} \\
+\\\\
+a = \frac{a}{b} = \frac{\sin\alpha}{\sin\beta} \cdot b = \frac{\sin37.3^{\circ}}{\sin102^{\circ}} \cdot 12 = \frac{6060}{0.9781} \cdot 12 = 0.6196 \cdot 12 = 7.43m
+\end{aligned}
+$$
+
 ### Megoldás:
 
 | sor | a | b | c | $\alpha$ | $\beta$ | $\gamma$ |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **1.** | $9cm$ | $5cm$ | $9.3863cm$ | $70^{\circ}$ | $31.47^{\circ}$ | $78.53^{\circ}$ |
+| **2.** | $7.43m$ | $12m$ | $8m$ | $37.3^{\circ}$ | $102^{\circ}$ | $40.7^{\circ}$ |
 
 ---
 
