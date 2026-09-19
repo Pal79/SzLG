@@ -98,9 +98,9 @@ c = ? && \| && \gamma = 62^{\circ} \\
 \\\\
 \alpha = 180^{\circ} - (45^{\circ} + 62^{\circ}) = 180^{\circ} - 107^{\circ} = 73^{\circ} \\
 \\\\
-b = \frac{b}{a} \cdot a = \frac{\sin\beta}{\sin\alpha} \cdot 5 = \frac{\sin45^{\circ}}{\sin73^{\circ}} \cdot 5 = \frac{0.7071}{0.9563} \cdot 5 = 0.7394 \cdot 5 = 3.7cm \\
+b = \frac{b}{a} = \frac{\sin\beta}{\sin\alpha} \cdot 5 = \frac{\sin45^{\circ}}{\sin73^{\circ}} \cdot 5 = \frac{0.7071}{0.9563} \cdot 5 = 0.7394 \cdot 5 = 3.7cm \\
 \\\\
-c = \frac{c}{a} \cdot a = \frac{\sin\gamma}{\sin\alpha} \cdot a = \frac{\sin62^{\circ}}{\sin73^{\circ}} \cdot 5 = \frac{0.8829}{0.9563} \cdot 5 = 0.9232 \cdot 5 = 4.62cm
+c = \frac{c}{a} = \frac{\sin\gamma}{\sin\alpha} \cdot a = \frac{\sin62^{\circ}}{\sin73^{\circ}} \cdot 5 = \frac{0.8829}{0.9563} \cdot 5 = 0.9232 \cdot 5 = 4.62cm
 \end{aligned}
 $$
 
@@ -113,9 +113,9 @@ c = 9m && \| && \gamma = ? \\
 \\\\
 \gamma = 180^{\circ} - (12^{\circ} + 74^{\circ}) = 94^{\circ} \\
 \\\\
-a = \frac{a}{c} \cdot c = \frac{\sin\alpha}{\sin\gamma} \cdot c = \frac{\sin12^{\circ}}{\sin94^{\circ}} \cdot 9 = \frac{0.2079}{0.9975} \cdot 9 = 0.2084 \cdot 9 = 1.8757 \approx 1.88m \\
+a = \frac{a}{c} = \frac{\sin\alpha}{\sin\gamma} \cdot c = \frac{\sin12^{\circ}}{\sin94^{\circ}} \cdot 9 = \frac{0.2079}{0.9975} \cdot 9 = 0.2084 \cdot 9 = 1.8757 \approx 1.88m \\
 \\\\
-b = \frac{b}{c} \cdot c = \frac{\sin\beta}{\sin\gamma} \cdot c = \frac{\sin74^{\circ}}{\sin94^{\circ}} \cdot 9 = \frac{0.9612}{0.9975} \cdot 9 = 0.9636 \cdot 9 = 8.67m
+b = \frac{b}{c} = \frac{\sin\beta}{\sin\gamma} \cdot c = \frac{\sin74^{\circ}}{\sin94^{\circ}} \cdot 9 = \frac{0.9612}{0.9975} \cdot 9 = 0.9636 \cdot 9 = 8.67m
 \end{aligned}
 $$
 
@@ -128,9 +128,9 @@ c = ? && \| && \gamma = 73^{\circ} \\
 \\\\
 \beta = 180^{\circ} - (51^{\circ} + 73^{\circ}) = 180^{\circ} - 124^{\circ} = 56^{\circ} \\
 \\\\
-a = \frac{a}{b} \cdot b = \frac{\sin\alpha}{\sin\beta} \cdot b = \frac{\sin51^{\circ}}{\sin56^{\circ}} \cdot 4 = \frac{0.7771}{0.8290} \cdot 4 = 0.9373 \cdot 4 = 3.75dm \\
+a = \frac{a}{b} = \frac{\sin\alpha}{\sin\beta} \cdot b = \frac{\sin51^{\circ}}{\sin56^{\circ}} \cdot 4 = \frac{0.7771}{0.8290} \cdot 4 = 0.9373 \cdot 4 = 3.75dm \\
 \\\\
-c = \frac{c}{b} \cdot b = \frac{\sin\gamma}{\sin\beta} \cdot b = \frac{\sin73^{\circ}}{\sin56^{\circ}} \cdot 4 = \frac{0.9563}{0.8290} \cdot 4 = 1.1535 \cdot 4 = 4.6142dm
+c = \frac{c}{b} = \frac{\sin\gamma}{\sin\beta} \cdot b = \frac{\sin73^{\circ}}{\sin56^{\circ}} \cdot 4 = \frac{0.9563}{0.8290} \cdot 4 = 1.1535 \cdot 4 = 4.6142dm
 \end{aligned}
 $$
 
@@ -149,11 +149,34 @@ A velük szemben levő szögek rendre $\alpha$, $\beta$ és $\gamma$.
 
 Töltsük ki a következő táblázatot.
 
-| a | b | c | $\alpha$ | $\beta$ | $\gamma$ |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| $9cm$ | $5cm$ |  | $70^{\circ}$ |  |  |
-|  | $12m$ | $8m$ |  | $102^{\circ}$ |  |
-| $18dm$ |  | $120cm$ | $65^{\circ}$ |  |  |
+| sor | a | b | c | $\alpha$ | $\beta$ | $\gamma$ |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| **1.** | $9cm$ | $5cm$ |  | $70^{\circ}$ |  |  |
+| **2.** |  | $12m$ | $8m$ |  | $102^{\circ}$ |  |
+| **3.** | $18dm$ |  | $120cm$ | $65^{\circ}$ |  |  |
+
+#### 1. sor:
+$$
+\begin{aligned}
+a = 9cm && \| && \alpha = 70^{\circ} \\
+b = 5cm && \| && \beta = ? \\
+c = ? && \| && \gamma = ? \\
+\\\\
+\sin\beta = b \cdot \frac{sin\alpha}{a} = 5 \cdot \frac{\sin70^{\circ}}{9} = 5 \cdot \frac{0.9396}{9} = 5 \cdot 0.1044 = 0.522 \\
+\\
+\beta = \sin^{-1}(0.522) = 31.4665^{\circ} \approx 31.47^{\circ} \\
+\\\\
+\gamma = 180^{\circ} - (70^{\circ} + 31.47^{\circ}) = 180^{\circ} - 101.47^{\circ} = 78.53^{\circ} \\
+\\\\
+c = \frac{c}{b} = \frac{\sin\gamma}{\sin\beta} \cdot b = \frac{\sin78.53^{\circ}}{\sin31.47^{\circ}} \cdot 5 = \frac{0.9800}{0.5221} \cdot 5 = 1.8772 \cdot 5 = 9.3863cm
+\end{aligned}
+$$
+
+### Megoldás:
+
+| sor | a | b | c | $\alpha$ | $\beta$ | $\gamma$ |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| **1.** | $9cm$ | $5cm$ | $9.3863cm$ | $70^{\circ}$ | $31.47^{\circ}$ | $78.53^{\circ}$ |
 
 ---
 
