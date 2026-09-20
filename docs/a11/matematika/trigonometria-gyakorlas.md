@@ -233,6 +233,36 @@ b = \frac{\sin\beta}{\sin\alpha} \cdot a = \frac{\sin75.71^{\circ}}{\sin70^{\cir
 \end{aligned}
 $$
 
+### c.
+$$
+\begin{aligned}
+a = ? && \| && \alpha = 45^{\circ} \\
+b = 8m && \| && \beta = 55^{\circ} \\
+c = ? && \| && \gamma = ? \\
+\\\\
+\end{aligned}
+$$
+
+### d.
+$$
+\begin{aligned}
+a = 6cm && \| && \alpha = 38^{\circ} \\
+b = ? && \| && \beta = ? \\
+c = 13cm && \| && \gamma = 110^{\circ} \\
+\\\\
+\end{aligned}
+$$
+
+### e.
+$$
+\begin{aligned}
+a = 1.2m && \| && \alpha = 68^{\circ} \\
+b = 80cm && \| && \beta = ? \\
+c = ? && \| && \gamma = ? \\
+\\\\
+\end{aligned}
+$$
+
 ---
 
 [Vissza](../matematika.md)
