@@ -15,8 +15,8 @@
 ---
 
 # Gyakorlás
-
 ## 1. feladat
+### a.
 $$
 \begin{aligned}
 a = 7cm && \| && \alpha = 42^{\circ} \\
@@ -33,7 +33,7 @@ c = \frac{\sin\gamma}{\sin\alpha} \cdot a = \frac{\sin65.08^{\circ}}{\sin42^{\ci
 \end{aligned}
 $$
 
-## 2. feladat
+### b.
 $$
 \begin{aligned}
 a = ? && \| && \alpha \\
@@ -50,7 +50,7 @@ a = \frac{\sin\alpha}{\sin\gamma} \cdot c = \frac{\sin49.17^{\circ}}{\sin45.83^{
 \end{aligned}
 $$
 
-## 3. feladat
+### c.
 $$
 \begin{aligned}
 a = ? && \| && \alpha = 50^{\circ} \\
@@ -65,7 +65,7 @@ c = \frac{\sin\gamma}{\sin\beta} \cdot b = \frac{\sin65^{\circ}}{\sin65^{\circ}}
 \end{aligned}
 $$
 
-## 4. feladat
+### d.
 $$
 \begin{aligned}
 a = 12cm && \| && \alpha = ? \\
@@ -80,7 +80,7 @@ c = \frac{\sin\gamma}{\sin\alpha} \cdot a = \frac{\sin75^{\circ}}{\sin65^{\circ}
 \end{aligned}
 $$
 
-## 5. feladat
+### e.
 $$
 \begin{aligned}
 a = 0.6m = 60cm && \| && \alpha = ? \\
@@ -101,13 +101,13 @@ $$
 
 |  | `a` | `b` | `c` | $\alpha$ | $\beta$ | $\gamma$ |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1. | $8cm$ |  | $11cm$ | $35^{\circ}$ |  |  |
-| 2. | $150cm$ | $2m$ |  |  | $72^{\circ}$ |  |
-| 3. |  | $14dm$ |  | $48^{\circ}$ | $62^{\circ}$ |  |
-| 4. |  |  | $9m$ | $55^{\circ}$ | $80^{\circ}$ |  |
-| 5. | $0.8m$ | $50cm$ |  |  |  | $32^{\circ}$ |  |
+| a. | $8cm$ |  | $11cm$ | $35^{\circ}$ |  |  |
+| b. | $150cm$ | $2m$ |  |  | $72^{\circ}$ |  |
+| c. |  | $14dm$ |  | $48^{\circ}$ | $62^{\circ}$ |  |
+| d. |  |  | $9m$ | $55^{\circ}$ | $80^{\circ}$ |  |
+| e. | $0.8m$ | $50cm$ |  |  |  | $32^{\circ}$ |
 
-### 1.
+### a.
 $$
 \begin{aligned}
 a = 8cm && \| && \alpha = 35^{\circ} \\
@@ -124,7 +124,7 @@ b = \frac{\sin\beta}{\sin\alpha} \cdot a = \frac{\sin92.9^{\circ}}{\sin35^{\circ
 \end{aligned}
 $$
 
-### 2.
+### b.
 $$
 \begin{aligned}
 a = 150cm = 1.5m && \| && \alpha = ? \\
@@ -133,13 +133,15 @@ c = ? && \| && \gamma = ? \\
 \\\\
 \sin\alpha = \frac{\sin\beta}{b} \cdot a = \frac{\sin72^{\circ}}{2} \cdot 1.5 = 0.4755 \cdot 1.5 = 0.7133 \\
 \\
+\alpha = \sin^{-1}(0.7133) = 45.5^{\circ} \\
+\\\\
 \gamma = 180^{\circ} - (45.5^{\circ} + 72^{\circ}) = 62.5^{\circ} \\
 \\\\
 c = \frac{\sin\gamma}{\sin\alpha} \cdot a = \frac{\sin62.5^{\circ}}{\sin45.5^{\circ}} \cdot 1.5 = 1.2436 \cdot 1.5 = 1.86m
 \end{aligned}
 $$
 
-### 3.
+### c.
 $$
 \begin{aligned}
 a = ? && \| && \alpha = 48^{\circ} \\
@@ -154,7 +156,7 @@ c = \frac{\sin\gamma}{\sin\beta} \cdot b = \frac{\sin70^{\circ}}{\sin62^{\circ}}
 \end{aligned}
 $$
 
-### 4.
+### d.
 $$
 \begin{aligned}
 a = ? && \| && \alpha = 55^{\circ} \\
@@ -169,7 +171,7 @@ a = \frac{\sin\alpha}{\sin\gamma} \cdot c = \frac{\sin55^{\circ}}{\sin45^{\circ}
 \end{aligned}
 $$
 
-### 5.
+### e.
 $$
 \begin{aligned}
 a = 0.8m = 80cm && \| && \alpha = ? \\
@@ -183,6 +185,51 @@ c = ? && \| && \gamma = ? \\
 \gamma = 180^{\circ} - (58^{\circ} + 32^{\circ}) = 90^{\circ} \\
 \\\\
 c = \frac{\sin\gamma}{\sin\beta} \cdot b = \frac{\sin90^{\circ}}{\sin32^{\circ}} \cdot 50 = 1.8871 \cdot 50 = 94.4cm
+\end{aligned}
+$$
+
+## 3.feladat
+
+|  | `a` | `b` | `c` | $\alpha$ | $\beta$ | $\gamma$ |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| a. | $10cm$ | $14cm$ |  | $38^{\circ}$ |  |  |
+| b. | $15dm$ |  | $90cm$ | $70^{\circ}$ |  |  |
+| c. |  | $8m$ |  | $45^{\circ}$ | $55^{\circ}$ |  |
+| d. | $6cm$ |  | $13cm$ |  |  | $110^{\circ}$ |
+| e. | $1.2m$ | $8cm$ |  | $68^{\circ}$ |  |  |
+
+### a.
+$$
+\begin{aligned}
+a = 10cm && \| && \alpha = 38^{\circ} \\
+b = 14cm && \| && \beta = ? \\
+c = ? && \| && \gamma = ? \\
+\\\\
+\sin\beta = \frac{\sin\alpha}{a} \cdot b = \frac{\sin38^{\circ}}{10} \cdot 14 = 0.0616 \cdot 14 = 0.8624 \\
+\\
+\beta = \sin^{-1}(0.8624) = 59.6^{\circ} \\
+\\\\
+\gamma = 180^{\circ} - (59.6^{\circ} + 38^{\circ}) = 82.4^{\circ} \\
+\\\\
+c = \frac{\sin\gamma}{\sin\alpha} \cdot a = \frac{\sin82.4^{\circ}}{\sin38^{\circ}} \cdot 10 = 1.61 \cdot 10 = 16.1cm \\
+\\\\
+\end{aligned}
+$$
+
+### b.
+$$
+\begin{aligned}
+a = 15dm && \| && \alpha = 70^{\circ} \\
+b = ? && \| && \beta = ? \\
+c = 90cm = 9dm && \| && \gamma = ? \\
+\\\\
+\sin\alpha = \frac{\sin\alpha}{a} \cdot c = \frac{\sin70^{\circ}}{15} \cdot 9 = 0.0626 \cdot 9 = 0.5634 \\
+\\
+\gamma = \sin^{-1}(0.5634) = 34.29^{\circ} \\
+\\\\
+\beta = 180^{\circ} - (34.29^{\circ} + 70^{\circ}) = 75.71^{\circ} \\
+\\\\
+b = \frac{\sin\beta}{\sin\alpha} \cdot a = \frac{\sin75.71^{\circ}}{\sin70^{\circ}} \cdot 15 = 1.0313 \cdot 15 = 15.47dm
 \end{aligned}
 $$
 
