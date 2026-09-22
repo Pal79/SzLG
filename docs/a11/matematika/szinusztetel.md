@@ -51,8 +51,6 @@ c &= \frac{c}{a} = \frac{\sin\gamma}{\sin\alpha} \cdot a = \frac{0.9848}{0.5} \c
 \end{aligned}
 $$
 
----
-
 $$
 \begin{aligned}
 a &= 3 &&|&& \alpha = 45^{\circ} \\
