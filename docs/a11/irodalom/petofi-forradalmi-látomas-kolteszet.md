@@ -53,6 +53,26 @@ Ez a derűlátás él benne a Szabadszállási képviselő választás kudarcái
 - `6. versszak`: a fenti cél megvalósulásáig további küzdelemre szólít fel:
 	- szentimentális zárlat a szép halál a jutalom
 
+## Nemzeti Dal
+- Keletkezése: Pest 1848 március 13. - A forradalom nyitánya lett
+- Műfaja: hazafias, forradalmi dal
+- Hangneme: magasztos, retorikus, buzdító
+
+A hat egyenként nyolc soros versszak minden esetben két részből áll, a buzdító többes szám második személyben megszólaltatott négy sort, követi az ugyancsak négy sorból álló, de többes szám első személyű refrén, az eskü.
+
+- `1. versszak`: erőteljes felszólítással a magyar népet tettre buzdítja, a szabadság - rabság közti választás nem kétséges: a szabadság igen a rabság nem, ezt erősíti az eskü szövege
+- `2.-4. versszak`: a múlt és a jelen összefüggései. Szolgaföldben nem nyughatnak az ősök, értük is harcolni kell, a haza becsülete nagyobb értéket képvisel, mint a személyes lét. Közvetlen erőteljes buzdítás, fegyverbe hívás, a vers érzelmi tetőpontja
+- `5.-6. versszak`: tűnődés a jövőn: az utókor értékelni fogja az áldozatvállalást
+
+## Európa csendes, újra csendes
+- Keletkezése: Debrecen 1849 Január
+- Műfaja: dal
+- Hangneme: magasztos mozgósító
+
+- 1.-2. vesz: helyzetrajz európában már csak a magyarok harcolnak a szabadságért 
+- 3.-5. : az, hogy egyedül maradt kell, hogy lelkesítse a magyart
+- 6.-7. : kérés a szabadsághoz, hitvallás, elkötelezettség az eszme mellett
+
 ---
 
 [Vissza](../irodalom.md)
