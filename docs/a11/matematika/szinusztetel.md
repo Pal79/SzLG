@@ -68,6 +68,8 @@ c_{2} &= \frac{\sin\gamma}{\sin\alpha} \cdot a = \frac{\sin25.53^{\circ}}{\sin45
 \end{aligned}
 $$
 
+---
+
 ## Lecke
 ### 3299. feladat
 Egy háromszög oldalainak hossza $a$, $b$ és $c$.
@@ -125,6 +127,8 @@ $$
 | **1.** | $5cm$ | $3.7cm$ | $4.62cm$ | $73^{\circ}$ | $45^{\circ}$ | $62^{\circ}$ |
 | **2.** | $1.88m$ | $8.67m$ | $9m$ | $12^{\circ}$ | $74^{\circ}$ | $94^{\circ}$ |
 | **3.** | $3.75dm$ | $4dm$ | $4.6142dm$ | $51^{\circ}$ | $56^{\circ}$ | $73^{\circ}$ |
+
+---
 
 ### 3300. feladat
 Egy háromszög oldalainak hossza $a$, $b$ és $c$.
@@ -186,11 +190,11 @@ $$
 | **2.** | $7.43m$ | $12m$ | $8m$ | $37.3^{\circ}$ | $102^{\circ}$ | $40.7^{\circ}$ |
 | **3.** | $18dm$ | $19.41dm$ | $120cm$ | $65^{\circ}$ | $77.83^{\circ}$ | $37.17^{\circ}$ |
 
+---
 
 ## Órai feladatok
 
 ### 2022 okt 10. példa (érettségi)
-
 $$
 \begin{aligned}
 a &= ? &&|&& \alpha = 30^{\circ} \\
