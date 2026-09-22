@@ -47,7 +47,9 @@ Ez a derűlátás él benne a Szabadszállási képviselő választás kudarcái
 - `4. versszak`: elítéli a hamis, hazug prófétákat
 - `5. versszak`: utópikus jövőkép felvázolása
 	- A három mellékmondat 3 feltételt fogalmaz meg:
-		- anyagi jólét, jogegyenlőség, a tanuláshoz való jog
+		- anyagi jólét
+        - jogegyenlőség
+        - a tanuláshoz való jog
 - `6. versszak`: a fenti cél megvalósulásáig további küzdelemre szólít fel:
 	- szentimentális zárlat a szép halál a jutalom
 
