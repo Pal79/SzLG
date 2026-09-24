@@ -9,6 +9,7 @@
 | :-: | :-: | :-: |
 | [Angol](./a9/angol.md) |  |  |
 | [Biológia](./a9/biologia.md) | [Biológia](./a10/biologia.md) |  |
+|  |  | [Digitális kultúra](./a11/digitalis_kultura.md) |
 | [Fizika](./a9/fizika.md) | [Fizika](./a10/fizika.md) |  |
 | [Földrajz](./a9/foldrajz.md) | [Földrajz](./a10/foldrajz.md) |  |
 | [Irodalom](./a9/irodalom.md) | [Irodalom](./a10/irodalom.md) | [Irodalom](./a11/irodalom.md) |
