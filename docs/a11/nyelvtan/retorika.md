@@ -97,29 +97,29 @@ Bírálhatjuk például a források megbízhatóságát a fogalmak meghatározá
 1. tekintélyen alapuló érvek: orvos-beteg, idős-fiatal,...
 
 ## Beszéd megszerkesztésének mente
-1. témaválasztás, címadás:
+1. **témaválasztás, címadás**:
 	- a célnak megfelelő szövegtípus kiválasztása a beszéd kommunikációs körülményeinek figyelembe vétele:
 		- kinek,
 		- milyen céllal,
 		- milyen helyzetben adjuk elő a szöveget.
-1. anyaggyűjtés:
+1. **anyaggyűjtés**:
 	- a beszédhez szükséges adatok, tények, gondolatok gyűjtése
 	- forrásai:
 		- könyv,
 		- film,
 		- internet,
 		- saját ismeretek, tapasztalatok és mások tapasztalatai
-1. az elrendezés:
+1. **az elrendezés**:
 	- az összegyűjtött anyagok csoportosítása, kiválasztjuk a legfontosabbakat,
 	- a tételmondatok meghatározása,
 	- vázlat készítés
-1. a szöveg kidolgozása:
+1. **a szöveg kidolgozása**:
 	- stíluseszközök kiválasztása,
 	- az előadásmód megtervezése (nem nyelvi eszközök alkalmazása)
-1. az emlékezetbe vésés:
+1. **az emlékezetbe vésés**:
 	- törekedni a spontánnak tűnő, természetes, szabad beszédre
 	- önellenőrzés
-1. az előadás:
+1. **az előadás**
 
 ---
 
