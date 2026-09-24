@@ -53,6 +53,59 @@ $$
 
 Ha a közbezárt szög derékszög ($\gamma = 90^{\circ}$), akkor $\cos(90^{\circ}) = 0$, így a tétel pontosan a **Pitagorasz-tétel**t adja vissza ($c^{2} = a^{2} + b^{2}$)
 
+## Feladat
+|  | $a$ | $b$ | $c$ | $\alpha$ | $\beta$ | $gamma$ |
+| 1.sor | $9cm$ | $8cm$ |  |  |  | $70^{\circ} |
+| 2.sor |  | $12.4m$ | $8.3m$ | $110^{\circ} |  |  |
+| 3.sor | $18dm$ |  | $120cm$ |  | $69^{\circ}$ |  |
+
+### 1.sor
+$$
+\begin{aligned}
+a &= 9cm &&|&& \alpha = ? \\
+b &= 8cm &&|&& \beta = ? \\
+c &= ? &&|&& \gamma = 70^{\circ} \\[1em]
+c^{2} &= a^{2} + b^{2} - 2ab \cdot \cos\gamma = 9^{2} + 8^{2} - 2 \cdot 9 \cdot 8 \cdot \cos70^{\circ} = 145 - 144 \cdot 0.342 = 95.752 \\[.5em]
+c &= \sqrt{95.752} = 9.79cm \\[1em]
+\sin\alpha &= \frac{\sin\gamma}{c} \cdot a = \frac{\sin70^{\circ}}{9.79} \cdot 9 = \frac{0.9397}{9.79} \cdot 9 = 0.096 \cdot 9 = 0.864 \\[.5em]
+\alpha &= \sin^{-1}(0.864) = 59.77^{\circ} \\[1em]
+\beta &= 180^{\circ} - (59.77^{\circ} + 70^{\circ}) = 50.23^{\circ}
+\end{aligned}
+$$
+
+### 2.sor
+$$
+\begin{aligned}
+a &= ? &&|&& \alpha = 110^{\circ} \\
+b &= 12.4m &&|&& \beta = ? \\
+c &= 8.3m &&|&& \gamma = ? \\[1em]
+a^{2} &= b^{2} + c^{2} - 2bc \cdot \cos\alpha = 12.4^{\circ} + 8.3^{2} - 2 \cdot 12.4 \cdot 8.3 \cdot \cos110^{\circ} = 222.65 - 205.84 \cdot (-0.342) = 293 \\[.5em]
+a &= \sqrt{293} = 17.12m \\[1em]
+\sin\beta &= \frac{\sin\alpha}{a} \cdot b = \frac{\sin110^{\circ}}{17.12} \cdot 12.4 = 0.055 \cdot 12.4 = 0.682 \\[.5em]
+\beta &= \sin^{-1}(0.682) = 43^{\circ} \\[1em]
+\gamma &= 180^{\circ} - (43^{\circ} + 110^{\circ}) = 27^{\circ}
+\end{aligned}
+$$
+
+### 3.sor
+$$
+\begin{aligned}
+a &= 18dm &&|&& \alpha = 110^{\circ} \\
+b &= ? &&|&& \beta = ? \\
+c &= 120cm = 12dm &&|&& \gamma = ? \\[1em]
+b^{2} &= a^{2} + c^{2} - 2ac \cdot \cos\beta = 18^{2} + 12^{2} - 2 \cdot 18 \cdot 12 \cdot \cos69^{\circ} = 468 - 432 \cdot 0.3583 = 468 - 154.79 = 313.21 \\[.5em]
+b &= \sqrt{313.21} = 17.7dm \\[1em]
+\sin\alpha &= \frac{\sin\beta}{b} \cdot a = \frac{\sin69^{\circ}}{17.7} \cdot 18 = \frac{0.9336}{17.7} \cdot 18 = 0.0527 \cdot 18 = 0.9468 \\[.5em]
+\alpha &= \sin{-1}(0.9486) = 71.55^{\circ} \\[1em]
+\gamma &= 180^{\circ} - (71.55^{\circ} + 69^{\circ}) = 39.45^{\circ}
+\end{aligned}
+$$
+
+|  | $a$ | $b$ | $c$ | $\alpha$ | $\beta$ | $gamma$ |
+| 1.sor | $9cm$ | $8cm$ | $9.79cm$ | $59.77^{\circ}$ | $50.23^{\circ}$ | $70^{\circ} |
+| 2.sor | $17.12m$ | $12.4m$ | $8.3m$ | $110^{\circ} | $43^{\circ}$ | $27^{\circ}$ |
+| 3.sor | $18dm$ | $17.7dm$ | $120cm$ | $71.55^{\circ}$ | $69^{\circ}$ | $39.45^{\circ}$ |
+
 ---
 
 [Vissza](../matematika.md)
