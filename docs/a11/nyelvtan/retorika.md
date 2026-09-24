@@ -121,6 +121,28 @@ Bírálhatjuk például a források megbízhatóságát a fogalmak meghatározá
 	- önellenőrzés
 1. **az előadás**
 
+## A vita
+Az érvelés sajátos alkalmazása.  
+Olyan kommunikációs műfaj, amelyben a felek egy döntés elérése céljából állítják szembe és egyenlítik ki álláspontjaikat.  
+A vita természete szerint konfliktus, de soha nem lehet fenyegető, kényszerítő vagy megsemmisítő.  
+A vita során nem személyek, hanem álláspontok kerülnek szembe egymással.  
+A vita nem lehet a harc kifejeződése, melyben valakinek feltétlenül veszítenie, vagy győznie kell.  
+Vita során mindvégig késznek kell lennünk arra, hogy az ésszerű ellenérvek hatására véleményünket megváltoztassuk.
+
+Protagorasz - arra nevelte tanítványait, hogy minden dolognak két oldala van.
+
+### A vita összetevői
+1. a vita tárgya
+1. a vita résztvevői
+1. a döntéshozó
+
+### A vita tipusai
+1. parlamenti viták
+1. politikai vagy kampány viták
+1. közéleti viták
+1. tudományos, szakmai viták
+1. családi viták
+
 ---
 
 [Vissza](../nyelvtan.md)
