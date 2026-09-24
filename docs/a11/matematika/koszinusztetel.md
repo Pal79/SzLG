@@ -54,6 +54,7 @@ $$
 Ha a közbezárt szög derékszög ($\gamma = 90^{\circ}$), akkor $\cos(90^{\circ}) = 0$, így a tétel pontosan a **Pitagorasz-tétel**t adja vissza ($c^{2} = a^{2} + b^{2}$)
 
 ## Feladat
+
 |  | $a$ | $b$ | $c$ | $\alpha$ | $\beta$ | $gamma$ |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1.sor | $9cm$ | $8cm$ |  |  |  | $70^{\circ}$ |
@@ -103,6 +104,7 @@ b &= \sqrt{313.21} = 17.7dm \\[1em]
 $$
 
 ### Megoldás
+
 |  | $a$ | $b$ | $c$ | $\alpha$ | $\beta$ | $gamma$ |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1.sor | $9cm$ | $8cm$ | $9.79cm$ | $59.77^{\circ}$ | $50.23^{\circ}$ | $70^{\circ}$ |
