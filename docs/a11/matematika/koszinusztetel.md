@@ -55,19 +55,13 @@ Ha a közbezárt szög derékszög ($\gamma = 90^{\circ}$), akkor $\cos(90^{\cir
 
 ## Feladat
 
-|  | $a$ | $b$ | $c$ | $\alpha$ | $\beta$ | $gamma$ |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1.sor | $9cm$ | $8cm$ |  |  |  | $70^{\circ}$ |
-| 2.sor |  | $12.4m$ | $8.3m$ | $110^{\circ}$ |  |  |
-| 3.sor | $18dm$ |  | $120cm$ |  | $69^{\circ}$ |  |
-
 $$
 \begin{array}{|c|c|c|c|c|c|c|}
 \hline
 & a & b & c & \alpha & \beta & \gamma \\
 \hline
 \text{1.sor} & 9\text{ cm} & 8\text{ cm} & & & & 70^{\circ} \\
-\text{2.sor} & & 21.4\text{ m} & 8.3\text{ m} & 110^{\circ} & & \\
+\text{2.sor} & & 12.4\text{ m} & 8.3\text{ m} & 110^{\circ} & & \\
 \text{3.sor} & 18\text{ dm} & & 120\text{ cm} & & 69^{\circ} & \\
 \hline
 \end{array}
