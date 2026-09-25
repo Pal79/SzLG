@@ -53,7 +53,7 @@ $$
 
 Ha a közbezárt szög derékszög ($\gamma = 90^{\circ}$), akkor $\cos(90^{\circ}) = 0$, így a tétel pontosan a **Pitagorasz-tétel**t adja vissza ($c^{2} = a^{2} + b^{2}$)
 
-## Feladat
+## 3320. Feladat
 
 $$
 \begin{array}{|c|c|c|c|c|c|c|}
