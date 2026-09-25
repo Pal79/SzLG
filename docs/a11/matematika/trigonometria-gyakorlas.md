@@ -277,7 +277,7 @@ $$
 \text{3. sor} & 2.5\text{ m} & & 340\text{ cm} & & 58^{\circ} & \\
 \hline
 \end{array}
-\\[2em]
+\\[1.5em]
 \begin{aligned}
 a &= 14cm && \alpha = ? \\
 b = 10cm && \beta = ? \\
