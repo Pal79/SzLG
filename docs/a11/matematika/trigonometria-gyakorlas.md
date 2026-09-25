@@ -279,9 +279,9 @@ $$
 \end{array}
 \\[1.5em]
 \begin{aligned}
-a &= 14cm && \alpha = ? \\
-b = 10cm && \beta = ? \\
-c = ? && \gamma = 48^{\circ} \\[1em]
+a &= 14cm &&|&& \alpha = ? \\
+b = 10cm &&|&& \beta = ? \\
+c = ? &&|&& \gamma = 48^{\circ} \\[1em]
 \end{aligned}
 \end{gathered}
 $$
