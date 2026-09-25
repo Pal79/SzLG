@@ -267,6 +267,7 @@ $$
 
 # Koszinusztétel gyakorlás
 $$
+\begin{gathered}
 \begin{array}{|c|c|c|c|c|c|c|}
 \hline
 & a & b & c & \alpha & \beta & \gamma \\
@@ -276,15 +277,15 @@ $$
 \text{3. sor} & 2.5\text{ m} & & 340\text{ cm} & & 58^{\circ} & \\
 \hline
 \end{array}
-$$
-
-$$
+\\[1.5em]
 \begin{aligned}
 a &= 14cm &&|&& \alpha = ? \\
 b &= 10cm &&|&& \beta = ? \\
 c &= ? &&|&& \gamma = 48^{\circ} \\[1em]
 \end{aligned}
+\end{gathered}
 $$
+
 
 ---
 
