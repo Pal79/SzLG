@@ -98,8 +98,8 @@ $$
 ### 3.sor
 $$
 \begin{aligned}
-a &= 18dm &&|&& \alpha = 110^{\circ} \\
-b &= ? &&|&& \beta = ? \\
+a &= 18dm &&|&& \alpha = ? \\
+b &= ? &&|&& \beta = 69^{\circ} \\
 c &= 120cm = 12dm &&|&& \gamma = ? \\[1em]
 b^{2} &= a^{2} + c^{2} - 2ac \cdot \cos\beta = 18^{2} + 12^{2} - 2 \cdot 18 \cdot 12 \cdot \cos69^{\circ} = 468 - 432 \cdot 0.3583 = 468 - 154.79 = 313.21 \\[.5em]
 b &= \sqrt{313.21} = 17.7dm \\[1em]
