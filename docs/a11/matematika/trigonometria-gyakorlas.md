@@ -267,6 +267,7 @@ $$
 
 # Koszinusztétel gyakorlás
 $$
+\begin{gathered}
 \begin{array}{|c|c|c|c|c|c|c|}
 \hline
 & a & b & c & \alpha & \beta & \gamma \\
@@ -282,6 +283,7 @@ a &= 14cm && \alpha = ? \\
 b = 10cm && \beta = ? \\
 c = ? && \gamma = 48^{\circ} \\[1em]
 \end{aligned}
+\end{gathered}
 $$
 
 ---
