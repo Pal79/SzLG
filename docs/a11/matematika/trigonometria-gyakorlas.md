@@ -265,7 +265,7 @@ $$
 
 ---
 
-# Koszinusztétel gyakorlás
+# Koszinusztétel gyakorlás
 $$
 \begin{array}{\|c\|c\|c\|c\|c\|c\|c\|}
 \hline
