@@ -14,7 +14,7 @@
 
 ---
 
-# Gyakorlás
+# Szinusztétel gyakorlás
 ## 1. feladat
 ### a.
 $$
@@ -261,6 +261,21 @@ b = 80cm && \| && \beta = ? \\
 c = ? && \| && \gamma = ? \\
 \\\\
 \end{aligned}
+$$
+
+---
+
+# Koszinusztétel gyakorlás
+$$
+\begin{array}{\|c\|c\|c\|c\|c\|c\|c\|}
+\hline
+& a & b & c & \alpha & \beta & \gamma \\
+\hline
+\text{1. sor} & 14\text{ cm} & 10\text{ cm} & & & & 48^{\circ} \\
+\text{2. sor} & & 15.2\text{ m} & 9.6\text{ m} & & 105^{\circ} & \\
+\text{3. sor} & 2.5\text{ m} & & 340\text{ cm} & & 58^{\circ} & \\
+\hline
+\end{array}
 $$
 
 ---
