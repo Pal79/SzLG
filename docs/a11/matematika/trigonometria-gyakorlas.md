@@ -267,7 +267,7 @@ $$
 
 # Koszinusztétel gyakorlás
 $$
-\begin{array}{\|c\|c\|c\|c\|c\|c\|c\|}
+\begin{array}{|c|c|c|c|c|c|c|}
 \hline
 & a & b & c & \alpha & \beta & \gamma \\
 \hline
