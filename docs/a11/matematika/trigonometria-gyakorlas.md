@@ -245,12 +245,13 @@ $$
 
 ### d.
 $$
-\begin{aligned}
-a = 6cm && \| && \alpha = 38^{\circ} \\
-b = ? && \| && \beta = ? \\
-c = 13cm && \| && \gamma = 110^{\circ} \\
-\\\\
-\end{aligned}
+\begin{array}{|c|c|}
+\hline
+a = 6cm & \alpha = 38^{\circ} \\
+b = ? & \beta = ? \\
+c = 13cm & \gamma = 110^{\circ} \\
+\hline
+\end{array}
 $$
 
 ### e.
