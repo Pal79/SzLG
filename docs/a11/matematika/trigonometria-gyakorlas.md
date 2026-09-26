@@ -223,15 +223,16 @@ $$
 a = 15\text{ dm} & \alpha = 70^{\circ} \\
 b = ? & \beta = ? \\
 c = 90\text{ cm} = 9\text{ dm} & \gamma = ? \\
-\hline\hline
-\sin\gamma = \frac{\sin\alpha}{a} \cdot c = \frac{\sin70^{\circ}}{15} \cdot 9 = 0.0626 \cdot 9 = 0.5634 & \\
-\gamma = \sin^{-1}(0.5634) = 34.29^{\circ} & \\
-\hline
-\beta = 180^{\circ} - (34.29^{\circ} + 70^{\circ}) = 75.71^{\circ} & \\
-\hline
-b = \frac{\sin\beta}{\sin\alpha} \cdot a = \frac{\sin75.71^{\circ}}{\sin70^{\circ}} \cdot 15 = 1.0313 \cdot 15 = 15.47\text{ dm} & \\
 \hline
 \end{array}
+$$
+$$
+\begin{aligned}
+\sin\gamma &= \frac{\sin\alpha}{a} \cdot c = \frac{\sin70^{\circ}}{15} \cdot 9 = 0.0626 \cdot 9 = 0.5634 & \\
+\gamma &= \sin^{-1}(0.5634) = 34.29^{\circ} & \\[1em]
+\beta &= 180^{\circ} - (34.29^{\circ} + 70^{\circ}) = 75.71^{\circ} & \\[1em]
+b &= \frac{\sin\beta}{\sin\alpha} \cdot a = \frac{\sin75.71^{\circ}}{\sin70^{\circ}} \cdot 15 = 1.0313 \cdot 15 = 15.47\text{ dm}
+\end{aligned}
 $$
 
 ### c.
