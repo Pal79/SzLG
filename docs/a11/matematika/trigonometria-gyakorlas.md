@@ -224,7 +224,6 @@ a = 15dm & \alpha = 70^{\circ} \\
 b = ? & \beta = ? \\
 c = 90cm = 9dm & \gamma = ? \\
 \hline
-\hline
 & & \\
 \sin\alpha = \frac{\sin\alpha}{a} \cdot c = \frac{\sin70^{\circ}}{15} \cdot 9 = 0.0626 \cdot 9 = 0.5634 & \\
 \gamma = \sin^{-1}(0.5634) = 34.29^{\circ} & \\
