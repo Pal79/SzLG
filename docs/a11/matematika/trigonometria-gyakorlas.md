@@ -255,12 +255,13 @@ $$
 
 ### e.
 $$
-\begin{aligned}
-a = 1.2m && \| && \alpha = 68^{\circ} \\
-b = 80cm && \| && \beta = ? \\
-c = ? && \| && \gamma = ? \\
-\\\\
-\end{aligned}
+\begin{array}{|c|c|}
+\hline
+a = 1.2m & \alpha = 68^{\circ} \\
+b = 80cm & \beta = ? \\
+c = ? & \gamma = ? \\
+\hline
+\end{array}
 $$
 
 ---
