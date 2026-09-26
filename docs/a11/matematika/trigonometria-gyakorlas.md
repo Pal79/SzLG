@@ -218,29 +218,28 @@ $$
 
 ### b.
 $$
-\begin{aligned}
-a = 15dm && \| && \alpha = 70^{\circ} \\
+\begin{array}{|c|c|}
+\hline
+a = 15dm & \alpha = 70^{\circ} \\
 b = ? && \| && \beta = ? \\
 c = 90cm = 9dm && \| && \gamma = ? \\
-\\\\
-\sin\alpha = \frac{\sin\alpha}{a} \cdot c = \frac{\sin70^{\circ}}{15} \cdot 9 = 0.0626 \cdot 9 = 0.5634 \\
-\\
-\gamma = \sin^{-1}(0.5634) = 34.29^{\circ} \\
-\\\\
-\beta = 180^{\circ} - (34.29^{\circ} + 70^{\circ}) = 75.71^{\circ} \\
-\\\\
-b = \frac{\sin\beta}{\sin\alpha} \cdot a = \frac{\sin75.71^{\circ}}{\sin70^{\circ}} \cdot 15 = 1.0313 \cdot 15 = 15.47dm
-\end{aligned}
+\hline
+\sin\alpha = \frac{\sin\alpha}{a} \cdot c = \frac{\sin70^{\circ}}{15} \cdot 9 = 0.0626 \cdot 9 = 0.5634 & \\
+\gamma = \sin^{-1}(0.5634) = 34.29^{\circ} & \\
+\beta = 180^{\circ} - (34.29^{\circ} + 70^{\circ}) = 75.71^{\circ} & \\
+b = \frac{\sin\beta}{\sin\alpha} \cdot a = \frac{\sin75.71^{\circ}}{\sin70^{\circ}} \cdot 15 = 1.0313 \cdot 15 = 15.47dm &
+\end{array}
 $$
 
 ### c.
 $$
-\begin{aligned}
-a = ? && \| && \alpha = 45^{\circ} \\
-b = 8m && \| && \beta = 55^{\circ} \\
-c = ? && \| && \gamma = ? \\
-\\\\
-\end{aligned}
+\begin{array}{|c|c|}
+\hline
+a = ? & \alpha = 45^{\circ} \\
+b = 8m & \beta = 55^{\circ} \\
+c = ? & \gamma = ? \\
+\hline
+\end{array}
 $$
 
 ### d.
