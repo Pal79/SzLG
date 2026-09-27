@@ -86,6 +86,7 @@ $$
 & \text{a} & \text{b} & \text{c} & \alpha & \beta & \gamma \\
 \hline
 \text{1. sor} & 8\text{ cm} & & 11\text{ cm} & 35^{\circ} & & \\
+\text{2. sor} & 150\text{ cm} & 2\text{ m} & & & 35^{\circ} & \\
 \hline
 \end{array}
 $$
