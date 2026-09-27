@@ -18,9 +18,9 @@ A háromszög területe egyenlő két oldal hosszának és az általuk közbezá
 ![trigonometria](../images/matematika-trigonometria-001.svg)
 
 $$
-\begin{array}{|l|l|l|}
-\frac{a \cdot b \cdot \sin\gamma}{2} &= \frac{a \cdot c \cdot \sin\beta}{2} &= \frac{b \cdot c \cdot \sin\alpha}{2}
-\end{array}
+\begin{aligned}
+\frac{a \cdot b \cdot \sin\gamma}{2} &= \frac{a \cdot c \cdot \sin\beta}{2} = \frac{b \cdot c \cdot \sin\alpha}{2}
+\end{aligned}
 $$
 
 $$
@@ -291,6 +291,7 @@ $$
 a = 5 & \alpha = \text{?} \\
 b = 6 & \beta = 60^{\circ} \\
 c = ? & \gamma = \text{?} \\
+\end{array}
 $$
 $$
 \begin{aligned}
