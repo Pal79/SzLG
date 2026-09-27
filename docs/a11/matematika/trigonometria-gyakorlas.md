@@ -83,7 +83,9 @@ $$
 $$
 \begin{array}{|c|c|c|c|c|c|c|}
 \hline
-& a & b & c & \alpha & \beta & \gamma \\
+& \text{a} & \text{b} & \text{c} & \alpha & \beta & \gamma \\
+\hline
+\text{1. sor} & 8\text{ cm} & & 11\text{ cm} & 35^{\circ} & & \\
 \hline
 \end{array}
 $$
