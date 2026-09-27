@@ -186,8 +186,11 @@ $$
 & a & b & c & \alpha & \beta & \gamma \\
 \hline
 1\text{.sor} & 9\text{ cm} & 5\text{ cm} & & 70^{\circ} & & \\
+\hline
 2\text{.sor} & & 12\text{ m} & 8\text{ m} & & 102^{\circ} & \\
+\hline
 3\text{.sor} & 18\text{ dm} & & 120\text{ cm} & 65^{\circ} & & & \\
+\hline
 \end{array}
 $$
 
