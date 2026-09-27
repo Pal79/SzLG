@@ -236,6 +236,7 @@ $$
 a = 18\text{ dm} & \alpha = 65^{\circ} \\
 b = \text{?} & \beta = \text{?} \\
 c = 120\text{ cm} = 12\text{ dm} & \gamma = \text{?} \\
+\end{array}
 $$
 $$
 \begin{aligned}
