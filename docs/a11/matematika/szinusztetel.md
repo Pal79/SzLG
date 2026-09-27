@@ -180,15 +180,21 @@ A velük szemben levő szögek rendre $\alpha$, $\beta$ és $\gamma$.
 
 Töltsük ki a következő táblázatot.
 
-| sor | a | b | c | $\alpha$ | $\beta$ | $\gamma$ |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| **1.** | $9cm$ | $5cm$ |  | $70^{\circ}$ |  |  |
-| **2.** |  | $12m$ | $8m$ |  | $102^{\circ}$ |  |
-| **3.** | $18dm$ |  | $120cm$ | $65^{\circ}$ |  |  |
+$$
+\begin{array}{|c|c|c|c|c|c|c|}
+\hline
+& a & b & c & \alpha & \beta & \gamma \\
+\hline
+1\text{.sor} & 9\text{ cm} & 5\text{ cm} & & 70^{\circ} & & \\
+2\text{.sor} & & 12\text{ m} & 8\text{ m} & & 102^{\circ} & \\
+3\text{.sor} & 18\text{ dm} & & 120\text{ cm} & 65^{\circ} & & & \\
+\end{array}
+$$
 
 #### 1. sor:
 $$
 \begin{aligned}
+\\[2em]
 a &= 9cm &&|&& \alpha = 70^{\circ} \\
 b &= 5cm &&|&& \beta = ? \\
 c &= ? &&|&& \gamma = ? \\[1em]
