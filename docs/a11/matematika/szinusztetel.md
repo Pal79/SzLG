@@ -269,10 +269,15 @@ $$
 
 ### 2022 okt 10. példa (érettségi)
 $$
+\begin{array}{|l|l|}
+a = \text{?} & \alpha = 30^{\circ} \\
+b = 6 & \beta = \text{?} \\
+c = \text{?} & \gamma = 100^{\circ} \\
+\end{array}
+$$
+$$
 \begin{aligned}
-a &= ? &&|&& \alpha = 30^{\circ} \\
-b &= 6 &&|&& \beta = ? \\
-c &= ? &&|&& \gamma = 100^{\circ} \\[1em]
+\\[2em]
 \beta &= 180^{\circ} - (100^{\circ} + 30^{\circ}) = 50^{\circ} \\[1em]
 a &= \frac{\sin 30^{\circ}}{\sin 50^{\circ}} \cdot 6 = \frac{0{,}5}{0{,}766} \cdot 6 \approx 3{,}92 \\[1em]
 c &= \frac{\sin \gamma}{\sin \beta} \cdot b = \frac{\sin 100^{\circ}}{\sin 50^{\circ}} \cdot 6 \approx 7{,}71
@@ -281,10 +286,14 @@ $$
 
 ### 2025 május 5. példa
 $$
+\begin{array}{|l|l|}
+a = 5 & \alpha = \text{?} \\
+b = 6 & \beta = 60^{\circ} \\
+c = ? & \gamma = \text{?} \\
+$$
+$$
 \begin{aligned}
-a &= 5 &&|&& \alpha = ? \\
-b &= 6 &&|&& \beta = 60^{\circ} \\
-c &= ? &&|&& \gamma = ? \\[1em]
+\\[2em]
 \sin\alpha &= \frac{\sin\beta}{b} \cdot a = \frac{\sin60}{6} \cdot 5 = 0.1443 \cdot 5 = 0.7217 \\[.5em]
 \alpha &= \sin^{-1}(0.7217) = 46.2^{\circ} \\[1em]
 \gamma &= 180^{\circ} - (60^{\circ} + 46.2^{\circ}) = 73.8^{\circ} \\[1em]
