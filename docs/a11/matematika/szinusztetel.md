@@ -41,21 +41,31 @@ A háromszögben két oldal hosszának aránya egyenlő a velük szemközti szö
 
 ## Feladatok
 $$
+\begin{array}{|l|l|}
+a = 3 & \alpha = 30^{\circ} \\
+b = ? & \beta = 70^{\circ} \\
+c = ? & \gamma = ?
+\end{array}
+$$
+$$
 \begin{aligned}
-a &= 3 &&|&& \alpha = 30^{\circ} \\
-b &= ? &&|&& \beta = 70^{\circ} \\
-c &= ? &&|&& \gamma = ? \\[1em]
 \gamma &= 180^{\circ} - (30^{\circ} + 70^{\circ}) = 80^{\circ} \\[1em]
 b &= \frac{b}{a} = \frac{\sin70^{\circ}}{\sin30^{\circ}} \cdot a = \frac{0.9396}{0.5} \cdot 3 = 1.8792 \cdot 3 = 5.6376 \\[1em]
 c &= \frac{c}{a} = \frac{\sin\gamma}{\sin\alpha} \cdot a = \frac{0.9848}{0.5} \cdot 3 = 1.9696 \cdot 3 = 5.9088
 \end{aligned}
 $$
 
+---
+
+$$
+\begin{array}{|l|l|}
+a = 3 & \alpha = 45^{\circ} \\
+b = 4 & \beta = ? \\
+c = ? & \gamma = ? \\[1em]
+\end{array}
+$$
 $$
 \begin{aligned}
-a &= 3 &&|&& \alpha = 45^{\circ} \\
-b &= 4 &&|&& \beta = ? \\
-c &= ? &&|&& \gamma = ? \\[1em]
 \beta_{1} &= 4 \cdot \frac{\sin\alpha}{3} = 4 \cdot \frac{\sin45^{\circ}}{3} = \frac{0.7071}{3} = 1.2357 \cdot 4 = 70.53^{\circ} \\[1em]
 \gamma &= 180^{\circ} - (45^{\circ} + 70.53^{\circ}) = 64.47^{\circ} \\[1em]
 c_{1} &= \frac{\sin\gamma}{\sin\alpha} \cdot a = \frac{\sin64.47^{\circ}}{\sin45^{\circ}} \cdot 3 = \frac{0.9023}{0.7071} \cdot 3 = 1.2761 \cdot 3 = 3.8281 \\[2em]
@@ -78,6 +88,17 @@ A velük szemben lévő belső szögek rendre $\alpha$, $\beta$ és $\gamma$.
 
 Töltsük ki a következő táblázatot.
 
+$$
+\begin{array}{|c|c|c|c|c|c|c|}
+\hline
+& a & b & c & \alpha & \beta & \gamma \\
+\hline
+\text{1.sor} & 5\text{ cm} & & & & 45^{\circ} & 62^{\circ} \\
+\text{2.sor} & & & 9\text{ m} & 12^{\circ} & 74^{\circ} & \\
+\text{3.sor} & & 4dm & & 51^{\circ} & & 73^{\circ} \\
+\end{array}
+$$
+
 | sor | a | b | c | $\alpha$ | $\beta$ | $\gamma$ |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **1.** | $5cm$ |  |  |  | $45^{\circ}$ | $62^{\circ}$ |
@@ -86,10 +107,15 @@ Töltsük ki a következő táblázatot.
 
 #### 1.sor:
 $$
+\begin{array}{|l|l|}
+a = 5\text{ cm} & \alpha = \text{?} \\
+b = \text{?} & \beta = 45^{\circ} \\
+c = \text{?} & \gamma = 62^{\circ} \\
+\end{array}
+$$
+
+$$
 \begin{aligned}
-a &= 5cm &&|&& \alpha = ? \\
-b &= ? &&|&& \beta = 45^{\circ} \\
-c &= ? &&|&& \gamma = 62^{\circ} \\[1em]
 \alpha &= 180^{\circ} - (45^{\circ} + 62^{\circ}) = 180^{\circ} - 107^{\circ} = 73^{\circ} \\[1em]
 b &= \frac{b}{a} = \frac{\sin\beta}{\sin\alpha} \cdot 5 = \frac{\sin45^{\circ}}{\sin73^{\circ}} \cdot 5 = \frac{0.7071}{0.9563} \cdot 5 = 0.7394 \cdot 5 = 3.7cm \\[1em]
 c &= \frac{c}{a} = \frac{\sin\gamma}{\sin\alpha} \cdot a = \frac{\sin62^{\circ}}{\sin73^{\circ}} \cdot 5 = \frac{0.8829}{0.9563} \cdot 5 = 0.9232 \cdot 5 = 4.62cm
@@ -98,10 +124,15 @@ $$
 
 #### 2.sor:
 $$
+\begin{array}{|l|l|}
+a = \text{?} & \alpha = 12^{\circ} \\
+b = \text{?} & \beta = 74^{\circ} \\
+c = 9\text{ m} & \gamma = \text{?} \\
+\end{array}
+$$
+
+$$
 \begin{aligned}
-a &= ? &&|&& \alpha = 12^{\circ} \\
-b &= ? &&|&& \beta = 74^{\circ} \\
-c &= 9m &&|&& \gamma = ? \\[1em]
 \gamma &= 180^{\circ} - (12^{\circ} + 74^{\circ}) = 94^{\circ} \\[1em]
 a &= \frac{a}{c} = \frac{\sin\alpha}{\sin\gamma} \cdot c = \frac{\sin12^{\circ}}{\sin94^{\circ}} \cdot 9 = \frac{0.2079}{0.9975} \cdot 9 = 0.2084 \cdot 9 = 1.8757 \approx 1.88m \\[1em]
 b &= \frac{b}{c} = \frac{\sin\beta}{\sin\gamma} \cdot c = \frac{\sin74^{\circ}}{\sin94^{\circ}} \cdot 9 = \frac{0.9612}{0.9975} \cdot 9 = 0.9636 \cdot 9 = 8.67m
