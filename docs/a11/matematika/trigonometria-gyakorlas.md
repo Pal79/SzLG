@@ -80,7 +80,13 @@ b &= \frac{\sin\beta}{\sin\alpha} \cdot a = \frac{\sin86.7^{\circ}}{\sin55.3^{\c
 $$
 
 ## 2.feladat
-
+$$
+\begin{array}{|c|c|c|c|c|c|c|}
+\hline
+& a & b & c & \alpha & \beta & \gamma \\
+\hline
+\end{array}
+$$
 |  | `a` | `b` | `c` | $\alpha$ | $\beta$ | $\gamma$ |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | a. | $8cm$ |  | $11cm$ | $35^{\circ}$ |  |  |
