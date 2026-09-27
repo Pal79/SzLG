@@ -88,6 +88,7 @@ $$
 \text{1. sor} & 8\text{ cm} & & 11\text{ cm} & 35^{\circ} & & \\
 \text{2. sor} & 150\text{ cm} & 2\text{ m} & & & 72^{\circ} & \\
 \text{3. sor} & & 14\text{ dm} & & 48^{\circ} & 62^{\circ} & \\
+\text{4. sor} & & & 9\text{ m} & 55^{\circ} & 80^{\circ} & \\
 \hline
 \end{array}
 $$
