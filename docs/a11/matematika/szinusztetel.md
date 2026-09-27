@@ -96,8 +96,11 @@ $$
 & a & b & c & \alpha & \beta & \gamma \\
 \hline
 \text{1.sor} & 5\text{ cm} & & & & 45^{\circ} & 62^{\circ} \\
+\hline
 \text{2.sor} & & & 9\text{ m} & 12^{\circ} & 74^{\circ} & \\
+\hline
 \text{3.sor} & & 4dm & & 51^{\circ} & & 73^{\circ} \\
+\hline
 \end{array}
 $$
 
@@ -109,9 +112,9 @@ b = \text{?} & \beta = 45^{\circ} \\
 c = \text{?} & \gamma = 62^{\circ} \\
 \end{array}
 $$
-
 $$
 \begin{aligned}
+\\[2em]
 \alpha &= 180^{\circ} - (45^{\circ} + 62^{\circ}) = 180^{\circ} - 107^{\circ} = 73^{\circ} \\[1em]
 b &= \frac{b}{a} = \frac{\sin\beta}{\sin\alpha} \cdot 5 = \frac{\sin45^{\circ}}{\sin73^{\circ}} \cdot 5 = \frac{0.7071}{0.9563} \cdot 5 = 0.7394 \cdot 5 = 3.7cm \\[1em]
 c &= \frac{c}{a} = \frac{\sin\gamma}{\sin\alpha} \cdot a = \frac{\sin62^{\circ}}{\sin73^{\circ}} \cdot 5 = \frac{0.8829}{0.9563} \cdot 5 = 0.9232 \cdot 5 = 4.62cm
@@ -126,9 +129,9 @@ b = \text{?} & \beta = 74^{\circ} \\
 c = 9\text{ m} & \gamma = \text{?} \\
 \end{array}
 $$
-
 $$
 \begin{aligned}
+\\[2em]
 \gamma &= 180^{\circ} - (12^{\circ} + 74^{\circ}) = 94^{\circ} \\[1em]
 a &= \frac{a}{c} = \frac{\sin\alpha}{\sin\gamma} \cdot c = \frac{\sin12^{\circ}}{\sin94^{\circ}} \cdot 9 = \frac{0.2079}{0.9975} \cdot 9 = 0.2084 \cdot 9 = 1.8757 \approx 1.88m \\[1em]
 b &= \frac{b}{c} = \frac{\sin\beta}{\sin\gamma} \cdot c = \frac{\sin74^{\circ}}{\sin94^{\circ}} \cdot 9 = \frac{0.9612}{0.9975} \cdot 9 = 0.9636 \cdot 9 = 8.67m
@@ -137,10 +140,15 @@ $$
 
 #### 3. sor:
 $$
+\begin{array}{|l|l|}
+a = \text{?} & \alpha = 51^{\circ} \\
+b = 4\text{ dm} & \beta = \text{?} \\
+c = \text{?} & \gamma = 73^{\circ} \\
+\end{array}
+$$
+$$
 \begin{aligned}
-a &= ? &&|&& \alpha = 51^{\circ} \\
-b &= 4dm &&|&& \beta = ? \\
-c &= ? &&|&& \gamma = 73^{\circ} \\[1em]
+\\[2em]
 \beta &= 180^{\circ} - (51^{\circ} + 73^{\circ}) = 180^{\circ} - 124^{\circ} = 56^{\circ} \\[1em]
 a &= \frac{a}{b} = \frac{\sin\alpha}{\sin\beta} \cdot b = \frac{\sin51^{\circ}}{\sin56^{\circ}} \cdot 4 = \frac{0.7771}{0.8290} \cdot 4 = 0.9373 \cdot 4 = 3.75dm \\[1em]
 c &= \frac{c}{b} = \frac{\sin\gamma}{\sin\beta} \cdot b = \frac{\sin73^{\circ}}{\sin56^{\circ}} \cdot 4 = \frac{0.9563}{0.8290} \cdot 4 = 1.1535 \cdot 4 = 4.6142dm
@@ -149,11 +157,19 @@ $$
 
 ### Megoldás:
 
-| sor | a | b | c | $\alpha$ | $\beta$ | $\gamma$ |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| **1.** | $5cm$ | $3.7cm$ | $4.62cm$ | $73^{\circ}$ | $45^{\circ}$ | $62^{\circ}$ |
-| **2.** | $1.88m$ | $8.67m$ | $9m$ | $12^{\circ}$ | $74^{\circ}$ | $94^{\circ}$ |
-| **3.** | $3.75dm$ | $4dm$ | $4.6142dm$ | $51^{\circ}$ | $56^{\circ}$ | $73^{\circ}$ |
+$$
+\begin{array}{|c|c|c|c|c|c|c|}
+\hline
+& a & b & c & \alpha & \beta & \gamma \\
+\hline
+1\text{.sor} & 5\text{ cm} & 3.7\text{ cm} & 4.62\text{ cm} & 73^{\circ} & 45^{\circ} & 62^{\circ} \\
+\hline
+2\text{.sor} & 1.88\text{ m} & 8.67\text{ m} & 9\text{ m} & 12^{\circ} & 74^{\circ} & 94^{\circ} \\
+\hline
+3\text{.sor} & 3.75\text{ dm} & 4\text{ dm} & 4.6142\text{ dm} & 51^{\circ} & 56^{\circ} & 73^{\circ}
+\hline
+\end{array}
+$$
 
 ---
 
