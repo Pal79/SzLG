@@ -57,32 +57,25 @@ $$
 ### d.
 $$
 \begin{aligned}
-a = 12cm && \| && \alpha = ? \\
-b = ? && \| && \beta = 40^{\circ} \\
-c = ? && \| \gamma = 75^{\circ} \\
-\\\\
-\alpha = 180^{\circ} - (40^{\circ} + 75^{\circ}) = 65^{\circ} \\
-\\\\
-b = \frac{\sin\beta}{\sin\alpha} \cdot a = \frac{\sin40^{\circ}}{\sin65^{\circ}} \cdot 12 = \frac{0.6428}{0.9063} \cdot 12 = 1.0658 \cdot 12 = 12.79cm \\
-\\\\
-c = \frac{\sin\gamma}{\sin\alpha} \cdot a = \frac{\sin75^{\circ}}{\sin65^{\circ}} \cdot 12 = \frac{0.9659}{0.9063} \cdot 12 = 1.0658 \cdot 12 = 12.79cm
+a &= 12cm &&|&& \alpha = ? \\
+b &= ? &&|&& \beta = 40^{\circ} \\
+c &= ? &&|&& \gamma = 75^{\circ} \\[1em]
+\alpha = 180^{\circ} - (40^{\circ} + 75^{\circ}) = 65^{\circ} \\[1em]
+b &= \frac{\sin\beta}{\sin\alpha} \cdot a = \frac{\sin40^{\circ}}{\sin65^{\circ}} \cdot 12 = \frac{0.6428}{0.9063} \cdot 12 = 1.0658 \cdot 12 = 12.79cm \\[1em]
+c &= \frac{\sin\gamma}{\sin\alpha} \cdot a = \frac{\sin75^{\circ}}{\sin65^{\circ}} \cdot 12 = \frac{0.9659}{0.9063} \cdot 12 = 1.0658 \cdot 12 = 12.79cm
 \end{aligned}
 $$
 
 ### e.
 $$
 \begin{aligned}
-a = 0.6m = 60cm && \| && \alpha = ? \\
-b = ? && \| && \beta = ? \\
-c = 45cm && \| && \gamma = 38^{\circ} \\
-\\\\
-\sin\alpha = \frac{\sin\gamma}{c} \cdot a = \frac{\sin38^{\circ}}{45} \cdot 60 = \frac{0.6157}{45} \cdot 60 = 0.0137 \cdot 60 = 0.822 \\
-\\
-\alpha = \sin^{-1}(0.822) = 55.3^{\circ} \\
-\\\\
-\beta = 180^{\circ} - (55.3^{\circ} + 38^{\circ}) = 86.7^{\circ} \\
-\\\\
-b = \frac{\sin\beta}{\sin\alpha} \cdot a = \frac{\sin86.7^{\circ}}{\sin55.3^{\circ}} \cdot 60 = \frac{0.9983}{0.8221} \cdot 60 = 1.2143 \cdot 60 = 72.86cm
+a &= 0.6m = 60cm &&|&& \alpha = ? \\
+b &= ? &&|&& \beta = ? \\
+c &= 45cm &&|&& \gamma = 38^{\circ} \\[1em]
+\sin\alpha &= \frac{\sin\gamma}{c} \cdot a = \frac{\sin38^{\circ}}{45} \cdot 60 = \frac{0.6157}{45} \cdot 60 = 0.0137 \cdot 60 = 0.822 \\[.5em]
+\alpha &= \sin^{-1}(0.822) = 55.3^{\circ} \\[1em]
+\beta &= 180^{\circ} - (55.3^{\circ} + 38^{\circ}) = 86.7^{\circ} \\[1em]
+b &= \frac{\sin\beta}{\sin\alpha} \cdot a = \frac{\sin86.7^{\circ}}{\sin55.3^{\circ}} \cdot 60 = \frac{0.9983}{0.8221} \cdot 60 = 1.2143 \cdot 60 = 72.86cm
 \end{aligned}
 $$
 
