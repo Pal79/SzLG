@@ -19,49 +19,38 @@
 ### a.
 $$
 \begin{aligned}
-a = 7cm && \| && \alpha = 42^{\circ} \\
-b = 10cm && \| && \beta = ? \\
-c = ? && \| && \gamma = ? \\
-\\\\
-\sin\beta = \frac{\sin\alpha}{a} \cdot b = \frac{\sin42^{\circ}}{7} \cdot 10 = \frac{0.6691}{7} \cdot 10 = 0.9559 \\
-\\
-\beta = \sin^{-1}(0.9559) = 72.92^{\circ} \\
-\\\\
-\gamma = 180^{\circ} - (42^{\circ} + 72.92^{\circ}) = 180^{\circ} - 114.92^{\circ} = 65.08^{\circ} \\
-\\\\
-c = \frac{\sin\gamma}{\sin\alpha} \cdot a = \frac{\sin65.08^{\circ}}{\sin42^{\circ}} \cdot 7 = \frac{0.9069}{0.6691} \cdot 7 = 1.3554 \cdot 7 = 9.49cm
+a &= 7cm &&|&& \alpha = 42^{\circ} \\
+b &= 10cm &&|&& \beta = ? \\
+c &= ? &&|&& \gamma = ? \\[1em]
+\sin\beta &= \frac{\sin\alpha}{a} \cdot b = \frac{\sin42^{\circ}}{7} \cdot 10 = \frac{0.6691}{7} \cdot 10 = 0.9559 \\[.5em]
+\beta &= \sin^{-1}(0.9559) = 72.92^{\circ} \\[1em]
+\gamma &= 180^{\circ} - (42^{\circ} + 72.92^{\circ}) = 180^{\circ} - 114.92^{\circ} = 65.08^{\circ} \\[1em]
+c &= \frac{\sin\gamma}{\sin\alpha} \cdot a = \frac{\sin65.08^{\circ}}{\sin42^{\circ}} \cdot 7 = \frac{0.9069}{0.6691} \cdot 7 = 1.3554 \cdot 7 = 9.49cm
 \end{aligned}
 $$
 
 ### b.
 $$
 \begin{aligned}
-a = ? && \| && \alpha \\
-b = 25dm && && \| \beta = 85^{\circ} \\
-c = 180cm = 18dm && \| && \gamma = ? \\
-\\\\
-\sin\gamma = \frac{\sin\beta}{b} \cdot c = \frac{\sin85^{\circ}}{25} \cdot 18 = \frac{0.9962}{25} \cdot 18 = 0.0398 \cdot 18 = 0.7173 \\
-\\
-\gamma = \sin^{-1}(0.7173) = 45.83^{\circ} \\
-\\\\
-\alpha = 180^{\circ} - (45.83^{\circ} + 85^{\circ}) = 45.83^{\circ} \\
-\\\\
-a = \frac{\sin\alpha}{\sin\gamma} \cdot c = \frac{\sin49.17^{\circ}}{\sin45.83^{\circ}} \cdot 18 = \frac{0.7567}{0.7173} \cdot 18 = 1.055 \cdot 18 = 18.99dm
+a &= ? &&|&& \alpha \\
+b &= 25dm &&|&& \beta = 85^{\circ} \\
+c &= 180cm = 18dm &&|&& \gamma = ? \\[1em]
+\sin\gamma &= \frac{\sin\beta}{b} \cdot c = \frac{\sin85^{\circ}}{25} \cdot 18 = \frac{0.9962}{25} \cdot 18 = 0.0398 \cdot 18 = 0.7173 \\[.5em]
+\gamma &= \sin^{-1}(0.7173) = 45.83^{\circ} \\[1em]
+\alpha &= 180^{\circ} - (45.83^{\circ} + 85^{\circ}) = 45.83^{\circ} \\[1em]
+a &= \frac{\sin\alpha}{\sin\gamma} \cdot c = \frac{\sin49.17^{\circ}}{\sin45.83^{\circ}} \cdot 18 = \frac{0.7567}{0.7173} \cdot 18 = 1.055 \cdot 18 = 18.99dm
 \end{aligned}
 $$
 
 ### c.
 $$
 \begin{aligned}
-a = ? && \| && \alpha = 50^{\circ} \\
-b = 15m && \| && \beta = ? \\
-c = ? && \| && \gamma = 65^{\circ} \\
-\\\\
-\beta = 180^{\circ} - (50^{\circ} + 65^{\circ}) = 180^{\circ} - 115^{\circ} = 65^{\circ} \\
-\\\\
-a = \frac{\sin\alpha}{\sin\beta} \cdot 15 = \frac{\sin50^{\circ}}{\sin65^{\circ}} \cdot 15 = \frac{0.7660}{0.9063} \cdot 15 = 0.8452 \cdot 15 = 12.68m \\
-\\\\
-c = \frac{\sin\gamma}{\sin\beta} \cdot b = \frac{\sin65^{\circ}}{\sin65^{\circ}} \cdot 15 = \frac{0.9063}{0.9063} \cdot 15 = 1 \cdot 15 = 15m
+a &= ? &&|&& \alpha = 50^{\circ} \\
+b &= 15m &&|&& \beta = ? \\
+c &= ? &&|&& \gamma = 65^{\circ} \\[1em]
+\beta &= 180^{\circ} - (50^{\circ} + 65^{\circ}) = 180^{\circ} - 115^{\circ} = 65^{\circ} \\[.5em]
+a &= \frac{\sin\alpha}{\sin\beta} \cdot 15 = \frac{\sin50^{\circ}}{\sin65^{\circ}} \cdot 15 = \frac{0.7660}{0.9063} \cdot 15 = 0.8452 \cdot 15 = 12.68m \\[1em]
+c &= \frac{\sin\gamma}{\sin\beta} \cdot b = \frac{\sin65^{\circ}}{\sin65^{\circ}} \cdot 15 = \frac{0.9063}{0.9063} \cdot 15 = 1 \cdot 15 = 15m
 \end{aligned}
 $$
 
