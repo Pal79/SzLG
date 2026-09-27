@@ -166,7 +166,7 @@ $$
 \hline
 2\text{.sor} & 1.88\text{ m} & 8.67\text{ m} & 9\text{ m} & 12^{\circ} & 74^{\circ} & 94^{\circ} \\
 \hline
-3\text{.sor} & 3.75\text{ dm} & 4\text{ dm} & 4.6142\text{ dm} & 51^{\circ} & 56^{\circ} & 73^{\circ}
+3\text{.sor} & 3.75\text{ dm} & 4\text{ dm} & 4.6142\text{ dm} & 51^{\circ} & 56^{\circ} & 73^{\circ} \\
 \hline
 \end{array}
 $$
