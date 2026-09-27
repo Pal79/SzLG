@@ -196,11 +196,15 @@ $$
 
 #### 1. sor:
 $$
+\begin{array}{|l|l|}
+a = 9\text{ cm} & \alpha = 70^{\circ} \\
+b = 5\text{ cm} & \beta = \text{?} \\
+c = \text{?} & \gamma = \text{?} \\
+\end{array}
+$$
+$$
 \begin{aligned}
 \\[2em]
-a &= 9cm &&|&& \alpha = 70^{\circ} \\
-b &= 5cm &&|&& \beta = ? \\
-c &= ? &&|&& \gamma = ? \\[1em]
 \sin\beta &= b \cdot \frac{sin\alpha}{a} = 5 \cdot \frac{\sin70^{\circ}}{9} = 5 \cdot \frac{0.9396}{9} = 5 \cdot 0.1044 = 0.522 \\[.5em]
 \beta &= \sin^{-1}(0.522) = 31.4665^{\circ} \approx 31.47^{\circ} \\[1em]
 \gamma &= 180^{\circ} - (70^{\circ} + 31.47^{\circ}) = 180^{\circ} - 101.47^{\circ} = 78.53^{\circ} \\[1em]
@@ -210,10 +214,15 @@ $$
 
 #### 2. sor:
 $$
+\begin{array}{|l|l|}
+a = \text{?} & \alpha = \text{?} \\
+b = 12\text{ m} & \beta = 102^{\circ} \\
+c = 8\text{ m} & \gamma = \text{?} \\
+\end{array}
+$$
+$$
 \begin{aligned}
-a &= ? &&|&& \alpha = ? \\
-b &= 12m &&|&& \beta = 102^{\circ} \\
-c &= 8m &&|&& \gamma = ? \\[1em]
+\\[2em]
 \sin\gamma &= \frac{\sin\beta}{b} \cdot c = \frac{\sin102^{\circ}}{12} \cdot 8 = \frac{0.9781}{12} \cdot 8 = 0.0815 \cdot 8 = 0.6521 \\[.5em]
 \gamma &= \sin^{-1}(0.6521) = 40.7^{\circ} \\[1em]
 \alpha &= 180^{\circ} - (102^{\circ} + 40.7^{\circ}) = 180^{\circ} - 142.7^{\circ} = 37.3^{\circ} \\[1em]
@@ -223,10 +232,14 @@ $$
 
 #### 3. sor:
 $$
+\begin{array}{|l|l|}
+a = 18\text{ dm} & \alpha = 65^{\circ} \\
+b = \text{?} & \beta = \text{?} \\
+c = 120\text{ cm} = 12\text{ dm} & \gamma = \text{?} \\
+$$
+$$
 \begin{aligned}
-a &= 18dm &&|&& \alpha = 65^{\circ} \\
-b &= ? &&|&& \beta = ? \\
-c &= 120cm = 12dm &&|&& \gamma = ? \\[1em]
+\\[2em]
 \sin\gamma &= \frac{\sin\alpha}{a} \cdot c = \frac{\sin65^{\circ}}{18} \cdot 12 = \frac{0.9063}{18} \cdot 12 = 0.0503 \cdot 12 = 0.6042 \\[.5em]
 \gamma &= \sin^{-1}(0.6042) = 37.17^{\circ} \\[1em]
 \beta &= 180^{\circ} - (65^{\circ} + 37.17^{\circ}) = 180^{\circ} - 102.17^{\circ} = 77.83^{\circ} \\[1em]
@@ -236,11 +249,19 @@ $$
 
 ### Megoldás:
 
-| sor | a | b | c | $\alpha$ | $\beta$ | $\gamma$ |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| **1.** | $9cm$ | $5cm$ | $9.3863cm$ | $70^{\circ}$ | $31.47^{\circ}$ | $78.53^{\circ}$ |
-| **2.** | $7.43m$ | $12m$ | $8m$ | $37.3^{\circ}$ | $102^{\circ}$ | $40.7^{\circ}$ |
-| **3.** | $18dm$ | $19.41dm$ | $120cm$ | $65^{\circ}$ | $77.83^{\circ}$ | $37.17^{\circ}$ |
+$$
+\begin{array}{|c|c|c|c|c|c|c|}
+\hline
+& a & b & c & \alpha & \beta & \gamma \\
+\hline
+1\text{.sor} & 9\text{ cm} & 5\text{ cm} & 9.3863\text{ cm} & 70^{\circ} & 31.47^{\circ} & 78.53^{\circ} \\
+\hline
+2\text{.sor} & 7.43\text{ m} & 12\text{ m} & 8\text{ m} & 37.3^{\circ} & 102^{\circ} & 40.7^{\circ} \\
+\hline
+3\text{.sor} & 18\text{ dm} & 19.41\text{ dm} & 120\text{ cm} & 65^{\circ} & 77.83^{\circ} & 37.17^{\circ} \\
+\hline
+\end{array}
+$$
 
 ---
 
