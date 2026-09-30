@@ -47,7 +47,7 @@
 $$
 \begin{array}{|c|c|}
 \hline
-\text{**Múlt**} & \text{**Jelen**} \\
+\text{Múlt} & \text{Jelen} \\
 \hline
 \text{értékgazdag} & \text{értékszegény} \\
 \hline
