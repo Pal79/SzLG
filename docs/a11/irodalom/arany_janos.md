@@ -68,3 +68,20 @@ $$
 - `7. versszak`: a hiábavalóság kérdései után az 1.versszak költői szándékának megismétlése
 
 ## Kertben
+- `Keletkezése`: Nagyszalonta - 1851 elején a Bach rendszerben
+- `Alapélménye`: Arany nagyszalontai kertje
+- `Hangneme`: kevert (elégikus, irónikus)
+- `Típusa`: létértelmező vers, ars-poetica szerű
+
+- `1. versszak`: a kertészkedő lírai hős szemlélődik
+- `2.-4. versszak`: a vers epikus magja, szomszédban meghalt egy nő, férje a koporsót ácsolja, síró árvájukat a cseléd megveri, elmélkedés, részvét
+- `5. versszak`: a kertészkedés idillje felbomlik, a részvét visszavonása
+- `6. - 7. versszak`: általánosítás, filozófiai zárlat, értékelemzés, keserű irónia
+
+### Alapmetaforák
+
+---
+
+[Vissza](../irodalom.md)
+
+---
