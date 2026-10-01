@@ -10,8 +10,11 @@
 
 ---
 
-# Szinusztétel
+[Vissza](./szogfuggvenyek.md)
 
+---
+
+# Szinusztétel
 ## Háromszög trigonometrikus képlete
 A háromszög területe egyenlő két oldal hosszának és az általuk közbezárt szög szinusza szorzatának felével egyenlő.
 
@@ -37,9 +40,7 @@ $$
 
 A háromszögben két oldal hosszának aránya egyenlő a velük szemközti szögek szinuszának arányával.
 
----
-
-## Feladatok
+### Feladatok
 $$
 \begin{array}{|l|l|}
 a = 3 & \alpha = 30^{\circ} \\
@@ -305,6 +306,6 @@ $$
 
 ---
 
-[Vissza](../matematika.md)
+[Vissza](./szogfuggvenyek.md)
 
 ---
