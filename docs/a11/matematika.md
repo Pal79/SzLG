@@ -10,7 +10,6 @@
 ---
 
 - [Vektorok](./matematika/vektorok.md)
-- [Szinusztétel](./matematika/szinusztetel.md)
-- [Koszinusztétel](./matematika/koszinusztetel.md)
+- [Szögfüggvények](./matematika/szogfuggvenyek.md)
 
 ---
