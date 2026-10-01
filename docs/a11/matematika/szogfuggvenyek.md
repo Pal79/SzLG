@@ -43,11 +43,7 @@ A szinuszt a **szemközti befogó** és az **átfogó** hányadosaként definiá
 
 $sin(A) = \frac{szemközti}{átfogó} = \frac{BC}{AB} = \frac{3}{5}$
 
-<details>
-  <summary>Szinusztétel</summary>
-
----
-
+## Szinusztétel
 ## Háromszög trigonometrikus képlete
 A háromszög területe egyenlő két oldal hosszának és az általuk közbezárt szög szinusza szorzatának felével egyenlő.
 
@@ -72,8 +68,6 @@ $$
 $$
 
 A háromszögben két oldal hosszának aránya egyenlő a velük szemközti szögek szinuszának arányával.
-
----
 
 ### Feladatok
 $$
@@ -339,20 +333,12 @@ c &= \frac{\sin\gamma}{\sin\beta} \cdot b = \frac{\sin73.8^{\circ}}{\sin60^{\cir
 \end{aligned}
 $$
 
----
-
-</details>
-
-<details>
-  <summary>Koszinusztétel</summary>
-
----
-
+## Koszinusztétel
 Egy háromszög egyik oldalhosszának négyzetét megkaphatjuk, ha a másik két oldal hossza négyzetének összegéből kivonjuk a két oldal hosszának és a közbezárt szög koszinuszának kétszeres szorzatát.
 
 A **koszinusztétel** a pitagoraszi tétel általánosítása tetszőleges (nem csak derékszögű) háromszögekre.
 
-## Tétel képlete
+### Tétel képlete
 Bármely háromszögben, ahol a háromszög oldalai `a`, `b` és `c`, a velük szemközti szögek pedig rendre $\alpha$, $\beta$ és $\gamma$:
 
 $$
@@ -385,7 +371,7 @@ $$
 
 Ha a közbezárt szög derékszög ($\gamma = 90^{\circ}$), akkor $\cos(90^{\circ}) = 0$, így a tétel pontosan a **Pitagorasz-tétel**t adja vissza ($c^{2} = a^{2} + b^{2}$)
 
-## 3320. Feladat
+### 3320. Feladat
 
 $$
 \begin{array}{|c|c|c|c|c|c|c|}
@@ -401,7 +387,7 @@ $$
 \end{array}
 $$
 
-### 1.sor
+#### 1.sor
 $$
 \begin{array}{|l|l|}
 a = 9\text{ cm} & \alpha = \text{?} \\
@@ -420,7 +406,7 @@ c &= \sqrt{95.752} = 9.79cm \\[1em]
 \end{aligned}
 $$
 
-### 2.sor
+#### 2.sor
 $$
 \begin{array}{|l|l|}
 a = \text{?} & \alpha = 110^{\circ} \\
@@ -439,7 +425,7 @@ a &= \sqrt{293} = 17.12m \\[1em]
 \end{aligned}
 $$
 
-### 3.sor
+#### 3.sor
 $$
 \begin{array}{|l|l|}
 a = 18\text{ dm} & \alpha = \text{?} \\
@@ -458,7 +444,7 @@ b &= \sqrt{313.21} = 17.7dm \\[1em]
 \end{aligned}
 $$
 
-### Megoldás
+#### Megoldás
 
 $$
 \begin{array}{\|c\|c\|c\|c\|c\|c\|c\|}
@@ -515,15 +501,7 @@ c = \sqrt{175} = 13.23 \\[1em]
 \end{aligned}
 $$
 
----
-
-</details>
-
-<details>
-  <summary>Háromszög terület</summary>
-
----
-
+## Háromszög terület
 $T = \frac{a \cdot b \cdot \sin\gamma}{2}$
 
 ## Feladat (paralelogramma)
@@ -547,10 +525,6 @@ T = \frac{6.36 \cdot 5 \cdot \sin62.35^{\circ}}{2} = \frac{28.168}{2} = 14.084 \
 \lozenge = 2 \cdot 14.084 = 28.168
 \end{aligned}
 $$
-
----
-
-</details>
 
 ---
 
