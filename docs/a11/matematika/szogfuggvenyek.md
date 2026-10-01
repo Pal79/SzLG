@@ -333,7 +333,7 @@ c &= \frac{\sin\gamma}{\sin\beta} \cdot b = \frac{\sin73.8^{\circ}}{\sin60^{\cir
 \end{aligned}
 $$
 
-## Koszinusztétel
+## Koszinusztétel
 Egy háromszög egyik oldalhosszának négyzetét megkaphatjuk, ha a másik két oldal hossza négyzetének összegéből kivonjuk a két oldal hosszának és a közbezárt szög koszinuszának kétszeres szorzatát.
 
 A **koszinusztétel** a pitagoraszi tétel általánosítása tetszőleges (nem csak derékszögű) háromszögekre.
@@ -472,12 +472,12 @@ $$
 $$
 \begin{aligned}
 \\[1em]
-\frac{\sin\alpha}{a} = \frac{\sin\beta}{b} = \frac{\sin\alpha}{10} = \frac{\sin30^{\circ}}{6} \quad / \cdot 10 \\
-\sin\alpha = \frac{10 \cdot \sin30^{\circ}}{6} = 0.833 \\
-\alpha = \sin^{-1}(0.833) = 56.41^{\circ} \\[1em]
-\gamma = 180^{\circ} - (56.41^{\circ} + 30^{\circ}) = 93.59^{\circ} \\[1em]
-c^{2} = a^{2} + b^{2} - 2ab \cdot \cos\gamma = 10^{2} + 6^{2} - 2 \cdot 10 \cdot 6 \cdot \cos93.59^{\circ} = 136 - 120 \cdot (-0.0626) = 136 - (-7.512) = 143.512 \\
-c = \sqrt{143.512} = 11.98\text{ cm}
+\frac{\sin\alpha}{a} &= \frac{\sin\beta}{b} = \frac{\sin\alpha}{10} = \frac{\sin30^{\circ}}{6} \quad / \cdot 10 \\
+\sin\alpha &= \frac{10 \cdot \sin30^{\circ}}{6} = 0.833 \\
+\alpha &= \sin^{-1}(0.833) = 56.41^{\circ} \\[1em]
+\gamma &= 180^{\circ} - (56.41^{\circ} + 30^{\circ}) = 93.59^{\circ} \\[1em]
+c^{2} &= a^{2} + b^{2} - 2ab \cdot \cos\gamma = 10^{2} + 6^{2} - 2 \cdot 10 \cdot 6 \cdot \cos93.59^{\circ} = 136 - 120 \cdot (-0.0626) = 136 - (-7.512) = 143.512 \\
+c &= \sqrt{143.512} = 11.98\text{ cm}
 \end{aligned}
 $$
 
@@ -492,19 +492,19 @@ c = \text{?} & \gamma = 60^{\circ}
 $$
 $$
 \begin{aligned}
-c^{2} = a^{2} + b^{2} - 2ab \cdot \cos\gamma = 10^{2} + 15^{2} - 2 \cdot 10 \cdot 15 \cdot \cos60^{\circ} = 325 - 300 \cdot 0.5 = 325 - 150 = 175 \\
-c = \sqrt{175} = 13.23 \\[1em]
-\frac{\sin\alpha}{a} = \frac{\sin\gamma}{c} = \frac{\sin\alpha}{10} = \frac{\sin60^{\circ}}{13.23} \\
-\sin\alpha = \frac{10 \cdot \sin60^{\circ}}{13.23} = \frac{8.66}{13.23} = 0.655 \\
-\alpha = \sin^{-1}(0.655) = 40.92^{\circ} \\[1em]
-\beta = 180^{\circ} - (40.92^{\circ} + 60^{\circ}) = 79.08^{\circ}
+c^{2} &= a^{2} + b^{2} - 2ab \cdot \cos\gamma = 10^{2} + 15^{2} - 2 \cdot 10 \cdot 15 \cdot \cos60^{\circ} = 325 - 300 \cdot 0.5 = 325 - 150 = 175 \\
+c &= \sqrt{175} = 13.23 \\[1em]
+\frac{\sin\alpha}{a} &= \frac{\sin\gamma}{c} = \frac{\sin\alpha}{10} = \frac{\sin60^{\circ}}{13.23} \\
+\sin\alpha &= \frac{10 \cdot \sin60^{\circ}}{13.23} = \frac{8.66}{13.23} = 0.655 \\
+\alpha &= \sin^{-1}(0.655) = 40.92^{\circ} \\[1em]
+\beta &= 180^{\circ} - (40.92^{\circ} + 60^{\circ}) = 79.08^{\circ}
 \end{aligned}
 $$
 
 ## Háromszög terület
 $T = \frac{a \cdot b \cdot \sin\gamma}{2}$
 
-## Feladat (paralelogramma)
+## Feladat (paralelogramma)
 $$
 \begin{array}{|l|l|}
 a = \text{?} & \alpha = 70^{\circ} \\
@@ -515,14 +515,14 @@ $$
 $$
 \begin{aligned}
 \\[1em]
-a^{2} = b^{2} + c^{2} - 2bc \cdot \cos\alpha = 5^{2} + 6^{2} - 2 \cdot 5 \cdot 6 \cdot \cos70^{\circ} = 61 - 60 \cdot 0.342 = 61 - 20.52 = 40.48 \\
-a = \sqrt{40.48} = 6.36 \\[1em]
-\frac{\sin\beta}{b} = \frac{\sin\alpha}{a} = \frac{\sin\beta}{5} =b \frac{\sin70^{\circ}}{6.36} \quad / \cdot 5 \\
-\sin\beta = \frac{5 \cdot \sin70^{\circ}}{6.36} = \frac{4.7}{6.36} = 0.739 \\
-\beta = \sin^{-1}(0.739) = 47.65^{\circ} \\[1em]
-\gamma = 180^{\circ} - (47.65^{\circ} + 70^{\circ}) = 62.35^{\circ} \\[1em]
-T = \frac{6.36 \cdot 5 \cdot \sin62.35^{\circ}}{2} = \frac{28.168}{2} = 14.084 \\
-\lozenge = 2 \cdot 14.084 = 28.168
+a^{2} &= b^{2} + c^{2} - 2bc \cdot \cos\alpha = 5^{2} + 6^{2} - 2 \cdot 5 \cdot 6 \cdot \cos70^{\circ} = 61 - 60 \cdot 0.342 = 61 - 20.52 = 40.48 \\
+a &= \sqrt{40.48} = 6.36 \\[1em]
+\frac{\sin\beta}{b} &= \frac{\sin\alpha}{a} = \frac{\sin\beta}{5} =b \frac{\sin70^{\circ}}{6.36} \quad / \cdot 5 \\
+\sin\beta &= \frac{5 \cdot \sin70^{\circ}}{6.36} = \frac{4.7}{6.36} = 0.739 \\
+\beta &= \sin^{-1}(0.739) = 47.65^{\circ} \\[1em]
+\gamma &= 180^{\circ} - (47.65^{\circ} + 70^{\circ}) = 62.35^{\circ} \\[1em]
+T &= \frac{6.36 \cdot 5 \cdot \sin62.35^{\circ}}{2} = \frac{28.168}{2} = 14.084 \\
+\lozenge &= 2 \cdot 14.084 = 28.168
 \end{aligned}
 $$
 
