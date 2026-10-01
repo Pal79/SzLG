@@ -10,12 +10,11 @@
 
 ---
 
-[Vissza](../matematika.md)
+[Vissza](./szogfuggvenyek.md)
 
 ---
 
 # Koszinusztétel
-
 Egy háromszög egyik oldalhosszának négyzetét megkaphatjuk, ha a másik két oldal hossza négyzetének összegéből kivonjuk a két oldal hosszának és a közbezárt szög koszinuszának kétszeres szorzatát.
 
 A **koszinusztétel** a pitagoraszi tétel általánosítása tetszőleges (nem csak derékszögű) háromszögekre.
@@ -42,7 +41,7 @@ A koszinusztételt akkor alkalmazzuk, ha a háromszögben ismerjük:
 - **Két oldalt és a közbezárt szögüket** (így kiszámítható a harmadik oldal).
 - **Mindhárom oldalt** (így kiszámítható bármelyik szög).
 
-### Szög kiszámítása az oldalakból
+## Szög kiszámítása az oldalakból
 A képlet átrendezésével bármelyik szög koszinusza kifejezhető. Például a $\gamma$ szögre:
 
 $$
@@ -144,6 +143,47 @@ $$
 
 ---
 
-[Vissza](../matematika.md)
+$$
+\begin{array}{|l|l|}
+a = 10\text{ cm} & \alpha = \text{?} \\
+b = 6\text{ cm} & \beta = 30^{\circ} \\
+c = \text{?} & \gamma = \text{?}
+\end{array}
+$$
+$$
+\begin{aligned}
+\\[1em]
+\frac{\sin\alpha}{a} &= \frac{\sin\beta}{b} = \frac{\sin\alpha}{10} = \frac{\sin30^{\circ}}{6} \quad / \cdot 10 \\
+\sin\alpha &= \frac{10 \cdot \sin30^{\circ}}{6} = 0.833 \\
+\alpha &= \sin^{-1}(0.833) = 56.41^{\circ} \\[1em]
+\gamma &= 180^{\circ} - (56.41^{\circ} + 30^{\circ}) = 93.59^{\circ} \\[1em]
+c^{2} &= a^{2} + b^{2} - 2ab \cdot \cos\gamma = 10^{2} + 6^{2} - 2 \cdot 10 \cdot 6 \cdot \cos93.59^{\circ} = 136 - 120 \cdot (-0.0626) = 136 - (-7.512) = 143.512 \\
+c &= \sqrt{143.512} = 11.98\text{ cm}
+\end{aligned}
+$$
+
+---
+
+$$
+\begin{array}{|l|l|}
+a = 10 & \alpha = \text{?} \\
+b = 15 & \beta = \text{?} \\
+c = \text{?} & \gamma = 60^{\circ}
+\end{array}
+$$
+$$
+\begin{aligned}
+c^{2} &= a^{2} + b^{2} - 2ab \cdot \cos\gamma = 10^{2} + 15^{2} - 2 \cdot 10 \cdot 15 \cdot \cos60^{\circ} = 325 - 300 \cdot 0.5 = 325 - 150 = 175 \\
+c &= \sqrt{175} = 13.23 \\[1em]
+\frac{\sin\alpha}{a} &= \frac{\sin\gamma}{c} = \frac{\sin\alpha}{10} = \frac{\sin60^{\circ}}{13.23} \\
+\sin\alpha &= \frac{10 \cdot \sin60^{\circ}}{13.23} = \frac{8.66}{13.23} = 0.655 \\
+\alpha &= \sin^{-1}(0.655) = 40.92^{\circ} \\[1em]
+\beta &= 180^{\circ} - (40.92^{\circ} + 60^{\circ}) = 79.08^{\circ}
+\end{aligned}
+$$
+
+---
+
+[Vissza](./szogfuggvenyek.md)
 
 ---
