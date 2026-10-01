@@ -21,7 +21,7 @@ Ezeket az $A$ hegyesszögre az alábbiak szerint definiáljuk:
 
 A fenti definíciókban a szög melletti és a szöggel szemközti befogókon, valamint az átfogón azok hosszát értjük.
 
-## Hogyan jegyezzük meg az arányokat?
+## Hogyan jegyezzük meg az arányokat?
 A `sziszakomataszem` szó segít megjegyezni a szinusz, koszinusz és tangens definícióját:
 - SziSzA: a **Szinusz** a szöggel **Szemközti** befogó per **Átfogó**
     - $sin(A) = \frac{Szemközti befogó}{Átfogó}$
