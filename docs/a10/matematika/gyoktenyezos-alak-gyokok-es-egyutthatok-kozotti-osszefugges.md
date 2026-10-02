@@ -1,5 +1,5 @@
 
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script>
 <script>
   window.MathJax = {
     tex: {
@@ -17,16 +17,17 @@
 
 # A gyöktényezős alak. Gyökök és együtthatók közötti összefüggés
 ## 2168. feladat
-### a. feladat
-$x^{2} + x - 6$
-- $a = 1$
-- $b = 1$
-- $c = -6$
-
-
-$x1,2 = \frac{-1 \pm \sqrt{1^{2} - 4 \cdot 1 \cdot (-6)}}{2} = \frac{-1 \pm \sqrt{25}}{2} = \frac{-1 \pm 5}{2} =$
-- $\frac{4}{2} = 2$
-- $- \frac{6}{2} = -3$
+### a. feladat: ($x^{2} + x - 6$)
+$$
+\begin{aligned}
+a &= 1 \\
+b &= 1 \\
+c &= -6 \\[2em]
+x_{1,2} &= \frac{-1 \pm \sqrt{1^{2} - 4 \cdot 1 \cdot (-6)}}{2} = \frac{-1 \pm \sqrt{25}}{2} = \frac{-1 \pm 5}{2} = \\
+x_{1} &= \frac{4}{2} = 2 \\
+x_{2} &= - \frac{6}{2} = -3
+\end{aligned}
+$$
 
 ### b. feladat
 $x^{2} + 7x + 12$
