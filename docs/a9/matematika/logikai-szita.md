@@ -1,5 +1,4 @@
 
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script>
   window.MathJax = {
     tex: {
@@ -88,5 +87,9 @@ pl.:
 * |HP és B| = 21
 
 <img src='../images/matematika_logikai-szita-003.svg' alt='logikai_szita 3.feladat' width='512'>
+
+---
+
+[Vissza](../matematika.md)
 
 ---
