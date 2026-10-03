@@ -156,32 +156,54 @@ $$
 
 ### 2169 feladat
 #### a.
-- $3$ és $4$
-    - $(x-3)(x-4)=x^{2}-4x-3x+12=x^{2}-7x+12$
+$$
+\begin{aligned}
+& 3 \text{ és } 4 \\[2em]
+(x-3)(x-4)=x^{2}-4x-3x+12=x^{2}-7x+12
+\end{aligned}
+$$
 
 #### b.
-- $-2$ és $7$
-    - $(x+2)(x-7)=x^{2}-7x+2x-14=x^{2}-5x-14$
+$$
+\begin{aligned}
+-2 \text{ és } 7 \\[2em]
+(x+2)(x-7)=x^{2}-7x+2x-14=x^{2}-5x-14
+\end{aligned}
+$$
 
 #### c.
-- $-3$ és $-6$
-    - $(x+3)(x+6)=x^{2}+6x+3x+18=x^{2}+9x+18$
+$$
+\begin{aligned}
+-3 \text{ és } -6 \\[2em]
+(x+3)(x+6)=x^{2}+6x+3x+18=x^{2}+9x+18
+\end{aligned}
+$$
 
 #### d.
-- $1$ és $-5$
-    - $(x-1)(x+5)=x^{2}+5x-x-5=x^{2}+4x-5$
+$$
+\begin{aligned}
+1 \text{ és } -5 \\[2em]
+(x-1)(x+5)=x^{2}+5x-x-5=x^{2}+4x-5
+\end{aligned}
+$$
 
 ## Teljes négyzetalak
 A kifejezést $(x \pm d)^{2}+e$ alakra hozzuk. Ez segít a függvény ábrázolásánál (szélsőérték keresésnél).
-- **Példa**: $x^{2}+6x+10=(x+3)^{2}-9+10=(x+3)^{2}+1$
+### Példa:
+$x^{2}+6x+10=(x+3)^{2}-9+10=(x+3)^{2}+1$
 
 ## Másodfokú visszavezethető magasabb fokszámú egyenletek
 Olyan egyenletek (pl. negyedfokú), ahol új változót vezetünk be (helyettesítés).
-- **Példa**: $x^{4}−5x^{2}+4=0$.
-    - Legyen $a=x^{2}$.
-    - Ekkor $a^{2}−5a+4=0$.
-    - Megoldjuk a-ra ($a1​=1,a2​=4$),
-    - majd visszatérünk x-re: $x^{2}=1 \Rightarrow x=\pm 1$ és $x2=4 \Rightarrow x=\pm 2$.
+### Példa:
+$$
+\begin{aligned}
+& x^{4}−5x^{2}+4 = 0 \\[2em]
+& \text{Legyen } a = x^{2} \\[2em]
+& \text{Ekkor } a^{2} − 5a + 4 = 0 \\[2em]
+& \text{Megoldjuk } a\text{-ra } ($a1​=1,a2​=4$) \\[2em]
+& \text{majd visszatérünk }x\text{-re: } x^{2}=1 \Rightarrow x=\pm 1$ és $x2=4 \Rightarrow x=\pm 2
+\end{aligned}
+$$
 
 ## Másodfokú egyenlőtlenségek
 Itt nem csak pontokat (gyököket) keresünk, hanem tartományokat.
@@ -189,14 +211,20 @@ Itt nem csak pontokat (gyököket) keresünk, hanem tartományokat.
     1. Nullára rendezzük.
     1. Megoldjuk egyenletként.
     1. Vázoljuk a parabolát és leolvassuk a tartományt (hol van a tengely felett/alatt).
-- **Példa**: $x^{2} − 4 < 0$. 
-    - A gyökök −2 és 2.
-    - Mivel a parabola felfelé nyitott, a megoldás: $−2 < x < 2$.
+### Példa:
+$$
+\begin{aligned}
+& x^{2} − 4 < 0 \\[2em]
+& \text{A gyökök }−2\text{ és }2 \\[2em]
+& \text{Mivel a parabola felfelé nyitott, a megoldás: }−2 < x < 2
+\end{aligned}
+$$
 
 ## Négyzetgyökös egyenletek
 Ahol az ismeretlen a gyökjel alatt van.
 - Fontos: Mindig kell értelmezési tartomány (gyök alatt nem állhat negatív) és a végén ellenőrzés (a négyzetre emelés miatt hamis gyökök keletkezhetnek).
-- **Példa**: $x+2​=3 \implies x+2=9 \implies x=7$.
+### Példa:
+$x+2​=3 \implies x+2=9 \implies x=7$.
 
 ## Diszkrimináns fogalma
 A megoldóképletben a gyök alatti kifejezés:
@@ -224,5 +252,9 @@ Az $f(x)=ax^{2}+bx+c$ függvény grafikonja egy parabola.
 ## Szöveges egyenletek
 Olyan feladatok, ahol a szöveg alapján kell felállítani egy másodfokú egyenletet. Gyakori témák: számok kapcsolata, téglalap oldalai, munkavégzés.
 - **Tipp**: Jelöld el az egyik ismeretlent x-szel, és a többit írd fel ennek segítségével.
+
+---
+
+[Vissza](../matematika.md)
 
 ---
