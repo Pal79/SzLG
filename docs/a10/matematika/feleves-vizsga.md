@@ -207,10 +207,12 @@ $$
 
 ## Másodfokú egyenlőtlenségek
 Itt nem csak pontokat (gyököket) keresünk, hanem tartományokat.
-- Lépések:
-    1. Nullára rendezzük.
-    1. Megoldjuk egyenletként.
-    1. Vázoljuk a parabolát és leolvassuk a tartományt (hol van a tengely felett/alatt).
+
+Lépések:
+1. Nullára rendezzük.
+1. Megoldjuk egyenletként.
+1. Vázoljuk a parabolát és leolvassuk a tartományt (hol van a tengely felett/alatt).
+
 ### Példa:
 $$
 \begin{aligned}
