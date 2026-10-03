@@ -29,112 +29,134 @@ x_{2} &= - \frac{6}{2} = -3
 \end{aligned}
 $$
 
-### b. feladat
-$x^{2} + 7x + 12$
-- $a = 1$
-- $b = 7$
-- $b = 12$
+### b. feladat: ($x^{2} + 7x + 12$)
+$$
+\begin{aligned}
+a &= 1 \\
+b &= 7 \\
+b &= 12 \\[2em]
+x_{1,2} &= \frac{-7 \pm \sqrt{7^{2} - 4 \cdot 12}}{2} = \frac{-7 \pm \sqrt{49-48}}{2} = \frac{-7 \pm 1}{2} = \\
+x_{1} &= - \frac{6}{2} = -3 \\
+x_{2} &= - \frac{8}{2} = -4
+\end{aligned}
+$$
 
-$\frac{-7 \pm \sqrt{7^{2} - 4 \cdot 12}}{2} = \frac{-7 \pm \sqrt{49-48}}{2} = \frac{-7 \pm 1}{2} =$
-- $- \frac{6}{2} = -3$
-- $- \frac{8}{2} = -4$
+### c. feladat: ($x^{2} + 2x -35$)
+$$
+\begin{aligned}
+a &= 1 \\
+b &= 2 \\
+c &= -35 \\[2em]
+x_{1,2} &= \frac{-2 \pm \sqrt{144}}{2} = \\
+x_{1} &= \frac{10}{2} = 5 \\
+x_{2} &= - \frac{14}{2}
+\end{aligned}
+$$
 
-### c. feladat
-$x^{2} + 2x -35$
-- $a = 1$
-- $b = 2$
-- $c = -35$
+### d. feladat: ($x^{2} + 16x + 60$)
+$$
+\begin{aligned}
+a &= 1 \\
+b &= 16 \\
+c &= 60 \\[2em]
+x_{1,2} &= \frac{-16 \pm \sqrt{16^{2} - 4 \cdot 1 \cdot 60}}{2} = \frac{-16 \pm \sqrt{16}}{2} = \\
+x_{1} &= - \frac{12}{2} = -6 \\
+x_{2} &= - \frac{20}{2} = -10
+\end{aligned}
+$$
 
-$\frac{-2 \pm \sqrt{144}}{2} =$
-- $\frac{10}{2} = 5$
-- $- \frac{14}{2}$
+### e. feladat: ($x^{2} - 16x + 64$)
+$$
+\begin{aligned}
+a &= 1 \\
+b &= -16 \\
+c &= 64 \\[2em]
+x_{1,2} &= \frac{16 \pm \sqrt{(-16)^{2} - 4 \cdot 1 \cdot \cdot 64}}{2} = \frac{16 \pm \sqrt{256 - 256}}{2} = \\
+x_{1} &= \frac{16}{2} = 8 \\
+x_{2} &= \frac{16}{2} = 8
+\end{aligned}
+$$
 
-### d. feladat
-$x^{2} + 16x + 60$
-- $a = 1$
-- $b = 16$
-- $c = 60$
+### f. feladat: ($2x^{2} + 7x + 17$)
+$$
+\begin{aligned}
+a &= 2 \\
+b &= 7 \\
+c &= 17 \\[2em]
+x_{1,2} &= \frac{-7 \pm \sqrt{7^{2}} - 4 \cdot 2 \cdot 17}{2 \cdot 2} = \frac{-7 \pm \sqrt{49 - 136}}{4} = \frac{-7 \pm \sqrt{-87}}{4} \\
+& \text{A diszkrimináns negatv (-87), így nincs valós gyök}
+\end{aligned}
+$$
 
-$\frac{-16 \pm \sqrt{16^{2} - 4 \cdot 1 \cdot 60}}{2} = \frac{-16 \pm \sqrt{16}}{2} =$
-- $- \frac{12}{2} = -6$
-- $- \frac{20}{2} = -10$
+### g. feladat: ($2x^{2} - 3x - 9$)
+$$
+\begin{aligned}
+a &= 2 \\
+b &= -3 \\
+c &= -9 \\[2em]
+x_{1,2} &= \frac{3 \pm \sqrt{(-3)^{2} - 4 \cdot 2 \cdot (-9)}}{2 \cdot 2} = \frac{3 \pm \sqrt{9 - (-72)}}{4} = \frac{3 \pm \sqrt{81}}{4} = \\
+x_{1} &= \frac{12}{4} = 3 \\
+x_{2} &= - \frac{6}{4} = - \frac{3}{2}
+\end{aligned}
+$$
 
-### e. feladat
-$x^{2} - 16x + 64$
-- $a = 1$
-- $b = -16$
-- $c = 64$
+### h. feladat: ($2x^{2} + 28x +98$)
+$$
+\begin{aligned}
+a &= 2 \\
+b &= 28 \\
+c &= 98 \\[2em]
+x_{1,2} &= \frac{-28 \pm \sqrt{28^{2} - 4 \cdot 2 \cdot 98}}{2 \cdot 2} = \frac{-28 \pm \sqrt{784 - 784}}{4} = - \frac{28}{4} = -7
+\end{aligned}
+$$
 
-$\frac{16 \pm \sqrt{(-16)^{2} - 4 \cdot 1 \cdot \cdot 64}}{2} = \frac{16 \pm \sqrt{256 - 256}}{2} =$
-- $\frac{16}{2} = 8$
-- $\frac{16}{2} = 8$
+### i. feladat: ($3x^{2} + 8x + 4$)
+$$
+\begin{aligned}
+a &= 3 \\
+b &= 8 \\
+c &= 4 \\[2em]
+x_{1,2} &= \frac{-8 \pm \sqrt{8^{2} - 4 \cdot 3 \cdot 4}}{2 \cdot 3} = \frac{-8 \pm \sqrt{64 - 48}}{6} = \frac{-8 \pm \sqrt{16}}{6} = \\
+x_{1} &= - \frac{4}{6} = - \frac{2}{3} \\
+x_{2} &= - \frac{12}{6} = -2
+\end{aligned}
+$$
 
-### f. feladat
-$2x^{2} + 7x + 17$
-- $a = 2$
-- $b = 7$
-- $c = 17$
+### j. feladat: ($6x^{2} + 7x -5$)
+$$
+\begin{aligned}
+a &= 6 \\
+b &= 7 \\
+c &= -5 \\[2em]
+x_{1,2} &= \frac{-7 \pm \sqrt{7^{2} - 4 \cdot 6 \cdot (-5)}}{2 \cdot 6} = \frac{-7 \pm \sqrt{169}}{12} = \\
+x_{1} &= \frac{6}{12} = \frac{1}{2} \\
+x_{2} &= - \frac{20}{12} = - \frac{5}{3}
+\end{aligned}
+$$
 
-$\frac{-7 \pm \sqrt{7^{2}} - 4 \cdot 2 \cdot 17}{2 \cdot 2} = \frac{-7 \pm \sqrt{49 - 136}}{4} = \frac{-7 \pm \sqrt{-87}}{4}$
-- A diszkrimináns negatv (-87), így nincs valós gyök
+### k. feladat: ($-2x^{2} - 9x + 18$)
+$$
+\begin{aligned}
+a &= -2 \\
+b &= -9 \\
+c &= 18 \\[2em]
+x_{1,2} &= \frac{9 \pm \sqrt{(-9)^{2} - 4 \cdot (-2) \cdot 18}}{2 \cdot (-2)} = \frac{9 \pm \sqrt{81 + 144}}{-4} = \frac{9 \pm \sqrt{225}}{-4} = \\
+x_{1} &= - \frac{24}{-4} = 6 \\
+x_{2} &= \frac{-6}{-4} = \frac{3}{2}
+\end{aligned}
+$$
 
-### g. feladat
-$2x^{2} - 3x - 9$
-- $a = 2$
-- $b = -3$
-- $c = -9$
-
-$\frac{3 \pm \sqrt{(-3)^{2} - 4 \cdot 2 \cdot (-9)}}{2 \cdot 2} = \frac{3 \pm \sqrt{9 - (-72)}}{4} = \frac{3 \pm \sqrt{81}}{4} =$
-- $\frac{12}{4} = 3$
-- $- \frac{6}{4} = - \frac{3}{2}$
-
-### h. feladat
-$2x^{2} + 28x +98$
-- $a = 2$
-- $b = 28$
-- $c = 98$
-
-$\frac{-28 \pm \sqrt{28^{2} - 4 \cdot 2 \cdot 98}}{2 \cdot 2} = \frac{-28 \pm \sqrt{784 - 784}}{4} = - \frac{28}{4} = -7$
-
-### i. feladat
-$3x^{2} + 8x + 4$
-- $a = 3$
-- $b = 8$
-- $c = 4$
-
-$\frac{-8 \pm \sqrt{8^{2} - 4 \cdot 3 \cdot 4}}{2 \cdot 3} = \frac{-8 \pm \sqrt{64 - 48}}{6} = \frac{-8 \pm \sqrt{16}}{6} =$
-- $x_1 = - \frac{4}{6} = - \frac{2}{3}$
-- $x_2 = - \frac{12}{6} = -2$
-
-### j. feladat
-$6x^{2} + 7x -5$
-- $a = 6$
-- $b = 7$
-- $c = -5$
-
-$\frac{-7 \pm \sqrt{7^{2} - 4 \cdot 6 \cdot (-5)}}{2 \cdot 6} = \frac{-7 \pm \sqrt{169}}{12} =$
-- $x_1 = \frac{6}{12} = \frac{1}{2}$
-- $x_2 = - \frac{20}{12} = - \frac{5}{3}$
-
-### k. feladat
-$-2x^{2} - 9x + 18$
-- $a = -2$
-- $b = -9$
-- $c = 18$
-
-$\frac{9 \pm \sqrt{(-9)^{2} - 4 \cdot (-2) \cdot 18}}{2 \cdot (-2)} = \frac{9 \pm \sqrt{81 + 144}}{-4} = \frac{9 \pm \sqrt{225}}{-4} =$
-- $x_1 = - \frac{24}{-4} = 6$
-- $x_2 = \frac{-6}{-4} = \frac{3}{2}$
-
-### l. feladat
-$-12x^{2} + 13x + 4$
-- $a = -12$
-- $b = 13$
-- $c = 4$
-
-$\frac{-13 \pm \sqrt{13^{2} - 4 \cdot (-12) \cdot 4}}{2 \cdot (-12)} = \frac{-13 \pm \sqrt{169 + 192}}{-24} = \frac{-13 \pm \sqrt{361}}{-24} =$
-- $x_1 = \frac{6}{-24} = - \frac{1}{4}$
-- $x_2 = \frac{-32}{-24} = \frac{4}{3}$
+### l. feladat: ($-12x^{2} + 13x + 4$)
+$$
+\begin{aligned}
+a &= -12 \\
+b &= 13 \\
+c &= 4 \\[2em]
+x_{1,2} &= \frac{-13 \pm \sqrt{13^{2} - 4 \cdot (-12) \cdot 4}}{2 \cdot (-12)} = \frac{-13 \pm \sqrt{169 + 192}}{-24} = \frac{-13 \pm \sqrt{361}}{-24} = \\
+x_{1} &= \frac{6}{-24} = - \frac{1}{4} \\
+x_{2} &= \frac{-32}{-24} = \frac{4}{3}
+\end{aligned}
+$$
 
 ## 2169. feladat
 ### a. feladat
