@@ -138,17 +138,21 @@ x_{2} &= \frac{2 - \sqrt{36}}{2} =  \frac{-4}{2} = -2 \\
 $$
 
 #### c.
-- $x^{2}−6x+5$
-    - $a = 1$
-    - $b = (-6)$
-    - $c = 5$
-        - $x_{1,2} = \frac{6 \pm \sqrt{(-6)^{2} - 4 \cdot 1 \cdot 5 }}{2 \cdot 1} =$
-            - $D = (-6)^{2} - 4 \cdot 1 \cdot 5 = 16$
-        - $\frac{6 \pm \sqrt{16}}{2} =$
-            - $x_{1} = \frac{6 + \sqrt{16}}{2} = \frac{10}{2} = 5$
-            - $x_{2} = \frac{6 - \sqrt{16}}{2} = \frac{2}{2} = 1$
-        - Szorzattá alakítás:
-            - $(x - 5)(x - 1)$
+$$
+\begin{aligned}
+& x^{2}−6x+5 \\[2em]
+a &= 1 \\
+b &= (-6) \\
+c &= 5 \\[2em]
+x_{1,2} &= \frac{6 \pm \sqrt{(-6)^{2} - 4 \cdot 1 \cdot 5 }}{2 \cdot 1} = \\
+& D = (-6)^{2} - 4 \cdot 1 \cdot 5 = 16 \\
+& \frac{6 \pm \sqrt{16}}{2} = \\
+x_{1} &= \frac{6 + \sqrt{16}}{2} = \frac{10}{2} = 5 \\
+x_{2} &= \frac{6 - \sqrt{16}}{2} = \frac{2}{2} = 1 \\
+& \text{Szorzattá alakítás:} \\
+& (x - 5)(x - 1)
+\end{aligned}
+$$
 
 ### 2169 feladat
 #### a.
