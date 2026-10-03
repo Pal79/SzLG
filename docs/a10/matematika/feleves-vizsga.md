@@ -159,31 +159,31 @@ $$
 $$
 \begin{aligned}
 & 3 \text{ és } 4 \\[2em]
-(x-3)(x-4)=x^{2}-4x-3x+12=x^{2}-7x+12
+& (x-3)(x-4)=x^{2}-4x-3x+12=x^{2}-7x+12
 \end{aligned}
 $$
 
 #### b.
 $$
 \begin{aligned}
--2 \text{ és } 7 \\[2em]
-(x+2)(x-7)=x^{2}-7x+2x-14=x^{2}-5x-14
+& -2 \text{ és } 7 \\[2em]
+& (x+2)(x-7)=x^{2}-7x+2x-14=x^{2}-5x-14
 \end{aligned}
 $$
 
 #### c.
 $$
 \begin{aligned}
--3 \text{ és } -6 \\[2em]
-(x+3)(x+6)=x^{2}+6x+3x+18=x^{2}+9x+18
+& -3 \text{ és } -6 \\[2em]
+& (x+3)(x+6)=x^{2}+6x+3x+18=x^{2}+9x+18
 \end{aligned}
 $$
 
 #### d.
 $$
 \begin{aligned}
-1 \text{ és } -5 \\[2em]
-(x-1)(x+5)=x^{2}+5x-x-5=x^{2}+4x-5
+& 1 \text{ és } -5 \\[2em]
+& (x-1)(x+5)=x^{2}+5x-x-5=x^{2}+4x-5
 \end{aligned}
 $$
 
