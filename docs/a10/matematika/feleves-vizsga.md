@@ -225,7 +225,7 @@ $$
 ## Négyzetgyökös egyenletek
 Ahol az ismeretlen a gyökjel alatt van.
 - Fontos: Mindig kell értelmezési tartomány (gyök alatt nem állhat negatív) és a végén ellenőrzés (a négyzetre emelés miatt hamis gyökök keletkezhetnek).
-### Példa:
+### Példa:
 $x+2​=3 \implies x+2=9 \implies x=7$.
 
 ## Diszkrimináns fogalma
