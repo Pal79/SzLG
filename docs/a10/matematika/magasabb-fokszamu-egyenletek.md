@@ -25,7 +25,7 @@ x^{4} - 5x^{2} + 4 &= 0 \quad \text{Új ismeretlen bevezetése: } y = x^{2} \\[1
 y^{2} - 5y + 4 &= 0 \\[2em]
 a &= 1 \\
 b &= -5 \\
-c = 4 \\[2em]
+c &= 4 \\[2em]
 y_{1,2} &= \frac{5 \pm \sqrt{(-5)^{2} - 4 \cdot 1 \cdot 4}}{2} = \frac{5 \pm 3}{2} = \\
 y_{1} &= 4 \Rightarrow x^{2} = 4 \Rightarrow x_1 = 2, x_2 = -2 \\
 y_{2} &= 1 \Rightarrow x^{2} = 1 \Rightarrow x_3 = 1, x_4 = -1
