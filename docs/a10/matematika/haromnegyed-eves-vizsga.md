@@ -46,9 +46,9 @@ $$
 \hline
 \cos & \frac{\sqrt{3}}{2} & \frac{\sqrt{2}}{2} & \frac{1}{2} \\
 \hline
-\tg & \frac{\sqrt{3}}{3} & 1 & \sqrt{3} \\
+\operatorname{tg} & \frac{\sqrt{3}}{3} & 1 & \sqrt{3} \\
 \hline
-\ctg & \sqrt{3} & 1 & \frac{\sqrt{3}}{3} \\
+\operatorname{ctg} & \sqrt{3} & 1 & \frac{\sqrt{3}}{3} \\
 \hline
 \end{array}
 $$
