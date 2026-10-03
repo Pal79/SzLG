@@ -16,39 +16,64 @@
 
 # Féléves vizsga
 ## Számtani és mértani közép
-**Számtani közép**: két szám átlaga
-- Képlete: $a_{k} = \frac{a+b}{2}$
+### Számtani közép (két szám átlaga)
+Képlete: $a_{k} = \frac{a+b}{2}$
 
-**Mértani közép**: két nemnegatív szám szorzatának négyzetgyöke
-- Képlete: $g = \sqrt{a \cdot b}$
-- **Tétel**: két szám számtani közepe mindig nagyobb vagy egyenlő, mint a mértani közepük ($a_{k} \ge g$).
-    - Példa:
-        - $a=4$
-        - $b=9$
-            - $a_{k}=\frac{4+9}{2}=6.5$
-            - $g=\sqrt{4\cdot9}=6$
+### Mértani közép (két nemnegatív szám szorzatának négyzetgyöke)
+Képlete: $g = \sqrt{a \cdot b}$
+#### Tétel
+Két szám számtani közepe mindig nagyobb vagy egyenlő, mint a mértani közepük ($a_{k} \ge g$).
+
+##### Példa:
+$$
+\begin{aligned}
+a &= 4 \\
+b &= 9 \[2em]
+a_{k} &= \frac{4+9}{2}=6.5 \\
+g &= \sqrt{4\cdot9}=6
+\end{aligned}
+$$
 
 ## 2210 feladat
 ### a.
-- $a=3$
-- $b=27$
-    - $a_{k}=\frac{3+27}{2}=15$
-    - $g=\sqrt{3 \cdot 27}=9$
+$$
+\begin{aligned}
+a &= 3 \\
+b &= 27 \\[2em]
+a_{k} &= \frac{3+27}{2}=15 \\
+g &= \sqrt{3 \cdot 27}=9
+\end{aligned}
+$$
+
 ### b.
-- $a=12$
-- $b=27$
-    - $a_{k}=\frac{12+27}{2}=19.5$
-    - $g=\sqrt{12 \cdot 27}=18$
+$$
+\begin{aligned}
+a &= 12 \\
+b &= 27 \\[2em]
+a_{k} &= \frac{12+27}{2}=19.5 \\
+g &= \sqrt{12 \cdot 27}=18
+\end{aligned}
+$$
+
 ### c.
-- $a=20$
-- $b=45$
-    - $a_{k}=\frac{20+45}{2}=32.5$
-    - $g=\sqrt{20 \cdot 45}=30$
+$$
+\begin{aligned}
+a &= 20 \\
+b &= 45 \\[2em]
+a_{k} &= \frac{20+45}{2}=32.5 \\
+g &= \sqrt{20 \cdot 45}=30
+\end{aligned}
+$$
+
 ### d.
-- $a=40$
-- $b=90$
-    - $a_{k}=\frac{40+90}{2}=65$
-    - $g=\sqrt{40 \cdot 90}=60$
+$$
+\begin{aligned}
+a &= 40 \\
+b &= 90 \\[2em]
+a_{k} &= \frac{40+90}{2}=65 \\
+g &= \sqrt{40 \cdot 90}=60
+\end{aligned}
+$$
 
 ---
 
