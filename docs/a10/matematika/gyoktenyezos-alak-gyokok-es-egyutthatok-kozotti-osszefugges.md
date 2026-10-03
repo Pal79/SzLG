@@ -160,14 +160,20 @@ $$
 
 ## 2169. feladat
 ### a. feladat
-$3$ és $4$ gyökök esetén:
-
-$(x-3) \cdot (x-4) = x^{2} - 4x - 3x + 12 = x^{2} - 7x + 12$
+$$
+\begin{aligned}
+3 \text{ és } 4 \text{ gyökök esetén:} \\
+(x-3) \cdot (x-4) = x^{2} - 4x - 3x + 12 = x^{2} - 7x + 12
+\end{aligned}
+$$
 
 ### b. feladat
-$-2$ és $7$ gyökök esetén:
-
-$(x+2) \cdot (x-7) = x^{2} - 7x + 2x - 14 = x^{2} - 5x - 14$
+$$
+\begin{aligned}
+-2 \text{ és } 7 \text{ gyökök esetén:} \\
+(x+2) \cdot (x-7) = x^{2} - 7x + 2x - 14 = x^{2} - 5x - 14
+\end{aligned}
+$$
 
 ### c. feladat
 $-3$ és $-6$ gyökök esetén:
