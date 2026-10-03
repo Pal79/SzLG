@@ -24,7 +24,7 @@ Képlete: $g = \sqrt{a \cdot b}$
 #### Tétel
 Két szám számtani közepe mindig nagyobb vagy egyenlő, mint a mértani közepük ($a_{k} \ge g$).
 
-##### Példa:
+#### Példa:
 $$
 \begin{aligned}
 a &= 4 \\
@@ -79,35 +79,46 @@ $$
 
 ## Másodfokú egyenlet megoldóképlete
 Az $ax^{2}+bx+c=0$ alakú egyenletek megoldására szolgál.
-- **Képlet**: $x_{1,2} = \frac{ -b \pm \sqrt{b^{2} -4 \cdot a\cdot c}}{2 \cdot a}$
-- **Példa**:
-    - $x^{2}-5x+6=0$
-        - $a=1$
-        - $b=-5$
-        - $c=6$
-    - Behelyettesítés:
-        - $x_{1,2}=\frac{5\pm \sqrt{25-24}}{2}=$
-            - $x_{1}=3$
-            - $x_{2}=2$
+### Képlet
+$x_{1,2} = \frac{ -b \pm \sqrt{b^{2} -4 \cdot a\cdot c}}{2 \cdot a}$
+#### Példa:
+$$
+\begin{aligned}
+& x^{2}-5x+6 = 0 \\[2em]
+a &= 1 \\
+b &= -5 \\
+c &= 6 \[2em]
+& \text{Behelyettesítés:} \\[1em]
+x_{1,2} &= \frac{5\pm \sqrt{25-24}}{2} = \\
+x_{1} &= 3 \\
+x_{2} &= 2
+\end{aligned}
+$$
 
 ## Gyöktényezős vagy szorzat alak
 Ha az egyenlet gyökei $x_{1}$ és $x_{2}$, akkor a másodfokú kifejezés felírható szorzatként.
-- **Alak**: $a(x-x_{1})(x-x_{2})=0$
-- **Példa**: Ha a gyökök 2 és 3, az egyenlet: $(x-2)(x-3)=0$
+### Alak:
+$a(x-x_{1})(x-x_{2})=0$
+### Példa:
+Ha a gyökök $2$ és $3$, az egyenlet: $(x-2)(x-3)=0$
 ### 2168. feladat
 #### a.
-- $x^{2}+x-6$;
-- $x^{2}+5x+6$
-    - $a=1$
-    - $b=5$
-    - $c=6$
-        - $x_{1,2}=\frac{-5 \pm \sqrt{5^{2} - 4 \cdot 1 \cdot 6}}{2 \cdot 1}=$
-            - $D = 5^{2} - 4 \cdot 1 \cdot 6 = 1$
-        - $=\frac{-5 \pm  \sqrt{1}}{2}=$
-            - $x_{1} = \frac{-5+1}{2} = \frac{-4}{2} = -2$
-            - $x_{2} = \frac{-5-1}{2} = \frac{-6}{2} = -3$
-        - Szorzattá alakítás:
-            - $(x+2)(x+3)$
+$$
+\begin{aligned}
+& x^{2}+x-6 \\
+& x^{2}+5x+6 \\[2em]
+a &= 1 \\
+b &= 5 \\
+c &= 6 \\[2em]
+x_{1,2} &= \frac{-5 \pm \sqrt{5^{2} - 4 \cdot 1 \cdot 6}}{2 \cdot 1} = \\
+& D = 5^{2} - 4 \cdot 1 \cdot 6 = 1 \\
+&= \frac{-5 \pm  \sqrt{1}}{2} = \\
+x_{1} &= \frac{-5+1}{2} = \frac{-4}{2} = -2 \\
+x_{2} &= \frac{-5-1}{2} = \frac{-6}{2} = -3 \\
+&\text{Szorzattá alakítás:} \\
+&(x+2)(x+3)
+\end{aligned}
+$$
 
 #### b.
 - $x^{2}−2x−8$
