@@ -251,7 +251,7 @@ $$
 $$
 \begin{aligned}
 & - \frac{3}{4} \text{ és } - \frac{1}{5} \text{ gyökök esetén:} \\
-& (x + \frac{3}{4}) \cdot (x + \frac{1}{5}) = x^{2} + \frac{1}{5}x + \frac{3}{4}x + \frac{3}{20} \\
+& (x + \frac{3}{4}) \cdot (x + \frac{1}{5}) = x^{2} + \frac{1}{5} x + \frac{3}{4} x + \frac{3}{20} \\
 & \text{Szorzás a közös nevezővel (}20\text{):} \\
 & 20x^{2} + 4x + 15x + 3 = 20x^{2} + 19x + 3
 \end{aligned}
@@ -261,7 +261,7 @@ $$
 $$
 \begin{aligned}
 & - \frac{4}{3} \text{ és } \frac{7}{10} \text{ gyökök esetén:} \\
-& (x + \frac{4}{3}) \cdot (x - \frac{7}{10}) = x^{2} - \frac{7}{10}x + \frac{4}{3}x - \frac{28}{30} \\
+& (x + \frac{4}{3}) \cdot (x - \frac{7}{10}) = x^{2} - \frac{7}{10} x + \frac{4}{3} x - \frac{28}{30} \\
 & \text{Szorzás a közös nevezővel (}30\text{):} \\
 & 30x^{2} - 21x + 40x - 28 = 30x^{2} + 19x - 28
 \end{aligned}
@@ -271,7 +271,7 @@ $$
 $$
 \begin{aligned}
 & - \frac{7}{8} \text{ és } \frac{13}{9} \text{ gyökök esetén:} \\
-& (x + \frac{7}{8})(x - \frac{13}{9}) = x^{2} - \frac{13}{9}x + \frac{7}{8}x - \frac{91}{72} \\
+& (x + \frac{7}{8})(x - \frac{13}{9}) = x^{2} - \frac{13}{9} x + \frac{7}{8} x - \frac{91}{72} \\
 & \text{Szorzás a közös nevezővel (}72\text{):} \\
 & 72x^{2} - 104x + 63x - 91 = 72x^{2} - 41x - 91
 \end{aligned}
