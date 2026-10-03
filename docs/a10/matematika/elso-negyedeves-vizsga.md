@@ -32,12 +32,16 @@ $$
 $$
 
 Páratlan gyökvonásnál nem kell kikötés:
-- $(\sqrt[3]{a})^{3} = a$
+$$
+\begin{aligned}
+& (\sqrt[3]{a})^{3} = a
+\end{aligned}
+$$
 
 ### Általános alakja:
 $$
 \begin{aligned}
-\sqrt[n]{a} = b$, ha $b^{n} = a
+\sqrt[n]{a} = b\text{, ha }b^{n} = a
 \end{aligned}
 $$
 
@@ -60,15 +64,15 @@ $$
 & \sqrt[3]{8x^{3}} = \sqrt[3]{8} \cdot \sqrt[3]{x^{3}} = 2x \\[1em]
 & \sqrt[4]{16a^{4} \cdot b^{8}} = 2ab^{2} \\[1em]
 & \sqrt[5]{\frac{32a^{10}}{b^{5}}} = \frac{2a^{2}}{b} \\[2em]
-& \text{VIGYÁZAT!** Összeadásnál és kivonásnál nem bontható szét:} \\[1em]
+& \text{VIGYÁZAT!!! Összeadásnál és kivonásnál nem bontható szét:} \\[1em]
 & \sqrt[n]{a \pm b} \neq \sqrt[n]{a} \pm \sqrt[n]{b}
 \end{aligned}
 $$
 
-#### Példa:
+#### Példa:
 $$
 \begin{aligned}
-& \sqrt{9+16} = 5$, de $\sqrt{9}+\sqrt{16} = 7 \\[1em]
+& \sqrt{9+16} = 5\text{, de }\sqrt{9}+\sqrt{16} = 7 \\[1em]
 & \text{A gyökvonás nem disztributív az összeadásra.}
 \end{aligned}
 $$
@@ -81,7 +85,7 @@ $$
 \end{aligned}
 $$
 
-### Példa:
+### Példa:
 $$
 \begin{aligned}
 & \sqrt[5]{b^{3}} = b^{\frac{3}{5}}
@@ -111,7 +115,7 @@ $$
 \end{aligned}
 $$
 
-#### Példa:
+#### Példa:
 $$
 \begin{aligned}
 & x^{2} - 2x - 3 = 0 \implies x_1 = 3, x_2 = -1
@@ -143,7 +147,7 @@ $$
 \end{aligned}
 $$
 
-#### Példa:
+#### Példa:
 $$
 \begin{aligned}
 & (x-1)^{2} - 4 = 0
