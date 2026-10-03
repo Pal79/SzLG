@@ -16,7 +16,7 @@
 
 # Féléves vizsga
 ## Számtani és mértani közép
-### Számtani közép (két szám átlaga)
+### Számtani közép (két szám átlaga)
 Képlete: $a_{k} = \frac{a+b}{2}$
 
 ### Mértani közép (két nemnegatív szám szorzatának négyzetgyöke)
