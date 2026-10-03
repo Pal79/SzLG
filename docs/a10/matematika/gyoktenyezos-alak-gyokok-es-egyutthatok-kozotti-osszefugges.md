@@ -17,9 +17,10 @@
 
 # A gyöktényezős alak. Gyökök és együtthatók közötti összefüggés
 ## 2168. feladat
-### a. feladat: ($x^{2} + x - 6$)
+### a. feladat
 $$
 \begin{aligned}
+& x^{2} + x - 6 \\[2em]
 a &= 1 \\
 b &= 1 \\
 c &= -6 \\[2em]
@@ -29,9 +30,10 @@ x_{2} &= - \frac{6}{2} = -3
 \end{aligned}
 $$
 
-### b. feladat: ($x^{2} + 7x + 12$)
+### b. feladat
 $$
 \begin{aligned}
+& x^{2} + 7x + 12 \\[2em]
 a &= 1 \\
 b &= 7 \\
 b &= 12 \\[2em]
@@ -41,9 +43,10 @@ x_{2} &= - \frac{8}{2} = -4
 \end{aligned}
 $$
 
-### c. feladat: ($x^{2} + 2x -35$)
+### c. feladat
 $$
 \begin{aligned}
+& x^{2} + 2x -35 \\[2em]
 a &= 1 \\
 b &= 2 \\
 c &= -35 \\[2em]
@@ -53,9 +56,10 @@ x_{2} &= - \frac{14}{2}
 \end{aligned}
 $$
 
-### d. feladat: ($x^{2} + 16x + 60$)
+### d. feladat
 $$
 \begin{aligned}
+& x^{2} + 16x + 60 \\[2em]
 a &= 1 \\
 b &= 16 \\
 c &= 60 \\[2em]
@@ -65,9 +69,10 @@ x_{2} &= - \frac{20}{2} = -10
 \end{aligned}
 $$
 
-### e. feladat: ($x^{2} - 16x + 64$)
+### e. feladat
 $$
 \begin{aligned}
+& x^{2} - 16x + 64 \\[2em]
 a &= 1 \\
 b &= -16 \\
 c &= 64 \\[2em]
@@ -77,9 +82,10 @@ x_{2} &= \frac{16}{2} = 8
 \end{aligned}
 $$
 
-### f. feladat: ($2x^{2} + 7x + 17$)
+### f. feladat
 $$
 \begin{aligned}
+& 2x^{2} + 7x + 17 \\[2em]
 a &= 2 \\
 b &= 7 \\
 c &= 17 \\[2em]
@@ -88,9 +94,10 @@ x_{1,2} &= \frac{-7 \pm \sqrt{7^{2}} - 4 \cdot 2 \cdot 17}{2 \cdot 2} = \frac{-7
 \end{aligned}
 $$
 
-### g. feladat: ($2x^{2} - 3x - 9$)
+### g. feladat
 $$
 \begin{aligned}
+& 2x^{2} - 3x - 9 \\[2em]
 a &= 2 \\
 b &= -3 \\
 c &= -9 \\[2em]
@@ -100,9 +107,10 @@ x_{2} &= - \frac{6}{4} = - \frac{3}{2}
 \end{aligned}
 $$
 
-### h. feladat: ($2x^{2} + 28x +98$)
+### h. feladat
 $$
 \begin{aligned}
+& 2x^{2} + 28x +98 \\[2em]
 a &= 2 \\
 b &= 28 \\
 c &= 98 \\[2em]
@@ -110,9 +118,10 @@ x_{1,2} &= \frac{-28 \pm \sqrt{28^{2} - 4 \cdot 2 \cdot 98}}{2 \cdot 2} = \frac{
 \end{aligned}
 $$
 
-### i. feladat: ($3x^{2} + 8x + 4$)
+### i. feladat
 $$
 \begin{aligned}
+& 3x^{2} + 8x + 4 \\[2em]
 a &= 3 \\
 b &= 8 \\
 c &= 4 \\[2em]
@@ -122,9 +131,10 @@ x_{2} &= - \frac{12}{6} = -2
 \end{aligned}
 $$
 
-### j. feladat: ($6x^{2} + 7x -5$)
+### j. feladat
 $$
 \begin{aligned}
+& 6x^{2} + 7x -5 \\[2em]
 a &= 6 \\
 b &= 7 \\
 c &= -5 \\[2em]
@@ -134,9 +144,10 @@ x_{2} &= - \frac{20}{12} = - \frac{5}{3}
 \end{aligned}
 $$
 
-### k. feladat: ($-2x^{2} - 9x + 18$)
+### k. feladat
 $$
 \begin{aligned}
+& -2x^{2} - 9x + 18 \\[2em]
 a &= -2 \\
 b &= -9 \\
 c &= 18 \\[2em]
@@ -146,9 +157,10 @@ x_{2} &= \frac{-6}{-4} = \frac{3}{2}
 \end{aligned}
 $$
 
-### l. feladat: ($-12x^{2} + 13x + 4$)
+### l. feladat
 $$
 \begin{aligned}
+& -12x^{2} + 13x + 4 \\[2em]
 a &= -12 \\
 b &= 13 \\
 c &= 4 \\[2em]
@@ -176,9 +188,12 @@ $$
 $$
 
 ### c. feladat
-$-3$ és $-6$ gyökök esetén:
-
-$(x+3)(x+6) = x^{2} + 6x + 3x + 18 = x^{2} + 9x + 18$
+$$
+\begin{aligned}
+-3 \text{ és } -6 \text{ gyökök esetén:} \\
+(x+3)(x+6) = x^{2} + 6x + 3x + 18 = x^{2} + 9x + 18
+\end{aligned}
+$$
 
 ### d. feladat
 $1$ és $-5$ gyökök esetén:
