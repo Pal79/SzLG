@@ -21,14 +21,14 @@ Képlete: $a_{k} = \frac{a+b}{2}$
 
 ### Mértani közép (két nemnegatív szám szorzatának négyzetgyöke)
 Képlete: $g = \sqrt{a \cdot b}$
-#### Tétel
+#### Tétel
 Két szám számtani közepe mindig nagyobb vagy egyenlő, mint a mértani közepük ($a_{k} \ge g$).
 
 ##### Példa:
 $$
 \begin{aligned}
 a &= 4 \\
-b &= 9 \[2em]
+b &= 9 \\[2em]
 a_{k} &= \frac{4+9}{2}=6.5 \\
 g &= \sqrt{4\cdot9}=6
 \end{aligned}
