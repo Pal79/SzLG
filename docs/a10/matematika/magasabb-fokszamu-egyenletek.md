@@ -21,7 +21,7 @@
 ### a. feladat
 $$
 \begin{aligned}
-x^{4} - 5x^{2} + 4 &= 0 \quad \text{Új ismeretlen bevezetése: } y = x^{2} \\[1em]
+x^{4} - 5x^{2} + 4 &= 0 \quad \text{ - Új ismeretlen bevezetése: } y = x^{2} \\[1em]
 y^{2} - 5y + 4 &= 0 \\[2em]
 a &= 1 \\
 b &= -5 \\
