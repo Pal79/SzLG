@@ -143,6 +143,27 @@ Protagorasz - arra nevelte tanítványait, hogy minden dolognak két oldala van.
 1. tudományos, szakmai viták
 1. családi viták
 
+## A nyelvi tabu, nyelvi agresszió
+Viselkedésünket társadalmi szabályok határozzák meg, vannak dolgok, amelyeket nem szabad megtenni.  
+A nyelv magatartásunk kifejezése, és vannak szavak, amiket a kulturált nyelvhasználatban nem alkalmazhatunk, ezek a nyelvhasználati tabuk.  
+A beszélő szándékán múlik, hogy egy egy szóhogyan ér célba.  
+Lehet sértő módon mondani különben semleges szavakat, kifejezéseket, ezek használata mindig a beszélő felelőssége.  
+A durva, esetleg trágár kifejezések használata:
+- indulatot vezetnek le
+- viccesnek, szellemesnek találják használatukat
+- szépirodalomban szerepe lehet a jellemzésben  
+A nyelvi durvaság, trágárság következményei:
+- egyszerűsítik a megnyilatkozást a durva, egyszavas válaszok  
+
+A durva, igénytelen nyelvhasználat nyelvi agressziót válthat ki, amely elnyomja a mondanivaló lényegét.  
+Az enyhítés, szépítés elfedheti a durvaságot, legegyszerűbb formája a tiltott szó törlése, elhallgatása. Pl.: rádióban sípolás, írásban kipontozás  
+A nyelvi agresszió olyan magatartás, amivel a címzett énképét rombolja, sérti, támadja a durva kifejezésekkel.  
+Szakemberek szerint az emberek akkor használnak durva szavakat, amikor valamilyen frusztráció éri őket.  
+Az agresszivitás néha önvédelem is lehet, hogy elkerülje a további megnyilvánulásokat.
+1. Léteznek tartalmilag agresszív, de formailag semleges kifejezések. Pl.: Te már csak tudod.
+1. Formailag agresszív, de tartalmilag semleges közlés. Pl.: Indulás aludni!
+1. Tartalmilag és formailag egyaránt agresszív. Pl.: Te szerencsétlen!
+
 ---
 
 [Vissza](../nyelvtan.md)
