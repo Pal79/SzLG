@@ -57,5 +57,8 @@ $$
 
 ![vektorok](../images/vektorok.drawio.svg)
 
+---
+
+[Vissza](../matematika.md)
 
 ---
