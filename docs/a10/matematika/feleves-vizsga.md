@@ -121,17 +121,21 @@ x_{2} &= \frac{-5-1}{2} = \frac{-6}{2} = -3 \\
 $$
 
 #### b.
-- $x^{2}−2x−8$
-    - $a=1$
-    - $b=-2$
-    - $c=-8$
-        - $x_{1,2}=\frac{2 \pm \sqrt{(-2)^{2} - 4 \cdot 1 \cdot (-8)}}{2 \cdot 1}=$
-            - $D = (-2)^{2} - 4 \cdot 1 \cdot (-8) = 36$
-        - $\frac{2 \pm \sqrt{36}}{2}$
-            - $x_{1} = \frac{2 + \sqrt{36}}{2} = \frac{8}{2} = 4$
-            - $x_{2} = \frac{2 - \sqrt{36}}{2} =  \frac{-4}{2} = -2$
-        - Szorzattá alakítás:
-            - $(x-4)(x+2)$
+$$
+\begin{aligned}
+& x^{2}−2x−8 \\[2em]
+a &= 1 \\
+b &= -2 \\
+c &= -8 \\[2em]
+x_{1,2} &= \frac{2 \pm \sqrt{(-2)^{2} - 4 \cdot 1 \cdot (-8)}}{2 \cdot 1} = \\
+& D = (-2)^{2} - 4 \cdot 1 \cdot (-8) = 36 \\
+& \frac{2 \pm \sqrt{36}}{2} \\
+x_{1} &= \frac{2 + \sqrt{36}}{2} = \frac{8}{2} = 4 \\
+x_{2} &= \frac{2 - \sqrt{36}}{2} =  \frac{-4}{2} = -2 \\
+& \text{Szorzattá alakítás:} \\
+& (x-4)(x+2)
+\end{aligned}
+$$
 
 #### c.
 - $x^{2}−6x+5$
