@@ -196,68 +196,89 @@ $$
 $$
 
 ### d. feladat
-$1$ és $-5$ gyökök esetén:
-
-$(x - 1) \cdot (x + 5) = x^{2} + 5x - x - 5 = x^{2} + 4x - 5$
+$$
+\begin{aligned}
+1 \text{ és } -5 \text{ gyökök esetén:} \\
+(x - 1) \cdot (x + 5) = x^{2} + 5x - x - 5 = x^{2} + 4x - 5
+\end{aligned}
+$$
 
 ### e. feladat
-$6$ és $-6$ gyökök esetén:
-
-$(x-6)(x+6) = x^{2} + 6x - 6x - 36 = x^{2} - 36$
+$$
+\begin{aligned}
+6 \text{ és } -6 \text{ gyökök esetén:} \\
+(x-6)(x+6) = x^{2} + 6x - 6x - 36 = x^{2} - 36
+\end{aligned}
+$$
 
 ### f. feladat
-$21$ és $12$ gyökök esetén:
-
-$(x-21) \cdot (x-12) = x^{2}-12x-21x+252 = x^{2}-33x+252$
+$$
+\begin{aligned}
+21 \text{ és } 12 \text{ gyökök esetén:} \\
+(x-21) \cdot (x-12) = x^{2}-12x-21x+252 = x^{2}-33x+252
+\end{aligned}
+$$
 
 ### g. feladat
-$0$ és $-4$ gyökök esetén:
-
-$(x) \cdot (x+4) = x^{2}+4x$
+$$
+\begin{aligned}
+0 \text{ és } -4 \text{ gyökök esetén:} \\
+(x) \cdot (x+4) = x^{2}+4x
+\end{aligned}
+$$
 
 ### h. feladat
-$\frac{2}{3}$ és $\frac{1}{2}$ gyökök esetén:
-
-$(x - \frac{2}{3}) \cdot (x - \frac{1}{2}) = x^{2} - \frac{1}{2}x -\frac{2}{3}x + \frac{1}{3}$
-
-Közös nevezőre hozás és egészre szorzás (6-tal):
-
-$6 \cdot (x^{2} - \frac{1}{2}x - \frac{2}{3}x + \frac{1}{3}) = 6x^{2} - 3x - 4x + 2 = 6x^{2}-7x+2$
+$$
+\begin{aligned}
+\frac{2}{3} \text{ és } \frac{1}{2} \text{ gyökök esetén:} \\
+(x - \frac{2}{3}) \cdot (x - \frac{1}{2}) = x^{2} - \frac{1}{2}x -\frac{2}{3}x + \frac{1}{3} \\
+\text{Közös nevezőre hozás és egészre szorzás (}6 \text{-al):} \\
+6 \cdot (x^{2} - \frac{1}{2}x - \frac{2}{3}x + \frac{1}{3}) = 6x^{2} - 3x - 4x + 2 = 6x^{2}-7x+2
+\end{aligned}
+$$
 
 ### i. feladat
-$\frac{1}{3}$ és $- \frac{2}{5}$ gyökök esetén:
-
-$(x-\frac{1}{3}) \cdot (x+\frac{2}{5}) = x^{2} + \frac{2}{5}x - \frac{1}{3}x - \frac{2}{15}$
-
-Közös nevezőre hozás és egészre szorzás (15-tel):
-
-$15x^{2} + 6x - 5x - 2 = 15x^{2} + x - 2$
+$$
+\begin{aligned}
+\frac{1}{3} \text{ és } - \frac{2}{5} \text{ gyökök esetén:} \\
+(x-\frac{1}{3}) \cdot (x+\frac{2}{5}) = x^{2} + \frac{2}{5}x - \frac{1}{3}x - \frac{2}{15} \\
+\text{ Közös nevezőre hozás és egészre szorzás (} 15\text{-tel):} \\
+15x^{2} + 6x - 5x - 2 = 15x^{2} + x - 2
+\end{aligned}
+$$
 
 ### j. feladat
-$- \frac{3}{4}$ és $- \frac{1}{5}$ gyökök esetén:
-
-$(x + \frac{3}{4}) \cdot (x + \frac{1}{5}) = x^{2} + \frac{1}{5}x + \frac{3}{4}x + \frac{3}{20}$
-
-Szorzás a közös nevezővel (20):
-
-$20x^{2} + 4x + 15x + 3 = 20x^{2} + 19x + 3$
+$$
+\begin{aligned}
+- \frac{3}{4} \text{ és } - \frac{1}{5} \text{ gyökök esetén:} \\
+(x + \frac{3}{4}) \cdot (x + \frac{1}{5}) = x^{2} + \frac{1}{5}x + \frac{3}{4}x + \frac{3}{20} \\
+\text{Szorzás a közös nevezővel (}20\text{):} \\
+20x^{2} + 4x + 15x + 3 = 20x^{2} + 19x + 3
+\end{aligned}
+$$
 
 ### k. feladat
-$- \frac{4}{3}$ és $\frac{7}{10}$ gyökök esetén:
-
-$(x + \frac{4}{3}) \cdot (x - \frac{7}{10}) = x^{2} - \frac{7}{10}x + \frac{4}{3}x - \frac{28}{30}$
-
-Szorzás a közös nevezővel (30):
-
-$30x^{2} - 21x + 40x - 28 = 30x^{2} + 19x - 28$
+$$
+\begin{aligned}
+- \frac{4}{3} \text{ és } \frac{7}{10} \text{ gyökök esetén:} \\
+(x + \frac{4}{3}) \cdot (x - \frac{7}{10}) = x^{2} - \frac{7}{10}x + \frac{4}{3}x - \frac{28}{30} \\
+\text{Szorzás a közös nevezővel (}30\text{):} \\
+30x^{2} - 21x + 40x - 28 = 30x^{2} + 19x - 28
+\end{aligned}
+$$
 
 ### l. feladat
-$- \frac{7}{8}$ és $\frac{13}{9}$ gyökök esetén:
+$$
+\begin{aligned}
+- \frac{7}{8} \text{ és } \frac{13}{9} \text{ gyökök esetén:} \\
+(x + \frac{7}{8})(x - \frac{13}{9}) = x^{2} - \frac{13}{9}x + \frac{7}{8}x - \frac{91}{72} \\
+\text{Szorzás a közös nevezővel (}72\text{):} \\
+72x^{2} - 104x + 63x - 91 = 72x^{2} - 41x - 91
+\end{aligned}
+$$
 
-$(x + \frac{7}{8})(x - \frac{13}{9}) = x^{2} - \frac{13}{9}x + \frac{7}{8}x - \frac{91}{72}$
+---
 
-Szorzás a közös nevezővel (72):
-
-$72x^{2} - 104x + 63x - 91 = 72x^{2} - 41x - 91$
+[Vissza](../matematika.md)
 
 ---
