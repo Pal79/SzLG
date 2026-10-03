@@ -1,5 +1,4 @@
 
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script>
   window.MathJax = {
     tex: {
@@ -38,12 +37,21 @@ Ezen szögek szögfüggvényeinek pontos értékét az alábbiakban lehet meghat
 
 ### Összefoglaló táblázat:
 
-|  | $30^{\circ}$ | $45^{\circ}$ | $60^{\circ}$ |
-| :-: | :-: | :-: | :-: |
-| sin | $\frac{1}{2}$ | $\frac{\sqrt{2}}{2}$ | $\frac{\sqrt{3}}{2}$ |
-| cos | $\frac{\sqrt{3}}{2}$ | $\frac{\sqrt{2}}{2}$ | $\frac{1}{2}$ |
-| tg | $\frac{\sqrt{3}}{3}$ | $1$ | $\sqrt{3}$ |
-| ctg | $\sqrt{3}$ | $1$ | $\frac{\sqrt{3}}{3}$ |
+$$
+\begin{array}{|c|c|c|c|}
+\hline
+& 30^{\circ} & 45^{\circ} & 60^{\circ} \\
+\hline
+\sin & \frac{1}{2} & \frac{\sqrt{2}}{2} & \frac{\sqrt{3}}{2} \\
+\hline
+\cos & \frac{\sqrt{3}}{2} & \frac{\sqrt{2}}{2} & \frac{1}{2} \\
+\hline
+\tg & \frac{\sqrt{3}}{3} & 1 & \sqrt{3} \\
+\hline
+\ctg & \sqrt{3} & 1 & \frac{\sqrt{3}}{3} \\
+\hline
+\end{array}
+$$
 
 ## Vektorok
 
