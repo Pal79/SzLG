@@ -174,106 +174,106 @@ $$
 ### a. feladat
 $$
 \begin{aligned}
-3 \text{ és } 4 \text{ gyökök esetén:} \\
-(x-3) \cdot (x-4) = x^{2} - 4x - 3x + 12 = x^{2} - 7x + 12
+& 3 \text{ és } 4 \text{ gyökök esetén:} \\
+& (x-3) \cdot (x-4) = x^{2} - 4x - 3x + 12 = x^{2} - 7x + 12
 \end{aligned}
 $$
 
 ### b. feladat
 $$
 \begin{aligned}
--2 \text{ és } 7 \text{ gyökök esetén:} \\
-(x+2) \cdot (x-7) = x^{2} - 7x + 2x - 14 = x^{2} - 5x - 14
+& -2 \text{ és } 7 \text{ gyökök esetén:} \\
+& (x+2) \cdot (x-7) = x^{2} - 7x + 2x - 14 = x^{2} - 5x - 14
 \end{aligned}
 $$
 
 ### c. feladat
 $$
 \begin{aligned}
--3 \text{ és } -6 \text{ gyökök esetén:} \\
-(x+3)(x+6) = x^{2} + 6x + 3x + 18 = x^{2} + 9x + 18
+& -3 \text{ és } -6 \text{ gyökök esetén:} \\
+& (x+3)(x+6) = x^{2} + 6x + 3x + 18 = x^{2} + 9x + 18
 \end{aligned}
 $$
 
 ### d. feladat
 $$
 \begin{aligned}
-1 \text{ és } -5 \text{ gyökök esetén:} \\
-(x - 1) \cdot (x + 5) = x^{2} + 5x - x - 5 = x^{2} + 4x - 5
+& 1 \text{ és } -5 \text{ gyökök esetén:} \\
+& (x - 1) \cdot (x + 5) = x^{2} + 5x - x - 5 = x^{2} + 4x - 5
 \end{aligned}
 $$
 
 ### e. feladat
 $$
 \begin{aligned}
-6 \text{ és } -6 \text{ gyökök esetén:} \\
-(x-6)(x+6) = x^{2} + 6x - 6x - 36 = x^{2} - 36
+& 6 \text{ és } -6 \text{ gyökök esetén:} \\
+& (x-6)(x+6) = x^{2} + 6x - 6x - 36 = x^{2} - 36
 \end{aligned}
 $$
 
 ### f. feladat
 $$
 \begin{aligned}
-21 \text{ és } 12 \text{ gyökök esetén:} \\
-(x-21) \cdot (x-12) = x^{2}-12x-21x+252 = x^{2}-33x+252
+& 21 \text{ és } 12 \text{ gyökök esetén:} \\
+& (x-21) \cdot (x-12) = x^{2}-12x-21x+252 = x^{2}-33x+252
 \end{aligned}
 $$
 
 ### g. feladat
 $$
 \begin{aligned}
-0 \text{ és } -4 \text{ gyökök esetén:} \\
-(x) \cdot (x+4) = x^{2}+4x
+& 0 \text{ és } -4 \text{ gyökök esetén:} \\
+& (x) \cdot (x+4) = x^{2}+4x
 \end{aligned}
 $$
 
 ### h. feladat
 $$
 \begin{aligned}
-\frac{2}{3} \text{ és } \frac{1}{2} \text{ gyökök esetén:} \\
-(x - \frac{2}{3}) \cdot (x - \frac{1}{2}) = x^{2} - \frac{1}{2}x -\frac{2}{3}x + \frac{1}{3} \\
-\text{Közös nevezőre hozás és egészre szorzás (}6 \text{-al):} \\
-6 \cdot (x^{2} - \frac{1}{2}x - \frac{2}{3}x + \frac{1}{3}) = 6x^{2} - 3x - 4x + 2 = 6x^{2}-7x+2
+& \frac{2}{3} \text{ és } \frac{1}{2} \text{ gyökök esetén:} \\
+& (x - \frac{2}{3}) \cdot (x - \frac{1}{2}) = x^{2} - \frac{1}{2}x -\frac{2}{3}x + \frac{1}{3} \\
+& \text{Közös nevezőre hozás és egészre szorzás (}6 \text{-al):} \\
+& 6 \cdot (x^{2} - \frac{1}{2}x - \frac{2}{3}x + \frac{1}{3}) = 6x^{2} - 3x - 4x + 2 = 6x^{2}-7x+2
 \end{aligned}
 $$
 
 ### i. feladat
 $$
 \begin{aligned}
-\frac{1}{3} \text{ és } - \frac{2}{5} \text{ gyökök esetén:} \\
-(x-\frac{1}{3}) \cdot (x+\frac{2}{5}) = x^{2} + \frac{2}{5}x - \frac{1}{3}x - \frac{2}{15} \\
-\text{ Közös nevezőre hozás és egészre szorzás (} 15\text{-tel):} \\
-15x^{2} + 6x - 5x - 2 = 15x^{2} + x - 2
+& \frac{1}{3} \text{ és } - \frac{2}{5} \text{ gyökök esetén:} \\
+& (x-\frac{1}{3}) \cdot (x+\frac{2}{5}) = x^{2} + \frac{2}{5}x - \frac{1}{3}x - \frac{2}{15} \\
+& \text{ Közös nevezőre hozás és egészre szorzás (} 15\text{-tel):} \\
+& 15x^{2} + 6x - 5x - 2 = 15x^{2} + x - 2
 \end{aligned}
 $$
 
 ### j. feladat
 $$
 \begin{aligned}
-- \frac{3}{4} \text{ és } - \frac{1}{5} \text{ gyökök esetén:} \\
-(x + \frac{3}{4}) \cdot (x + \frac{1}{5}) = x^{2} + \frac{1}{5}x + \frac{3}{4}x + \frac{3}{20} \\
-\text{Szorzás a közös nevezővel (}20\text{):} \\
-20x^{2} + 4x + 15x + 3 = 20x^{2} + 19x + 3
+& - \frac{3}{4} \text{ és } - \frac{1}{5} \text{ gyökök esetén:} \\
+& (x + \frac{3}{4}) \cdot (x + \frac{1}{5}) = x^{2} + \frac{1}{5}x + \frac{3}{4}x + \frac{3}{20} \\
+& \text{Szorzás a közös nevezővel (}20\text{):} \\
+& 20x^{2} + 4x + 15x + 3 = 20x^{2} + 19x + 3
 \end{aligned}
 $$
 
 ### k. feladat
 $$
 \begin{aligned}
-- \frac{4}{3} \text{ és } \frac{7}{10} \text{ gyökök esetén:} \\
-(x + \frac{4}{3}) \cdot (x - \frac{7}{10}) = x^{2} - \frac{7}{10}x + \frac{4}{3}x - \frac{28}{30} \\
-\text{Szorzás a közös nevezővel (}30\text{):} \\
-30x^{2} - 21x + 40x - 28 = 30x^{2} + 19x - 28
+& - \frac{4}{3} \text{ és } \frac{7}{10} \text{ gyökök esetén:} \\
+& (x + \frac{4}{3}) \cdot (x - \frac{7}{10}) = x^{2} - \frac{7}{10}x + \frac{4}{3}x - \frac{28}{30} \\
+& \text{Szorzás a közös nevezővel (}30\text{):} \\
+& 30x^{2} - 21x + 40x - 28 = 30x^{2} + 19x - 28
 \end{aligned}
 $$
 
 ### l. feladat
 $$
 \begin{aligned}
-- \frac{7}{8} \text{ és } \frac{13}{9} \text{ gyökök esetén:} \\
-(x + \frac{7}{8})(x - \frac{13}{9}) = x^{2} - \frac{13}{9}x + \frac{7}{8}x - \frac{91}{72} \\
-\text{Szorzás a közös nevezővel (}72\text{):} \\
-72x^{2} - 104x + 63x - 91 = 72x^{2} - 41x - 91
+& - \frac{7}{8} \text{ és } \frac{13}{9} \text{ gyökök esetén:} \\
+& (x + \frac{7}{8})(x - \frac{13}{9}) = x^{2} - \frac{13}{9}x + \frac{7}{8}x - \frac{91}{72} \\
+& \text{Szorzás a közös nevezővel (}72\text{):} \\
+& 72x^{2} - 104x + 63x - 91 = 72x^{2} - 41x - 91
 \end{aligned}
 $$
 
