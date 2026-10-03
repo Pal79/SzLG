@@ -27,36 +27,42 @@ a &= 1 \\
 b &= -5 \\
 c &= 4 \\[2em]
 y_{1,2} &= \frac{5 \pm \sqrt{(-5)^{2} - 4 \cdot 1 \cdot 4}}{2} = \frac{5 \pm 3}{2} = \\
-y_{1} &= 4 \Rightarrow x^{2} = 4 \Rightarrow x_1 = 2, x_2 = -2 \\
-y_{2} &= 1 \Rightarrow x^{2} = 1 \Rightarrow x_3 = 1, x_4 = -1
+y_{1} &= 4 \Rightarrow x^{2} = 4 \Rightarrow x_{1} = 2, x_{2} = -2 \\
+y_{2} &= 1 \Rightarrow x^{2} = 1 \Rightarrow x_{3} = 1, x_{4} = -1
 \end{aligned}
 $$
 
 ### b. feladat
-$x^{4} - 10x^{2} + 9 = 0$
-- Új ismeretlen: $y = x^{2}$
-
-$y^{2} - 10y + 9 = 0 \Rightarrow y_{1,2} = \frac{10 \pm 8}{2}$
-- $y_1 = 9 \Rightarrow x^{2} = 9 \Rightarrow x_1 = 3, x_2 = -3$
-- $y_2 = 1 \Rightarrow x^{2} = 1 \Rightarrow x_3 = 1, x_4 = -1$
+$$
+\begin{aligned}
+x^{4} - 10x^{2} + 9 &= 0 \quad \text{ - Új ismeretlen: } y = x^{2} \\[2em]
+y^{2} - 10y + 9 &= 0 \Rightarrow y_{1,2} = \frac{10 \pm 8}{2}\\
+y_{1} &= 9 \Rightarrow x^{2} = 9 \Rightarrow x_{1} = 3, x_{2} = -3 \\
+y_{2} &= 1 \Rightarrow x^{2} = 1 \Rightarrow x_{3} = 1, x_{4} = -1
+\end{aligned}
+$$
 
 ### c. feladat
-$x^{4} + x^{2} - 20 = 0$
-
-$y^{2} + y - 20 = 0 \Rightarrow y_{1,2} = \frac{-1 \pm 9}{2}$
-- $y_1 = 4 \Rightarrow x^{2} = 4 \Rightarrow x_1 = 2, x_2 = -2$
-- $y_2 = -5 \Rightarrow x^{2} = -5 \Rightarrow$
+$$
+\begin{aligned}
+x^{4} + x^{2} - 20 &= 0 \\[2em]
+y^{2} + y - 20 &= 0 \Rightarrow y_{1,2} = \frac{-1 \pm 9}{2} \\
+y_{1} &= 4 \Rightarrow x^{2} = 4 \Rightarrow x_{1} = {2}, x_{2} = -2 \\
+y_{2} = -5 \Rightarrow x^{2} = -5 \Rightarrow
+\end{aligned}
+$$
 
 **Nincs valós megoldás**
 
 ### d. feladat
-$x^{4} - 8x^{2} - 9 = 0$
-
-$y^{2} - 8y - 9 = 0 \Rightarrow y_{1,2} = \frac{8 \pm 10}{2}$
-- $y_1 = 9 \Rightarrow x_1 = 3, x_2 = -3$
-- $y_2 = -1 \Rightarrow$
-
-**Nincs valós megoldás**
+$$
+\begin{aligned}
+x^{4} - 8x^{2} - 9 = 0 \\[2em]
+y^{2} - 8y - 9 = 0 \Rightarrow y_{1,2} = \frac{8 \pm 10}{2} \\
+y_1 = 9 \Rightarrow x_{1} = 3, x_{2} = -3 \\
+y_2 = -1 \Rightarrow \text{Nincs valós megoldás}
+\end{aligned}
+$$
 
 ### e. feladat
 $x^{4} - 20x^{2} - 125 = 0$
