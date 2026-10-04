@@ -84,20 +84,24 @@ y_{1} &= -4, y_{2} = -7 \\
 $$
 
 ### g. feladat
-$64x^{4} - 20x^{2} + 1 = 0$
-
-$64y^{2} - 20y + 1 = 0 \Rightarrow y_{1,2} = \frac{20 \pm 12}{128}$
-- $y_1 = \frac{32}{128} = \frac{1}{4} \Rightarrow x_1 = \frac{1}{2}, x_2 = -\frac{1}{2}$
-- $y_2 = \frac{8}{128} = \frac{1}{16} \Rightarrow x_3 = \frac{1}{4}, x_4 = -\frac{1}{4}$
+$$
+\begin{aligned}
+64x^{4} - 20x^{2} + 1 &= 0 \\[2em]
+64y^{2} - 20y + 1 &= 0 \Rightarrow y_{1,2} = \frac{20 \pm 12}{128} \\
+y_{1} &= \frac{32}{128} = \frac{1}{4} \Rightarrow x_{1} = \frac{1}{2}, x_{2} = -\frac{1}{2} \\
+y_{2} &= \frac{8}{128} = \frac{1}{16} \Rightarrow x_{3} = \frac{1}{4}, x_{4} = -\frac{1}{4}
+\end{aligned}
+$$
 
 ### h. feladat
-$25x^{4} + 74x^{2} - 3 = 0$
-
-$25y^{2} + 74y - 3 = 0 \Rightarrow y_{1,2} = \frac{-74 \pm 76}{50}$
-- $y_1 = \frac{2}{50} = \frac{1}{25} \Rightarrow x_1 = \frac{1}{5}, x_2 = -\frac{1}{5}$
-- $y_2 = -3 \Rightarrow$
-
-**Nincs valós megoldás**
+$$
+\begin{aligned}
+25x^{4} + 74x^{2} - 3 &= 0 \\[2em]
+25y^{2} + 74y - 3 &= 0 \Rightarrow y_{1,2} = \frac{-74 \pm 76}{50} \\
+y_{1} &= \frac{2}{50} = \frac{1}{25} \Rightarrow x_{1} = \frac{1}{5}, x_{2} = -\frac{1}{5} \\
+y_{2} &= -3 \Rightarrow \text{ Nincs valós megoldás}
+\end{aligned}
+$$
 
 ### i. feladat
 $x^{6} - 7x^{3} - 8 = 0$
