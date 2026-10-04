@@ -136,10 +136,10 @@ $$
 ### l. feladat
 $$
 \begin{aligned}
-x^{6} - 4x^{3} - 5 = 0 \\[2em]
-y^{2} - 4y - 5 = 0 \Rightarrow y_{1,2} = \frac{4 \pm 6}{2} \\
-y_{1} = 5 \Rightarrow x^{3} = 5 \Rightarrow x_{1} = \sqrt[3]{5} \\
-y_{2} = -1 \Rightarrow x^{3} = -1 \Rightarrow x_{2} = -1
+x^{6} - 4x^{3} - 5 &= 0 \\[2em]
+y^{2} - 4y - 5 &= 0 \Rightarrow y_{1,2} = \frac{4 \pm 6}{2} \\
+y_{1} &= 5 \Rightarrow x^{3} = 5 \Rightarrow x_{1} = \sqrt[3]{5} \\
+y_{2} &= -1 \Rightarrow x^{3} = -1 \Rightarrow x_{2} = -1
 \end{aligned}
 $$
 
