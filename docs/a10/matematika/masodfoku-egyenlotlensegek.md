@@ -89,13 +89,14 @@ Zérushelyek: $x_{1,2} = \frac{-12 \pm 8}{8}$
 **Megoldás**: $-2.5 < x < -0.5$
 
 ### i. feladat
-$3x^{2} - 8x + 7 \ge 0$
-
-Diszkrimináns: $D = 64 - 84 = -20$
-
-A parabola sosem metszi az x-tengelyt, mindig pozitív értéket vesz fel.
-
-**Megoldás**: $\forall x \in \mathbb{R}$
+$$
+\begin{aligned}
+3x^{2} - 8x + 7 &\ge 0 \\[2em]
+\text{Diszkrimináns: }D &= 64 - 84 = -20 \\
+& \text{A parabola sosem metszi az }x\text{-tengelyt, mindig pozitív értéket vesz fel.} \\[1em]
+& \text{Megoldás: }\forall x \in \mathbb{R}
+\end{aligned}
+$$
 
 ### j. feladat
 $$
