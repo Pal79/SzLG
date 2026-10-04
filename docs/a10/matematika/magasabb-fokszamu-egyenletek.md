@@ -104,33 +104,44 @@ y_{2} &= -3 \Rightarrow \text{ Nincs valós megoldás}
 $$
 
 ### i. feladat
-$x^{6} - 7x^{3} - 8 = 0$
-- Helyettesítés: $y = x^{3}$
-
-$y^{2} - 7y - 8 = 0 \Rightarrow y_{1,2} = \frac{7 \pm 9}{2}$
-- $y_1 = 8 \Rightarrow x^{3} = 8 \Rightarrow x_1 = 2$
-- $y_2 = -1 \Rightarrow x^{3} = -1 \Rightarrow x_2 = -1$
+$$
+\begin{aligned}
+x^{6} - 7x^{3} - 8 &= 0 \quad \text{Helyettesítés: }y = x^{3} \\[2em]
+y^{2} - 7y - 8 &= 0 \Rightarrow y_{1,2} = \frac{7 \pm 9}{2} \\
+y_{1} &= 8 \Rightarrow x^{3} = 8 \Rightarrow x_{1} = 2 \\
+y_{2} &= -1 \Rightarrow x^{3} = -1 \Rightarrow x_{2} = -1
+\end{aligned}
+$$
 
 ### j. feladat
-$x^{6} - 28x^{3} + 27 = 0$
-
-$y^{2} - 28y + 27 = 0 \Rightarrow y_{1,2} = \frac{28 \pm 26}{2}$
-- $y_1 = 27 \Rightarrow x^{3} = 27 \Rightarrow x_1 = 3$
-- $y_2 = 1 \Rightarrow x^{3} = 1 \Rightarrow x_2 = 1$
+$$
+\begin{aligned}
+x^{6} - 28x^{3} + 27 &= 0 \\[2em]
+y^{2} - 28y + 27 &= 0 \Rightarrow y_{1,2} = \frac{28 \pm 26}{2} \\
+y_{1} &= 27 \Rightarrow x^{3} = 27 \Rightarrow x_{1} = 3 \\
+y_{2} &= 1 \Rightarrow x^{3} = 1 \Rightarrow x_{2} = 1
+\end{aligned}
+$$
 
 ### k. feladat
-$x^{6} + 9x^{3} + 8 = 0$
-
-$y^{2} + 9y + 8 = 0 \Rightarrow y_{1,2} = \frac{-9 \pm 7}{2}$
-- $y_1 = -1 \Rightarrow x^{3} = -1 \Rightarrow x_1 = -1$
-- $y_2 = -8 \Rightarrow x^{3} = -8 \Rightarrow x_2 = -2$
+$$
+\begin{aligned}
+x^{6} + 9x^{3} + 8 &= 0 \\[2em]
+y^{2} + 9y + 8 &= 0 \Rightarrow y_{1,2} = \frac{-9 \pm 7}{2} \\
+y_{1} &= -1 \Rightarrow x^{3} = -1 \Rightarrow x_{1} = -1 \\
+y_{2} &= -8 \Rightarrow x^{3} = -8 \Rightarrow x_{2} = -2
+\end{aligned}
+$$
 
 ### l. feladat
-$x^{6} - 4x^{3} - 5 = 0$
-
-$y^{2} - 4y - 5 = 0 \Rightarrow y_{1,2} = \frac{4 \pm 6}{2}$
-- $y_1 = 5 \Rightarrow x^{3} = 5 \Rightarrow x_1 = \sqrt[3]{5}$
-- $y_2 = -1 \Rightarrow x^{3} = -1 \Rightarrow x_2 = -1$
+$$
+\begin{aligned}
+x^{6} - 4x^{3} - 5 = 0 \\[2em]
+y^{2} - 4y - 5 = 0 \Rightarrow y_{1,2} = \frac{4 \pm 6}{2} \\
+y_{1} = 5 \Rightarrow x^{3} = 5 \Rightarrow x_{1} = \sqrt[3]{5} \\
+y_{2} = -1 \Rightarrow x^{3} = -1 \Rightarrow x_{2} = -1
+\end{aligned}
+$$
 
 ---
 
