@@ -27,12 +27,14 @@ x_{2} &= -7 \\[1em]
 $$
 
 ### b. feladat
-$x^{2} - 2x - 8 \ge 0$
-
-Zérushelyek: $x_{1,2} = \frac{2 \pm 6}{2}$
-- $x_1 = 4, x_2 = -2$
-
-**Megoldás**: $x \ge 4$ vagy $x \le -2$
+$$
+\begin{aligned}
+x^{2} - 2x - 8 &\ge 0 \quad \text{Zérushelyek: }x_{1,2} = \frac{2 \pm 6}{2} \\[2em]
+x_{1} &= 4 \\
+x_{2} &= -2 \\[1em]
+& \text{Megoldás: }x \ge 4\text{ vagy }x \le -2
+\end{aligned}
+$$
 
 ### c. feladat
 $x^{2} - 9x + 18 < 0$
