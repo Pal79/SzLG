@@ -1,5 +1,4 @@
 
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script>
   window.MathJax = {
     tex: {
@@ -17,13 +16,14 @@
 
 # Másodfokú egyenlőtlenségek
 ### a. feladat
-$x^{2} + 6x - 7 < 0$
-
-Zérushelyek keresése ($x^{2} + 6x - 7 = 0$):
-
-$x_{1,2} = \frac{-6 \pm \sqrt{36 + 28}}{2} = \frac{-6 \pm 8}{2}$
-- $x_1 = 1$
-- $x_2 = -7$
+$$
+\begin{aligned}
+x^{2} + 6x - 7 &< 0 \quad \text{Zérushelyek keresése }(x^{2} + 6x - 7 = 0)\text{:} \\[2em]
+x_{1,2} &= \frac{-6 \pm \sqrt{36 + 28}}{2} = \frac{-6 \pm 8}{2} \\
+x_{1} &= 1 \\
+x_{2} &= -7
+\end{aligned}
+$$
 
 **Megoldás**: $-7 < x < 1$
 
