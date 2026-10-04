@@ -98,13 +98,14 @@ A parabola sosem metszi az x-tengelyt, mindig pozitív értéket vesz fel.
 **Megoldás**: $\forall x \in \mathbb{R}$
 
 ### j. feladat
-$15x^{2} + 11x + 2 > 0$
-
-Zérushelyek: $x_{1,2} = \frac{-11 \pm 1}{30}$
-- $x_1 = -\frac{1}{3} \approx -0.33$
-- $x_2 = -\frac{2}{5} = -0.4$
-
-**Megoldás**: $x < -0.4$ vagy $x > -0.33$
+$$
+\begin{aligned}
+15x^{2} + 11x + 2 &> 0 \quad \text{Zérushelyek: }x_{1,2} = \frac{-11 \pm 1}{30} \\[2em]
+x_{1} &= -\frac{1}{3} \approx -0.33 \\
+x_{2} &= -\frac{2}{5} = -0.4 \\[1em]
+& \text{Megoldás: }x < -0.4\text{ vagy }x > -0.33
+\end{aligned}
+$$
 
 ### k. feladat
 $$
