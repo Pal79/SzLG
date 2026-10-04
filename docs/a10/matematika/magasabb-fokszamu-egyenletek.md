@@ -68,7 +68,7 @@ $$
 \begin{aligned}
 x^{4} - 20x^{2} - 125 &= 0 \\[2em]
 y^{2} - 20y - 125 &= 0 \Rightarrow y_{1,2} = \frac{20 \pm 30}{2} \\
-y_{1} &= 25 \Rightarrow x_{1} = 5, x_{2} = -5$
+y_{1} &= 25 \Rightarrow x_{1} = 5, x_{2} = -5 \\
 y_{2} &= -5 \Rightarrow \text{ Nincs valós megoldás}
 \end{aligned}
 $$
@@ -79,7 +79,7 @@ $$
 x^{4} + 11x^{2} + 28 &= 0 \\[2em]
 y^{2} + 11y + 28 &= 0 \Rightarrow y_{1,2} = \frac{-11 \pm 3}{2} \\
 y_{1} &= -4, y_{2} = -7 \\
-& \text{Mivel mindkét }y\text{ negatív, az eredeti egyenletnek **nincs valós megoldása.}
+& \text{Mivel mindkét }y\text{ negatív, az eredeti egyenletnek nincs valós megoldása.}
 \end{aligned}
 $$
 
@@ -127,5 +127,9 @@ $x^{6} - 4x^{3} - 5 = 0$
 $y^{2} - 4y - 5 = 0 \Rightarrow y_{1,2} = \frac{4 \pm 6}{2}$
 - $y_1 = 5 \Rightarrow x^{3} = 5 \Rightarrow x_1 = \sqrt[3]{5}$
 - $y_2 = -1 \Rightarrow x^{3} = -1 \Rightarrow x_2 = -1$
+
+---
+
+[Vissza](../matematika.md)
 
 ---
