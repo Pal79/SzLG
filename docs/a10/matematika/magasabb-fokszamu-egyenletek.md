@@ -48,37 +48,40 @@ $$
 x^{4} + x^{2} - 20 &= 0 \\[2em]
 y^{2} + y - 20 &= 0 \Rightarrow y_{1,2} = \frac{-1 \pm 9}{2} \\
 y_{1} &= 4 \Rightarrow x^{2} = 4 \Rightarrow x_{1} = {2}, x_{2} = -2 \\
-y_{2} = -5 \Rightarrow x^{2} = -5 \Rightarrow
+y_{2} &= -5 \Rightarrow x^{2} = -5 \Rightarrow \\
+& \text{Nincs valós megoldás}
 \end{aligned}
 $$
-
-**Nincs valós megoldás**
 
 ### d. feladat
 $$
 \begin{aligned}
-x^{4} - 8x^{2} - 9 = 0 \\[2em]
-y^{2} - 8y - 9 = 0 \Rightarrow y_{1,2} = \frac{8 \pm 10}{2} \\
-y_1 = 9 \Rightarrow x_{1} = 3, x_{2} = -3 \\
-y_2 = -1 \Rightarrow \text{Nincs valós megoldás}
+x^{4} - 8x^{2} - 9 &= 0 \\[2em]
+y^{2} - 8y - 9 &= 0 \Rightarrow y_{1,2} = \frac{8 \pm 10}{2} \\
+y_{1} &= 9 \Rightarrow x_{1} = 3, x_{2} = -3 \\
+y_{2} &= -1 \Rightarrow \text{ Nincs valós megoldás}
 \end{aligned}
 $$
 
 ### e. feladat
-$x^{4} - 20x^{2} - 125 = 0$
-
-$y^{2} - 20y - 125 = 0 \Rightarrow y_{1,2} = \frac{20 \pm 30}{2}$
-- $y_1 = 25 \Rightarrow x_1 = 5, x_2 = -5$
-- $y_2 = -5 \Rightarrow$
-
-**Nincs valós megoldás**
+$$
+\begin{aligned}
+x^{4} - 20x^{2} - 125 &= 0 \\[2em]
+y^{2} - 20y - 125 &= 0 \Rightarrow y_{1,2} = \frac{20 \pm 30}{2} \\
+y_{1} &= 25 \Rightarrow x_{1} = 5, x_{2} = -5$
+y_{2} &= -5 \Rightarrow \text{ Nincs valós megoldás}
+\end{aligned}
+$$
 
 ### f. feladat
-$x^{4} + 11x^{2} + 28 = 0$
-
-$y^{2} + 11y + 28 = 0 \Rightarrow y_{1,2} = \frac{-11 \pm 3}{2}$
-- $y_1 = -4, y_2 = -7$
-- Mivel mindkét $y$ negatív, az eredeti egyenletnek **nincs valós megoldása**.
+$$
+\begin{aligned}
+x^{4} + 11x^{2} + 28 &= 0 \\[2em]
+y^{2} + 11y + 28 &= 0 \Rightarrow y_{1,2} = \frac{-11 \pm 3}{2} \\
+y_{1} &= -4, y_{2} = -7 \\
+& \text{Mivel mindkét }y\text{ negatív, az eredeti egyenletnek **nincs valós megoldása.}
+\end{aligned}
+$$
 
 ### g. feladat
 $64x^{4} - 20x^{2} + 1 = 0$
