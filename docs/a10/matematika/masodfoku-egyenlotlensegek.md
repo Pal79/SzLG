@@ -21,11 +21,10 @@ $$
 x^{2} + 6x - 7 &< 0 \quad \text{Zérushelyek keresése }(x^{2} + 6x - 7 = 0)\text{:} \\[2em]
 x_{1,2} &= \frac{-6 \pm \sqrt{36 + 28}}{2} = \frac{-6 \pm 8}{2} \\
 x_{1} &= 1 \\
-x_{2} &= -7
+x_{2} &= -7 \\[1em]
+\text{Megoldás: }-7 < x < 1
 \end{aligned}
 $$
-
-**Megoldás**: $-7 < x < 1$
 
 ### b. feladat
 $x^{2} - 2x - 8 \ge 0$
