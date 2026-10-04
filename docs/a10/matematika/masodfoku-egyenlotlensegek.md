@@ -37,12 +37,14 @@ x_{2} &= -2 \\[1em]
 $$
 
 ### c. feladat
-$x^{2} - 9x + 18 < 0$
-
-Zérushelyek: $x_{1,2} = \frac{9 \pm 3}{2}$
-- $x_1 = 6, x_2 = 3$
-
-**Megoldás**: $3 < x < 6$
+$$
+\begin{aligned}
+x^{2} - 9x + 18 &< 0 \quad \text{Zérushelyek: }x_{1,2} = \frac{9 \pm 3}{2} \\[2em]
+x_{1} &= 6 \\
+x_{2} &= 3 \\[1em]
+& \text{Megoldás: }3 < x < 6
+\end{aligned}
+$$
 
 ### d. feladat
 $x^{2} - 8x + 19 \le 0$
@@ -105,21 +107,27 @@ Zérushelyek: $x_{1,2} = \frac{-11 \pm 1}{30}$
 **Megoldás**: $x < -0.4$ vagy $x > -0.33$
 
 ### k. feladat
-$35x^{2} - 46x + 15 \le 0$
-
-Zérushelyek: $x_{1,2} = \frac{46 \pm 4}{70}$
-- $x_1 = \frac{5}{7} \approx 0.71$
-- $x_2 = \frac{3}{5} = 0.6$
-
-**Megoldás**: $0.6 \le x \le \frac{5}{7}$
+$$
+\begin{aligned}
+35x^{2} - 46x + 15 &\le 0 \quad \text{Zérushelyek: }x_{1,2} = \frac{46 \pm 4}{70} \\[2em]
+x_{1} &= \frac{5}{7} \approx 0.71 \\
+x_{2} &= \frac{3}{5} = 0.6 \\[1em]
+& \text{Megoldás: }0.6 \le x \le \frac{5}{7}
+\end{aligned}
+$$
 
 ### l. feladat
-$2x^{2} + 3x + 3 < 0$
+$$
+\begin{aligned}
+2x^{2} + 3x + 3 &< 0 \\[2em]
+\text{Diszkrimináns: }D = 9 - 24 &= -15 \\[1em]
+& \text{Mivel a parabola felfelé nyílik és nincs zérushelye, sosem lesz kisebb nullánál.} \\[1em]
+& \text{Megoldás: Nincs valós megoldás.}
+\end{aligned}
+$$
 
-Diszkrimináns: $D = 9 - 24 = -15$
+---
 
-Mivel a parabola felfelé nyílik és nincs zérushelye, sosem lesz kisebb nullánál.
-
-**Megoldás**: Nincs valós megoldás.
+[Vissza](../matematika.md)
 
 ---
