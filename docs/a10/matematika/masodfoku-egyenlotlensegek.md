@@ -49,43 +49,45 @@ $$
 ### d. feladat
 $$
 \begin{aligned}
-x^{2} - 8x + 19 \le 0 \quad \text{Diszkrimináns: }D = 64 - 76 = -12 \\[2em]
-\text{Mivel a diszkrimináns negatív és a parabola felfelé nyílik, a függvény sosem metszi az x-tengelyt és mindig pozitív.} \\[1em]
-\text{Megoldás: Nincs valós megoldás (üres halmaz).}
+x^{2} - 8x + 19 &\le 0 \quad \text{Diszkrimináns: }D = 64 - 76 = -12 \\[2em]
+& \text{Mivel a diszkrimináns negatív és a parabola felfelé nyílik, a függvény sosem metszi az x-tengelyt és mindig pozitív.} \\[1em]
+& \text{Megoldás: Nincs valós megoldás (üres halmaz).}
+\end{aligned}
+$$
 
 ### e. feladat
 $$
 \begin{aligned}
-x^{2} + 7x + 6 > 0 \quad \text{Zérushelyek: }x_{1,2} = \frac{-7 \pm 5}{2} \\[2em]
-x_{1} = -1, x_2 = -6 \\[1em]
-\text{Megoldás: }$x < -6\text{ vagy }x > -1
+x^{2} + 7x + 6 &> 0 \quad \text{Zérushelyek: }x_{1,2} = \frac{-7 \pm 5}{2} \\[2em]
+x_{1} = -1, x_2 &= -6 \\[1em]
+& \text{Megoldás: }x < -6\text{ vagy }x > -1
 \end{aligned}
 $$
 
 ### f. feladat
 $$
 \begin{aligned}
-x^{2} + 6x + 10 > 0 \quad \text{Diszkrimináns: }D = 36 - 40 = -4 \\[2em]
-\text{A parabola mindig az x-tengely felett halad.} \\[1em]
-\text{Megoldás: }\forall x \in \mathbb{R} \text{(minden valós szám megoldás).}
+x^{2} + 6x + 10 &> 0 \quad \text{Diszkrimináns: }D = 36 - 40 = -4 \\[2em]
+& \text{A parabola mindig az x-tengely felett halad.} \\[1em]
+& \text{Megoldás: }\forall x \in \mathbb{R} \text{(minden valós szám megoldás).}
 \end{aligned}
 $$
 
 ### g. feladat
 $$
 \begin{aligned}
-2x^{2} - x - 6 \le 0 \quad \text{Zérushelyek: }x_{1,2} = \frac{1 \pm 7}{4} \\[2em]
-x_{1} = 2, x_2 = -1.5 \\[1em]
-\text{Megoldás: }$-1.5 \le x \le 2
+2x^{2} - x - 6 &\le 0 \quad \text{Zérushelyek: }x_{1,2} = \frac{1 \pm 7}{4} \\[2em]
+x_{1} &= 2, x_2 = -1.5 \\[1em]
+& \text{Megoldás: }$-1.5 \le x \le 2
 \end{aligned}
 $$
 
 ### h. feladat
 $$
 \begin{aligned}
-4x^{2} + 12x + 5 < 0 \quad \text{Zérushelyek: }x_{1,2} = \frac{-12 \pm 8}{8} \\[2em]
-x_{1} = -0.5, x_2 = -2.5 \\[1em]
-\text{Megoldás: }-2.5 < x < -0.5
+4x^{2} + 12x + 5 &< 0 \quad \text{Zérushelyek: }x_{1,2} = \frac{-12 \pm 8}{8} \\[2em]
+x_{1} &= -0.5, x_2 = -2.5 \\[1em]
+& \text{Megoldás: }-2.5 < x < -0.5
 \end{aligned}
 $$
 
