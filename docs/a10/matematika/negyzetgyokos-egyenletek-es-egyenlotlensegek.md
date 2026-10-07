@@ -31,13 +31,15 @@ $$
 ---
 
 **b. feladat**
-- $\sqrt{x-5}=9$
-    - Kikötés: $x-5 \ge 0 \quad \Rightarrow \quad x \ge 5$
-- $\sqrt{x-5} = 9 \qquad /()^{2}$
-- $x-5 = 81 \qquad /+5$
-- $x = 86$
-- Ellenőrzés:
-    - $\sqrt{86-5} = \sqrt{81} = 9$
+$$
+\begin{aligned}
+\sqrt{x-5} &= 9 \qquad \text{ Kikötés: }x-5 \ge 0 \quad \Rightarrow \quad x \ge 5 \\[2em]
+\sqrt{x-5} &= 9 \qquad /()^{2} \\
+x-5 &= 81 \qquad /+5 \\
+x &= 86 \\[2em]
+\text{ Ellenőrzés: }&\sqrt{86-5} = \sqrt{81} = 9
+\end{aligned}
+$$
 
 ---
 
