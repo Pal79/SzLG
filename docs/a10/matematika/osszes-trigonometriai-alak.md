@@ -1,5 +1,4 @@
 
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script>
   window.MathJax = {
     tex: {
@@ -17,20 +16,42 @@
 
 # Derékszögű háromszög – összes trigonometriai alak
 ## Szinusz összes alakja  
-$\sin(\alpha) = \frac{\text{szemközti}}{\text{átfogó}} = \frac{a}{c}$
+$$
+\begin{aligned}
+\sin(\alpha) &= \frac{\text{szemközti}}{\text{átfogó}} = \frac{a}{c} \\[2em]
+\end{aligned}
+$$
 
-| Keresett | Képlet |
-| :-- | :-- |
-| Szemközti befogó (a) | $a = c \cdot sin(\alpha)$ |
-| Átfogó (c) | $c = \frac{a}{sin(\alpha)}$ |
+$$
+\begin{array}{|l|l|}
+\hline
+\text{Keresett} & \text{Képlet} \\
+\hline
+\text{Szemközti befogó } (a) & a = c \cdot sin(\alpha) \\
+\hline
+\text{Átfogó } (c) & c = \frac{a}{sin(\alpha)} \\
+\hline
+\end{array}
+$$
 
 ## Koszinusz összes alakja  
-$\cos(\alpha) = \frac{\text{szomszédos}}{\text{átfogó}} = \frac{b}{c}$
+$$
+\begin{aligned}
+\cos(\alpha) &= \frac{\text{szomszédos}}{\text{átfogó}} = \frac{b}{c} \\[2em]
+\end{aligned}
+$$
 
-| Keresett | Képlet |
-| :-- | :-- |
-| Szomszédos befogó (b) | $b = c \cdot cos(\alpha)$ |
-| Átfogó (c) | $c = \frac{b}{cos(\alpha)}$ |
+$$
+\begin{array}{|l|l|}
+\hline
+\text{Keresett} & \text{Képlet} \\
+\hline
+\text{Szomszédos befogó }(b) & b = c \cdot cos(\alpha) \\
+\hline
+\text{Átfogó }(c) & c = \frac{b}{cos(\alpha)} \\
+\hline
+\end{array}
+$$
 
 ## Tangens összes alakja
 $\tan(\alpha) = \frac{\text{szemközti}}{\text{szomszédos}} = \frac{a}{b}$
