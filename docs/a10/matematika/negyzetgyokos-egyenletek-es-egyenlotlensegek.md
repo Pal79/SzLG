@@ -58,15 +58,18 @@ $$
 ---
 
 **d. feladat**
-- $3 + \sqrt{4x + 3} = 0$
-    - Kikötés: $4x + 3 \ge 0 \quad \Rightarrow \quad 4x \ge -3 \quad \Rightarrow \quad x \ge - \frac{3}{4}$
-- $\sqrt{4x + 3} = 0 \qquad /()^{2}$
-- $4x + 3 = 9 \qquad /-3$
-- $4x = 6 \qquad /:4$
-- $x = \frac{6}{4} = \frac{3}{2}$
-- Ellenőrzés:
-    - $3 + \sqrt{4 \cdot \frac{3}{2} + 3} = 3 + \sqrt{6 + 3} = 3 + \sqrt{9} = 6$
-    - $6 \ne 0$
+$$
+\begin{aligned}
+3 + \sqrt{4x + 3} &= 0 \qquad \text{ Kikötés: }4x + 3 \ge 0 \quad \Rightarrow \quad 4x \ge -3 \quad \Rightarrow \quad x \ge - \frac{3}{4} \\[2em]
+\sqrt{4x + 3} &= 0 \qquad /()^{2} \\
+4x + 3 &= 9 \qquad /-3 \\
+4x &= 6 \qquad /:4 \\
+x &= \frac{6}{4} = \frac{3}{2} \\[2em]
+\text{ Ellenőrzés:} \\
+3 + \sqrt{4 \cdot \frac{3}{2} + 3} &= 3 + \sqrt{6 + 3} = 3 + \sqrt{9} = 6 \\
+6 &\ne 0
+\end{aligned}
+$$
 
 ---
 
