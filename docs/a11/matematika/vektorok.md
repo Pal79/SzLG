@@ -93,6 +93,8 @@ cos\gamma &= \frac{-1.8}{\sqrt{9.25} \cdot \sqrt{145.96}} = \frac{-1.8}{36.7441}
 \end{aligned}
 $$
 
+---
+
 $$
 \begin{array}{|l|l|}
 \vec{a} = & \left(\frac{12}{5}; -3\right) \\
