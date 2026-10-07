@@ -93,6 +93,29 @@ cos\gamma &= \frac{-1.8}{\sqrt{9.25} \cdot \sqrt{145.96}} = \frac{-1.8}{36.7441}
 \end{aligned}
 $$
 
+$$
+\begin{array}{|l|l|}
+\hline
+\vec{a} &= (\frac{12}{5}; -3) \\
+\vec{b} &= (\frac{7}{2}; -\frac{9}{4}) \\
+\hline
+\frac{12}{5} &= 2.4 \\
+\frac{7}{2} &= 3.5 \\
+- \frac{9}{4} &= -2.25
+\end{array}
+$$
+$$
+\begin{aligned}
+a \cdot b &= 2.4 \cdot 3.5 + (-3) \cdot (-2.25) = 15.15 \\[1em]
+\|vec{a}\| &= \sqrt{2.4^{2} + (-3)^{2}} = \sqrt{5.76+9} = \sqrt{14.76} = 3.842 \\[1em]
+\|vec{b}\| &= \sqrt{3.5^{2} + (-2.25)^{2}} = \sqrt{12.25 + 5.0625} = \sqrt{17.3125} = 4.1608 \\[2em]
+\|vec{a}\| \cdot \|vec{b}\| = 3.842 \cdot 4.1608 = 15.9858 \\[1em]
+\cos\gamma = \frac{a \cdot b}{\|a\| \cdot \|b\|} = \drac{15.15}{15.9858} = 0.9477 \\[1em]
+\gamma = \cos(0.9477)^{-1} = 18.61^{\circ}
+\end{aligned}
+$$
+
+
 ---
 
 [Vissza](../matematika.md)
