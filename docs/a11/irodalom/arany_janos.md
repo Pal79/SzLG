@@ -78,8 +78,6 @@ $$
 - `5. versszak`: a kertészkedés idillje felbomlik, a részvét visszavonása
 - `6. - 7. versszak`: általánosítás, filozófiai zárlat, értékelemzés, keserű irónia
 
-### Alapmetaforák
-
 ---
 
 [Vissza](../irodalom.md)
