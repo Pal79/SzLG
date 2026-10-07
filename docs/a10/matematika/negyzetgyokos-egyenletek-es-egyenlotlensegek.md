@@ -76,13 +76,13 @@ $$
 **e. feladat**
 $$
 \begin{aligned}
-7 - \sqrt{4x + 11} = 0 \qquad \text{ Kikötés: }4x + 11 \ge 0 \quad \Rightarrow \quad 4x \ge -11 \quad \Rightarrow \quad x \ge - \frac{11}{4} \\[2em]
-7 - \sqrt{4x + 11} = 0 \qquad /-7 \\
-\sqrt{4x + 11} = -7 \qquad /()^{2} \\
-4x + 11 = 49 \qquad /-11 \\
-4x = 38 \qquad /:4 \\
-x = \frac{38}{4} = \frac{19}{2} \\[2em]
-\text{ Ellenőrzés: }7 - \sqrt{4 \cdot \frac{19}{2} + 11} = 7 - \sqrt{49} = 0
+7 - \sqrt{4x + 11} &= 0 \qquad \text{ Kikötés: }4x + 11 \ge 0 \quad \Rightarrow \quad 4x \ge -11 \quad \Rightarrow \quad x \ge - \frac{11}{4} \\[2em]
+7 - \sqrt{4x + 11} &= 0 \qquad /-7 \\
+\sqrt{4x + 11} &= -7 \qquad /()^{2} \\
+4x + 11 &= 49 \qquad /-11 \\
+4x &= 38 \qquad /:4 \\
+x &= \frac{38}{4} = \frac{19}{2} \\[2em]
+\text{ Ellenőrzés: }& 7 - \sqrt{4 \cdot \frac{19}{2} + 11} = 7 - \sqrt{49} = 0
 \end{aligned}
 $$
 
