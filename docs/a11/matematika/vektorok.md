@@ -67,8 +67,8 @@ $$
 \begin{aligned}
 \\[1em]
 a \cdot b &= 4 \cdot 12 + (-3) \cdot (-5) = 48 + 15 = 63 \\[1em]
-\|\vec{a}\| &= \sqrt{4^{2} + (-3)^{2}} = \sqrt{16 + 9} = \sqrt{25} = 5 \\[1em]
-\|\vec{b}\| &= \sqrt{12^{2} + (-5)^{2}} = \sqrt{144 + 25} = \sqrt{169} = 13 \\[1em]
+|\vec{a}| &= \sqrt{4^{2} + (-3)^{2}} = \sqrt{16 + 9} = \sqrt{25} = 5 \\[1em]
+|\vec{b}| &= \sqrt{12^{2} + (-5)^{2}} = \sqrt{144 + 25} = \sqrt{169} = 13 \\[1em]
 cos \gamma &= \frac{a \cdot b}{\|\vec{a}\| \cdot \|\vec{b}\|} = \frac{63}{5 \cdot 13} = \frac{63}{65} = 0.9692 \\
 \gamma &= cos(0.9692)^{-1} \approx 14.26^{\circ}
 \end{aligned}
@@ -78,16 +78,16 @@ $$
 
 $$
 \begin{array}{|l|l|}
-\|\vec{a}\| = & (-0.5, -3) \\
-\|\vec{b}\| = & (12, -1.4)
+|\vec{a}| = & (-0.5, -3) \\
+|\vec{b}| = & (12, -1.4)
 \end{array}
 $$
 $$
 \begin{aligned}
 \\[1em]
 a \cdot b &= (-0.5) \cdot 12 + (-3) \cdot (-1.4) = -1.8 \\[1em]
-\|\vec{a}\| &= \sqrt{(-0.5)^{2} + (-3)^{2}} = \sqrt{9.25} \\[1em]
-\|\vec{b}\| &= \sqrt{12^{2} + (-1.4)^{2}} = \sqrt{145.96} \\[1em]
+|\vec{a}| &= \sqrt{(-0.5)^{2} + (-3)^{2}} = \sqrt{9.25} \\[1em]
+|\vec{b}| &= \sqrt{12^{2} + (-1.4)^{2}} = \sqrt{145.96} \\[1em]
 cos\gamma &= \frac{-1.8}{\sqrt{9.25} \cdot \sqrt{145.96}} = \frac{-1.8}{36.7441} = -0.0489 \\
 & \gamma \approx 92.80^{\circ}
 \end{aligned}
@@ -97,14 +97,13 @@ $$
 \begin{array}{|l|l|}
 \vec{a} = & \left(\frac{12}{5}; -3\right) \\
 \vec{b} = & \left(\frac{7}{2}; -\frac{9}{4}\right) \\[1em]
-\frac{12}{5} &= 2.4 \\
-\frac{7}{2} &= 3.5 \\
--\frac{9}{4} &= -2.25
 \end{array}
 $$
-
 $$
 \begin{aligned}
+\frac{12}{5} &= 2.4 \\
+\frac{7}{2} &= 3.5 \\
+-\frac{9}{4} &= -2.25 \\[2em]
 \vec{a} \cdot \vec{b} &= 2.4 \cdot 3.5 + (-3) \cdot (-2.25) = 15.15 \\[1em]
 |\vec{a}| &= \sqrt{2.4^{2} + (-3)^{2}} = \sqrt{5.76+9} = \sqrt{14.76} \approx 3.842 \\[1em]
 |\vec{b}| &= \sqrt{3.5^{2} + (-2.25)^{2}} = \sqrt{12.25 + 5.0625} = \sqrt{17.3125} \approx 4.1608 \\[2em]
