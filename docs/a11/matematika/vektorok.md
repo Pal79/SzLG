@@ -106,9 +106,9 @@ $$
 $$
 \begin{aligned}
 \vec{a} \cdot \vec{b} &= 2.4 \cdot 3.5 + (-3) \cdot (-2.25) = 15.15 \\[1em]
-\|\vec{a}\| &= \sqrt{2.4^{2} + (-3)^{2}} = \sqrt{5.76+9} = \sqrt{14.76} \approx 3.842 \\[1em]
-\|\vec{b}\| &= \sqrt{3.5^{2} + (-2.25)^{2}} = \sqrt{12.25 + 5.0625} = \sqrt{17.3125} \approx 4.1608 \\[2em]
-\|\vec{a}\| \cdot \|\vec{b}\| &= 3.842 \cdot 4.1608 \approx 15.9858 \\[1em]
+|\vec{a}| &= \sqrt{2.4^{2} + (-3)^{2}} = \sqrt{5.76+9} = \sqrt{14.76} \approx 3.842 \\[1em]
+|\vec{b}| &= \sqrt{3.5^{2} + (-2.25)^{2}} = \sqrt{12.25 + 5.0625} = \sqrt{17.3125} \approx 4.1608 \\[2em]
+|\vec{a}| \cdot |\vec{b}| &= 3.842 \cdot 4.1608 \approx 15.9858 \\[1em]
 \cos\gamma &= \frac{\vec{a} \cdot \vec{b}}{\|\vec{a}\| \cdot \|\vec{b}\|} = \frac{15.15}{15.9858} \approx 0.9477 \\[1em]
 \gamma &= \cos(0.9477)^{-1} \approx 18.61^{\circ}
 \end{aligned}
