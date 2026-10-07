@@ -1,5 +1,4 @@
 
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script>
   window.MathJax = {
     tex: {
@@ -19,13 +18,15 @@
 ## (2200) Mely valós számok a megoldásai a következő egynleteknek?
 
 **a. feladat**
-- $\sqrt{x+4}=3$
-    - Kikötés: $x+4 \ge 0 \quad \Rightarrow \quad x \ge -4$
-- $\sqrt{x+4}=3 \qquad /()^{2}$
-- $x+4 = 9 \qquad /-4$
-- $x = 5$
-- Ellenőrzés:
-    - $\sqrt{5+4} = \sqrt{9} = 3$
+$$
+\begin{aligned}
+\sqrt{x+4} &= 3 \qquad \text{ Kikötés: }x+4 \ge 0 \quad \Rightarrow \quad x \ge -4 \\[2em]
+\sqrt{x+4} &= 3 \qquad /()^{2} \\
+x+4 &= 9 \qquad /-4 \\
+x &= 5 \\[2em]
+\text{ Ellenőrzés: }&\sqrt{5+4} = \sqrt{9} = 3
+\end{aligned}
+$$
 
 ---
 
