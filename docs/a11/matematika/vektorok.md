@@ -95,21 +95,22 @@ $$
 
 $$
 \begin{array}{|l|l|}
-\vec{a} & = (\frac{12}{5}; -3) \\
-\vec{b} & = (\frac{7}{2}; -\frac{9}{4}) \\[1em]
-\frac{12}{5} & = 2.4 \\
-\frac{7}{2} & = 3.5 \\
-- \frac{9}{4} & = -2.25
+\vec{a} &= \left(\frac{12}{5}; -3\right) \\
+\vec{b} &= \left(\frac{7}{2}; -\frac{9}{4}\right) \\[1em]
+\frac{12}{5} &= 2.4 \\
+\frac{7}{2} &= 3.5 \\
+-\frac{9}{4} &= -2.25
 \end{array}
 $$
+
 $$
 \begin{aligned}
-a \cdot b &= 2.4 \cdot 3.5 + (-3) \cdot (-2.25) = 15.15 \\[1em]
-\|vec{a}\| &= \sqrt{2.4^{2} + (-3)^{2}} = \sqrt{5.76+9} = \sqrt{14.76} = 3.842 \\[1em]
-\|vec{b}\| &= \sqrt{3.5^{2} + (-2.25)^{2}} = \sqrt{12.25 + 5.0625} = \sqrt{17.3125} = 4.1608 \\[2em]
-\|vec{a}\| \cdot \|vec{b}\| = 3.842 \cdot 4.1608 = 15.9858 \\[1em]
-\cos\gamma = \frac{a \cdot b}{\|a\| \cdot \|b\|} = \drac{15.15}{15.9858} = 0.9477 \\[1em]
-\gamma = \cos(0.9477)^{-1} = 18.61^{\circ}
+\vec{a} \cdot \vec{b} &= 2.4 \cdot 3.5 + (-3) \cdot (-2.25) = 15.15 \\[1em]
+\|\vec{a}\| &= \sqrt{2.4^{2} + (-3)^{2}} = \sqrt{5.76+9} = \sqrt{14.76} \approx 3.842 \\[1em]
+\|\vec{b}\| &= \sqrt{3.5^{2} + (-2.25)^{2}} = \sqrt{12.25 + 5.0625} = \sqrt{17.3125} \approx 4.1608 \\[2em]
+\|\vec{a}\| \cdot \|\vec{b}\| &= 3.842 \cdot 4.1608 \approx 15.9858 \\[1em]
+\cos\gamma &= \frac{\vec{a} \cdot \vec{b}}{\|\vec{a}\| \cdot \|\vec{b}\|} = \frac{15.15}{15.9858} \approx 0.9477 \\[1em]
+\gamma &= \arccos(0.9477) \approx 18.61^{\circ}
 \end{aligned}
 $$
 
