@@ -44,14 +44,16 @@ $$
 ---
 
 **c. feladat**
-- $\sqrt{2x-3}=1$
-    - Kikötés: $2x-3 \ge 0 \quad \Rightarrow \quad 2x \ge 3 \quad \Rightarrow \quad x \ge \frac{3}{2}$
-- $\sqrt{2x-3} = 1 \qquad /()^{2}$
-- $2x-3 = 1 \qquad /+3$
-- $2x = 4 \qquad /:2$
-- $x = 2$
-- Ellenőrzés:
-    - $\sqrt{2 \cdot 2 - 3} = \sqrt{4-3} = \sqrt{1}= 1$
+$$
+\begin{aligned}
+\sqrt{2x-3} &= 1 \qquad \text{ Kikötés: }2x-3 \ge 0 \quad \Rightarrow \quad 2x \ge 3 \quad \Rightarrow \quad x \ge \frac{3}{2} \\[2em]
+\sqrt{2x-3} &= 1 \qquad /()^{2} \\
+2x-3 &= 1 \qquad /+3 \\
+2x &= 4 \qquad /:2 \\
+x = 2 \\[2em]
+\text{ Ellenőrzés: }&\sqrt{2 \cdot 2 - 3} = \sqrt{4-3} = \sqrt{1}= 1
+\end{aligned}
+$$
 
 ---
 
