@@ -95,8 +95,8 @@ $$
 
 $$
 \begin{array}{|l|l|}
-\vec{a} &= \left(\frac{12}{5}; -3\right) \\
-\vec{b} &= \left(\frac{7}{2}; -\frac{9}{4}\right) \\[1em]
+\vec{a} = & \left(\frac{12}{5}; -3\right) \\
+\vec{b} = & \left(\frac{7}{2}; -\frac{9}{4}\right) \\[1em]
 \frac{12}{5} &= 2.4 \\
 \frac{7}{2} &= 3.5 \\
 -\frac{9}{4} &= -2.25
