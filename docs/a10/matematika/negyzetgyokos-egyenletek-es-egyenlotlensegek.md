@@ -89,79 +89,97 @@ $$
 ---
 
 **f. feladat**
-- $\sqrt{8x - 13} - 8 = 0$
-    - Kikötés: $8x - 13 \ge 0 \quad \Rightarrow \quad 8x \ge 13 \quad \Rightarrow \quad x = \frac{13}{8}$
-- $\sqrt{8x - 13} - 8 = 0 \qquad /+8$
-- $sqrt{8x - 13} = 8 \qquad /()^{2}$
-- $8x - 13 = 64 \qquad /+13$
-- $8x = 77 \qquad /:8$
-- $x = \frac{77}{8}$
-- Ellenőrzés:
-    - $\sqrt{8 \cdot \frac{77}{8} - 13} - 8 = \sqrt{64} - 8 = 0$
+$$
+\begin{aligned}
+\sqrt{8x - 13} - 8 &= 0 \qquad \text{ Kikötés: }8x - 13 \ge 0 \quad \Rightarrow \quad 8x \ge 13 \quad \Rightarrow \quad x = \frac{13}{8} \\[2em]
+\sqrt{8x - 13} - 8 &= 0 \qquad /+8 \\
+sqrt{8x - 13} &= 8 \qquad /()^{2} \\
+8x - 13 &= 64 \qquad /+13 \\
+8x &= 77 \qquad /:8 \\
+x &= \frac{77}{8} \\[2em]
+\text{ Ellenőrzés: } & \sqrt{8 \cdot \frac{77}{8} - 13} - 8 = \sqrt{64} - 8 = 0
+\end{aligned}
+$$
 
 ---
 
 **g. feladat**
-- $\sqrt{4x - 5} = \sqrt{x + 1}$
-    - Kikötés: 
-        - $4x - 5 \ge 0 \quad \Rightarrow \quad 4x \ge 0 \quad \Rightarrow \quad x \ge \frac{5}{4}$
-        - $x + 1 \ge 0 \quad \Rightarrow \quad x \ge 0$
-- $\sqrt{4x - 5} = \sqrt{x + 1} \qquad /()^{2}$
-- $4x - 5 = x + 1 \qquad /+5$
-- $4x = x + 6 \qquad /-x$
-- $3x = 6$ | $/:3$
-- $x = \frac{6}{3} = 2$
-- Ellenőrzés:
-    - Bal: $\sqrt{4 \cdot 2 -5} = \sqrt{3}$
-    - Jobb: $\sqrt{2 + 1} = \sqrt{3}$
-    - $\sqrt{3} = \sqrt{3}$
+$$
+\begin{aligned}
+\sqrt{4x - 5} &= \sqrt{x + 1} \\[1em]
+&\text{ Kikötés: } \\
+4x - 5 &\ge 0 \quad \Rightarrow \quad 4x \ge 0 \quad \Rightarrow \quad x \ge \frac{5}{4} \\
+x + 1 &\ge 0 \quad \Rightarrow \quad x \ge 0 \\[2em]
+\sqrt{4x - 5} &= \sqrt{x + 1} \qquad /()^{2} \\
+4x - 5 &= x + 1 \qquad /+5 \\
+4x &= x + 6 \qquad /-x \\
+3x &= 6$ | $/:3 \\
+x &= \frac{6}{3} = 2 \\[2em]
+&\text{ Ellenőrzés: } \\
+\text{ Bal: }&\sqrt{4 \cdot 2 -5} = \sqrt{3} \\
+\text{ Jobb: }&\sqrt{2 + 1} = \sqrt{3} \\
+\quad \sqrt{3} &= \sqrt{3}
+\end{aligned}
+$$
 
 ---
 
 **h. feladat**
-- $\sqrt{5x + 1} = \sqrt{7x + 1}$
-    - Kikötés:
-        - $5x + 1 \ge 0 \quad \Rightarrow \quad 5x \ge -1 \quad \Rightarrow \quad x \ge - \frac{1}{5}$
-        - $7x + 1 \ge 0 \quad  \Rightarrow \quad 7x \ge -1 \quad \Rightarrow \quad x \ge - \frac{1}{7}$
-- $\sqrt{5x + 1} = \sqrt{7x + 1} \qquad /()^{2}$
-- $5x + 1 = 7x + 1 \qquad /-1$
-- $5x = 7x \qquad /-5x$
-- $0 = 2x \qquad /:2$
-- $x = 0$
-- Ellenőrzés:
-    - Bal: $\sqrt{5 \cdot 0 + 1} = 1$
-    - Jobb: $\sqrt{7 \cdot 0 + 1} = 1$
+$$
+\begin{aligned}
+\sqrt{5x + 1} &= \sqrt{7x + 1} \\
+&\text{ Kikötés:} \\
+5x + 1 &\ge 0 \quad \Rightarrow \quad 5x \ge -1 \quad \Rightarrow \quad x \ge - \frac{1}{5} \\
+7x + 1 &\ge 0 \quad  \Rightarrow \quad 7x \ge -1 \quad \Rightarrow \quad x \ge - \frac{1}{7} \\[2em]
+\sqrt{5x + 1} &= \sqrt{7x + 1} \qquad /()^{2} \\
+5x + 1 &= 7x + 1 \qquad /-1 \\
+5x &= 7x \qquad /-5x \\
+0 &= 2x \qquad /:2 \\
+x &= 0 \\[2em]
+&\text{ Ellenőrzés:} \\
+\text{ Bal: }&\sqrt{5 \cdot 0 + 1} = 1 \\
+\text{ Jobb: }&\sqrt{7 \cdot 0 + 1} = 1
+\end{aligned}
+$$
 
 ---
 
 **i. feladat**
-- $\sqrt{3x - 4} = \sqrt{x - 2}$
-    - Kikötés:
-        - $3x - 4 \ge 0 \quad \Rightarrow \quad 4x \ge 4 \quad \Rightarrow \quad x \ge \frac{4}{3}$
-        - $x - 2 \ge 0 \quad \Rightarrow \quad x \ge 2$
-- $\sqrt{3x - 4} = \sqrt{x - 2} \qquad ()^{2}$
-- $3x - 4 = x -2 \qquad /x +4$
-- $3x = x + 2 \qquad /-x$
-- $2x = 2 \qquad /:2$
-- $x = \frac{2}{2} = 1$
-- Ellenőrzés:
-    - bal: $\sqrt{3 \cdot 1 - 4} = \sqrt{-1}$
-    - jobb: $\sqrt{2 - 1} = \sqrt{1} = 1$
+$$
+\begin{aligned}
+\sqrt{3x - 4} &= \sqrt{x - 2} \\
+&\text{ Kikötés:} \\
+3x - 4 &\ge 0 \quad \Rightarrow \quad 4x \ge 4 \quad \Rightarrow \quad x \ge \frac{4}{3} \\
+x - 2 &\ge 0 \quad \Rightarrow \quad x \ge 2 \\[2em]
+\sqrt{3x - 4} &= \sqrt{x - 2} \qquad ()^{2} \\
+3x - 4 &= x -2 \qquad /x +4 \\
+3x &= x + 2 \qquad /-x \\
+2x &= 2 \qquad /:2 \\
+x &= \frac{2}{2} = 1 \\[2em]
+&\text{ Ellenőrzés:} \\
+\text{ bal: }&\sqrt{3 \cdot 1 - 4} = \sqrt{-1} \\
+\text{ jobb: }&\sqrt{2 - 1} = \sqrt{1} = 1
+\end{aligned}
+$$
 
 ---
 
 **j.feladat**
-- $\sqrt{6x + 7} = \sqrt{x + 2}$
-    - Kikötés:
-        - $6x + 7 \ge 0 \quad \Rightarrow \quad 6x \ge -7 \quad \Rightarrow \quad x \ge - \frac{7}{6}$
-        - $x + 2 \ge 0 \quad \Rightarrow \quad x \ge -2$
-- $\sqrt{6x + 7} = \sqrt{x + 2} \qquad ()^{2}$
-- $6x + 7 = x + 2 \qquad /-x, -7$
-- $5x = -5 \qquad /:-5$
-- $x = - \frac{5}{5} = -1$
-- Ellenőrzés:
-    - bal: $\sqrt{6 \cdot (-1) + 7} = \sqrt{1} = 1$
-    - jobb: $\sqrt{(-1) + 2} = \sqrt{1} = 1$
+$$
+\begin{aligned}
+\sqrt{6x + 7} &= \sqrt{x + 2} \\
+&\text{ Kikötés:} \\
+6x + 7 &\ge 0 \quad \Rightarrow \quad 6x \ge -7 \quad \Rightarrow \quad x \ge - \frac{7}{6} \\
+x + 2 &\ge 0 \quad \Rightarrow \quad x \ge -2 \\[2em]
+\sqrt{6x + 7} &= \sqrt{x + 2} \qquad ()^{2} \\
+6x + 7 &= x + 2 \qquad /-x, -7 \\
+5x &= -5 \qquad /:-5 \\
+x &= - \frac{5}{5} = -1 \\[2em]
+&\text{ Ellenőrzés:} \\
+\text{ bal: }&\sqrt{6 \cdot (-1) + 7} = \sqrt{1} = 1 \\
+\text{ jobb: }&\sqrt{(-1) + 2} = \sqrt{1} = 1
+\end{aligned}
+$$
 
 ---
 
