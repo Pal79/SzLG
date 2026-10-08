@@ -54,64 +54,135 @@ $$
 $$
 
 ## Tangens összes alakja
-$\tan(\alpha) = \frac{\text{szemközti}}{\text{szomszédos}} = \frac{a}{b}$
+$$
+\begin{aligned}
+\tan(\alpha) &= \frac{\text{szemközti}}{\text{szomszédos}} = \frac{a}{b} \\[2em]
+\end{aligned}
+$$
 
-| Keresett | Képlet |
-| :-- | :-- |
-| Szemközti befogó (a) | $a = b \cdot tan(\alpha)$ |
-| Szomszédos befogó (b) | $b = \frac{a}{tan(\alpha)}$ |
+$$
+\begin{array}{|l|l|}
+\hline
+\text{Keresett} & \text{Képlet} \\
+\hline
+\text{Szemközti befogó }(a) & a = b \cdot tan(\alpha) \\
+\hline
+\text{Szomszédos befogó }(b) & b = \frac{a}{tan(\alpha)} \\
+\hline
+\end{array}
+$$
 
 ## Kotangens összes alakja
-$\cot(\alpha) = \frac{\text{szomszédos}}{\text{szemközti}} = \frac{b}{a}$
+$$
+\begin{aligned}
+\cot(\alpha) &= \frac{\text{szomszédos}}{\text{szemközti}} = \frac{b}{a} \\[2em]
+\end{aligned}
+$$
 
-| Keresett | Képlet |
-| :-- | :-- |
-| Szomszédos befogó (b) | $b = a \cdot cot(\alpha)$ |
-| Szemközti befogó (a) | $a = \frac{b}{cot(\alpha)}$ |
+$$
+\begin{array}{|l|l|}
+\hline
+\text{Keresett} & \text{Képlet} \\
+\hline
+\text{Szomszédos befogó }(b) & b = a \cdot cot(\alpha) \\
+\hline
+\text{Szemközti befogó }(a) & a = \frac{b}{cot(\alpha)} \\
+\hline
+\end{aligned}
+$$
 
 # Tetszőleges háromszög – fő tételek
 ## Szinusztétel
-$\frac{a}{\sin(\alpha)} = \frac{b}{\sin(\beta)} = \frac{c}{\sin(\gamma)}$
+$$
+\begin{aligned}
+\frac{a}{\sin(\alpha)} &= \frac{b}{\sin(\beta)} = \frac{c}{\sin(\gamma)} \\[2em]
+\end{aligned}
+$$
 
-| Keresett | Képlet |
-| :-- | :-- |
-| Oldal (pl.: a) | $a = \frac{sin(\alpha)}{sin(\beta)} \cdot b$ |
-| Szög (pl.: $\alpha$) | $\alpha = arcsin (\frac{a \cdot sin(\beta)}{b})$ |
+$$
+\begin{array}{|l|l|}
+\hline
+\text{Keresett} & \text{Képlet} \\
+\hline
+\text{Oldal (pl.: a)} & a = \frac{sin(\alpha)}{sin(\beta)} \cdot b \\
+\hline
+\text{Szög (pl.: }\alpha\text{)} & \alpha = arcsin (\frac{a \cdot sin(\beta)}{b}) \\
+\hline
+\end{aligned}
+$$
 
 ## Koszinusztétel
-$c^2 = a^2 + b^2 - 2ab \cdot \cos(\gamma)$
+$$
+\begin{aligned}
+c^{2} &= a^{2} + b^{2} - 2ab \cdot \cos(\gamma) \\[2em]
+\end{aligned}
+$$
 
-Oldal keresése  
-$c = \sqrt{a^2 + b^2 - 2ab \cdot \cos(\gamma)}$
+### Oldal keresése  
+$$
+\begin{aligned}
+c &= \sqrt{a^{2} + b^{2} - 2ab \cdot \cos(\gamma)}
+\end{aligned}
+$$
 
-Átrendezve szögre:  
-$\cos(\gamma) = \frac{a^2 + b^2 - c^2}{2ab}$
+### Átrendezve szögre:  
+$$
+\begin{aligned}
+\cos(\gamma) &= \frac{a^{2} + b^{2} - c^{2}}{2ab} \\[2em]
+\gamma = \cos\left(\frac{a^{2} + b^{2} - c^{2}}{2ab}\right)^{-1} \\[2em]
+\end{aligned}
+$$
 
-$\gamma = \arccos\left(\frac{a^2 + b^2 - c^2}{2ab}\right)$
-
-| Keresett | Képlet |
-| :-- | :-- |
-| Oldal (pl.: c) | $c = \sqrt{a^{2} + b^{2} - 2ab \cdot cos(\gamma)}$ |
-| Szög (pl.: $\gamma$) | $\gamma = arccos(\frac{a^{2} + b^{2} - c^{2}}{2ab})$ |
+$$
+\begin{array}{|l|l|}
+\hline
+\text{Keresett} & \text{Képlet} \\
+\hline
+\text{Oldal (pl.: c)} & c = \sqrt{a^{2} + b^{2} - 2ab \cdot cos(\gamma)} \\
+\hline
+\text{Szög (pl.: }\gamma\text{)} & \gamma = \cos(\frac{a^{2} + b^{2} - c^{2}}{2ab})^{-1} \\
+\hline
+\end{array}
+$$
 
 ## Tangens- és kotangens tétel
 ### Tangens tétel
-$\frac{a - b}{a + b} = \frac{\tan\frac{\alpha - \beta}{2}}{\tan\frac{\alpha + \beta}{2}}$
+$$
+\begin{aligned}
+\frac{a - b}{a + b} &= \frac{\tan\frac{\alpha - \beta}{2}}{\tan\frac{\alpha + \beta}{2}} \\[2em]
+\end{aligned}
+$$
 
 ### Kotangens tétel
-$\cot(\gamma) = \frac{a^2 + b^2 - c^2}{4T}$
+$$
+\begin{aligned}
+\cot(\gamma) = \frac{a^{2} + b^{2} - c^{2}}{4T} \\[2em]
+\end{aligned}
+$$
 
 # Gyors döntési fa – melyik képletet mikor használod?
 
-| Adott | Keresett | Melyik tétel? |
-| :-- | :-- | :-- |
-| Derékszög + szög + oldal | Másik oldal | sin / cos / tan / cot |
-| Derékszög + két oldal | Szög | arctan / arcsin / arccos |
-| Két oldal + közbezárt szög | Harmadik oldal | Koszinusztétel |
-| Három oldal | Bármelyik szög | Koszinusztétel (szögre rendezvve) |
-| Két szög + egy oldal | Másik oldal | Szinusztétel |
-| Egy oldal + két szög | Harmadik szög | $180^{\circ} - (\alpha + \beta)$ |
-| Két oldal + nem közbezárt szög | Oldal vagy szög | Szinusztétel |
+$$
+begin{array}{|l|l|l|}
+\hline
+\text{Adott} & \text{Keresett} & \text{Melyik tétel?} \\
+\hline
+\text{Derékszög + szög + oldal} & \text{Másik oldal} & \sin / \cos / \tan / \cot \\
+\hline
+\text{Derékszög + két oldal} & \text{Szög} & \tan^{-1} / \sin{-1} / \cos^{-1} \\
+\hline
+\text{Két oldal + közbezárt szög} & \text{Harmadik oldal} & \text{Koszinusztétel} \\
+\hline
+\text{Három oldal} & \text{Bármelyik szög} & \text{Koszinusztétel (szögre rendezvve)} \\
+\hline
+\text{Két szög + egy oldal} & \text{Másik oldal} & \text{Szinusztétel} \\
+\hline
+\text{Egy oldal + két szög} & \text{Harmadik szög} & 180^{\circ} - (\alpha + \beta) \\
+\hline
+\text{Két oldal + nem közbezárt szög} & \text{Oldal vagy szög} & \text{Szinusztétel} \\
+\hline
+\end{array}
+$$
 
 ---
 
