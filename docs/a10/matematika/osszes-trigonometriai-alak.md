@@ -129,7 +129,7 @@ $$
 $$
 \begin{aligned}
 \cos(\gamma) &= \frac{a^{2} + b^{2} - c^{2}}{2ab} \\[2em]
-\gamma = \cos\left(\frac{a^{2} + b^{2} - c^{2}}{2ab}\right)^{-1} \\[2em]
+\gamma &= \cos\left(\frac{a^{2} + b^{2} - c^{2}}{2ab}\right)^{-1} \\[2em]
 \end{aligned}
 $$
 
@@ -163,7 +163,7 @@ $$
 # Gyors döntési fa – melyik képletet mikor használod?
 
 $$
-begin{array}{|l|l|l|}
+\begin{array}{|l|l|l|}
 \hline
 \text{Adott} & \text{Keresett} & \text{Melyik tétel?} \\
 \hline
