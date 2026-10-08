@@ -1,5 +1,4 @@
 
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script>
   window.MathJax = {
     tex: {
@@ -16,12 +15,16 @@
 ---
 
 # Racionális és irracionális számok
-Nulla és pozitív számok**: természetes számok
+**Nulla és pozitív számok**: természetes számok
 
 ## Racionális számok: törtek
 Azok a számok, melyek egész számok hányadosaként írhatóak fel.
 
-$4 = \frac{8}{2} = \frac{16}{4}$
+$$
+\begin{aligned}
+&4 = \frac{8}{2} = \frac{16}{4}
+\end{aligned}
+$$
 
 **Jelölés**: $Q$
 
@@ -50,26 +53,27 @@ négyzetgyök alatt nem állhat negatív szám.
     - a négyzetgyökvonás és hatványozás művelete felcserélhető.
 
 ### példák:
-$\frac{\sqrt{50}}{\sqrt{2}}=\sqrt{\frac{50}{2}}=\sqrt{25}=5$
-
-$\sqrt{50} \cdot \sqrt{2}=\sqrt{50 \cdot 2}=\sqrt{100}=10$
-
-$\frac{\sqrt{27}}{\sqrt{3}}=\sqrt{\frac{27}{3}}=\sqrt{9}=3$
-
-$\sqrt{5^{3}} \cdot \sqrt{5}=\sqrt{5^{3} \cdot 5}=\sqrt{5^{4}}=5^{2}=25$
+$$
+\begin{aligned}
+&\frac{\sqrt{50}}{\sqrt{2}}=\sqrt{\frac{50}{2}}=\sqrt{25}=5 \\[1em]
+&\sqrt{50} \cdot \sqrt{2}=\sqrt{50 \cdot 2}=\sqrt{100}=10 \\[1em]
+&\frac{\sqrt{27}}{\sqrt{3}}=\sqrt{\frac{27}{3}}=\sqrt{9}=3 \\[1em]
+&\sqrt{5^{3}} \cdot \sqrt{5}=\sqrt{5^{3} \cdot 5}=\sqrt{5^{4}}=5^{2}=25
+\end{aligned}
+$$
 
 ## Gyöktelenítés
 Cél, hogy a tört nevezőjében ne legyen gyökjel.
 ### példák:
-$\frac{1}{\sqrt{2}} \cdot \frac{\sqrt{2}}{\sqrt{2}}=\frac{\sqrt{2}}{(\sqrt{2})^{2}}=\frac{\sqrt{2}}{2}$
-
-$\frac{1}{\sqrt{3}} \cdot \frac{\sqrt{3}}{\sqrt{3}}=\frac{\sqrt{3}}{(\sqrt{3})^{2}}=\frac{\sqrt{3}}{\sqrt{3^2}}=\frac{\sqrt{3}}{3}$
-
-$\frac{1}{\sqrt{5}} \cdot \frac{\sqrt{5}}{\sqrt{5}}=\frac{\sqrt{5}}{(\sqrt{5})^{2}}=\frac{\sqrt{5}}{\sqrt{5^{2}}}=\frac{\sqrt{5}}{5}$
-
-$\frac{2}{\sqrt{7}} \cdot \frac{\sqrt{7}}{\sqrt{7}}=\frac{2\sqrt{7}}{7}$
-
-$\frac{7}{3\sqrt{5}} \cdot \frac{\sqrt{5}}{\sqrt{5}}=\frac{7\sqrt{5}}{15}$
+$$
+\begin{aligned}
+&\frac{1}{\sqrt{2}} \cdot \frac{\sqrt{2}}{\sqrt{2}}=\frac{\sqrt{2}}{(\sqrt{2})^{2}}=\frac{\sqrt{2}}{2} \\[1em]
+&\frac{1}{\sqrt{3}} \cdot \frac{\sqrt{3}}{\sqrt{3}}=\frac{\sqrt{3}}{(\sqrt{3})^{2}}=\frac{\sqrt{3}}{\sqrt{3^2}}=\frac{\sqrt{3}}{3} \\[1em]
+&\frac{1}{\sqrt{5}} \cdot \frac{\sqrt{5}}{\sqrt{5}}=\frac{\sqrt{5}}{(\sqrt{5})^{2}}=\frac{\sqrt{5}}{\sqrt{5^{2}}}=\frac{\sqrt{5}}{5} \\[1em]
+&\frac{2}{\sqrt{7}} \cdot \frac{\sqrt{7}}{\sqrt{7}}=\frac{2\sqrt{7}}{7} \\[1em]
+&\frac{7}{3\sqrt{5}} \cdot \frac{\sqrt{5}}{\sqrt{5}}=\frac{7\sqrt{5}}{15}
+\end{aligned}
+$$
 
 ## Négyzetgyökvonás azonosságainak alkalmazása
 ### Bevitel a gyökjel alá:
@@ -83,12 +87,13 @@ $6\sqrt{2} = 3\sqrt{8}$
 
 $\sqrt{6^{2}2}=\sqrt{72}$&nbsp;&nbsp;&nbsp;$\sqrt{3^{2}8}=\sqrt{72}$
 ### Kiemelés gyökjel alól:
-$\sqrt{18} + \sqrt{8} - \sqrt{50} =$
-
-$= \sqrt{9 \cdot 2} + \sqrt{4 \cdot 2} - \sqrt{25 \cdot 2} =$
-
-$= \sqrt{3^{2} \cdot 2} + \sqrt{2^{2} \cdot 2} - \sqrt{5^{2} \cdot 2} =$
-
-$= 3\sqrt{2} + 2 \sqrt{2} - 5 \sqrt{2} = 0$
+$$
+\begin{aligned}
+&\sqrt{18} + \sqrt{8} - \sqrt{50} = \\
+= \sqrt{9 \cdot 2} + \sqrt{4 \cdot 2} - \sqrt{25 \cdot 2} = \\
+= \sqrt{3^{2} \cdot 2} + \sqrt{2^{2} \cdot 2} - \sqrt{5^{2} \cdot 2} = \\
+= 3\sqrt{2} + 2 \sqrt{2} - 5 \sqrt{2} = 0
+\end{aligned}
+$$
 
 ---
