@@ -88,7 +88,7 @@ $$
 \hline
 \text{Szemközti befogó }(a) & a = \frac{b}{cot(\alpha)} \\
 \hline
-\end{aligned}
+\end{array}
 $$
 
 # Tetszőleges háromszög – fő tételek
@@ -108,7 +108,7 @@ $$
 \hline
 \text{Szög (pl.: }\alpha\text{)} & \alpha = arcsin (\frac{a \cdot sin(\beta)}{b}) \\
 \hline
-\end{aligned}
+\end{array}
 $$
 
 ## Koszinusztétel
@@ -167,9 +167,9 @@ $$
 \hline
 \text{Adott} & \text{Keresett} & \text{Melyik tétel?} \\
 \hline
-\text{Derékszög + szög + oldal} & \text{Másik oldal} & \sin | \cos | \tan | \cot \\
+\text{Derékszög + szög + oldal} & \text{Másik oldal} & \sin \vert{} \cos \vert{} \tan \vert{} \cot \\
 \hline
-\text{Derékszög + két oldal} & \text{Szög} & \tan^{-1} | \sin{-1} | \cos^{-1} \\
+\text{Derékszög + két oldal} & \text{Szög} & \tan^{-1} \vert{} \sin{-1} \vert{} \cos^{-1} \\
 \hline
 \text{Két oldal + közbezárt szög} & \text{Harmadik oldal} & \text{Koszinusztétel} \\
 \hline
