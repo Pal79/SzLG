@@ -111,15 +111,19 @@ Ha szöget keresel $\implies$ $sin^{-1}/cos^{-1}/tan^{-1}/cot^{-1}$`
 
 ---
 
-## Feladatok / megoldások`
-### 1. feladat`
-Egy derékszögű háromszög egyik befogója $a = 12\text{ cm}$, a hozzá tartozó szög pedig $\alpha = 35^\circ$.`
-
-Számítsd ki a másik befogót.`
-- $a = 12 \text{cm}$`
-- $\alpha = 35^\circ$`
-- $b = ?$
-    - $b = a \cdot cot(\alpha) = 12 \cdot cot(35) = 17.13777608\text{cm}$`
+## Feladatok / megoldások
+### 1. feladat
+$$
+\begin{aligned}
+&\text{Egy derékszögű háromszög egyik befogója }
+a &= 12\text{ cm, a hozzá tartozó szög pedig }\alpha = 35^\circ$ \\[1em]
+&\text{Számítsd ki a másik befogót.} \\[2em]
+a &= 12 \text{cm} \\
+\alpha &= 35^\circ \\
+b &= ? \\
+b &= a \cdot cot(\alpha) = 12 \cdot cot(35) = 17.13777608\text{cm}
+\end{aligned}
+$$
 
 ### 2. feladat`
 Egy létra $4\text{m}$ hosszú, és $70^\circ$-os szöget zár be a talajjal.`
