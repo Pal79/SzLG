@@ -126,13 +126,16 @@ b &= a \cdot cot(\alpha) = 12 \cdot cot(35) = 17.13777608\text{cm}
 $$
 
 ### 2. feladat
-Egy létra $4\text{m}$ hosszú, és $70^\circ$-os szöget zár be a talajjal.`
-
-Milyen magasra ér fel a falon?`
-- $c = 4\text{m}$`
-- $\alpha = 70^\circ$`
-- $a = ?$
-    - $a = c \cdot sin(\alpha) = 4 \cdot sin(70) = 3.758770483\text{m}$`
+$$
+\begin{aligned}
+&\text{Egy létra } 4 \text{m}\text{ hosszú, és } 70^\circ \text{-os szöget zár be a talajjal.} \\[1em]
+&\text{Milyen magasra ér fel a falon?} \\[2em]
+c &= 4\text{m} \\
+\alpha &= 70^\circ \\
+a &= ? \\
+a &= c \cdot sin(\alpha) = 4 \cdot sin(70) = 3.758770483\text{m}
+\end{aligned}
+$$
 
 ### 3. feladat`
 Egy domb tetejéről egy autó $8^\circ$-os depressziószög alatt látszik. A domb magassága $30\text{m}$.`
