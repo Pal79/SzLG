@@ -116,11 +116,11 @@ Ha szöget keresel $\implies$ $sin^{-1}/cos^{-1}/tan^{-1}/cot^{-1}$
 $$
 \begin{aligned}
 &\text{Egy derékszögű háromszög egyik befogója }
-a = 12\text{ cm, a hozzá tartozó szög pedig }\alpha = 35^\circ$ \\[1em]
+a = 12\text{ cm, a hozzá tartozó szög pedig }\alpha = 35^{\circ} \text{.} \\[1em]
 &\text{Számítsd ki a másik befogót.} \\[2em]
 a &= 12 \text{cm} \\
-\alpha &= 35^\circ \\
-b &= ? \\
+\alpha &= 35^{\circ} \\
+b &= ? \\[1em]
 b &= a \cdot cot(\alpha) = 12 \cdot cot(35) = 17.13777608\text{cm}
 \end{aligned}
 $$
@@ -128,29 +128,32 @@ $$
 ### 2. feladat
 $$
 \begin{aligned}
-&\text{Egy létra } 4 \text{m}\text{ hosszú, és } 70^\circ \text{-os szöget zár be a talajjal.} \\[1em]
+&\text{Egy létra } 4 \text{m}\text{ hosszú, és } 70^{\circ} \text{-os szöget zár be a talajjal.} \\[1em]
 &\text{Milyen magasra ér fel a falon?} \\[2em]
 c &= 4\text{m} \\
-\alpha &= 70^\circ \\
-a &= ? \\
+\alpha &= 70^{\circ} \\
+a &= ? \\[1em]
 a &= c \cdot sin(\alpha) = 4 \cdot sin(70) = 3.758770483\text{m}
 \end{aligned}
 $$
 
-### 3. feladat`
-Egy domb tetejéről egy autó $8^\circ$-os depressziószög alatt látszik. A domb magassága $30\text{m}$.`
-
-Milyen messze van az autó a domb lábától?`
-- $\alpha = 8^\circ$`
-- $a = 30\text{m}$`
-- $b = ?$
-    - $b = a \cdot cot(\alpha) = 30 \cdot cot(8) = 213.4610917\text{m}$`
+### 3. feladat
+$$
+\begin{aligned}
+&\text{Egy domb tetejéről egy autó } 8^{\circ} \text{-os depressziószög alatt látszik. A domb magassága } 30\text{m.} \\[1em]
+&\text{Milyen messze van az autó a domb lábától?} \\[2em]
+\alpha &= 8^{\circ} \\
+a &= 30\text{m} \\
+b &= ? \\[1em]
+b &= a \cdot cot(\alpha) = 30 \cdot cot(8) = 213.4610917\text{m}
+\end{aligned}
+$$
 
 ### 4. feladat`
-Egy torony tetejéről egy templom tornya $12^\circ$-os emelkedési szög alatt látszik. A két torony közti vízszintes távolság $150\text{m}$.`
+Egy torony tetejéről egy templom tornya $12^{\circ}$-os emelkedési szög alatt látszik. A két torony közti vízszintes távolság $150\text{m}$.`
 
 Milyen magas a templom tornya, ha a megfigyelő torony $40\text{m}$ magas?`
-- $\alpha = 12^\circ$`
+- $\alpha = 12^{\circ}$`
 - $b = 150\text{m}$`
 - $a = ?$`
 - $\text{Saját}_{\text{magasság}} = 40m$
@@ -158,10 +161,10 @@ Milyen magas a templom tornya, ha a megfigyelő torony $40\text{m}$ magas?`
     - $\text{Saját}_{\text{magasság}} + a = 40 + 31.88348425 = 71.88348425m$`
 
 ### 5. feladat`
-Egy hajó $25^\circ$-os emelkedési szög alatt lát egy szikla tetejét. A hajó $180\text{m}$-re van a szikla lábától.`
+Egy hajó $25^{\circ}$-os emelkedési szög alatt lát egy szikla tetejét. A hajó $180\text{m}$-re van a szikla lábától.`
 
 Milyen magas a szikla?`
-- $\alpha = 25^\circ$`
+- $\alpha = 25^{\circ}$`
 - $b = 180m$`
 - $a = ?$
     - $a = b \cdot tan(\alpha) = 180 \cdot tan(25) = 83.93537847\text{m}$`
@@ -169,12 +172,12 @@ Milyen magas a szikla?`
 ### 6. feladat`
 Egy háromszög két oldala:`
 
-$a = 18\text{ cm}$, $b = 25\text{ cm}$, és a közbezárt szög $\gamma = 47^\circ$.`
+$a = 18\text{ cm}$, $b = 25\text{ cm}$, és a közbezárt szög $\gamma = 47^{\circ}$.`
 
 Számítsd ki a harmadik oldalt (koszinusztétel).`
 - $a = 18\text{ cm}$`
 - <li>$b = 25\text{ cm}$`
-- $\gamma = 47^\circ$`
+- $\gamma = 47^{\circ}$`
 - $c = ?$
     - $c^{2} = a^{2} + b^{2} - 2ab \cdot cos(\alpha) = 18^{2} + 25^{2} - 2 \cdot 18 \cdot 25 \cdot cos{47} = \sqrt{335.2014759} = 18.30850829\text{cm}$`
 
@@ -188,19 +191,19 @@ Számítsd ki a legnagyobb szöget (koszinusztétel + trigonometria).`
 - $b = 15\text{ cm}$`
 - $c = 17\text{ cm}$
     - $cos(\gamma) = \frac{a^{2} + b^{2} - c^{2}}{2ab} = \frac{12^{2} + 15^{2} - 17^{2}}{2 \cdot 12 \cdot 15} = \frac{144 + 225 - 289}{2 \cdot 12 \cdot 15} = \frac{80}{360} = \frac{2}{9} = 0.2222$`
-    - $\gamma = arccos(0.2222) \approx 77.16^\circ$`
+    - $\gamma = arccos(0.2222) \approx 77.16^{\circ}$`
 
 ### 8. feladat`
-Egy rádiótorony $60\text{m}$ magas. A torony tetejéről egy drótkötél a talaj egy pontjához csatlakozik úgy, hogy a kötél $40^\circ$-os szöget zár be a talajjal.`
+Egy rádiótorony $60\text{m}$ magas. A torony tetejéről egy drótkötél a talaj egy pontjához csatlakozik úgy, hogy a kötél $40^{\circ}$-os szöget zár be a talajjal.`
 
 Milyen hosszú a drótkötél?`
 - $a = 60\text{m}$`
-- $\alpha = 40^\circ$`
+- $\alpha = 40^{\circ}$`
 - $c = ?$
     - $sin(\alpha) = \frac{a}{c} \implies c = \frac{a}{sin(\alpha)} = \frac{60}{sin(40)} = 93.34342961\text{m}$`
 
 ### 9. Feladat`
-Egy repülőgép $5^\circ$-os emelkedési szöggel emelkedik. Mekkora magasságot ér el $2\text{km}$ vízszintes megtétele után?`
+Egy repülőgép $5^{\circ}$-os emelkedési szöggel emelkedik. Mekkora magasságot ér el $2\text{km}$ vízszintes megtétele után?`
 - $\alpha = 5^{\circ}$`
 - $b = 2\text{km}$`
 - $a = ?$
@@ -210,7 +213,7 @@ Egy repülőgép $5^\circ$-os emelkedési szöggel emelkedik. Mekkora magasságo
 ### 10. feladat`
 Egy hegycsúcsot két különböző pontból figyelünk.`
 
-Az első pontból a csúcs emelkedési szöge $18^\circ$, a második pontból (ami $300\text{m}$-el közelebb van a hegyhez) $25^\circ$.`
+Az első pontból a csúcs emelkedési szöge $18^{\circ}$, a második pontból (ami $300\text{m}$-el közelebb van a hegyhez) $25^{\circ}$.`
 
 Milyen magas a hegy?`
 
@@ -226,35 +229,35 @@ Jelölések bevezetése:`
 
 Két derékszögű háromszög trigonometriai egyenletei:`
 - Mindkét háromszögben a hegy magassága a szemközti befogó, a vízszintes távolság a szomszédos befogó.
-    - Első pont: $tan(18^\circ) = \frac{h}{x_{1}}$`
-    - Második pont: $tan(25^\circ) = \frac{h}{x_{2}}$`
+    - Első pont: $tan(18^{\circ}) = \frac{h}{x_{1}}$`
+    - Második pont: $tan(25^{\circ}) = \frac{h}{x_{2}}$`
 
 Magasság kifejezése:`
-- Első pont: $h = x_{1} \cdot tan(18^\circ)$`
-- Második pont: $h = x_{2} \cdot tan(25^\circ)$
+- Első pont: $h = x_{1} \cdot tan(18^{\circ})$`
+- Második pont: $h = x_{2} \cdot tan(25^{\circ})$
     - Mindkét pont ugyanazt a magasságot írja le, tehát a két $h$ egyenlő, ezért:
-        - $x_{1} \cdot tan(18^\circ) = x_{2} \cdot tan(25^\circ)$`
+        - $x_{1} \cdot tan(18^{\circ}) = x_{2} \cdot tan(25^{\circ})$`
 
 Behelyettesítés:`
-- $x_{1} \cdot tan(18^\circ) = (x_{1} - 300) tan(25^\circ)$`
+- $x_{1} \cdot tan(18^{\circ}) = (x_{1} - 300) tan(25^{\circ})$`
 
 Zárójel kibontás:`
-- $x_{1} \cdot tan(18^\circ) = x_{1} \cdot tan(25^\circ) - 300 \cdot tan(25^\circ)$`
+- $x_{1} \cdot tan(18^{\circ}) = x_{1} \cdot tan(25^{\circ}) - 300 \cdot tan(25^{\circ})$`
 
 Átrendezés, hogy az 'x'-es tagok egy oldalt legynek:`
-- $x_1 \tan(18^\circ) - x_1 \tan(25^\circ) = -300 \tan(25^\circ)$`
-- Kivonjuk: $x_1(\tan(18^\circ) - \tan(25^\circ)) = -300 \tan(25^\circ)$`
-- mindkét oldalt $-1$-el szorzunk: $x_1(\tan(25^\circ) - \tan(18^\circ)) = 300 \tan(25^\circ)$`
+- $x_1 \tan(18^{\circ}) - x_1 \tan(25^{\circ}) = -300 \tan(25^{\circ})$`
+- Kivonjuk: $x_1(\tan(18^{\circ}) - \tan(25^{\circ})) = -300 \tan(25^{\circ})$`
+- mindkét oldalt $-1$-el szorzunk: $x_1(\tan(25^{\circ}) - \tan(18^{\circ})) = 300 \tan(25^{\circ})$`
 
 Kifejezzük $x_{1}-et$, majd számolunk:`
-- $x_1 = \frac{300 \tan(25^\circ)}{\tan(25^\circ) - \tan(18^\circ)}$
-    - $\tan(25^\circ) \approx 0.46631$`
-    - $\tan(18^\circ) \approx 0.32492$`
+- $x_1 = \frac{300 \tan(25^{\circ})}{\tan(25^{\circ}) - \tan(18^{\circ})}$
+    - $\tan(25^{\circ}) \approx 0.46631$`
+    - $\tan(18^{\circ}) \approx 0.32492$`
 - $x_1 = \frac{300 \cdot 0.46631}{0.46631 - 0.32492}$`
 - $x_1 = \frac{139.8922974}{0.1413879619} \approx 989.421557$`
 
 Végül a hegy magasságának kiszámítása:`
-- $h = x_1 \tan(18^\circ)$`
+- $h = x_1 \tan(18^{\circ})$`
 - $h = 989.421557 \cdot 0.32492 \approx 321.4825517\text{m}$`
 
 ---
