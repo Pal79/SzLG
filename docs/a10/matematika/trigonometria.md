@@ -29,7 +29,7 @@ tg\alpha & \frac{1}{\sqrt{3}} & 1 & \sqrt{3} \\
 \hline
 ctg\alpha & \sqrt{3} & 1 & \frac{1}{\sqrt{3}} \\
 \hline
-\end{aligned}
+\end{array}
 $$
 
 ## Háromszög részei:`
