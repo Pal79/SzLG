@@ -33,78 +33,78 @@ ctg\alpha & \sqrt{3} & 1 & \frac{1}{\sqrt{3}} \\
 $$
 
 ## Háromszög részei:
-- `a` az $\alpha$-val szemközti befogó.`
-- `b` az $\alpha$-val szomszédos befogó`
-- `c` az átfogó`
+- `a` az $\alpha$-val szemközti befogó.
+- `b` az $\alpha$-val szomszédos befogó
+- `c` az átfogó
 
 ![Trigonometria](../images/matematika-trigonometria.svg)
 
 ## Definíciók
 ### Szinusz
 - A `szinusz` egy derékszögű háromszögben a szöggel szemközti befogó és az átfogó aránya. (hegycsúcsok magasságának a kiszámításához a mai napig használják).
-    - $\sin(\alpha)$ Megadja: szemközti befogó / átfogó $= \frac{a}{c}$`
+    - $\sin(\alpha)$ Megadja: szemközti befogó / átfogó $= \frac{a}{c}$
 ### Koszinusz
 - A `koszinusz` a derékszögű háromszögben a szög melletti befogó és az átfogó aránya.
-    - $\cos(\alpha)$ megadja: szomszédos befogó / átfogó $= \frac{b}{c}$`
+    - $\cos(\alpha)$ megadja: szomszédos befogó / átfogó $= \frac{b}{c}$
 ### Tangens
 - A `tangens` a befogókról szól: a szöggel szemközti és a szög melletti befogók arányát írja le.
-    - $\tan(\alpha)$ megadja: szemközti befogó / szomszédos befogó $=\frac{a}{b}$`
+    - $\tan(\alpha)$ megadja: szemközti befogó / szomszédos befogó $=\frac{a}{b}$
 ### Kotangens
 - A `kotangens` a tangens reciproka, vagyis a két befogó arányát fordítva adja meg.
-    - $\cot(\alpha)$ megadja: szomszédos befogó / szemközti befogó $=\frac{b}{a}$`
+    - $\cot(\alpha)$ megadja: szomszédos befogó / szemközti befogó $=\frac{b}{a}$
 
 ## Mikor melyiket használjuk?
 ### Ha egy szög és az átfogó ismert $\implies$ szinusz vagy koszinusz
 1. `Szinusz`: ha a `szemközti befogó`t keresed:
-    - $a = c \cdot \sin(\alpha)$`
+    - $a = c \cdot \sin(\alpha)$
 1. `Koszinusz`: ha a `szomszédos befogó`t keresed:
-    - $b = c \cdot \cos(\alpha)$`
+    - $b = c \cdot \cos(\alpha)$
 #### Tipikus feladatok:
-- magasság számítása (pl. hegy, torony, antenna)`
-- létra dőlésszöge és hossza`
-- ferde sík feladatok`
+- magasság számítása (pl. hegy, torony, antenna)
+- létra dőlésszöge és hossza
+- ferde sík feladatok
 
 ### Ha egy szög és egy befogó ismert $\implies$ tangens vagy kotangens
 1. `Tangens`: ha a `szemközti befogó`t akarod a szomszédosból
-    - $a = b \cdot \tan(\alpha)$`
+    - $a = b \cdot \tan(\alpha)$
 1. `Kotangens`: ha a `szomszédos befogó`t akarod a szemköztiből
-    - $b = a \cdot \cot(\alpha)$`
+    - $b = a \cdot \cot(\alpha)$
 #### Tipikus feladatok:
-- távolság–magasság összefüggések`
-- lejtők, rámpák, tetők dőlésszöge`
-- kamerák, reflektorok látószöge`
+- távolság–magasság összefüggések
+- lejtők, rámpák, tetők dőlésszöge
+- kamerák, reflektorok látószöge
 
 ### Ha két befogó ismert $\implies$ tangens vagy kotangens adja a szöget
 1. `Tangens`:
-    - $\alpha = \tan^{-1}(\frac{a}{b})$`
+    - $\alpha = \tan^{-1}(\frac{a}{b})$
 1. `Kotangens`:
-    - $\alpha = \cot^{-1} \left (\frac{b}{a}\right)$`
+    - $\alpha = \cot^{-1} \left (\frac{b}{a}\right)$
 #### Tipikus feladatok:
-- dőlésszög meghatározása`
-- emelkedők, lejtők meredeksége`
-- kamerák, antennák beállítása`
+- dőlésszög meghatározása
+- emelkedők, lejtők meredeksége
+- kamerák, antennák beállítása
 
 ### Ha egy befogó és az átfogó ismert $\implies$ szinusz vagy koszinusz adja a szöget
 1. `Szinusz`:
-    - $\alpha = \sin(\frac{a}{c})^{-1}$`
+    - $\alpha = \sin(\frac{a}{c})^{-1}$
 1. `Koszinusz`:
-    - $\alpha = \cos(\frac{b}{c})^{-1}$`
+    - $\alpha = \cos(\frac{b}{c})^{-1}$
 #### Tipikus feladatok:
-- háromszög szögeinek meghatározása`
-- fizikai feladatok (erők felbontása)`
-- optikai szögek, beesési szögek`
+- háromszög szögeinek meghatározása
+- fizikai feladatok (erők felbontása)
+- optikai szögek, beesési szögek
 
 ## Összefoglaló
-- Szinusz $\implies$ szemközti / átfogó`
-- Koszinusz $\implies$ szomszédos / átfogó`
-- Tangens $\implies$ szemközti / szomszédos`
-- Kotangens $\implies$ szomszédos / szemközti`
+- Szinusz $\implies$ szemközti / átfogó
+- Koszinusz $\implies$ szomszédos / átfogó
+- Tangens $\implies$ szemközti / szomszédos
+- Kotangens $\implies$ szomszédos / szemközti
 
-Ha átfogó van $\implies$ sin/cos`
+Ha átfogó van $\implies$ sin/cos
 
-Ha befogó van $\implies$ tan/cot`
+Ha befogó van $\implies$ tan/cot
 
-Ha szöget keresel $\implies$ $sin^{-1}/cos^{-1}/tan^{-1}/cot^{-1}$`
+Ha szöget keresel $\implies$ $sin^{-1}/cos^{-1}/tan^{-1}/cot^{-1}$
 
 - [Összes trigonometriai alak](./osszes-trigonometriai-alak.md)
 - [Négy trigonometriai alap tétel](./negy-trigonometriai-alap-tetel.md)
