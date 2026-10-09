@@ -149,16 +149,19 @@ b &= a \cdot cot(\alpha) = 30 \cdot cot(8) = 213.4610917\text{m}
 \end{aligned}
 $$
 
-### 4. feladat`
-Egy torony tetejéről egy templom tornya $12^{\circ}$-os emelkedési szög alatt látszik. A két torony közti vízszintes távolság $150\text{m}$.`
-
-Milyen magas a templom tornya, ha a megfigyelő torony $40\text{m}$ magas?`
-- $\alpha = 12^{\circ}$`
-- $b = 150\text{m}$`
-- $a = ?$`
-- $\text{Saját}_{\text{magasság}} = 40m$
-    - $a = b \cdot tan(\alpha) = 150 \cdot tan(12) = 31.88348425m$`
-    - $\text{Saját}_{\text{magasság}} + a = 40 + 31.88348425 = 71.88348425m$`
+### 4. feladat
+$$
+\begin{aligned}
+&\text{Egy torony tetejéről egy templom tornya } 12^{\circ} \text{-os emelkedési szög alatt látszik. A két torony közti vízszintes távolság } 150\text{m.} \\[1em]
+&\text{Milyen magas a templom tornya, ha a megfigyelő torony } 40\text{m} \text{ magas?} \\[2em]
+\alpha &= 12^{\circ} \\
+b &= 150\text{m} \\
+a &= ? \\[1em]
+\text{Saját}_{\text{magasság}} &= 40m \\
+a &= b \cdot tan(\alpha) = 150 \cdot tan(12) = 31.88348425m \\
+\text{Saját}_{\text{magasság}} + a &= 40 + 31.88348425 = 71.88348425m
+\end{aligned}
+$$
 
 ### 5. feladat`
 Egy hajó $25^{\circ}$-os emelkedési szög alatt lát egy szikla tetejét. A hajó $180\text{m}$-re van a szikla lábától.`
