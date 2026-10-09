@@ -1,5 +1,4 @@
 
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script>
   window.MathJax = {
     tex: {
@@ -17,12 +16,21 @@
 
 # Trigonometria`
 
-| $\alpha$ | $30^{\circ}$ | $45^{\circ}$ | $60^{\circ}$ |
-| :------: | :----------: | :----------: | :----------: |
-| $sin\alpha$ | $\frac{1}{2}$ | $\sqrt{\frac{2}{2}}$ | $\sqrt{\frac{3}{2}}$ |
-| $cos\alpha$ | $\sqrt{\frac{3}{2}}$ | $\sqrt{\frac{2}{2}}$ | $\frac{1}{2}$ |
-| $tg\alpha$ | $\frac{1}{\sqrt{3}}$ | $1$ | $\sqrt{3}$ |
-| $ctg\alpha$ | $\sqrt{3}$ | $1$ | $\frac{1}{\sqrt{3}}$ |
+$$
+\begin{array}{|l|l|l|l|}
+\hline
+\alpha & 30^{\circ} & 45^{\circ} & 60^{\circ} \\
+\hline
+\sin\alpha & \frac{1}{2} & \sqrt{\frac{2}{2}} & \sqrt{\frac{3}{2}} \\
+\hline
+\cos\alpha & \sqrt{\frac{3}{2}} & \sqrt{\frac{2}{2}} & \frac{1}{2} \\
+\hline
+tg\alpha & \frac{1}{\sqrt{3}} & 1 & \sqrt{3} \\
+\hline
+ctg\alpha & \sqrt{3} & 1 & \frac{1}{\sqrt{3}} \\
+\hline
+\end{aligned}
+$$
 
 ## Háromszög részei:`
 - `a` az $\alpha$-val szemközti befogó.`
@@ -34,23 +42,23 @@
 ## Definíciók`
 ### Szinusz`
 - A `szinusz` egy derékszögű háromszögben a szöggel szemközti befogó és az átfogó aránya. (hegycsúcsok magasságának a kiszámításához a mai napig használják).
-    - $sin(\alpha)$ Megadja: szemközti befogó / átfogó $= \frac{a}{c}$`
+    - $\sin(\alpha)$ Megadja: szemközti befogó / átfogó $= \frac{a}{c}$`
 ### Koszinusz`
 - A `koszinusz` a derékszögű háromszögben a szög melletti befogó és az átfogó aránya.
-    - $cos(\alpha)$ megadja: szomszédos befogó / átfogó $= \frac{b}{c}$`
+    - $\cos(\alpha)$ megadja: szomszédos befogó / átfogó $= \frac{b}{c}$`
 ### Tangens`
 - A `tangens` a befogókról szól: a szöggel szemközti és a szög melletti befogók arányát írja le.
-    - $tan(\alpha)$ megadja: szemközti befogó / szomszédos befogó $=\frac{a}{b}$`
+    - $\tan(\alpha)$ megadja: szemközti befogó / szomszédos befogó $=\frac{a}{b}$`
 ### Kotangens`
 - A `kotangens` a tangens reciproka, vagyis a két befogó arányát fordítva adja meg.
-    - $cot(\alpha)$ megadja: szomszédos befogó / szemközti befogó $=\frac{b}{a}$`
+    - $\cot(\alpha)$ megadja: szomszédos befogó / szemközti befogó $=\frac{b}{a}$`
 
 ## Mikor melyiket használjuk?`
 ### Ha egy szög és az átfogó ismert $\implies$ szinusz vagy koszinusz`
 1. `Szinusz`: ha a `szemközti befogó`t keresed:
-    - $a = c \cdot sin(\alpha)$`
+    - $a = c \cdot \sin(\alpha)$`
 1. `Koszinusz`: ha a `szomszédos befogó`t keresed:
-    - $b = c \cdot cos(\alpha)$`
+    - $b = c \cdot \cos(\alpha)$`
 #### Tipikus feladatok:`
 - magasság számítása (pl. hegy, torony, antenna)`
 - létra dőlésszöge és hossza`
@@ -58,9 +66,9 @@
 
 ### Ha egy szög és egy befogó ismert $\implies$ tangens vagy kotangens`
 1. `Tangens`: ha a `szemközti befogó`t akarod a szomszédosból
-    - $a = b \cdot tan(\alpha)$`
+    - $a = b \cdot \tan(\alpha)$`
 1. `Kotangens`: ha a `szomszédos befogó`t akarod a szemköztiből
-    - $b = a \cdot cot(\alpha)$`
+    - $b = a \cdot \cot(\alpha)$`
 #### Tipikus feladatok:`
 - távolság–magasság összefüggések`
 - lejtők, rámpák, tetők dőlésszöge`
@@ -68,9 +76,9 @@
 
 ### Ha két befogó ismert $\implies$ tangens vagy kotangens adja a szöget`
 1. `Tangens`:
-    - $\alpha = tan^{-1}(\frac{a}{b})$`
+    - $\alpha = \tan^{-1}(\frac{a}{b})$`
 1. `Kotangens`:
-    - $\alpha = cot^{-1} \left (\frac{b}{a}\right)$`
+    - $\alpha = \cot^{-1} \left (\frac{b}{a}\right)$`
 #### Tipikus feladatok:`
 - dőlésszög meghatározása`
 - emelkedők, lejtők meredeksége`
@@ -78,9 +86,9 @@
 
 ### Ha egy befogó és az átfogó ismert $\implies$ szinusz vagy koszinusz adja a szöget`
 1. `Szinusz`:
-    - $\alpha = \arcsin(\frac{a}{c})$`
+    - $\alpha = \sin(\frac{a}{c})^{-1}$`
 1. `Koszinusz`:
-    - $\alpha = \arccos(\frac{b}{c})$`
+    - $\alpha = \cos(\frac{b}{c})^{-1}$`
 #### Tipikus feladatok:`
 - háromszög szögeinek meghatározása`
 - fizikai feladatok (erők felbontása)`
