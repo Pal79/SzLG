@@ -175,17 +175,21 @@ a &= b \cdot tan(\alpha) = 180 \cdot tan(25) = 83.93537847\text{m}
 \end{aligned}
 $$
 
-### 6. feladat`
-Egy háromszög két oldala:`
-
-$a = 18\text{ cm}$, $b = 25\text{ cm}$, és a közbezárt szög $\gamma = 47^{\circ}$.`
-
-Számítsd ki a harmadik oldalt (koszinusztétel).`
-- $a = 18\text{ cm}$`
-- <li>$b = 25\text{ cm}$`
-- $\gamma = 47^{\circ}$`
-- $c = ?$
-    - $c^{2} = a^{2} + b^{2} - 2ab \cdot cos(\alpha) = 18^{2} + 25^{2} - 2 \cdot 18 \cdot 25 \cdot cos{47} = \sqrt{335.2014759} = 18.30850829\text{cm}$`
+### 6. feladat
+$$
+\begin{aligned}
+&\text{Egy háromszög két oldala:} \\[1em]
+a &= 18\text{ cm,} \\
+b &= 25\text{ cm,} \\
+&\text{és a közbezárt szög }\gamma = 47^{\circ} \text{.} \\[1em]
+&\text{Számítsd ki a harmadik oldalt (koszinusztétel).} \\[2em]
+a &= 18\text{ cm} \\
+b &= 25\text{ cm} \\
+\gamma &= 47^{\circ} \\
+c &= ? \\[2em]
+& c^{2} = a^{2} + b^{2} - 2ab \cdot cos(\alpha) = 18^{2} + 25^{2} - 2 \cdot 18 \cdot 25 \cdot cos{47} = \sqrt{335.2014759} = 18.30850829\text{cm}
+\end{aligned}
+$$
 
 ### 7. feladat`
 Egy háromszögben:`
