@@ -339,21 +339,28 @@ $$
 ---
 
 **e. feladat**
-- $\sqrt{7 - 3x} = 1 - x$
-    - Kikötés:
-        - $7 - 3x \ge 0 \quad \Rightarrow \quad -3x \ge -7 \quad \Rightarrow \quad x \le \frac{7}{3}$
-        - $1 - x \ge 0 \quad \Rightarrow \quad -x \ge -1 \quad \Rightarrow \quad x \le 1$
-- $\sqrt{7 - 3x} = 1 - x \qquad ()^{2}$
-- $7 - 3x = 1 - 2x + x^{2}$
-- $0 = x^{2} - 2x + 1 + 3x - 7$
-- $x^{2} + x -6$
-- $a = 1$<br>$b = 1$<br>$c = -6$
-- $\frac{-1 \pm \sqrt{1^{2} - 4 \cdot 1 \cdot (-6)}}{2 \cdot 1} = \frac{-1 \pm \sqrt{25}}{2}$
-    - $x1 = \frac{4}{2} = 2$
-    - $x2 = \frac{-6}{2} = -3$
-- Megoldás:
-    - $x1 = 2$ nem megoldás a kikötés miatt, mert: $x \le 1$
-    - $x2 = -3$
+$$
+\begin{aligned}
+\\[1em]
+\sqrt{7 - 3x} &= 1 - x \\
+&\text{Kikötés:} \\
+7 - 3x &\ge 0 \quad \Rightarrow \quad -3x \ge -7 \quad \Rightarrow \quad x \le \frac{7}{3} \\
+1 - x &\ge 0 \quad \Rightarrow \quad -x \ge -1 \quad \Rightarrow \quad x \le 1 \\[2em]
+\sqrt{7 - 3x} &= 1 - x \qquad ()^{2} \\
+7 - 3x &= 1 - 2x + x^{2} \\
+0 &= x^{2} - 2x + 1 + 3x - 7 \\
+& x^{2} + x -6 \\
+a &= 1 \\
+b &= 1 \\
+c &= -6 \\[1em]
+&\frac{-1 \pm \sqrt{1^{2} - 4 \cdot 1 \cdot (-6)}}{2 \cdot 1} = \frac{-1 \pm \sqrt{25}}{2} \\
+x1 &= \frac{4}{2} = 2 \\
+x2 &= \frac{-6}{2} = -3 \\[1em]
+&\text{Megoldás:} \\
+x1 &= 2\text{ nem megoldás a kikötés miatt, mert: } x \le 1 \\
+x2 &= -3
+\end{aligned}
+$$
 
 ---
 
