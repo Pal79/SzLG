@@ -163,14 +163,17 @@ a &= b \cdot tan(\alpha) = 150 \cdot tan(12) = 31.88348425m \\
 \end{aligned}
 $$
 
-### 5. feladat`
-Egy hajó $25^{\circ}$-os emelkedési szög alatt lát egy szikla tetejét. A hajó $180\text{m}$-re van a szikla lábától.`
-
-Milyen magas a szikla?`
-- $\alpha = 25^{\circ}$`
-- $b = 180m$`
-- $a = ?$
-    - $a = b \cdot tan(\alpha) = 180 \cdot tan(25) = 83.93537847\text{m}$`
+### 5. feladat
+$$
+\begin{aligned}
+&\text{Egy hajó }25^{\circ}\text{-os emelkedési szög alatt lát egy szikla tetejét. A hajó }180\text{m-re van a szikla lábától.}\\[1em]
+&\text{Milyen magas a szikla?} \\[2em]
+\alpha &= 25^{\circ} \\
+b &= 180m \\
+a &= ? \\
+a &= b \cdot tan(\alpha) = 180 \cdot tan(25) = 83.93537847\text{m}
+\end{aligned}
+$$
 
 ### 6. feladat`
 Egy háromszög két oldala:`
