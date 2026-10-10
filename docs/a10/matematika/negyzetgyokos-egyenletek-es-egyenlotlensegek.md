@@ -203,36 +203,46 @@ $$
 ---
 
 **l. feladat**
-- $\sqrt{5x - 6} = \sqrt{1 - 2x}$
-    - Kikötés:
-        - $5x - 6 \ge 0 \quad \Rightarrow \quad 5x \ge 6 \quad \Rightarrow \quad x \ge \frac{6}{5}$
-        - $1 - 2x \ge 0 \quad /-1 \quad \Rightarrow \quad -2x \ge -1 \quad \Rightarrow \quad x \ge \frac{1}{2}$
-- $\sqrt{5x - 6} = \sqrt{1 - 2x} \qquad ()^{2}$
-- $5x - 6 = 1 - 2x \qquad /+6, +2x$
-- $7x = 7 \qquad /:7$
-- $x = \frac{7}{7} = 1$
-- Ellenőrzés:
-    - bal: $\sqrt{5 \cdot 1 - 6} = \sqrt{-1}$
-    - jobb: $\sqrt{1 - 2 \cdot 1} = \sqrt{-1}$
+$$
+\begin{aligend}
+&\sqrt{5x - 6} = \sqrt{1 - 2x} \\
+&\text{Kikötés:} \\
+& 5x - 6 \ge 0 \quad \Rightarrow \quad 5x \ge 6 \quad \Rightarrow \quad x \ge \frac{6}{5} \\
+& 1 - 2x \ge 0 \quad /-1 \quad \Rightarrow \quad -2x \ge -1 \quad \Rightarrow \quad x \ge \frac{1}{2} \\[2em]
+\sqrt{5x - 6} &= \sqrt{1 - 2x} \qquad ()^{2}$
+5x - 6 &= 1 - 2x \qquad /+6, +2x \\
+7x &= 7 \qquad /:7 \\
+x &= \frac{7}{7} = 1 \\[1em]
+&\text{Ellenőrzés:} \\
+&\text{bal: }\sqrt{5 \cdot 1 - 6} = \sqrt{-1} \\
+&\text{jobb: }\sqrt{1 - 2 \cdot 1} = \sqrt{-1}
+\end{aligned}
+$$
 
 ---
 
 ## (2201) Oldjuk meg a valós számok halmazán a következő egyenleteket
 **a. feladat**
-- $\sqrt{x + 6} = x$
-    - Kikötés:
-        - $x + 6 \ge 0 \quad \Rightarrow \quad x \ge - 6$
-        - $x \ge 0$
-- $\sqrt{x + 6} = x \qquad ()^{2}$
-- $x + 6 = x^{2} \qquad /-x, -6$
-- $x^{2} - x - 6 = 0$
-- $a = 1$<br>$b = -1$<br>$c = -6$
-- $\frac{1 \pm \sqrt{(-1) - 4 \cdot 1 \cdot (-6)}}{2} =$<br>$\frac{1 \pm \sqrt{25}}{2} =$
-    - $x1 = \frac{6}{2} = 3$
-    - $x2 = \frac{-4}{2} = -2$
-- Megoldás:
-    - $x1 = 3$
-    - $x2 = -2$ Nem megoldás a kikötés miatt
+$$
+\begin{aligned}
+\sqrt{x + 6} &= x \\
+&\text{Kikötés:} \\
+x + 6 &\ge 0 \quad \Rightarrow \quad x \ge - 6 \\
+x &\ge 0 \\[2em]
+\sqrt{x + 6} &= x \qquad ()^{2} \\
+x + 6 &= x^{2} \qquad /-x, -6 \\
+x^{2} - x - 6 &= 0 \\
+a &= 1 \\
+b &= -1 \\
+c &= -6 \\[1em]
+&\frac{1 \pm \sqrt{(-1) - 4 \cdot 1 \cdot (-6)}}{2} = \frac{1 \pm \sqrt{25}}{2} = \\
+x1 &= \frac{6}{2} = 3 \\
+x2 &= \frac{-4}{2} = -2 \\[1em]
+&\text{Megoldás:} \\
+x1 &= 3 \\
+x2 &= -2$ \text{Nem megoldás a kikötés miatt}
+\end{aligned}
+$$
 
 ---
 
