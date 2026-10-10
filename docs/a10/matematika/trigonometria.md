@@ -205,22 +205,29 @@ c &= 17\text{ cm} \\[2em]
 \end{aligned}
 $$
 
-### 8. feladat`
-Egy rádiótorony $60\text{m}$ magas. A torony tetejéről egy drótkötél a talaj egy pontjához csatlakozik úgy, hogy a kötél $40^{\circ}$-os szöget zár be a talajjal.`
+### 8. feladat
+$$
+\begin{aligned}
+&\text{Egy rádiótorony }60\text{m magas. A torony tetejéről egy drótkötél a talaj egy pontjához csatlakozik úgy, hogy a kötél }40^{\circ}\text{-os szöget zár be a talajjal.} \\[1em]
+&\text{Milyen hosszú a drótkötél?} \\[2em]
+a &= 60\text{m} \\
+\alpha &= 40^{\circ} \\
+c &= ? \\[1em]
+\sin(\alpha) &= \frac{a}{c} \implies c = \frac{a}{\sin(\alpha)} = \frac{60}{\sin(40)} = 93.34342961\text{m}
+\end{aligned}
+$$
 
-Milyen hosszú a drótkötél?`
-- $a = 60\text{m}$`
-- $\alpha = 40^{\circ}$`
-- $c = ?$
-    - $sin(\alpha) = \frac{a}{c} \implies c = \frac{a}{sin(\alpha)} = \frac{60}{sin(40)} = 93.34342961\text{m}$`
-
-### 9. Feladat`
-Egy repülőgép $5^{\circ}$-os emelkedési szöggel emelkedik. Mekkora magasságot ér el $2\text{km}$ vízszintes megtétele után?`
-- $\alpha = 5^{\circ}$`
-- $b = 2\text{km}$`
-- $a = ?$
-    - $a = b \cdot tan(\alpha) = 2 \cdot 5 = 0.1749773271{km}$`
-    - $a \approx 175\text{m}$`
+### 9. Feladat
+$$
+\begin{aligned}
+&\text{Egy repülőgép }5^{\circ}\text{-os emelkedési szöggel emelkedik. Mekkora magasságot ér el }2\text{km vízszintes megtétele után?} \\[2em]
+\alpha &= 5^{\circ} \\
+b &= 2\text{km} \\
+a &= ? \\[1em]
+a &= b \cdot tan(\alpha) = 2 \cdot 5 = 0.1749773271{km} \\
+a &\approx 175\text{m}
+\end{aligned}
+$$
 
 ### 10. feladat`
 Egy hegycsúcsot két különböző pontból figyelünk.`
