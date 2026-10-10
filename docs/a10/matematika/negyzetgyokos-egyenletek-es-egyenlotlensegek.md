@@ -441,43 +441,56 @@ $$
 ---
 
 **i. feladat**
-- $\sqrt{5x + 5} = 2x - 3$
-    - Kikötés:
-        - $5x + 5 \ge 0 \Rightarrow 5x \ge -5 \Rightarrow x \ge \frac{-5}{5}$
-        - $2x - 3 \ge 0 \Rightarrow 2x \ge 3 \Rightarrow x \ge \frac{3}{2}$
-- $\sqrt{5x + 5} = 2x - 3 \qquad /()^{2}$
-- $5x + 5 = (2x - 3)^{2}$
-- $5x + 5 = 4x^{2} - 12x + 9 \qquad /-5x, -5$
-- $4x^{2} - 17x + 4 = 0$
-    - $a = 4$
-    - $b = -17$
-    - $c = 4$
-- $\frac{17 \pm \sqrt{(-17)^{2} - 4 \cdot 4 \cdot 4}}{2 \cdot 4} = \frac{17 \pm \sqrt{225}}{8} =$
-    - $x1 = \frac{32}{8} = 4$
-    - $x2 = \frac{2}{8} = \frac{1}{4}$
-- Megoldás:
-    - $x1 = 4$
-    - $x2 = \frac{1}{4}$ nem megoldás a kikötés miatt: $x \ge \frac{3}{2}$
+$$
+\begin{aligned}
+\sqrt{5x + 5} &= 2x - 3 \\
+&\text{Kikötés:} \\
+5x + 5 &\ge 0 \Rightarrow 5x \ge -5 \Rightarrow x \ge \frac{-5}{5} \\
+2x - 3 &\ge 0 \Rightarrow 2x \ge 3 \Rightarrow x \ge \frac{3}{2} \\[1em]
+\sqrt{5x + 5} &= 2x - 3 \qquad /()^{2} \\
+5x + 5 &= (2x - 3)^{2} \\
+5x + 5 &= 4x^{2} - 12x + 9 \qquad /-5x, -5 \\
+4x^{2} - 17x + 4 &= 0 \\
+a &= 4 \\
+b &= -17 \\
+c &= 4 \\[1em]
+&\frac{17 \pm \sqrt{(-17)^{2} - 4 \cdot 4 \cdot 4}}{2 \cdot 4} = \frac{17 \pm \sqrt{225}}{8} = \\
+x1 &= \frac{32}{8} = 4 \\
+x2 &= \frac{2}{8} = \frac{1}{4} \\[1em]
+&\text{Megoldás:} \\
+x1 &= 4 \\
+x2 &= \frac{1}{4}$ nem megoldás a kikötés miatt: $x \ge \frac{3}{2}
+\end{aligned}
+$$
 
 ---
 
 **j.feladat**
-- $\sqrt{x^{2} + 2x + 9} = 2x + 3$
-    - Kikötés:
-        - $x^{2} + 2x + 9 \ge 0 \Rightarrow D = 2^{2} - 4 \cdot 1 \cdot 9 = -32 \Rightarrow - 32 < 0$ ezért nincs valós gyök, így: $x^{2} + 2x + 9 > 0$
-        - $2x + 3 \ge 0 \Rightarrow 2x \ge -3 \Rightarrow x \ge \frac{-3}{2}$
-- $\sqrt{x^{2} + 2x + 9} = 2x + 3 \qquad /()^{2}$
-- $x^{2} + 2x + 9 = (2x + 3)^{2}$
-- $x^{2} + 2x + 9 = 4x^{2} + 12x + 9 \qquad /-x^{2}, -2x, -9$
-- $3x^{2} + 10x = 0$
-    - $a = 3$
-    - $b = 10$
-    - $c = 0$
-- $\frac{-10 \pm \sqrt{10^{2} - 4 \cdot 3 \cdot 0}}{2 \cdot 3} = \frac{-10 \pm \sqrt{100}}{6}$
-    - $x1 = 0$
-    - $x2 = \frac{-20}{6} = \frac{-10}{3}$
-- Megoldás:
-    - $x1 = 0$
-    - $x2 = \frac{-10}{3}$ nem megoldás a kikötés miatt: $\frac{-3}{2}$
+$$
+\begin{aligned}
+\\[1em]
+\sqrt{x^{2} + 2x + 9} &= 2x + 3 \\
+&\text{Kikötés:} \\
+x^{2} + 2x + 9 &\ge 0 \Rightarrow D = 2^{2} - 4 \cdot 1 \cdot 9 = -32 \Rightarrow - 32 < 0 \text{ ezért nincs valós gyök, így: } x^{2} + 2x + 9 > 0 \\
+2x + 3 &\ge 0 \Rightarrow 2x \ge -3 \Rightarrow x \ge \frac{-3}{2} \\
+\sqrt{x^{2} + 2x + 9} &= 2x + 3 \qquad /()^{2} \\
+x^{2} + 2x + 9 &= (2x + 3)^{2} \\
+x^{2} + 2x + 9 &= 4x^{2} + 12x + 9 \qquad /-x^{2}, -2x, -9 \\
+3x^{2} + 10x &= 0 \\
+a &= 3 \\
+b &= 10 \\
+c &= 0 \\[1em]
+&\frac{-10 \pm \sqrt{10^{2} - 4 \cdot 3 \cdot 0}}{2 \cdot 3} = \frac{-10 \pm \sqrt{100}}{6} \\
+x1 &= 0 \\
+x2 &= \frac{-20}{6} = \frac{-10}{3} \\[1em]
+&\text{Megoldás:} \\
+x1 &= 0 \\
+x2 &= \frac{-10}{3}$ nem megoldás a kikötés miatt: $\frac{-3}{2}
+\end{aligned}
+$$
+
+---
+
+[Vissza](../matematika.md)
 
 ---
