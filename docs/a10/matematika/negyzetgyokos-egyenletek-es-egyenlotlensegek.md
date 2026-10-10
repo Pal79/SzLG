@@ -391,40 +391,52 @@ $$
 ---
 
 **g. feladat**
-- $\sqrt{5x + 4} = 2x + 2$
-    - Kikötés:
-        - $5x + 4 \ge 0 \quad \Rightarrow \quad 5x \ge -4 \quad \Rightarrow \quad x \ge \frac{-4}{5}$
-        - $2x + 2 \ge 0 \quad \Rightarrow \quad 2x \ge -2 \quad \Rightarrow \quad x \ge \frac{-2}{2}$
-- $\sqrt{5x + 4} = 2x + 2 \qquad /()^{2}$
-- $5x + 4 = (2x + 2)^{2}$
-- $5x + 4 = 4x^{2} + 8x + 4 \qquad /-5x, -4$
-- $4x^{2} + 3x = 0$
-- $a = 4$<br>$b = 3$<br>$c = 0$
-- $\frac{-3 \pm \sqrt{3^{2} - 4 \cdot 4 \cdot 0}}{2 \cdot 4} = \frac{-3 \pm \sqrt{9}}{8} =$
-    - $x1 = 0$
-    - $x2 = \frac{-6}{8} = \frac{-3}{4}$
-- Megoldás:
-    - $x1 = 0$
-    - $x2 = \frac{-3}{4}$
+$$
+\begin{aligned}
+\\[1em]
+\sqrt{5x + 4} &= 2x + 2 \\
+&\text{Kikötés:} \\
+5x + 4 &\ge 0 \quad \Rightarrow \quad 5x \ge -4 \quad \Rightarrow \quad x \ge \frac{-4}{5} \\
+2x + 2 &\ge 0 \quad \Rightarrow \quad 2x \ge -2 \quad \Rightarrow \quad x \ge \frac{-2}{2} \\[2em]
+\sqrt{5x + 4} &= 2x + 2 \qquad /()^{2} \\
+5x + 4 &= (2x + 2)^{2} \\
+5x + 4 &= 4x^{2} + 8x + 4 \qquad /-5x, -4 \\
+4x^{2} + 3x &= 0 \\
+a &= 4 \\
+b &= 3 \\
+c &= 0 \\[1em]
+&\frac{-3 \pm \sqrt{3^{2} - 4 \cdot 4 \cdot 0}}{2 \cdot 4} = \frac{-3 \pm \sqrt{9}}{8} = \\
+x1 &= 0 \\
+x2 &= \frac{-6}{8} = \frac{-3}{4} \\[1em]
+&\text{Megoldás:} \\
+x1 &= 0 \\
+x2 &= \frac{-3}{4}
+\end{aligned}
+$$
 
 ---
 
 **h. feladat**
-- $\sqrt{3x - 5} = x - 1$
-    - Kikötés:
-        - $3x - 5 \ge 0 \Rightarrow 3x \ge 5 \Rightarrow x \ge \frac{5}{3}$
-        - $x - 1 \ge 0 \Rightarrow x \ge 1$
-- $\sqrt{3x - 5} = x - 1 \qquad /()^{2}$
-- $3x - 5 = (x - 1)^{2}$
-- $3x - 5 = x^{2} - 2x + 1 \qquad /-3x, +5$
-- $x^{2} - 5x + 6 = 0$
-    - $a = 1$
-    - $b = -5$
-    - $c = 6$
-- $\frac{5 \pm \sqrt{(-5)^{2} - 4 \cdot 1 \cdot 6}}{2} = \frac{5 \pm \sqrt{1}}{2} =$
-    - $x1 = \frac{6}{2} = 3$
-    - $x2 = \frac{4}{2} = 2$
-- Megoldás: $x = 3$ és $x = 2$
+$$
+\begin{aligned}
+\\[1em]
+\sqrt{3x - 5} &= x - 1 \\
+&\text{Kikötés:} \\
+3x - 5 &\ge 0 \Rightarrow 3x \ge 5 \Rightarrow x \ge \frac{5}{3} \\
+x - 1 &\ge 0 \Rightarrow x \ge 1 \\[2em]
+\sqrt{3x - 5} &= x - 1 \qquad /()^{2} \\
+3x - 5 &= (x - 1)^{2} \\
+3x - 5 &= x^{2} - 2x + 1 \qquad /-3x, +5 \\
+x^{2} - 5x + 6 &= 0 \\
+a &= 1 \\
+b &= -5 \\
+c &= 6 \\[1em]
+&\frac{5 \pm \sqrt{(-5)^{2} - 4 \cdot 1 \cdot 6}}{2} = \frac{5 \pm \sqrt{1}}{2} = \\
+x1 &= \frac{6}{2} = 3 \\
+x2 &= \frac{4}{2} = 2 \\
+&\text{Megoldás: }x = 3\text{ és }x = 2
+\end{aligned}
+$$
 
 ---
 
