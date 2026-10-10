@@ -215,7 +215,7 @@ $$
 
 **l. feladat**
 $$
-\begin{aligend}
+\begin{aligned}
 \\[1em]
 &\sqrt{5x - 6} = \sqrt{1 - 2x} \\
 &\text{Kikötés:} \\
@@ -260,41 +260,55 @@ $$
 ---
 
 **b. feladat**
-- $\sqrt{x + 2} = x - 4$
-    - Kikötés:
-        - $x + 2 \ge 0 \quad \Rightarrow \quad x \ge -2$
-        - $x - 4 \ge 0 \quad \Rightarrow \quad x \ge 4$
-- $\sqrt{x + 2} = x - 4 \qquad /()^{2}$
-- $x + 2 = (x - 4)^{2}$
-- $x + 2 = x^{2} - 4x - 4x + 16$
-- $x + 2 = x^{2} - 8x + 16 \qquad /-x, -2$
-- $x^{2} - 9x + 14 = 0$
-- $a = 1$<br>$b = -9$<br>$c = 14$
-- $\frac{9 \pm \sqrt{(-9) - 4 \cdot 1 \cdot 14}}{2 \cdot 1} = \frac{9 \pm \sqrt{25}}{2} =$
-    - $x1 = \frac{14}{2} = 7$
-    - $x2 = \frac{4}{2} = 2$
-- Megoldás:
-    - $x1 = 7$
-    - $x2 = 2$ Nem megoldás a kikötés miatt, mert $x \ge 4$
+$$
+\begin{aligned}
+\\[1em]
+\sqrt{x + 2} &= x - 4 \\
+&\text{Kikötés:} \\
+x + 2 &\ge 0 \quad \Rightarrow \quad x \ge -2 \\
+x - 4 &\ge 0 \quad \Rightarrow \quad x \ge 4 \\[2em]
+\sqrt{x + 2} &= x - 4 \qquad /()^{2} \\
+x + 2 &= (x - 4)^{2} \\
+x + 2 &= x^{2} - 4x - 4x + 16 \\
+x + 2 &= x^{2} - 8x + 16 \qquad /-x, -2 \\
+x^{2} - 9x + 14 &= 0 \\
+a &= 1 \\
+b &= -9 \\
+c &= 14 \\[1em]
+&\frac{9 \pm \sqrt{(-9) - 4 \cdot 1 \cdot 14}}{2 \cdot 1} = \frac{9 \pm \sqrt{25}}{2} = \\
+x1 &= \frac{14}{2} = 7 \\
+x2 &= \frac{4}{2} = 2 \\[1em]
+&\text{Megoldás:} \\
+x1 &= 7 \\
+x2 &= 2 \text{ Nem megoldás a kikötés miatt, mert } x \ge 4
+\end{aligned}
+$$
 
 ---
 
 **c. feladat**
-- $\sqrt{3x + 1} = x - 1$
-    - Kikötés:
-        - $3x + 1 \ge 0 \quad \Rightarrow \quad 3x \ge -1 \quad \Rightarrow \quad x \ge \frac{-1}{3}$ 
-        - $x -1 \ge 0 \quad \Rightarrow \quad x \ge 1$
-- $\sqrt{3x + 1} = x - 1 \qquad /()^{2}$
-- $3x + 1 = (x - 1)^{2}$
-- $3x + 1 = x^{2} - 2x + 1 \qquad /-3x, -1$
-- $x^{2} - 5x = 0$
-- $a = 1$<br>$b = -5$<br>$c = 0$
-- $\frac{5 \pm \sqrt{(-5)^{2} - 4 \cdot 1 \cdot 0}}{2} = \frac{5 \pm \sqrt{25}}{2} =$
-    - $x1 = \frac{10}{2} = 5$
-    - $x2 = 0$
-- Megoldás:
-    - $x1 = 5$
-    - $x2 = 0$ nem megoldás a kikötés miatt: $x \ge 1$
+$$
+\begin{aligned}
+\\[1em]
+\sqrt{3x + 1} &= x - 1 \\
+&\text{Kikötés:} \\
+3x + 1 &\ge 0 \quad \Rightarrow \quad 3x \ge -1 \quad \Rightarrow \quad x \ge \frac{-1}{3} \\
+x -1 &\ge 0 \quad \Rightarrow \quad x \ge 1 \\
+\sqrt{3x + 1} &= x - 1 \qquad /()^{2} \\
+3x + 1 &= (x - 1)^{2} \\
+3x + 1 &= x^{2} - 2x + 1 \qquad /-3x, -1 \\
+x^{2} - 5x &= 0 \\
+a &= 1 \\
+b &= -5 \\
+c &= 0 \\
+&\frac{5 \pm \sqrt{(-5)^{2} - 4 \cdot 1 \cdot 0}}{2} = \frac{5 \pm \sqrt{25}}{2} = \\
+x1 &= \frac{10}{2} = 5 \\
+x2 &= 0 \\[1em]
+&\text{Megoldás:} \\
+x1 &= 5 \\
+x2 &= 0 \text{ nem megoldás a kikötés miatt: } x \ge 1
+\end{aligned}
+$$
 
 ---
 
