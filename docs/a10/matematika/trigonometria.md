@@ -229,54 +229,51 @@ a &\approx 175\text{m}
 \end{aligned}
 $$
 
-### 10. feladat`
-Egy hegycsúcsot két különböző pontból figyelünk.`
+### 10. feladat
+$$
+\begin{aligned}
+&\text{Egy hegycsúcsot két különböző pontból figyelünk.} \\
+&\text{Az első pontból a csúcs emelkedési szöge }18^{\circ}\text{, a második pontból (ami }300\text{m-el közelebb van a hegyhez) }25^{\circ}\text{.} \\
+&\text{Milyen magas a hegy?} \\[1em]
+&\text{Mivel két pont van, ezért két háromszögről beszélünk:} \\
+&\text{ - első hely távolabb van: kisebb szög }18^{\circ} \\
+&\text{ - második hely közelebb van: nagyobb szög }25^{\circ} \\[1em]
+&\text{Jelölések bevezetése:} \\
+h &= \text{hegy magassága} \\
+x_{1} &= \text{első megfigyelési pont vízszintes távolsága} \\
+x_{2} &= \text{második megfigyelési pont vízszintes távolsága} \\
+&\text{ - mivel a második pont közelebb van: }x_{2} = x_{1} - 300\text{m.} \\[2em]
+&\text{Két derékszögű háromszög trigonometriai egyenletei:} \\
+&\text{- Mindkét háromszögben a hegy magassága a szemközti befogó, a vízszintes távolság a szomszédos befogó.} \\
+&\text{ - Első pont: }\tan(18^{\circ}) = \frac{h}{x_{1}} \\
+&\text{ - Második pont: }\tan(25^{\circ}) = \frac{h}{x_{2}} \\[2em]
+&\text{Magasság kifejezése:} \\
+&\text{ - Első pont: }h = x_{1} \cdot \tan(18^{\circ}) \\
+&\text{ - Második pont: }h = x_{2} \cdot \tan(25^{\circ}) \\
+&\text{ - Mindkét pont ugyanazt a magasságot írja le, tehát a két }h\text{ egyenlő, ezért:} \\
+&\text{  - }$x_{1} \cdot \tan(18^{\circ}) = x_{2} \cdot \tan(25^{\circ}) \\[2em]
+&\text{Behelyettesítés:} \\
+&x_{1} \cdot \tan(18^{\circ}) = (x_{1} - 300) \tan(25^{\circ}) \\[1em]
+&\text{Zárójel kibontás:} \\
+&x_{1} \cdot \tan(18^{\circ}) = x_{1} \cdot \tan(25^{\circ}) - 300 \cdot \tan(25^{\circ}) \\[1em]
+&\text{Átrendezés, hogy az 'x'-es tagok egy oldalt legynek:} \\
+&x_1 \tan(18^{\circ}) - x_1 \tan(25^{\circ}) = -300 \tan(25^{\circ}) \\
+&\text{Kivonjuk: }x_1(\tan(18^{\circ}) - \tan(25^{\circ})) = -300 \tan(25^{\circ}) \\
+&\text{mindkét oldalt }-1\text{-el szorzunk: }x_1(\tan(25^{\circ}) - \tan(18^{\circ})) = 300 \tan(25^{\circ}) \\[1em]
+&\text{Kifejezzük }x_{1}\text{-et, majd számolunk:} \\
+x_1 &= \frac{300 \tan(25^{\circ})}{\tan(25^{\circ}) - \tan(18^{\circ})} \\
+&\text{ - }\tan(25^{\circ}) \approx 0.46631 \\
+&\text{ - }\tan(18^{\circ}) \approx 0.32492$ \\
+x_1 &= \frac{300 \cdot 0.46631}{0.46631 - 0.32492} \\
+x_1 &= \frac{139.8922974}{0.1413879619} \approx 989.421557 \\[1em]
+&\text{Végül a hegy magasságának kiszámítása:} \\
+h &= x_1 \tan(18^{\circ}) \\
+h &= 989.421557 \cdot 0.32492 \approx 321.4825517\text{m}
+\end{aligned}
+$$
 
-Az első pontból a csúcs emelkedési szöge $18^{\circ}$, a második pontból (ami $300\text{m}$-el közelebb van a hegyhez) $25^{\circ}$.`
+---
 
-Milyen magas a hegy?`
-
-Mivel két pont van, ezért két háromszögről beszélünk:`
-- első hely távolabb van: kisebb szög $18^{\circ}$`
-- második hely közelebb van: nagyobb szög $25^{\circ}$`
-
-Jelölések bevezetése:`
-- $h = \text{hegy magassága}$`
-- $x_{1} = \text{első megfigyelési pont vízszintes távolsága}$`
-- $x_{2} = \text{második megfigyelési pont vízszintes távolsága}$`
-- mivel a második pont közelebb van: $x_{2} = x_{1} - 300m$`
-
-Két derékszögű háromszög trigonometriai egyenletei:`
-- Mindkét háromszögben a hegy magassága a szemközti befogó, a vízszintes távolság a szomszédos befogó.
-    - Első pont: $tan(18^{\circ}) = \frac{h}{x_{1}}$`
-    - Második pont: $tan(25^{\circ}) = \frac{h}{x_{2}}$`
-
-Magasság kifejezése:`
-- Első pont: $h = x_{1} \cdot tan(18^{\circ})$`
-- Második pont: $h = x_{2} \cdot tan(25^{\circ})$
-    - Mindkét pont ugyanazt a magasságot írja le, tehát a két $h$ egyenlő, ezért:
-        - $x_{1} \cdot tan(18^{\circ}) = x_{2} \cdot tan(25^{\circ})$`
-
-Behelyettesítés:`
-- $x_{1} \cdot tan(18^{\circ}) = (x_{1} - 300) tan(25^{\circ})$`
-
-Zárójel kibontás:`
-- $x_{1} \cdot tan(18^{\circ}) = x_{1} \cdot tan(25^{\circ}) - 300 \cdot tan(25^{\circ})$`
-
-Átrendezés, hogy az 'x'-es tagok egy oldalt legynek:`
-- $x_1 \tan(18^{\circ}) - x_1 \tan(25^{\circ}) = -300 \tan(25^{\circ})$`
-- Kivonjuk: $x_1(\tan(18^{\circ}) - \tan(25^{\circ})) = -300 \tan(25^{\circ})$`
-- mindkét oldalt $-1$-el szorzunk: $x_1(\tan(25^{\circ}) - \tan(18^{\circ})) = 300 \tan(25^{\circ})$`
-
-Kifejezzük $x_{1}-et$, majd számolunk:`
-- $x_1 = \frac{300 \tan(25^{\circ})}{\tan(25^{\circ}) - \tan(18^{\circ})}$
-    - $\tan(25^{\circ}) \approx 0.46631$`
-    - $\tan(18^{\circ}) \approx 0.32492$`
-- $x_1 = \frac{300 \cdot 0.46631}{0.46631 - 0.32492}$`
-- $x_1 = \frac{139.8922974}{0.1413879619} \approx 989.421557$`
-
-Végül a hegy magasságának kiszámítása:`
-- $h = x_1 \tan(18^{\circ})$`
-- $h = 989.421557 \cdot 0.32492 \approx 321.4825517\text{m}$`
+[Vissza](../matematika.md)
 
 ---
