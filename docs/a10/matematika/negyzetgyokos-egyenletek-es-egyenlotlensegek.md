@@ -367,6 +367,7 @@ $$
 **f. feladat**
 $$
 \begin{aligned}
+\\[1em]
 \sqrt{3x + 4} &= 2x - 4 \\
 &\text{Kikötés:} \\
 3x + 4 &\ge 0 \quad \Rightarrow \quad 3x \ge -4 \quad \Rightarrow \quad x \frac{-4}{3} \\
