@@ -459,7 +459,7 @@ x1 &= \frac{32}{8} = 4 \\
 x2 &= \frac{2}{8} = \frac{1}{4} \\[1em]
 &\text{Megoldás:} \\
 x1 &= 4 \\
-x2 &= \frac{1}{4}$ nem megoldás a kikötés miatt: $x \ge \frac{3}{2}
+x2 &= \frac{1}{4}\text{ nem megoldás a kikötés miatt: }x \ge \frac{3}{2}
 \end{aligned}
 $$
 
@@ -485,7 +485,7 @@ x1 &= 0 \\
 x2 &= \frac{-20}{6} = \frac{-10}{3} \\[1em]
 &\text{Megoldás:} \\
 x1 &= 0 \\
-x2 &= \frac{-10}{3}$ nem megoldás a kikötés miatt: $\frac{-3}{2}
+x2 &= \frac{-10}{3}\text{ nem megoldás a kikötés miatt: }\frac{-3}{2}
 \end{aligned}
 $$
 
