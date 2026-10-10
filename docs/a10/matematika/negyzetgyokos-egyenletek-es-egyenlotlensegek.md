@@ -313,21 +313,28 @@ $$
 ---
 
 **d. feladat**
-- $\sqrt{2x + 8} = x + 4$
-    - Kikötés:
-        - $2x + 8 \ge 0 \quad \Rightarrow \quad 2x \ge -8 \quad \Rightarrow \quad x \ge \frac{-8}{2}$
-        - $x + 4 \ge 0 \quad \Rightarrow \quad x \ge -4$
-- $\sqrt{2x + 8} = x + 4 \qquad /()^{2}$
-- $2x + 8 = (x + 4)^{2}$
-- $2x + 8 = x^{2} + 8x + 16 \qquad /-2x, -8$
-- $x^{2} + 6x + 8 = 0$
-- $a = 1$<br>$b = 6$<br>$c = 8$
-- $\frac{-6 \pm \sqrt{6^{2} - 4 \cdot 1 \cdot 8}}{2} = \frac{-6 \pm \sqrt{4}}{2}$
-    - $x1 = \frac{-4}{2} = -2$
-    - $x2 = \frac{-8}{2} = -4$
-- Megoldás:
-    - $x1 = -2$
-    - $x2 = -4$
+$$
+\begin{aligned}
+\\[1em]
+\sqrt{2x + 8} &= x + 4 \\
+&\text{Kikötés:} \\
+2x + 8 &\ge 0 \quad \Rightarrow \quad 2x \ge -8 \quad \Rightarrow \quad x \ge \frac{-8}{2} \\
+x + 4 &\ge 0 \quad \Rightarrow \quad x \ge -4 \\
+\sqrt{2x + 8} &= x + 4 \qquad /()^{2} \\
+2x + 8 &= (x + 4)^{2} \\
+2x + 8 &= x^{2} + 8x + 16 \qquad /-2x, -8 \\
+x^{2} + 6x + 8 &= 0 \\
+a &= 1 \\
+b &= 6 \\
+c &= 8 \\
+&\frac{-6 \pm \sqrt{6^{2} - 4 \cdot 1 \cdot 8}}{2} = \frac{-6 \pm \sqrt{4}}{2} \\
+x1 &= \frac{-4}{2} = -2 \\
+x2 &= \frac{-8}{2} = -4 \\[1em]
+&\text{Megoldás:} \\
+x1 &= -2 \\
+x2 &= -4
+\end{aligned}
+$$
 
 ---
 
