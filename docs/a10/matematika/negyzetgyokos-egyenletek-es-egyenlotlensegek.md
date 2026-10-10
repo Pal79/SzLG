@@ -20,6 +20,7 @@
 **a. feladat**
 $$
 \begin{aligned}
+\\[1em]
 \sqrt{x+4} &= 3 \qquad \text{ Kikötés: }x+4 \ge 0 \quad \Rightarrow \quad x \ge -4 \\[2em]
 \sqrt{x+4} &= 3 \qquad /()^{2} \\
 x+4 &= 9 \qquad /-4 \\
@@ -33,6 +34,7 @@ $$
 **b. feladat**
 $$
 \begin{aligned}
+\\[1em]
 \sqrt{x-5} &= 9 \qquad \text{ Kikötés: }x-5 \ge 0 \quad \Rightarrow \quad x \ge 5 \\[2em]
 \sqrt{x-5} &= 9 \qquad /()^{2} \\
 x-5 &= 81 \qquad /+5 \\
@@ -46,6 +48,7 @@ $$
 **c. feladat**
 $$
 \begin{aligned}
+\\[1em]
 \sqrt{2x-3} &= 1 \qquad \text{ Kikötés: }2x-3 \ge 0 \quad \Rightarrow \quad 2x \ge 3 \quad \Rightarrow \quad x \ge \frac{3}{2} \\[2em]
 \sqrt{2x-3} &= 1 \qquad /()^{2} \\
 2x-3 &= 1 \qquad /+3 \\
@@ -60,6 +63,7 @@ $$
 **d. feladat**
 $$
 \begin{aligned}
+\\[1em]
 3 + \sqrt{4x + 3} &= 0 \qquad \text{ Kikötés: }4x + 3 \ge 0 \quad \Rightarrow \quad 4x \ge -3 \quad \Rightarrow \quad x \ge - \frac{3}{4} \\[2em]
 \sqrt{4x + 3} &= 0 \qquad /()^{2} \\
 4x + 3 &= 9 \qquad /-3 \\
@@ -76,6 +80,7 @@ $$
 **e. feladat**
 $$
 \begin{aligned}
+\\[1em]
 7 - \sqrt{4x + 11} &= 0 \qquad \text{ Kikötés: }4x + 11 \ge 0 \quad \Rightarrow \quad 4x \ge -11 \quad \Rightarrow \quad x \ge - \frac{11}{4} \\[2em]
 7 - \sqrt{4x + 11} &= 0 \qquad /-7 \\
 \sqrt{4x + 11} &= -7 \qquad /()^{2} \\
@@ -91,6 +96,7 @@ $$
 **f. feladat**
 $$
 \begin{aligned}
+\\[1em]
 \sqrt{8x - 13} - 8 &= 0 \qquad \text{ Kikötés: }8x - 13 \ge 0 \quad \Rightarrow \quad 8x \ge 13 \quad \Rightarrow \quad x = \frac{13}{8} \\[2em]
 \sqrt{8x - 13} - 8 &= 0 \qquad /+8 \\
 sqrt{8x - 13} &= 8 \qquad /()^{2} \\
@@ -106,6 +112,7 @@ $$
 **g. feladat**
 $$
 \begin{aligned}
+\\[1em]
 \sqrt{4x - 5} &= \sqrt{x + 1} \\[1em]
 &\text{ Kikötés: } \\
 4x - 5 &\ge 0 \quad \Rightarrow \quad 4x \ge 0 \quad \Rightarrow \quad x \ge \frac{5}{4} \\
@@ -127,6 +134,7 @@ $$
 **h. feladat**
 $$
 \begin{aligned}
+\\[1em]
 \sqrt{5x + 1} &= \sqrt{7x + 1} \\
 &\text{ Kikötés:} \\
 5x + 1 &\ge 0 \quad \Rightarrow \quad 5x \ge -1 \quad \Rightarrow \quad x \ge - \frac{1}{5} \\
@@ -147,6 +155,7 @@ $$
 **i. feladat**
 $$
 \begin{aligned}
+\\[1em]
 \sqrt{3x - 4} &= \sqrt{x - 2} \\
 &\text{ Kikötés:} \\
 3x - 4 &\ge 0 \quad \Rightarrow \quad 4x \ge 4 \quad \Rightarrow \quad x \ge \frac{4}{3} \\
@@ -167,6 +176,7 @@ $$
 **j.feladat**
 $$
 \begin{aligned}
+\\[1em]
 \sqrt{6x + 7} &= \sqrt{x + 2} \\
 &\text{ Kikötés:} \\
 6x + 7 &\ge 0 \quad \Rightarrow \quad 6x \ge -7 \quad \Rightarrow \quad x \ge - \frac{7}{6} \\
@@ -186,6 +196,7 @@ $$
 **k. feladat**
 $$
 \begin{aligned}
+\\[1em]
 \sqrt{13x + 5} &= \sqrt{24x - 3} \\
 &\text{Kikötés:} \\
 &13x + 5 \ge 0 \quad \Rightarrow \quad 13x \ge -5 \quad \Rightarrow \quad x \ge - \frac{5}{13} \\
@@ -205,6 +216,7 @@ $$
 **l. feladat**
 $$
 \begin{aligend}
+\\[1em]
 &\sqrt{5x - 6} = \sqrt{1 - 2x} \\
 &\text{Kikötés:} \\
 & 5x - 6 \ge 0 \quad \Rightarrow \quad 5x \ge 6 \quad \Rightarrow \quad x \ge \frac{6}{5} \\
@@ -225,6 +237,7 @@ $$
 **a. feladat**
 $$
 \begin{aligned}
+\\[1em]
 \sqrt{x + 6} &= x \\
 &\text{Kikötés:} \\
 x + 6 &\ge 0 \quad \Rightarrow \quad x \ge - 6 \\
