@@ -384,7 +384,7 @@ x1 &= \frac{32}{8} = 4 \\
 x2 &= \frac{3}{4} = 0.75 \\[1em]
 &\text{Megoldás:} \\
 x1 &= 4 \\
-x2 &= \frac{3}{4}$ nem megoldás a kikötés miatt: $x \ge \frac{4}{2}
+x2 &= \frac{3}{4} \text{ nem megoldás a kikötés miatt: } x \ge \frac{4}{2}
 \end{aligned}
 $$
 
