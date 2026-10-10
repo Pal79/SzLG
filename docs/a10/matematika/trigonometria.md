@@ -191,17 +191,19 @@ c &= ? \\[2em]
 \end{aligned}
 $$
 
-### 7. feladat`
-Egy háromszögben:`
-
-$a = 12\text{ cm}$, $b = 15\text{ cm}$, $c = 17\text{ cm}$.`
- 
-Számítsd ki a legnagyobb szöget (koszinusztétel + trigonometria).`
-- $a = 12\text{ cm}$`
-- $b = 15\text{ cm}$`
-- $c = 17\text{ cm}$
-    - $cos(\gamma) = \frac{a^{2} + b^{2} - c^{2}}{2ab} = \frac{12^{2} + 15^{2} - 17^{2}}{2 \cdot 12 \cdot 15} = \frac{144 + 225 - 289}{2 \cdot 12 \cdot 15} = \frac{80}{360} = \frac{2}{9} = 0.2222$`
-    - $\gamma = arccos(0.2222) \approx 77.16^{\circ}$`
+### 7. feladat
+$$
+\begin{aligned}
+&\text{Egy háromszögben:} \\[1em]
+a &= 12\text{ cm}, b = 15\text{ cm}, c = 17\text{ cm.} \\[1em]
+&\text{Számítsd ki a legnagyobb szöget (koszinusztétel + trigonometria).} \\[2em]
+a &= 12\text{ cm} \\
+b &= 15\text{ cm} \\
+c &= 17\text{ cm} \\[2em]
+\cos(\gamma) &= \frac{a^{2} + b^{2} - c^{2}}{2ab} = \frac{12^{2} + 15^{2} - 17^{2}}{2 \cdot 12 \cdot 15} = \frac{144 + 225 - 289}{2 \cdot 12 \cdot 15} = \frac{80}{360} = \frac{2}{9} = 0.2222 \\
+\gamma &= \cos(0.2222)^{-1} \approx 77.16^{\circ}
+\end{aligned}
+$$
 
 ### 8. feladat`
 Egy rádiótorony $60\text{m}$ magas. A torony tetejéről egy drótkötél a talaj egy pontjához csatlakozik úgy, hogy a kötél $40^{\circ}$-os szöget zár be a talajjal.`
