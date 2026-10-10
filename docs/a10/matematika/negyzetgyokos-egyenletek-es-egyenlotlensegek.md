@@ -184,17 +184,21 @@ $$
 ---
 
 **k. feladat**
-- $\sqrt{13x + 5} = \sqrt{24x - 3}$
-    - Kikötés:
-        - $13x + 5 \ge 0 \quad \Rightarrow \quad 13x \ge -5 \quad \Rightarrow \quad x \ge - \frac{5}{13}$
-        - $24x - 3 \ge 0 \quad \Rightarrow \quad 24x \ge 3 \quad \Rightarrow \quad x \ge \frac{3}{24}$
-- $\sqrt{13x + 5} = \sqrt{24x - 3} \qquad ()^{2}$
-- $13x + 5 = 24x - 3 \qquad /-13x, +3$
-- $8 = 11x \qquad /:11$
-- $x = \frac{8}{11}$
-- Ellenőrzés:
-    - bal: $\sqrt{13 \cdot \frac{8}{11} + 5} = \sqrt{\frac{159}{11}}$
-    - jobb: $\sqrt{24 \cdot \frac{8}{11} - 3} = \sqrt{\frac{159}{11}}$
+$$
+\begin{aligned}
+\sqrt{13x + 5} &= \sqrt{24x - 3} \\
+&\text{Kikötés:} \\
+&13x + 5 \ge 0 \quad \Rightarrow \quad 13x \ge -5 \quad \Rightarrow \quad x \ge - \frac{5}{13} \\
+&24x - 3 \ge 0 \quad \Rightarrow \quad 24x \ge 3 \quad \Rightarrow \quad x \ge \frac{3}{24} \\[2em]
+\sqrt{13x + 5} &= \sqrt{24x - 3} \qquad ()^{2} \\
+13x + 5 &= 24x - 3 \qquad /-13x, +3 \\
+8 &= 11x \qquad /:11 \\
+x &= \frac{8}{11} \\[1em]
+&\text{Ellenőrzés:} \\
+&\text{bal: }\sqrt{13 \cdot \frac{8}{11} + 5} = \sqrt{\frac{159}{11}} \\
+&\text{jobb: }$\sqrt{24 \cdot \frac{8}{11} - 3} = \sqrt{\frac{159}{11}}
+\end{aligned}
+$$
 
 ---
 
