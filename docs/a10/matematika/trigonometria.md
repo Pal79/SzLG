@@ -175,7 +175,7 @@ a &= b \cdot tan(\alpha) = 180 \cdot tan(25) = 83.93537847\text{m}
 \end{aligned}
 $$
 
-### 6. feladat
+### 6. feladat
 $$
 \begin{aligned}
 &\text{Egy háromszög két oldala:} \\[1em]
