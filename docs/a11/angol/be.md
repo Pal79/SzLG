@@ -81,6 +81,29 @@ $$
 \end{array}
 $$
 
+## Articles: *a / an, the*, plurals, *this / that / these / those* (Névelők: egyes és többes szám)
+$$
+\begin{array}{|l|l|}
+\hline
+& \textbf{a}\text{ bag.} \\
+& \text{  pen.} \\
+\text{It's} & \\
+& \textbf{an}\text{ identity card.} \\
+& \text{  umbrella.} 
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{|l|l|l|}
+\hline
+\text{Open} & & \text{door} \\
+& \textbf{the} & \\
+\text{Close} & & \text{windows.} \\
+\hline
+\end{array}
+$$
+
 ---
 
 [Vissza](../angol.md)
