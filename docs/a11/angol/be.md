@@ -47,6 +47,7 @@ Full form & Contraction & \\
 \text{We}\textbf{ are not} & \text{We}\textbf{ aren't} & \text{ British.} \\
 \text{We}\textbf{ are not} & \text{You}\textbf{ aren't} & \\
 \text{They}\textbf{ are not} & \text{They}\textbf{ aren't} & \\
+\hline
 \end{array}
 $$
 
@@ -61,12 +62,14 @@ $$
 \textbf{Are}\text{ we} & \text{Polish?} & & \text{We}\textbf{ are.} & & \text{we}\textbf{ aren't.} \\
 \textbf{Are}\text{ you} & & & \text{you}\textbf{ are.} & & \text{you}\textbf{ aren't.} \\
 \textbf{Are}\text{ they} & & & \text{they}\textbf{ are.} & & \text{they}\textbf{ aren't.} \\
+\hline
 \end{array}
 $$
 
 ## Possessive adjectives: *my, your, etc.* (Birtokos névmások: enyém, tiéd, stb.)
 $$
 \begin{array}{|l|l|}
+\hline
 \textbf{I}\text{'m Italian.} & \textbf{My}\text{ family are from Rome.} \\
 \textbf{You}\text{'re in level 1.} & \text{This is}\textbf{ your }\text{classroom.} \\
 \textbf{He}\text{'s the director.} & \text{His}\text{ name is Michael.} \\
@@ -74,6 +77,7 @@ $$
 \textbf{It}\text{'s a school.} & \textbf{Its}\text{ name is Queen's School.} \\
 \textbf{We}\text{'re an international school} & \textbf{Our}\text{ students are from many different countries.} \\
 \textbf{They}\text{'re new students.} & \textbf{Their}\text{ names are David and Emma.} \\
+\hline
 \end{array}
 $$
 
