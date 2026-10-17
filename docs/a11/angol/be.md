@@ -50,6 +50,14 @@ Full form & Contraction & \\
 \end{array}
 $$
 
+$$
+\begin{array}{|l|l|l|l|l|l|}
+\hline
+\fbox{?} & & \fbox{$\checkmark$} & & \fbox{$\times$} & \\
+\hline
+\end{array}
+$$
+
 ---
 
 [Vissza](../angol.md)
