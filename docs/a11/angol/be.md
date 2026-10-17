@@ -56,6 +56,8 @@ $$
 \fbox{?} & & \fbox{$\checkmark$} & & \fbox{$\times$} & \\
 \hline
 \textbf{Am}\text{ I} & & & \text{I}\textbf{ am.} & & \text{I}\textbf{'m not.} \\
+\textbf{Are}\text{ you} & \text{ German?} & & \text{ you}\textbf{ are.} & & \text{ you}\text{ aren't.} \\
+\textbf{Is}\text{ he / she / it} & \text{Russian?} & \text{Yes,} & \text{he / she / it}\textbf{ is.} & \text{No,} & \text{he / she / it}\textbf{isn't.} \\
 \end{array}
 $$
 
