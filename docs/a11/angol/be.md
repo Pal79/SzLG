@@ -21,7 +21,7 @@ $$
 \hline
 \text{Full form (Teljes alak)} & \text{Contraction (Összevont alak)} \\
 \hline
-\text{I \textbf{am} your teacher} & \text{I\textbf{'m} your teacher} \\
+\text{I} \textbf{am}\text{ your teacher} & \text{I}\textbf{'m}/text{ your teacher} \\
 \text{You \textbf{are} in room 13.} & \text{You\textbf{'re} in room 13.} \\
 \text{He \textbf{is} James.} & \text{He\textbf{'s} James.} \\
 \text{She \textbf{is} Maria.} & \text{She\textbf{'s} Maria.} \\
