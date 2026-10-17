@@ -55,6 +55,7 @@ $$
 \hline
 \fbox{?} & & \fbox{$\checkmark$} & & \fbox{$\times$} & \\
 \hline
+\textbf{Am}\text{ I} & & & \text{I}\textbf{ am.} & & \text{I}\textbf{'m not.} \\
 \end{array}
 $$
 
