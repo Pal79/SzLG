@@ -58,9 +58,18 @@ $$
 \textbf{Am}\text{ I} & & & \text{I}\textbf{ am.} & & \text{I}\textbf{'m not.} \\
 \textbf{Are}\text{ you} & \text{ German?} & & \text{ you}\textbf{ are.} & & \text{ you}\text{ aren't.} \\
 \textbf{Is}\text{ he / she / it} & \text{Russian?} & \text{Yes,} & \text{he / she / it}\textbf{ is.} & \text{No,} & \text{he / she / it}\textbf{ isn't.} \\
-\textbf{Are}\text{ we} & \text{Polish?} & & \text{We}\textbf{ are.} & \text{No,} & \text{we}\textbf{ aren't.} \\
-\textbf{Are}\text{ you} & & & \text{you}\textbf{ are.} & \text{No,} & \text{you}\textbf{ aren't.} \\
-\textbf{Are}\text{ they} & & & \text{they}\textbf{ are.} & \text{No,} & \text{they}\textbf{ aren't.} \\
+\textbf{Are}\text{ we} & \text{Polish?} & & \text{We}\textbf{ are.} & & \text{we}\textbf{ aren't.} \\
+\textbf{Are}\text{ you} & & & \text{you}\textbf{ are.} & & \text{you}\textbf{ aren't.} \\
+\textbf{Are}\text{ they} & & & \text{they}\textbf{ are.} & & \text{they}\textbf{ aren't.} \\
+\end{array}
+$$
+
+## Possessive adjectives: *my, your, etc.*
+$$
+\begin{array}{|l|l|}
+\hline
+
+\hline
 \end{array}
 $$
 
