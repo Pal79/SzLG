@@ -16,12 +16,12 @@
 
 # To be (létige)
 
-## Present tense verb *be* + (Jelen idejű ige)
+## Present tense verb *be* + (Jelen idejű létige)
 
 $$
 \begin{array}{|l|l|}
 \hline
-\text{Full form (Teljes alak)} & \text{Contraction (Összevont alak)} \\
+\textbf{Full form (Teljes alak)} & \textbf{Contraction (Összevont alak)} \\
 \hline
 \text{I}\textbf{ am}\text{ your teacher} & \text{I}\textbf{'m}\text{ your teacher} \\
 \text{You}\textbf{ are}\text{ in room 13.} & \text{You}\textbf{'re}\text{ in room 13.} \\
@@ -35,7 +35,7 @@ $$
 \end{array}
 $$
 
-## Present tense verb *be* - and ?
+## Present tense verb *be* - and ? (Jelen idejű létige - tagadás és kérdés)
 $$
 \begin{array}{|l|l|l|}
 \hline
@@ -64,12 +64,11 @@ $$
 \end{array}
 $$
 
-## Possessive adjectives: *my, your, etc.*
+## Possessive adjectives: *my, your, etc.* (Birtokos névmások: enyém, tiéd, stb.)
 $$
 \begin{array}{|l|l|}
-\hline
-
-\hline
+\textbf{I}\text{'m Italian.} & \textbf{My}\text{ family are from Rome.} \\
+\textbf{You}\text{'re in level 1.} & \text{This is}\textbf{ your }\text{classroom.}
 \end{array}
 $$
 
