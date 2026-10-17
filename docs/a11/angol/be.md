@@ -68,7 +68,8 @@ $$
 $$
 \begin{array}{|l|l|}
 \textbf{I}\text{'m Italian.} & \textbf{My}\text{ family are from Rome.} \\
-\textbf{You}\text{'re in level 1.} & \text{This is}\textbf{ your }\text{classroom.}
+\textbf{You}\text{'re in level 1.} & \text{This is}\textbf{ your }\text{classroom.} \\
+\textbf{He}\text{'s the director.} & \text{His}\text{ name is Tina.} \\
 \end{array}
 $$
 
