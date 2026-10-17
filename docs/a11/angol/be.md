@@ -69,7 +69,11 @@ $$
 \begin{array}{|l|l|}
 \textbf{I}\text{'m Italian.} & \textbf{My}\text{ family are from Rome.} \\
 \textbf{You}\text{'re in level 1.} & \text{This is}\textbf{ your }\text{classroom.} \\
-\textbf{He}\text{'s the director.} & \text{His}\text{ name is Tina.} \\
+\textbf{He}\text{'s the director.} & \text{His}\text{ name is Michael.} \\
+\textbf{She}\text{'s your teacher.} & \textbf{Her}\text{ name is Tina.} \\
+\textbf{It}\text{'s a school.} & \textbf{Its}\text{ name is Queen's School.} \\
+\textbf{We}\text{'re an international school} & \textbf{Our}\text{ students are from many different countries.} \\
+\textbf{They}\text{'re new students.} & \textbf{Their}\text{ names are David and Emma.} \\
 \end{array}
 $$
 
