@@ -55,9 +55,10 @@ $$
 $$
 
 ## *be going to* (plans)
+$\fbox{+}$
+
 $$
 \begin{array}{|l|l|l|}
-\fbox{+} & & \\
 \hline
 \textbf{Full form} & \textbf{Contraction} & \\
 \text{I}\textbf{ am} & \text{I}\textbf{'m} & \\
@@ -67,6 +68,21 @@ $$
 \text{You}\textbf{ are} & \text{You}\textbf{'re} & \text{next month.} \\
 \text{They}\textbf{ are} & \text{They}\textbf{'re} & \\
 \hline
+\end{array}
+$$
+
+$$
+\begin{array}{|l|l|l|}
+\fbox{-} & & \\
+\hline
+\textbf{Full form} & \textbf{Contraction} & \\
+\hline
+\text{I}\textbf{ am not} & \text{I}\textbf{'m not} & \\
+\text{You}\textbf{ are not} & \text{You}\textbf{ aren't} & \textbf{going to have} \\
+\text{He / She / It}\textbf{ is not} & \text{He / She / It}\textbf{ isn't} & \text{a holiday} \\
+\text{We}\textbf{ are not} & \text{We}\textbf{ aren't} & \text{next month.} \\
+\text{You}\textbf{ are not} & \text{You}\textbf{ aren't} & \\
+\text{They}\textbf{ are not} & \text{They}\textbf{ aren't} & \\
 \end{array}
 $$
 
