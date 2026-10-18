@@ -33,6 +33,29 @@ $$
 \end{array}
 $$
 
+$$
+\begin{array}{|l|c|l|}
+\hline
+\textbf{Countable} & & \textbf{Uncountable} \\
+& \text{a lot of} & \\
+\text{We have a lot of books.} & & \text{We have a lot of sugar.} \\
+& \fbox{+}\text{ some} & \\
+& \fbox{-}\fbox{?}\text{ any} & \\
+\hline
+& & & \\
+\hline
+\text{many} & & \text{much} \\
+\text{a few} & \text{= some =} & \text{a little} \\
+\text{few} & \text{not enough} & \text{little} \\
+\hline
+\end{array}
+$$
+
+There are some students in the class. - There are any students...  
+There's some sugar in the tea. - There isn't any ...  
+How many...?  
+How much...?
+
 ## *how much / how many?*
 $$
 \begin{array}{|l|l|l|}
