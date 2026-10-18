@@ -71,9 +71,9 @@ $$
 \end{array}
 $$
 
+$\fbox{-}$
 $$
 \begin{array}{|l|l|l|}
-\fbox{-} & & \\
 \hline
 \textbf{Full form} & \textbf{Contraction} & \\
 \hline
@@ -83,6 +83,16 @@ $$
 \text{We}\textbf{ are not} & \text{We}\textbf{ aren't} & \text{next month.} \\
 \text{You}\textbf{ are not} & \text{You}\textbf{ aren't} & \\
 \text{They}\textbf{ are not} & \text{They}\textbf{ aren't} & \\
+\end{array}
+$$
+
+$\fbox{?}$
+$$
+\begin{array}{|l|l|l|l|l|l|}
+\hline
+\fbox{?} & & \fbox{$\checkmark$} & & \fbox{$\time$} & \\
+\hline
+\textbf{Am}}\text{ I} & & & \text{I}\textbf{ am.} & & \text{I}\text{'m not.} \\
 \end{array}
 $$
 
