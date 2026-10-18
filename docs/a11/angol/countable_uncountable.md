@@ -92,7 +92,8 @@ $$
 \hline
 \fbox{?} & & \fbox{$\checkmark$} & & \fbox{$\time$} & \\
 \hline
-\textbf{Am}}\text{ I} & & & \text{I}\textbf{ am.} & & \text{I}\text{'m not.} \\
+\textbf{Am}\text{ I} & & & \text{I}\textbf{ am.} & & \text{I}\text{'m not.} \\
+\textbf{Are}\text{ you} & & & \text{you}textbf{ are.} & & \text{you}\textbf{ aren't.} \\
 \end{array}
 $$
 
