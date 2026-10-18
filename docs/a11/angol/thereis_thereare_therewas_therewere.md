@@ -40,6 +40,9 @@ $$
 \hline
 \fbox{$\minus$} & \textbf{There wasn't}\text{ a remote control.} & \textbf{There weren't}\text{ any more people.} \\
 \hline
+\fbox{?} & \textbf{Was there}\text{ a ghost?} & \textbf{Were there}\text{ any lights?} \\
+\fbox{$\checkmark$}\text{ }\fbox{$\times$} & \text{Yes,}\textbf{ there was.}\text{ No,}\textbf{ there wasn't.} & \text{Yes,}\textbf{ there were.}\text{ No,}\textbf{ there weren't.} \\
+\hline
 \end{array}
 $$
 
