@@ -16,6 +16,7 @@
 
 ## There is / there are
 $$
+\begin{array}{|l|l|l|}
 \hline
 & \textbf{Singular} & \textbf{Plural} \\
 \hline
@@ -26,7 +27,11 @@ $$
 \fbox{?} & \textbf{Is there}\text{ a TV?} & \textbf{Are there}\text{ any glasses?} \\
 \fbox{$\checkmark$}\text{ }\fbox{$\times$} & \text{Yes,}\textbf{ there is.}\text{ No,}\textbf{ there isn't.} & \text{Yes,}\textbf{ there are.}\text{ No,}\textbf{ there aren't.} \\
 \hline
+\end{array}
 $$
+
+## There was / there were
+
 
 ---
 
