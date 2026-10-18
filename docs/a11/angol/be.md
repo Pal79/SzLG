@@ -39,7 +39,7 @@ $$
 $$
 \begin{array}{|l|l|l|}
 \hline
-Full form & Contraction & \\
+\text{Full form} & \text{Contraction} & \\
 \hline
 \text{I}\textbf{ am not} & \text{I}\textbf{'m not} & \\
 \text{You}\textbf{ are not} & \text{You}\textbf{ aren't} & \text{Italian} \\
