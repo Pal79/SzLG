@@ -39,8 +39,8 @@ $$
 \textbf{Countable} & & \textbf{Uncountable} \\
 & \text{a lot of} & \\
 \text{We have a lot of books.} & & \text{We have a lot of sugar.} \\
-& \fbox{+}\text{ some} & \\
-& \fbox{-}\fbox{?}\text{ any} & \\
+& \text{+ some} & \\
+& \fbox{?}\text{- ? any} & \\
 \hline
 & & & \\
 \hline
