@@ -22,7 +22,7 @@ $$
 \hline
 \fbox{+} & \textbf{There's}\text{ a piano.} & \textbf{There are}\text{ some glasses in the cupboard.} \\
 \hline
-\fbox{-} & \textbf{There isn't}\text{ a fridge.} & \textbf{There aren't}\text{ any pictures.} \\
+\fbox{$\minus$} & \textbf{There isn't}\text{ a fridge.} & \textbf{There aren't}\text{ any pictures.} \\
 \hline
 \fbox{?} & \textbf{Is there}\text{ a TV?} & \textbf{Are there}\text{ any glasses?} \\
 \fbox{$\checkmark$}\text{ }\fbox{$\times$} & \text{Yes,}\textbf{ there is.}\text{ No,}\textbf{ there isn't.} & \text{Yes,}\textbf{ there are.}\text{ No,}\textbf{ there aren't.} \\
@@ -35,6 +35,8 @@ $$
 \begin{array}{|l|l|l|}
 \hline
 & \textbf{Singular} & \textbf{Plural} \\
+\hline
+\fbox{+} & \textbf{There was}\text{ an old TV.} & \textbf{There were}\text{ only three guests.} \\
 \hline
 \end{array}
 $$
