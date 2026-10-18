@@ -86,7 +86,6 @@ $$
 \end{array}
 $$
 
-$\fbox{?}$
 $$
 \begin{array}{|l|l|l|l|l|l|}
 \hline
