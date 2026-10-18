@@ -42,7 +42,7 @@ $$
 Full form & Contraction & \\
 \hline
 \text{I}\textbf{ am not} & \text{I}\textbf{'m not} & \\
-\text{You}\textbf{ are not} & \text{You}\textbf{aren't} & \text{Italian} \\
+\text{You}\textbf{ are not} & \text{You}\textbf{ aren't} & \text{Italian} \\
 \text{He / She / It}\textbf{ is not} & \text{He / She / It}\textbf{isn't} & \text{Spanish.} \\
 \text{We}\textbf{ are not} & \text{We}\textbf{ aren't} & \text{ British.} \\
 \text{We}\textbf{ are not} & \text{You}\textbf{ aren't} & \\
@@ -72,7 +72,7 @@ $$
 \hline
 \textbf{I}\text{'m Italian.} & \textbf{My}\text{ family are from Rome.} \\
 \textbf{You}\text{'re in level 1.} & \text{This is}\textbf{ your }\text{classroom.} \\
-\textbf{He}\text{'s the director.} & \text{His}\text{ name is Michael.} \\
+\textbf{He}\text{'s the director.} & \textbf{His}\text{ name is Michael.} \\
 \textbf{She}\text{'s your teacher.} & \textbf{Her}\text{ name is Tina.} \\
 \textbf{It}\text{'s a school.} & \textbf{Its}\text{ name is Queen's School.} \\
 \textbf{We}\text{'re an international school} & \textbf{Our}\text{ students are from many different countries.} \\
@@ -81,7 +81,7 @@ $$
 \end{array}
 $$
 
-## Articles: *a / an, the*, plurals, *this / that / these / those* (Névelők: egyes és többes szám)
+## Articles: *a / an, the*, plurals, *this / that / these / those* (Névelők: egyes és többes szám)
 $$
 \begin{array}{|l|l|}
 \hline
@@ -103,6 +103,8 @@ $$
 \hline
 \end{array}
 $$
+
+### Plurals (többesszám)
 
 ---
 
