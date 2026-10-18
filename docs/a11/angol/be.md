@@ -87,7 +87,9 @@ $$
 \hline
 & \textbf{a}\text{ bag.} \\
 & \text{  pen.} \\
+\hline
 \text{It's} & \\
+\hline
 & \textbf{an}\text{ identity card.} \\
 & \text{  umbrella.} 
 \hline
@@ -110,10 +112,15 @@ $$
 \hline
 \textbf{Singular} & \textbf{Pulral} & \textbf{Spelling} \\
 \hline
-\text{a book} & \text{books} & \text{add -s} \\
-\text{a key} & \text{keys} & \\
+\text{a book} & \text{book}\textbf{s} & \text{add -s} \\
+\text{a key} & \text{key}\textbf{s} & \\
 \hline
-\text{a watch} & \text{watch}\textbf{es} & \text{add -es after ch, sh, s, x} \\
+\text{a watch} & \text{watch}\textbf{es} & \text{add -es after}\textit{ ch, sh, s, x} \\
+\text{a box} & \text{boxes} & \\
+\hline
+\text{a country} & \text{countr}\textbf{ies} & \text{consonant + y > }\textit{ies} \\
+\text{a dictionary} & \text{dictionar}\textbf{ies} & \\
+\hline
 \end{array}
 $$
 
