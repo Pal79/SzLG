@@ -78,8 +78,7 @@ $$
 $$
 
 ## *be going to* (plans)
-$\fbox{+}$
-
+### $\fbox{+}$
 $$
 \begin{array}{|l|l|l|}
 \hline
@@ -94,7 +93,7 @@ $$
 \end{array}
 $$
 
-$\fbox{-}$
+### $\fbox{-}$
 $$
 \begin{array}{|l|l|l|}
 \hline
