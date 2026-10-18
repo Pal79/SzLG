@@ -86,12 +86,12 @@ $$
 \begin{array}{|l|l|}
 \hline
 & \textbf{a}\text{ bag.} \\
-& \text{  pen.} \\
+& \text{pen.} \\
 \hline
 \text{It's} & \\
 \hline
 & \textbf{an}\text{ identity card.} \\
-& \text{  umbrella.} 
+& \text{umbrella.} \\
 \hline
 \end{array}
 $$
