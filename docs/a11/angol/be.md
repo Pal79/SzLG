@@ -124,6 +124,18 @@ $$
 \end{array}
 $$
 
+### this / that / these / those
+$$
+\begin{array}{|l|}
+\hline
+\text{What's}\textbf{ this}\text{? It's a lighter.} \\
+\textbf{That}\text{ car is Italian.} \\
+\textbf{These}\text{ watches are Japanese.} \\
+\text{What are}\textbf{ those}\text{? They're tables.} \\
+\hline
+\end{array}
+$$
+
 ---
 
 [Vissza](../angol.md)
