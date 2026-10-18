@@ -38,6 +38,8 @@ $$
 \hline
 \fbox{+} & \textbf{There was}\text{ an old TV.} & \textbf{There were}\text{ only three guests.} \\
 \hline
+\fbox{$\minus$} & \textbf{There wasn't}\text{ a remote control.} & \textbf{There weren't}\text{ any more people.} \\
+\hline
 \end{array}
 $$
 
