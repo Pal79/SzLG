@@ -31,7 +31,13 @@ $$
 $$
 
 ## There was / there were
-
+$$
+\begin{array}{|l|l|l|}
+\hline
+& \textbf{Singular} & \textbf{Plural} \\
+\hline
+\end{array}
+$$
 
 ---
 
