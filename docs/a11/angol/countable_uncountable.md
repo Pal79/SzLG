@@ -54,6 +54,24 @@ $$
 \end{array}
 $$
 
+## *be going to* (plans)
+$$
+\begin{array}{|l|l|l|}
+\hline
+\multicolumn{3}{|c|}{\fbox{+}} \\
+\hline
+\textbf{Full form} & \textbf{Contraction} & \\
+\cline{1-2}
+\text{I}\textbf{ am} & \text{I}\textbf{'m} & \\
+\text{You}\textbf{ are} & \text{You}\textbf{'re} & \\
+\text{He / She / It}\textbf{ is} & \text{He / She / It}\textbf{'s} & \textbf{going to have} \\
+\text{We}\textbf{ are} & \text{We}\textbf{'re} & \text{a holiday} \\
+\text{You}\textbf{ are} & \text{You}\textbf{'re} & \text{next month.} \\
+\text{They}\textbf{ are} & \text{They}\textbf{'re} & \\
+\hline
+\end{array}
+$$
+
 ---
 
 [Vissza](../angol.md)
