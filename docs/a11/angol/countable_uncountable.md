@@ -90,10 +90,15 @@ $\fbox{?}$
 $$
 \begin{array}{|l|l|l|l|l|l|}
 \hline
-\fbox{?} & & \fbox{$\checkmark$} & & \fbox{$\time$} & \\
+\fbox{?} & & \fbox{$\checkmark$} & & \fbox{$\times$} & \\
 \hline
 \textbf{Am}\text{ I} & & & \text{I}\textbf{ am.} & & \text{I}\text{'m not.} \\
-\textbf{Are}\text{ you} & & & \text{you}textbf{ are.} & & \text{you}\textbf{ aren't.} \\
+\textbf{Are}\text{ you} & & & \text{you}\textbf{ are.} & & \text{you}\textbf{ aren't.} \\
+\textbf{Is}\text{ he / she / it} & \textbf{going to have} & \text{Yes,} & \text{he / she / it}\textbf{ is.} & \text{No,} & \text{he / she it}\textbf{ isn't.} \\
+\textbf{Are}\text{ we} & \text{a holiday} & & \text{we}\textbf{ are} & & \text{we}\textbf{ aren't.} \\
+\textbf{Are}\text{ you} & \text{next month?} & & \text{you}\textbf{ are} & & \text{you}\textbf{ aren't.} \\
+\textbf{Are}\text{ they} & & & \text{they}\textbf{ are.} & & \text{they}\textbf{ aren't.} \\
+\hline
 \end{array}
 $$
 
