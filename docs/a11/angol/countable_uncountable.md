@@ -49,7 +49,7 @@ $$
 \textbf{How many}\text{ sweets} & \text{I ate}\textbf{ a lot of}\text{ sweets.} & \textbf{A lot.} \\
 \text{did you eat?} & \text{I ate}\textbf{ quite a lot of}\text{ sweets.} & \textbf{Quite a lot.} \\
 & \text{I didn't eat}\textbf{ many}\text{ sweets.} & \textbf{Not many.} \\
-& \text{I didn't eat}\textbf{ any}\text{ sweets.} & \textbf{None.}
+& \text{I didn't eat}\textbf{ any}\text{ sweets.} & \textbf{None.} \\
 \hline
 \end{array}
 $$
@@ -57,11 +57,9 @@ $$
 ## *be going to* (plans)
 $$
 \begin{array}{|l|l|l|}
-\hline
-\multicolumn{3}{|c|}{\fbox{+}} \\
+\fbox{+} & & \\
 \hline
 \textbf{Full form} & \textbf{Contraction} & \\
-\cline{1-2}
 \text{I}\textbf{ am} & \text{I}\textbf{'m} & \\
 \text{You}\textbf{ are} & \text{You}\textbf{'re} & \\
 \text{He / She / It}\textbf{ is} & \text{He / She / It}\textbf{'s} & \textbf{going to have} \\
