@@ -46,6 +46,23 @@ $$
 \end{array}
 $$
 
+## Present continuous: *be + verb + ing*
+### $\fbox{+}$
+$$
+\begin{array}{|l|l|l|}
+\hline
+\textbf{Full form} & \textbf{Contraction} & \\
+\hline
+\text{I}\textbf{ am} & \text{I}\textbf{'m} & \\
+\text{You}\textbf{ are} & \text{You}\textbf{'re} & \textbf{crying.} \\
+\text{He / She / It}\textbf{ is} & \text{He / She / It}\textbf{'s} & \textbf{having}\text{ a party.} \\
+\text{We}\textbf{ are} & \text{We}\textbf{'re} & \textbf{arguing.} \\
+\text{You}\textbf{ are} & \text{You}\textbf{'re} & \\
+\text{They}\textbf{ are} & \text{They}\textbf{'re} & \\
+\hline
+\end{array}
+$$
+
 ---
 
 [Vissza](../angol.md)
