@@ -83,6 +83,7 @@ $$
 \text{We}\textbf{ are not} & \text{We}\textbf{ aren't} & \text{next month.} \\
 \text{You}\textbf{ are not} & \text{You}\textbf{ aren't} & \\
 \text{They}\textbf{ are not} & \text{They}\textbf{ aren't} & \\
+\hline
 \end{array}
 $$
 
