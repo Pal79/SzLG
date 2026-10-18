@@ -63,6 +63,32 @@ $$
 \end{array}
 $$
 
+### $\fbox{-}$
+$$
+\begin{array}{|l|l|l|}
+\hline
+\textbf{Full form} & \textbf{Contraction} & \\
+\hline
+\text{I}\textbf{ am not} & \text{I}\textbf{'m not} & \\
+\text{You}\textbf{ are not} & \text{You}\textbf{'re not} & \textbf{crying.} \\
+\text{He / She / It}\textbf{ is not} & \text{He / She / It}\textbf{ isn't} & \textbf{having}\text{ a party.} \\
+\text{We}\textbf{ are not} & \text{We}\textbf{ aren't} & \textbf{arguing.} \\
+\text{You}\textbf{ are not} & \text{You}\textbf{ aren't} & \\
+\text{They}\textbf{ are not} & \text{They}\textbf{ aren't} & \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{|l|l|l|l|l|l|}
+\hline
+\fbox{?} & & & \fbox{$\checkmark$} & & \fbox{$\times$} & \\
+\hline
+\textbf{Am}\text{ I} & & & \text{I}\textbf{ am} & & \text{I}\textbf{'m not.} \\
+\hline
+\end{array}
+$$
+
 ---
 
 [Vissza](../angol.md)
