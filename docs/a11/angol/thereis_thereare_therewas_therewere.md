@@ -24,7 +24,7 @@ $$
 \fbox{-} & \textbf{There isn't}\text{ a fridge.} & \textbf{There aren't}\text{ any pictures.} \\
 \hline
 \fbox{?} & \textbf{Is there}\text{ a TV?} & \textbf{Are there}\text{ any glasses?} \\
-\fbox{$\checkmark$}\text{ }\fbox{$\times$} & \text{Yes,}\textbf{ there was.}\text{ No,}\textbf{ there wasn't.} & \text{Yes,}\textbf{ there were.}\text{ No,}\textbf{ there weren't.} \\
+\fbox{$\checkmark$}\text{ }\fbox{$\times$} & \text{Yes,}\textbf{ there is.}\text{ No,}\textbf{ there isn't.} & \text{Yes,}\textbf{ there are.}\text{ No,}\textbf{ there aren't.} \\
 \hline
 $$
 
