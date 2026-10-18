@@ -94,6 +94,18 @@ $$
 \end{array}
 $$
 
+## Present simple or present continuous
+$$
+\begin{array}{|l|l|}
+\hline
+\textbf{Present simple} & \textbf{Present continuous} \\
+\hline
+\text{My sister}\textbf{ works}\text{ in a bank.} & \text{Today she}\textbf{'s working}\text{ at home.} \\
+\text{What}\textbf{ do you}\text{ usually}\textbf{ wear}\text{ to work?} & \text{What}\textbf{ are you wearing}\text{ now?} \\
+\hline
+\end{array}
+$$
+
 ---
 
 [Vissza](../angol.md)
