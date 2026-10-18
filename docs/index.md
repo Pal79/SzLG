@@ -7,7 +7,7 @@
 
 | `9 / A` | `10 / A` | 11 / A |
 | :-: | :-: | :-: |
-| [Angol](./a9/angol.md) |  |  |
+| [Angol](./a9/angol.md) |  | [Angol](./a11/angol.md) |
 | [Biológia](./a9/biologia.md) | [Biológia](./a10/biologia.md) |  |
 |  |  | [Digitális kultúra](./a11/digitalis_kultura.md) |
 | [Fizika](./a9/fizika.md) | [Fizika](./a10/fizika.md) |  |
