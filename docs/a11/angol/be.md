@@ -106,7 +106,7 @@ $$
 \end{array}
 $$
 
-### Plurals (többesszám)
+### Plurals (többesszám)
 $$
 \begin{array}{|l|l|l|}
 \hline
