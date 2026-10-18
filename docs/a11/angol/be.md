@@ -105,6 +105,17 @@ $$
 $$
 
 ### Plurals (többesszám)
+$$
+\begin{array}{|l|l|l|}
+\hline
+\textbf{Singular} & \textbf{Pulral} & \textbf{Spelling} \\
+\hline
+\text{a book} & \text{books} & \text{add -s} \\
+\text{a key} & \text{keys} & \\
+\hline
+\text{a watch} & \text{watch}\textbf{es} & \text{add -es after ch, sh, s, x} \\
+\end{array}
+$$
 
 ---
 
