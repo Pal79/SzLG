@@ -45,7 +45,7 @@ $$
 $$
 \begin{array}{}
 \hline
-\fbox{?} & \fbox{$\chekmark$} & & \fbox{$\times$} & \\
+\fbox{?} & \fbox{$\checkmark$} & & \fbox{$\times$} & \\
 \hline
 \textbf{Do}\text{ I work?} & & \text{I}\textbf{ do.} & & \text{I}\textbf{ don't.} \\
 \textbf{Do}\text{ you work?} & & \text{you}\textbf{ do.} & & \text{you}\textbf{ don't.} \\
@@ -57,12 +57,14 @@ $$
 \end{array}
 $$
 
-## possessive *s*
+## possessive *s*
 $$
 \begin{array}{|l|}
+\hline
 \text{She is Naomi Cambell}\textbf{'s}\text{ mother.} \\
 \text{It's James}\textbf{'s}\text{ house.} \\
 \text{They are my parents}\textbf{s'}\text{ friends.} \\
+\hline
 \end{array}
 $$
 
