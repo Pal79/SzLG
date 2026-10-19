@@ -24,6 +24,11 @@ $$
 \end{array}
 $$
 
+## telling the time
+![Telling the time](../images/telling-the-time.png)
+
+
+
 ---
 
 [Vissza](../angol.md)
