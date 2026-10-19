@@ -96,6 +96,18 @@ $$
 \end{array}
 $$
 
+## Past simple irregular verbs
+$$
+\begin{array}{|l|l|l|}
+\hline
+\textbf{Infinitive} & \textbf{Past }\fbox{+} & \textbf{Past }\fbox{-} \\
+\hline
+\text{go} & \textbf{went} & \textbf{didn't go} \\
+\text{have} & \textbf{had} & \textbf{didn't have} \\
+\text{get} & \textbf{got} & \textbf{didn't get} \\
+\end{array}
+$$
+
 ---
 
 [Vissza](../angol.md)
