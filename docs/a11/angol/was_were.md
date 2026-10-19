@@ -36,7 +36,9 @@ $$
 \hline
 \fbox{?} & & & \fbox{$\checkmark$} & & \fbox{$\times$} & \\
 \hline
-\textbf{Was} & \text{I} & & & \text{I}\textbf{ was} & & \text{I}\textbf{ wasn't.} \\
+\textbf{Was} & \text{I} & & & \text{I}\textbf{ was.} & & \text{I}\textbf{ wasn't.} \\
+\textbf{Were} & \text{you} & & & \text{You}\textbf{ were.} & & \text{You}\textbf{ weren't.} \\
+\textbf{Was} & \text{He / She / It} & \text{famous.} & \text{Yes,} & \text{He / She / It}\textbf{ was.} & \text{No,} & \text{he / she / it}\textbf{ wasn't.} \\
 \end{array}
 $$
 
