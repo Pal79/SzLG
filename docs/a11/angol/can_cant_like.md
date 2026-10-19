@@ -28,6 +28,12 @@ $$
 \end{array}
 $$
 
+$$
+\begin{array}{|l|l|l|l|l|l|l|l|l|}
+\fbox{?} & & & \fbox{$\checkmark$} & & & \fbox{$\times$} & & \\
+\end{array}
+$$
+
 ---
 
 [Vissza](../angol.md)
