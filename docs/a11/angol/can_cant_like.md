@@ -76,6 +76,13 @@ $$
 \begin{array}{|l|l|l|}
 \hline
 \text{I} & \text{me} & \text{Wait for}\textbf{ me.} \\
+\text{you} & \text{you} & \text{I love}\textbf{ you.} \\
+\text{he} & \text{him} & \text{She isn't in love with}\textbf{ him.} \\
+\text{she} & \text{her} & \text{He kisses}\textbf{ her.} \\
+\text{it} & \text{it} & \text{I don't like}\textbf{ it.} \\
+\text{we} & \text{us} & \text{Can you help}\textbf{ us?} \\
+\text{you} & \text{you} & \text{See}\textbf{ you}\text{ tomorrow.} \\
+\text{they} & \text{them} & \text{Phone}\textbf{ them}\text{ this evening.} \\
 \hline
 \end{array}
 $$
