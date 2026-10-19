@@ -62,6 +62,14 @@ $$
 \end{array}
 $$
 
+$$
+\begin{array}{|l|l|l|l|l|l|l|l|l|}
+\hline
+\fbox{?} & & & \fbox{$\chekmark$} & & & \fbox{$\times$} & & \\
+\hline
+\end{array}
+$$
+
 ---
 
 [Vissza](../angol.md)
