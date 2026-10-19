@@ -52,6 +52,12 @@ $$
 \hline
 \fbox{+} & & \fbox{-} & \\
 \hline
+\text{I} & & \text{I} & \\
+\text{You} & & \text{You} & \\
+\text{He / She / It} & \textbf{worked} & \text{He / She / It} & \textbf{didn't work.} \\
+\text{We} & \text{yesterday.} & \text{We} & \text{yesterday.} \\
+\text{You} & & \text{You} & \\
+\text{They} & & \text{They} & \\
 \end{array}
 $$
 
