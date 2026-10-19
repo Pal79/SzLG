@@ -48,7 +48,7 @@ $$
 
 ## Past simple regular verbs
 $$
-\begin{array}{}
+\begin{array}{|l|l|l|l|}
 \hline
 \fbox{+} & & \fbox{-} & \\
 \hline
