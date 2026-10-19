@@ -46,7 +46,7 @@ $$
 \end{array}
 $$
 
-## Past simple regular verbs
+## Past simple regular verbs
 $$
 \begin{array}{}
 \hline
