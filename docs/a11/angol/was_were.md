@@ -27,6 +27,14 @@ $$
 \text{We} & \textbf{were} & & \text{We} & \textbf{weren't} & \\
 \text{You} & \textbf{were} & & \text{You} & \textbf{weren't} & \\
 \text{They} & \textbf{were} & & \text{They} & \textbf{weren't} & \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{|l|l|l|l|l|l|l|}
+\hline
+\fbox{?} & & & \fbox{$\checkmark$} & & \fbox{$\times$} & & \\
 \end{array}
 $$
 
