@@ -105,6 +105,14 @@ $$
 \text{go} & \textbf{went} & \textbf{didn't go} \\
 \text{have} & \textbf{had} & \textbf{didn't have} \\
 \text{get} & \textbf{got} & \textbf{didn't get} \\
+\text{buy} & \textbf{bought} & \textbf{didn't buy} \\
+\text{leave} & \textbf{left} & \textbf{didn't leave} \\
+\text{drive} & \textbf{drove} & \textbf{didn't drive} \\
+\text{meet} & \textbf{met} & \textbf{didn't meet} \\
+\text{see} & \textbf{saw} & \textbf{didn't see} \\
+\text{wear} & \textbf{wore} & \textbf{didn't wear} \\
+\text{do} & \textbf{did} & \textbf{didn't do} \\
+\hline
 \end{array}
 $$
 
