@@ -59,7 +59,8 @@ $$
 $$
 \begin{array}{|l|l|l|}
 \hline
-
+\textbf{Infinitive} & \textbf{Verb}\text{ +}\textit{ -ing} & \textbf{Spelling} \\
+\hline
 \end{array}
 $$
 
