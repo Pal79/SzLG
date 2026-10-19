@@ -57,6 +57,15 @@ $$
 \end{array}
 $$
 
+## possessive *s*
+$$
+\begin{array}{|l|}
+\text{She is Naomi Cambell}\textbf{'s}\text{ mother.} \\
+\text{It's James}\textbf{'s}\text{ house.} \\
+\text{They are my parents}\textbf{s'}\text{ friends.} \\
+\end{array}
+$$
+
 ---
 
 [Vissza](../angol.md)
