@@ -77,6 +77,25 @@ $$
 \end{array}
 $$
 
+### Spelling rules for regular verbs
+$$
+\begin{array}{|l|l|l|}
+\hline
+\textbf{Infinitive} & \textbf{Past} & \textbf{Spelling} \\
+\hline
+\text{watch} & \text{watch}\textbf{ed} & \text{add -ed} \\
+\text{play} & \text{paly}\textbf{ed} & \\
+\hline
+\text{live} & \text{live}\textbf{d} & \text{add -d} \\
+\text{smoke} & \text{smoke}\textbf{d} & \\
+\hline
+\text{stop} & \text{stop}\textbf{ped} & \text{one vowel + one consonant = double consonant} \\
+\hline
+\text{study} & \text{stud}\textbf{ied} & \text{consonant + y > ied} \\
+\hline
+\end{array}
+$$
+
 ---
 
 [Vissza](../angol.md)
