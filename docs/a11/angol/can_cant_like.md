@@ -61,6 +61,13 @@ $$
 \hline
 \textbf{Infinitive} & \textbf{Verb}\text{ +}\textit{ -ing} & \textbf{Spelling} \\
 \hline
+\text{cook} & \text{I like cook}\textbf{ing.} & \text{add -ing} \\
+\text{study} & \text{She hates study}\textbf{ing.} & \\
+\hline
+\text{dance} & \text{I love danc}\textbf{ing.} & \text{- e + add -ing} \\
+\hline
+\text{shop} & \text{I don't like shop}\textbf{ping.} & \text{one vowel + one consonant = double consonant + -ing} \\
+\hline
 \end{array}
 $$
 
