@@ -42,6 +42,16 @@ $$
 \textbf{Were} & \text{we} & & & \text{We}\textbf{ were.} & & \text{we}\textbf{ weren't.} \\
 \textbf{Were} & \text{you} & & & \text{You}\textbf{ were.} & & \text{you}\textbf{ weren't.} \\
 \textbf{Were} & \text{they} & & & \text{They}\textbf{ were.} & & \text{They}\textbf{ weren't.} \\
+\hline
+\end{array}
+$$
+
+## Past simple regular verbs
+$$
+\begin{array}{}
+\hline
+\fbox{+} & & \fbox{-} & \\
+\hline
 \end{array}
 $$
 
