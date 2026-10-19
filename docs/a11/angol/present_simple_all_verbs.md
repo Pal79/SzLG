@@ -14,7 +14,7 @@
 
 ---
 
-## present simple all verbs $\fbox{+}$ and $\fbox{-}$
+## present simple all verbs $\fbox{+}$ and $\fbox{-}$
 $$
 \begin{array}{|l|l|}
 \hline
@@ -30,7 +30,7 @@ $$
 \end{array}
 $$
 
-### spelling rules for *he / she / it*
+### spelling rules for *he / she / it*
 $$
 \begin{array}{|l|l|}
 \hline
