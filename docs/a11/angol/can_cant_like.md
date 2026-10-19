@@ -42,6 +42,16 @@ $$
 \end{array}
 $$
 
+## like (+ verb + -ing)
+$$
+\begin{array}{|l|l|}
+\text{$:blush: :blush:$ }\text{I}\textbf{ love} & \textbf{shopping.} \\
+\text{:blush: }\text{I}\textbf{ like} & \textbf{going}\text{ to the cinema.} \\
+\text{:confused: }\text{I}\textbf{ don't like} & \textbf{doing}\text{ housework.} \\
+\text{:confused: :confused: }\text{I}\textbf{ hate} & \textbf{driveing}\text{ at night.} \\
+\end{array}
+$$
+
 ---
 
 [Vissza](../angol.md)
