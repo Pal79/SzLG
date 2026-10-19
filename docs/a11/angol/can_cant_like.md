@@ -39,16 +39,27 @@ $$
 & \text{we} & \text{help?} & & \text{we} & & & \text{we} & \\
 & \text{you} & & & \text{you} & & & \text{you} & \\
 & \text{they} & & & \text{they} & & & \text{they} & \\
+\hline
 \end{array}
 $$
 
 ## like (+ verb + -ing)
 $$
 \begin{array}{|l|l|}
+\hline
 \text{$:blush: :blush:$ }\text{I}\textbf{ love} & \textbf{shopping.} \\
 \text{:blush: }\text{I}\textbf{ like} & \textbf{going}\text{ to the cinema.} \\
 \text{:confused: }\text{I}\textbf{ don't like} & \textbf{doing}\text{ housework.} \\
 \text{:confused: :confused: }\text{I}\textbf{ hate} & \textbf{driveing}\text{ at night.} \\
+\hline
+\end{array}
+$$
+
+### spelling rules for the *-ing* form
+$$
+\begin{array}{|l|l|l|}
+\hline
+
 \end{array}
 $$
 
