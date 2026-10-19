@@ -41,6 +41,22 @@ $$
 \end{array}
 $$
 
+## present simple all verbs $\fbox{?}$
+$$
+\begin{array}{}
+\hline
+\fbox{?} & \fbox{$\chekmark$} & & \fbox{$\times$} & \\
+\hline
+\textbf{Do}\text{ I work?} & & \text{I}\textbf{ do.} & & \text{I}\textbf{ don't.} \\
+\textbf{Do}\text{ you work?} & & \text{you}\textbf{ do.} & & \text{you}\textbf{ don't.} \\
+\textbf{Does}\text{ he / she / it work?} & \text{Yes,} & \text{he / she / it}\textbf{ does.} & \text{No,} & \text{he / she / it}\textbf{ doesn't.} \\
+\textbf{Do}\text{ we work?} & & \text{we}\textbf{ do.} & & \text{we}\textbf{ don't.} \\
+\textbf{Do}\text{ you work?} & & \text{you}\textbf{ do.} & & \text{you}\textbf{ don't.} \\
+\textbf{Do}\text{ they work?} & & \text{they}\textbf{ do.} & & \text{they}\textbf{ don't.} \\
+\hline
+\end{array}
+$$
+
 ---
 
 [Vissza](../angol.md)
