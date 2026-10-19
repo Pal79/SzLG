@@ -87,6 +87,22 @@ $$
 \end{array}
 $$
 
+## possessive pronouns: *mine, yours, etc.*
+$$
+\begin{array}{|l|l|l|}
+\hline
+\textbf{Subject pronouns} & \textbf{Possessive adjectives} & \textbf{Possessive pronouns} \\
+\hline
+\text{I} & \text{It's}\textbf{ my}\text{ car.} & \text{It's}\textbf{ mine.} \\
+\text{you} & \text{It's}\textbf{ your}\text{ car.} & \text{It's}\textbf{ yours.} \\
+\text{he} & \text{It's}\textbf{ his}\text{ car.} & \text{It's}\textbf{ his.} \\
+\text{she} & \text{It's}\textbf{ her}\text{ car.} & \text{It's}\textbf{ hers.} \\
+\text{we} & \text{It's}\textbf{ our}\text{ car.} & \text{It's}\textbf{ ours.} \\
+\text{they} & \text{It's}\textbf{ thier}\text{ car.} & \text{It's}\textbf{ theirs.} \\
+\hline
+\end{array}
+$$
+
 ---
 
 [Vissza](../angol.md)
