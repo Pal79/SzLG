@@ -15,7 +15,7 @@
 ---
 
 # Was / were
-## Past simple of *be: was / were*
+## Past simple of *be: was / were*
 $$
 \begin{array}{|l|l|l|l|l|l|}
 \hline
