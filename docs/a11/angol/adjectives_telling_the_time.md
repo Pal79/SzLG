@@ -41,6 +41,22 @@ $$
 \end{array}
 $$
 
+## Prepositions of time
+$$
+\begin{array}{|l|l|l|}
+\hline
+\textbf{in} & \textbf{on} & \textbf{at} \\
+\hline
+\text{the morning} & \text{Monday (morning)} & \text{three o'clock} \\
+\text{the afternoon} & \text{the 12th of July} & \text{midday / midnight} \\
+\text{the evening} & \text{my birthday} & \text{lunchtime} \\
+\text{December} & & \text{night} \\
+\text{the summer} & & \text{the weekend} \\
+\text{1998} & & \text{Christmass / Easter / New Year} \\
+\hline
+\end{array}
+$$
+
 ---
 
 [Vissza](../angol.md)
