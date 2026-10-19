@@ -33,6 +33,7 @@ $$
 \hline
 \fbox{?} & & & \fbox{$\checkmark$} & & & \fbox{$\times$} & & \\
 \hline
+& \text{I} & & & \text{I} & & & \text{I} & \\
 \end{array}
 $$
 
