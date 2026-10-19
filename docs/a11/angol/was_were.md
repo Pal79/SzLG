@@ -58,6 +58,7 @@ $$
 \text{We} & \text{yesterday.} & \text{We} & \text{yesterday.} \\
 \text{You} & & \text{You} & \\
 \text{They} & & \text{They} & \\
+\hline
 \end{array}
 $$
 
