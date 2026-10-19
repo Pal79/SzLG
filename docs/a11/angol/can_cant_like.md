@@ -34,6 +34,11 @@ $$
 \fbox{?} & & & \fbox{$\checkmark$} & & & \fbox{$\times$} & & \\
 \hline
 & \text{I} & & & \text{I} & & & \text{I} & \\
+& \text{you} & \text{swim?} & & \text{you} & & & \text{you} & \\
+\textbf{Can} & \text{he / she / it} & \text{come?} & \text{Yes,} & \text{he / she / it} & \textbf{can.} & \text{No,} & \text{he / she / it} & \textbf{can't.} \\
+& \text{we} & \text{help?} & & \text{we} & & & \text{we} & \\
+& \text{you} & & & \text{you} & & & \text{you} & \\
+& \text{they} & & & \text{they} & & & \text{they} & \\
 \end{array}
 $$
 
