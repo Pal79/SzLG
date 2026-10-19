@@ -34,7 +34,9 @@ $$
 $$
 \begin{array}{|l|l|}
 \hline
-
+\text{I work / play / live.} & \text{He}\textbf{ works / plays / lives.} \\
+\text{I watch / finish / go / do.} & \text{He}\textbf{ watches / finishes / goes / does.} \\
+\text{I study.} & \text{He}\textbf{ studies.} \\
 \hline
 \end{array}
 $$
