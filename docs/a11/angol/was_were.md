@@ -35,6 +35,8 @@ $$
 \begin{array}{|l|l|l|l|l|l|l|}
 \hline
 \fbox{?} & & & \fbox{$\checkmark$} & & \fbox{$\times$} & \\
+\hline
+\textbf{Was} & \text{I} & & & \text{I}\textbf{ was} & & \text{I}\textbf{ wasn't.} \\
 \end{array}
 $$
 
