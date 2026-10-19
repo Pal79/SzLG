@@ -27,7 +27,19 @@ $$
 ## telling the time
 ![Telling the time](../images/telling-the-time.png)
 
-
+## adverbs of frequency
+$$
+\begin{array}{|l|}
+\hline
+\text{I}\textbf{ always}\text{ have toast for breakfast.} \\
+\text{Do you}\textbf{ usually}\text{ go to work by bus?} \\
+\text{She doesn't}\textbf{ often}\text{ go to bed late.} \\
+\textbf{!}\text{ They're}\textbf{ sometimes}\text{ late.} \\
+\text{She}\textbf{ hardly ever}\text{ watches TV.} \\
+\textbf{!}\text{ He is}\textbf{ never}\text{ stressed.} \\
+\hline
+\end{array}
+$$
 
 ---
 
