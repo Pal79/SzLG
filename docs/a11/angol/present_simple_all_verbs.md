@@ -43,7 +43,7 @@ $$
 
 ## present simple all verbs $\fbox{?}$
 $$
-\begin{array}{}
+\begin{array}{|l|l|l|l|l|}
 \hline
 \fbox{?} & \fbox{$\checkmark$} & & \fbox{$\times$} & \\
 \hline
