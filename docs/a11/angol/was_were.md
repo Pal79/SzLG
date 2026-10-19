@@ -65,7 +65,14 @@ $$
 $$
 \begin{array}{|l|l|l|l|l|l|l|l|l|}
 \hline
-\fbox{?} & & & \fbox{$\chekmark$} & & & \fbox{$\times$} & & \\
+\fbox{?} & & & \fbox{$\checkmark$} & & & \fbox{$\times$} & & \\
+\hline
+& \text{I} & & & \text{I} & & & \text{I} & \\
+& \text{you} & & & \text{you} & & & \text{you} & \\
+\textbf{Did} & \text{he / she / it} & \textbf{work} & \text{Yes,} & \text{he / she / it} & \textbf{did.} & \text{No,} & \text{he / she / it} & \textbf{didn't.} \\
+& \text{we} & \text{yesterday?} & & \text{we} & & & \text{we} & \\
+& \text{you} & & & \text{you} & & & \text{you} & \\
+& \text{they} & & & \text{they} & & & \text{they} & \\
 \hline
 \end{array}
 $$
