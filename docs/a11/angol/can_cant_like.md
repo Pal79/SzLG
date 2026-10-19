@@ -71,6 +71,15 @@ $$
 \end{array}
 $$
 
+## object pronouns: *me, you him, etc.*
+$$
+\begin{array}{|l|l|l|}
+\hline
+\text{I} & \text{me} & \text{Wait for}\textbf{ me.} \\
+\hline
+\end{array}
+$$
+
 ---
 
 [Vissza](../angol.md)
