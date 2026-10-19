@@ -34,7 +34,7 @@ $$
 $$
 \begin{array}{|l|l|l|l|l|l|l|}
 \hline
-\fbox{?} & & & \fbox{$\checkmark$} & & \fbox{$\times$} & & \\
+\fbox{?} & & & \fbox{$\checkmark$} & & \fbox{$\times$} & \\
 \end{array}
 $$
 
