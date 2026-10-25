@@ -61,13 +61,13 @@ int main() {
 ### Egyszerű matematikai program (csak összeadás):
 ```cpp
 #include <iostream>
-#include <windows.h> // csak windows-nál
+#include <windows.h> // csak windows-nál, az ékezetes karakterek megjelenítéséhez
 
 using namespace std;
 
 int main() {
-    SetConsoleOutputCP(1250);
-    SetConsoleCP(1250);
+    SetConsoleOutputCP(1250); // csak Windows-nál, ékezetes karakterek kimenetnél
+    SetConsoleCP(1250);  // csak Windows-nál, ékezetes karakterek bemenetnél
 
     // 1. VÁLTOZÓK LÉTREHOZÁSA (deklaráció)
     // Az 'int' azt jelenti, hogy egész számokat fogunk tárolni bennük
@@ -88,6 +88,17 @@ int main() {
     
     return 0; // Jelzés a rendszernek: a program hiba nélkül lefutott
 }
+```
+
+## Build-elés és futtatás Mac-en és Linuxon
+### Mac
+Ha a program elkészült, írd be terminálban
+```cpp
+clang++ main.cpp -o main
+```
+### Linux
+```cpp
+g++ main.cpp -o main
 ```
 
 ---
