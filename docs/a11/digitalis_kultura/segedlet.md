@@ -165,8 +165,9 @@ $$
          - Példa: `int a = 10;`
             - `cout << ++a << endl;` -> 11
 - Feltételes operátor
-   - Alakja: `feltétel ? ha_igaz : ha_hamis;`
-- Bitléptető és bitenkénti operátorok (esetleg később kifejtem)
+   - Alakja: `feltétel ? ha_igaz : ha_hamis;`, a többit később
+- Bitléptető és bitenkénti operátorok
+   - Kicsit később
 
 
 ---
