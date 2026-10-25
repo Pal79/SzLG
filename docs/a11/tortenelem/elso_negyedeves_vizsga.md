@@ -17,7 +17,7 @@
 # A negyedéves vizsga anyaga a 11. évfolyamon
 
 ## A reformkor
-<details>
+<details markdown="1">
 <summary>A politikai élet színterei</summary>
 
 ---
