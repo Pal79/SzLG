@@ -15,25 +15,43 @@
 ---
 
 # Arany János (1817-1882)
-- Nagyszalontán született, itt járt iskolába, már iskolás évei alatt segédtanítói állást vállalt.  
-- `1833`: a debreceni kollégiumban tanult, de megszakította tanulmányait, hogy pénzt keressen a továbbtanuláshoz.  
-- `1835`: Visszatér Debrecenbe tanulni, de tanulmányait nem fejezte be, vándorszínésznek állt, de egy álom hatására hazatért, anyja meghalt, apja megvakult.  
-- `1836 - 1839`: Igazgató helyettes Szalontán, majd `1840-1848`-ig másodjegyző.
-- `1845`: Az elveszett alkotmány, a víg eposszal elnyeri a Kisfaludy társaság díját.
-- `1846`: Toldi, újabb díj, elnyeri Petőfi barátságát
-- `1848`: Toldi estélye
-- `1848 ősz`: Nemzet ők - Arad, majd belügyminisztériumi fogalmazó Debrecenben és Pesten, világos után bujdosnia kellett, állását elvesztette, fél évig Geszten a Tisza családnál tanított
-- `1851 - 1860`-ig: Nagykőrös - gimnáziumi tanár
-- `1860`: Pest a Kisfaludy társaság igazgatója lesz
-- `1862`: szépirodalmi figyelő
-- `1865`: Koszorú című folyóiratok szerkesztője
-- `1863`: elkészült a Buda Halála című eposza, mely a tervezett Csaba trilógiájának lett volna az első darabja
-- `1865`: az Akadémia titkára / főtitkára lett
-- `1865`: a lánya meghalt, a tragédia hatására egy évtizedig elhallhatott benne a költő
-- `1867`: lemond a főtitkárságról, de csak `1879`-ben fogadják el. Tiszteletbeli főtitkári címet adtak neki.
-- `1877`: nyarat a Margit-szigeten töltötte, ekkor írta az Őszikék verseit
-- `1879`: Toldi szerelme
-- Budapesten halt meg
+Nagyszalontán született, itt járt iskolába, már iskolás évei alatt segédtanítói állást vállalt.  
+
+`1833`: a debreceni kollégiumban tanult, de megszakította tanulmányait, hogy pénzt keressen a továbbtanuláshoz.  
+
+`1835`: Visszatér Debrecenbe tanulni, de tanulmányait nem fejezte be, vándorszínésznek állt, de egy álom hatására hazatért, anyja meghalt, apja megvakult.  
+
+`1836 - 1839`: Igazgató helyettes Szalontán, majd `1840-1848`-ig másodjegyző.
+
+`1845`: Az elveszett alkotmány, a víg eposszal elnyeri a Kisfaludy társaság díját.
+
+`1846`: Toldi, újabb díj, elnyeri Petőfi barátságát
+
+`1848`: Toldi estélye
+
+`1848 ősz`: Nemzet ők - Arad, majd belügyminisztériumi fogalmazó Debrecenben és Pesten, világos után bujdosnia kellett, állását elvesztette, fél évig Geszten a Tisza családnál tanított
+
+`1851 - 1860`-ig: Nagykőrös - gimnáziumi tanár
+
+`1860`: Pest a Kisfaludy társaság igazgatója lesz
+
+`1862`: szépirodalmi figyelő
+
+`1865`: Koszorú című folyóiratok szerkesztője
+
+`1863`: elkészült a Buda Halála című eposza, mely a tervezett Csaba trilógiájának lett volna az első darabja
+
+`1865`: az Akadémia titkára / főtitkára lett
+
+`1865`: a lánya meghalt, a tragédia hatására egy évtizedig elhallhatott benne a költő
+
+`1867`: lemond a főtitkárságról, de csak `1879`-ben fogadják el. Tiszteletbeli főtitkári címet adtak neki.
+
+`1877`: nyarat a Margit-szigeten töltötte, ekkor írta az Őszikék verseit
+
+`1879`: Toldi szerelme
+
+Budapesten halt meg
 
 ## Letészem a lantot
 - `Keletkezése`: 1850.Március.19. a világosi tragédia után
@@ -77,6 +95,33 @@ $$
 - `2.-4. versszak`: a vers epikus magja, szomszédban meghalt egy nő, férje a koporsót ácsolja, síró árvájukat a cseléd megveri, elmélkedés, részvét
 - `5. versszak`: a kertészkedés idillje felbomlik, a részvét visszavonása
 - `6. - 7. versszak`: általánosítás, filozófiai zárlat, értékelemzés, keserű irónia
+
+## A walesi bárdok
+- 1. rész
+   - `1-6. versszak`: A király a leigázott tartomány megszemléléslére indul.
+- 2. rész
+   - `7-12. versszak`: Montgomery várában gazdagon megvendégelik a királyt, de senki nem élteti. Edward követeli a bárdi éneket.
+   - `13-23 versszak`: Három bárd kezd el énekelni a leigázott tartomány panaszáról. Mindhármukat kivégzik.
+   - `24-25. versszak`: Edward parancsa: keresnek egy bárdot, aki őt élteti, de ellenszegül, máglyára vele. Ötszáz bárd választja a máglyahalált.
+- 3. rész
+   - `26-31. versszak`: Edwardot bántja a lelkiismerete, aludni sem tud, mert a vértanuk dalát hallja.
+
+### Jellemző stíluseszközök
+- belső rímek
+- alliterációk (egymást követő szavak kezdőbetűje ugyanaz)
+
+### Értelmezése
+- Zsarnokellenes tartalma miatt a maga korában és később is gyakran aktualizálták, de szól a költészet erejéről, a költő erkölcsi helytállásáról is.
+
+### Bárdok: énekesek
+- Ágnes asszony és Edward király közös motívumok:
+   - mindkettőt a saját lelkiismerete bünteti meg, nem a világi bíróság.
+
+## Érettségi tétel
+- Jókai Mór: Aranyember
+- Arany János: A walesi bárdok
+
+### 
 
 ---
 
