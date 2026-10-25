@@ -57,7 +57,7 @@ A reformkor utolsó szakaszában (1840-es évek) a radikálisabb, fiatal generá
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>A Habsburg Birodalom és Magyarország.</summary>
 
 ---
@@ -89,8 +89,7 @@ Az évtizedek előrehaladtával a reformellenzék egyre határozottabban lépett
 
 </details>
 
-
-<details>
+<details markdown="1">
 <summary>A rendi országgyűlés és a megyerendszer.</summary>
 
 ---
@@ -118,7 +117,7 @@ Mivel az országgyűléseket csak ritkán hívták össze (és azok sokszor éve
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>A reformkori Pest-Buda.</summary>
 
 ---
@@ -150,7 +149,7 @@ Az 1840-es évekre Pest lett a magyar újságírás és a radikális politikai g
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>A nyilvánosság megteremtése, politika és kultúra.</summary>
 
 ---
@@ -185,7 +184,7 @@ A reformkorban a kultúra, az irodalom és a nyelv ügye elválaszthatatlan volt
 
 ## A reformkor fő kérdései
 
-<details>
+<details markdown="1">
 <summary>A magyar nyelv ügye és a nemzetté válás.</summary>
 
 ---
@@ -215,7 +214,7 @@ A magyar nyelv államnyelvvé tétele és a nemzetépítés ugyanakkor súlyos f
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>A jobbágykérdés: örökváltság, kárpótlás.</summary>
 
 ---
@@ -251,7 +250,7 @@ A kárpótlás rendszere kulcsfontosságú volt a politikai kompromisszum szempo
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>A polgári alkotmányosság kérdése.</summary>
 
 ---
@@ -283,7 +282,7 @@ A polgári alkotmányosság megteremtésének fontos területi kérdése volt Ma
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>Széchenyi és Kossuth programja és vitája.</summary>
 
 ---
@@ -314,29 +313,29 @@ A kettejük ellentéte az 1840-es évek elején nyílt politikai vitává érett
 
 </details>
 
+---
 
-Fogalmak: alsó- és felsőtábla, érdekegyesítés, közteherviselés, jobbágyfelszabadítás, örökváltság.
-Személyek: József nádor, Klemens Metternich, Wesselényi Miklós, Széchenyi István, Kölcsey Ferenc, Deák Ferenc, Kossuth Lajos, Ganz Ábrahám.
-Kronológia: 1830–1848 a reformkor, 1830 a Hitel megjelenése, 1844 törvény a magyar államnyelvről.
-Topográfia: Pest-Buda.
-A forradalom és a szabadságharc
-A forradalom céljai és eredményei
-Az európai forradalmi hullám és március 15.
-Az első magyar polgári alkotmány: az áprilisi törvények.
-A Batthyány-kormány tevékenysége.
+- Fogalmak: alsó- és felsőtábla, érdekegyesítés, közteherviselés, jobbágyfelszabadítás, örökváltság.
+- Személyek: József nádor, Klemens Metternich, Wesselényi Miklós, Széchenyi István, Kölcsey Ferenc, Deák Ferenc, Kossuth Lajos, Ganz Ábrahám.
+- Kronológia: 1830–1848 a reformkor, 1830 a Hitel megjelenése, 1844 törvény a magyar államnyelvről.
+- Topográfia: Pest-Buda.
+- A forradalom és a szabadságharc
+- A forradalom céljai és eredményei
+- Az európai forradalmi hullám és március 15.
+- Az első magyar polgári alkotmány: az áprilisi törvények.
+- A Batthyány-kormány tevékenysége.
+- A szabadságharc főbb eseményei és kiemelkedő szereplői
+- Harc a dinasztiával és a vele szövetkező nemzetiségekkel.
+- A tavaszi hadjárat.
+- A Függetlenségi nyilatkozat, kísérlet az önálló állam megteremtésére.
+- A szabadságharc leverése és a megtorlás.
 
+---
 
-A szabadságharc főbb eseményei és kiemelkedő szereplői
-Harc a dinasztiával és a vele szövetkező nemzetiségekkel.
-A tavaszi hadjárat.
-A Függetlenségi nyilatkozat, kísérlet az önálló állam megteremtésére.
-A szabadságharc leverése és a megtorlás.
-
-
-Fogalmak: márciusi ifjak, sajtószabadság, cenzúra, áprilisi törvények, népképviseleti országgyűlés, politikai nemzet, nemzetiség, honvédség, Függetlenségi nyilatkozat.
-Személyek: Petőfi Sándor, Batthyány Lajos, Görgei Artúr, Bem József, Klapka György, Ferenc József, Julius Haynau. 
-Kronológia: 1848. március 15. a pesti forradalom, 1848. április 11. az áprilisi törvények, 1848. szeptember 29. a pákozdi csata, 1849. április–május a tavaszi hadjárat, 1849. április 14. a Függetlenségi nyilatkozat, 1849. május 21. Buda visszavétele, 1849. augusztus 13. a világosi fegyverletétel, 1849. október 6. az aradi vértanúk és Batthyány kivégzése. 
-Topográfia: Pákozd, Debrecen, Isaszeg, Világos, Komárom, Arad.
+- Fogalmak: márciusi ifjak, sajtószabadság, cenzúra, áprilisi törvények, népképviseleti országgyűlés, politikai nemzet, nemzetiség, honvédség, Függetlenségi nyilatkozat.
+- Személyek: Petőfi Sándor, Batthyány Lajos, Görgei Artúr, Bem József, Klapka György, Ferenc József, Julius Haynau. 
+- Kronológia: 1848. március 15. a pesti forradalom, 1848. április 11. az áprilisi törvények, 1848. szeptember 29. a pákozdi csata, 1849. április–május a tavaszi hadjárat, 1849. április 14. a Függetlenségi nyilatkozat, 1849. május 21. Buda visszavétele, 1849. augusztus 13. a világosi fegyverletétel, 1849. október 6. az aradi vértanúk és Batthyány kivégzése. 
+- Topográfia: Pákozd, Debrecen, Isaszeg, Világos, Komárom, Arad.
 
 ---
 
