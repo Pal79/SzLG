@@ -121,8 +121,6 @@ $$
 - Jókai Mór: Aranyember
 - Arany János: A walesi bárdok
 
-### 
-
 ---
 
 [Vissza](../irodalom.md)
