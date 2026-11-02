@@ -16,11 +16,14 @@
 
 # Első negyedéves vizsga (November 3.)
 ## Retorika
+
 ### Cicero és arisztotelész véleménye
+
 #### Cicero szerint a szónok három feladata:
 - tanítás
 - gyönyörködtetés
 - megindítás, érzelmekre hatás
+
 #### Arisztotelész szerint a szónok meggyőző ereje a szónoklat sikere függ:
 - a szónok erkölcsi tartásától
 - a szónok azon képességétől, hogy képes hatni a hallgatóság érzelmeire
