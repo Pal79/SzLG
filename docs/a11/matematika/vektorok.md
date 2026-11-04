@@ -116,6 +116,51 @@ $$
 \end{aligned}
 $$
 
+---
+
+$$
+\begin{aligned}
+\vec{a} &= (-2; 3) \\
+\vec{b} &= (1; -5) \\
+\vec{c} &= (3; 7) \\[1em]
+\vec{a} + \vec{b} &= (-1; -2) \\
+\vec{a} - \vec(b) &= (-3; 8) \\
+\vec{b} - \vec{a} &= (3; -8) \\
+2\vec{a} &= (-4; 6) \\
+3\vec{b} &= (3; -15) \\
+2\vec{a} + 3\vec{b} &= (-1; -9) \\
+\vec{a} \cdot \vec{b} &=  (-2) \cdot 1 + 3 \cdot (-5) = (-2) + (-15) = -17 \\
+\vec{a} \cdot \vec{c} &= (-2) \cdot 3 + 3 \cdot 7 = (-6) + 21 = 15 \\
+\vec{b} \cdot \vec{c} &= 1 \cdot 3 + (-5) \cdot 7 = 3 + (-35) = -32 \\[2em]
+\end{aligned}
+$$
+
+---
+
+$$
+\begin{aligned}
+\vec{a} &= (3; -2) \\
+\vec{b} &= (-2; -4) \\[1em]
+\vec{a} + \vec{b} &= (1; -6) \\
+\vec{a} - \vec{b} &= (5; 2) \\
+\vec{b} - \vec{a} &= (-5; -2) \\
+2\vec{a} &= (6; -4) \\
+3\vec{b} &= (-6; -12) \\
+2\vec{a} + 3\vec{b} &= (0; -16) \\
+\vec{a} \cdot \vec{b} &= 3 \cdot (-2) + (-2) \cdot (-4) = -6 + 8 = 2 \\
+\end{aligned}
+$$
+
+---
+
+$$
+\begin{aligned}
+\vec{a} &= (1; 3) \\
+\vec{b} &= (-4; 2) \\
+\vec{c} &= (-1; -5) \\[1em]
+
+\end{aligned}
+$$
 
 ---
 
