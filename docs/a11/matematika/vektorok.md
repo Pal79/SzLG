@@ -158,7 +158,15 @@ $$
 \vec{a} &= (1; 3) \\
 \vec{b} &= (-4; 2) \\
 \vec{c} &= (-1; -5) \\[1em]
-
+\vec{a} + \vec{b} &= (-3; 5) \\
+\vec{a} - \vec{b} &= (5; 1) \\
+\vec{b} - \vec{a} &= (-5; -1) \\
+2\vec{a} &= (2; 6) \\
+3\vec{b} &= (-12; 6) \\
+2\vec{a} + 3\vec{b} &= (-10; 12) \\
+\vec{a} \cdot \vec{b} &= 1 \cdot (-4) + 3 \cdot 2 = (-4) + 6 = 2 \\
+\vec{a} \cdot \vec{c} &= 1 \cdot (-1) + 3 \cdot (-5) = (-1) + (-15) = -16 \\
+\vec{b} \cdot \vec{c} &= (-4) \cdot (-1) + 2 \cdot (-5) = 4 + (-10) = -6 \\[2em]
 \end{aligned}
 $$
 
