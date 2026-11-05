@@ -13,5 +13,6 @@
 - [Arany János](./irodalom/arany_janos.md)
 - [Jókai Mór](./irodalom/jokai_mor.md)
 - [Első negyedéves vizsga](./irodalom/elso_negyedeves_vizsga.md)
+- [Realizmus](./irodalom/realizmus.md)
 
 ---
