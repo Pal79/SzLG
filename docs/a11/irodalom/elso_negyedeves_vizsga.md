@@ -19,7 +19,7 @@
 ## Petőfi
 
 ### Tájköltészete
-Újat hoz a tájköltészetben is, az új tájeszmény, a romantika vadregényes, zordon ember nem lakta hegyvidékével szemben a délibábot ringató rónaság "az alföld tengersík vidéke". Szülőföld képe a szabadság jelképe lesz.
+Újat hoz a tájköltészetben is, az új tájeszmény, a romantika vadregényes, zordon, ember nem lakta hegyvidékével szemben a délibábot ringató rónaság "az alföld tengersík vidéke". Szülőföld képe a szabadság jelképe lesz.
 
 #### Az alföld
 **műfaja**: tájleíró költemény  
