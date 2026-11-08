@@ -172,6 +172,42 @@ $$
 
 ### Balladái ( mi a ballada - majd kb. három mondat )
 
+A ballada epikus és lírai elemeket ötvöző műfaj, amelyet gyakran "tragikus dalnak" is neveznek, mivel egy sötét tónusú, drámai történetet beszél el verses formában.  
+Jellemző rá a kihagyásos szerkezet (a cselekmény ugrásszerűen halad, sötét foltokkal), a feszültség folyamatos fokozása és a tragikus végkifejlet.  
+Arany János a magyar balladaköltészet csúcspontja, aki a műfajt a népköltészeti alapokról a világirodalmi szintre emelte, mesterien ábrázolva a lelkifurdalást, a bűntudatot és a morális dilemmákat.
+
+Arany János összesen 102 balladát írt (ha beleszámítjuk a töredékeket, a népköltészeti gyűjtéseket és a fordításokat is).  
+Ha viszont a saját, befejezett, önálló művészi balladáit számoljuk, a szakirodalom 38-40 jelentős Arany-balladát tart számon.  
+
+#### Történelmi balladák (Nagykőrösi korszak, 1850–1860)
+A szabadságharc bukása utáni elnyomás idején íródtak. Történelmi párhuzamokon keresztül üzentek a jelennek: a zsarnokság elutasításáról, a helytállásról és a nemzeti hűségről szólnak.
+- Szondi két apródja (1853)
+   - Szerkezet: Kétszólamú (párhuzamos) szerkesztés. A drégelyi sziklán a két apród Szondi hősi halálát énekli meg, míg Ali török követe csábító ígéretekkel próbálja őket hűségre bírni a szultán iránt.
+   - Üzenet: A költői erkölcs és a nemzeti hűség nem eladó; a művészet feladata a hősök emlékének őrzése a zsarnoksággal szemben.
+- A walesi bárdok (1857)
+   - Allegória: Ferenc József 1857-es magyarországi látogatására írt burkolt tiltakozás. Edward király a legyőzött walesi néphez látogat, és elvárja, hogy a bárdok dicsőítsék.
+   - Tetőpont: A 500 walesi bárd inkább a máglyahalált választja, mintsem dicsőítse a zsarnokot. A király végül beleőrül a lelkifurdalásba (a bárdok éneke üldözi).
+- V. László (1853)
+   - Központi elem: A hatalom félelme és a bűntudat. V. László börtönbe záratja a Hunyadi-fiúkat, de az éjszakai viharban a saját lelkiismerete és félelme végül a pusztulásba hajszolja.
+
+#### Lélektani balladák (Bűn és bűnhődés)
+Ezekben a balladákban a hangsúly nem a külső eseményeken, hanem a szereplők belső világán, a bűntudaton és a lelki összeomláson van.  
+A büntetés nem feltétlenül jogi, hanem belső, lélektani jellegű (pl. megőrülés).
+- Ágnes asszony (1853)
+   - Szerkezet: Körmosdásos refrén („Óh! irgalom atyja, ne hagyj el.”), amely végigkíséri az asszony lelki leépülését.
+   - Cselekmény: Ágnes asszony segít szeretőjének eltüntetni a férje meggyilkolásának nyomait. A patakban mossa a véres lepedőt. A bíróság látva az elméje megbomlását, hazaengedi, ahol élete végéig kényszeresen mossa a már rég rongyosra tisztított lepedőt.
+- Tetemre hívás (1877, Margitszigeti/Őszikék korszak)
+   - Motívum: Középkori babona (a halott sebe megnyílik a gyilkos jelenlétében).
+   - Kifejlet: Bárczi Benő rejtélyes halála után a szülők végigpróbálják a gyanúsítottakat. Amikor menyasszonya, Kund Abigél lép a testhez, a seb vérzeni kezd – a lány nem szándékosan gyilkolt, de incselkedésével ő kergette halálba a fiút. Abigél az igazság pillanatában tébolyodottan tör ki.
+
+#### Népi és babonás balladák (Őszikék korszak, 1877)
+Arany öregkori balladái a Margitszigeten születtek.  
+A népi hiedelemvilágot, babonákat ötvözik a városi környezettel vagy az öregkori belső tűnődéssel.
+- Vörös rébék (1877)
+   - Téma: A népi babona és a rontás világa. Vörös Rébék egy boszorkányos alak (varjúvá tud változni), aki házasságokat ront meg, és generációkon át örökíti a bűnt.
+- Híd-avatás (1877)
+   - Városi lélektan: A nagyvárosi elidegenedés és a céltalanság drámája. Az újonnan átadott Margit-hídról egymás után vetik a mélybe magukat a társadalom szélére szorult, vagy kiábrándult emberek (kártyás, öregember, csalódott szerelmes).
+
 #### A walesi bárdok
 - `1. rész`
    - `1-6. versszak`: A király a leigázott tartomány megszemléléslére indul.
