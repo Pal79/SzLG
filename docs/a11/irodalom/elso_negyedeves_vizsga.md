@@ -64,7 +64,7 @@ Hangneme: elégikus, fájdalmas, tűnődő
 - Szerkezete: a versszakok első és utolsó sora azonos, keretként fogja közbe a közbülsőket, keresi a legméltóbb kifejezést, megnevezést, mely leginkább illene felesége szépségéhez. A vers tárgya a megnyilatkozni vágyó, de kibeszélhetetlen nagyságú szerelem.
 - `1. - 4. versszak`: egy egy alap metafora kibontása
 	- `1.`: szemed = csillag
-	- `2.`: tekintetesed = szelíd galamb
+	- `2.`: tekinteted = szelíd galamb
 	- `3.`: hangod = tavasz üzenete
 	- `4.`: ajkad = lángoló rubintkő
 - `5. versszak`: metaforák halmozása:
@@ -90,7 +90,7 @@ Ez a derűlátás él benne a Szabadszállási képviselő választás kudarcái
 - Stílusa: Romantikus
 
 - Versszervező erők
-    - ellentét: az első részben passzív halál <-> aktív halál
+    - ellentét: az első részben passzív halál $\leftrightarrow$ aktív halál
     - Fokozás: villámsulytotta fa, szélvész által kicsavart fa, hegyről legördülő kőszirt
     - erőteljes színek: piros (vér), fekete (gyász,halál)
     - erőteljes hangok: harsogás, mennydörgés
