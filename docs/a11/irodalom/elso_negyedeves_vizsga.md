@@ -214,7 +214,7 @@ A népi hiedelemvilágot, babonákat ötvözik a városi környezettel vagy az �
 - `2. rész`
    - `7-12. versszak`: Montgomery várában gazdagon megvendégelik a királyt, de senki nem élteti. Edward követeli a bárdi éneket.
    - `13-23 versszak`: Három bárd kezd el énekelni a leigázott tartomány panaszáról. Mindhármukat kivégzik.
-   - `24-25. versszak`: Edward parancsa: keresnek egy bárdot, aki őt élteti, de ellenszegül, máglyára vele. Ötszáz bárd választja a máglyahalált.
+   - `24-25. versszak`: Edward parancsa: keressenek egy bárdot, aki őt élteti, de ellenszegül, máglyára vele. Ötszáz bárd választja a máglyahalált.
 - `3. rész`
    - `26-31. versszak`: Edwardot bántja a lelkiismerete, aludni sem tud, mert a vértanuk dalát hallja.
 
