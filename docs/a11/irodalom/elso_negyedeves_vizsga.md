@@ -97,7 +97,7 @@ Ez a derűlátás él benne a Szabadszállási képviselő választás kudarcái
 
 - `1.-12. sor`: a jelentéktelen kisszerű hétköznapi halál elutasítása, ellentéte a cselekvő intenzív hirtelen halál $\leftarrow$ ez a vágyott módja a meghalásnak
 - `13.-30.sor`: a rabszolga nép fellázad a zsarokság ellen a világszabadságért, ebben a harcban szeretne elesni a lírai hős
-- `31.-36. sor`: Látomás a temetésről, a hősöket egy közös sírba temetik, értelmezése a világszabiságért kibontakozó harcban a lírai hős részt akar venni és a hősi halált tartja élete méltó befejezésének.
+- `31.-36. sor`: Látomás a temetésről, a hősöket egy közös sírba temetik, értelmezése a világszabadságért kibontakozó harcban a lírai hős részt akar venni és a hősi halált tartja élete méltó befejezésének.
 
 #### XIX. század költői
 - Típusa: forradalmi látomásból kibontakozó `ars poetica`
