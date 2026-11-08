@@ -146,7 +146,7 @@ A hat egyenként nyolc soros versszak minden esetben két részből áll, a buzd
 - `Központi jelképe`: lant (költészet ősi szimbóluma)
 
 - `1.versszak`: elhatározás a jelenben - "letészem a lantot" - nem írok több verset - elégikus sóhaj
-- `2.-6. versszak`: a múlt felidézése <-> jelen, ódai hangnem
+- `2.-6. versszak`: a múlt felidézése $\leftrightarrow$ jelen, ódai hangnem
 $$
 \begin{array}{|c|c|}
 \hline
