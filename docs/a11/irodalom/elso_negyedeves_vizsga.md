@@ -15,44 +15,49 @@
 ---
 
 # Első negyedéves vizsga (November 10.)
+
 ## Petőfi
+
 ### Tájköltészete
-Újat hoz a tájköltészetben is az új tájeszmény a romantika vadregényes zordon ember nem lakta hegyvidékével szemben a délibábot ringató rónaság "az alföld tengersík vidéke" Szülőföld képe a szabadság jelképe lesz.
+Újat hoz a tájköltészetben is az új tájeszmény, a romantika vadregényes, zordon ember nem lakta hegyvidékével szemben a délibábot ringató rónaság "az alföld tengersík vidéke". Szülőföld képe a szabadság jelképe lesz.
 
 #### Az alföld
 **műfaja**: tájleíró költemény  
 **1.-2. versszak**: kétféle tájideál, a romantikus vadregényes $\leftrightarrow$ az alföld tengersík vidéke. Az alföld szabadság vágyának kifejezője "börtönéből szabadult sas lelkem"  
-**3.-5. versszak**: a duna tisza köze mozgalmasság a nézőpont magasból lefelé irányul  
-**6.-7. versszak**: közelkép a tanyákról, búzatáblák nádasok  
-**8. versszak**: pillantás a tanyán túlra egy csárdáig a nézőpont távolodó  
-**9.10. versszak**: közelkép, a nyárfaerdőről a királydinnyés homokos talajról  
+**3.-5. versszak**: a duna tisza köze, mozgalmasság, a nézőpont magasból lefelé irányul  
+**6.-7. versszak**: közelkép a tanyákról, búzatáblák, nádasok  
+**8. versszak**: pillantás a tanyán túlra egy csárdáig, a nézőpont távolodó  
+**9.10. versszak**: közelkép a nyárfaerdőről, a királydinnyés homokos talajról  
 **11. versszak**: pillantás homályba vesző látóhatárig  
 **12. versszak**: lírai vallomás a szülőföld szeretetéről
 
 #### A puszta télen
 **műfaja**: tájleíró költemény  
 **1. versszak**: felkiáltás és egy metafora (ősz = rossz gazda)  
-**2.-3. versszak**: negatív tájleírás a hiány részletezése általános kép a pusztáról  
-**4.-6. versszak**: közelképek halászkunyhó, csőszház, tanyák, csárdák az emberi élet színterei azok csöndje, mozdulatlanság, tétlenség, némaság  
+**2.-3. versszak**: negatív tájleírás, a hiány részletezése, általános kép a pusztáról  
+**4.-6. versszak**: közelképek halászkunyhó, csőszház, tanyák, csárdák, az emberi élet színterei azok csöndje, mozdulatlanság, tétlenség, némaság  
 **7.-9. versszak**: ismét a kinti világ a pusztaság rajza, de most dinamikus képekkel, amelyek látomásba csapnak át: hóviharok, a betyár fenyegetett élete, kiűzött király hasonlat
 
 ### Szerelmi lírája
 Szerelmük történetének minden fordulata, rezdülete megtalálható a versekben.  
 Petőfi boldog, de boldogsága nem felhőtlen, Júlia hidegen, szeszélyesen, rejtélyesen viselkedik.  
-A költő megszenvedi ezt a kétértelműséget "rejtély vagy te jányka nékem"
+A költő megszenvedi ezt a kétértelműséget: "rejtély vagy te jányka nékem"
+
 #### Reszket a bokor, mert
 A szakítás verseként született. Erre a versre írta Júlia a mindent eldöntő választ: "1000-szer. Júlia"  
 - Műfaja: helyzetdal
 - Stílusa: népies
 
-Népdalokra jellemző a versszervező erő, párhuzam minden versszak elején, fokozás nagyítás minden versszak végén.
+Népdalokra jellemző a versszervező erő, párhuzam minden versszak elején, fokozás, nagyítás, minden versszak végén.
+
 #### Szeptember végén
-Keletkezése: kol tó 1847 szeptemberében a mézeshetek idején
+Keletkezése: Kol-tó, 1847 szeptemberében a mézeshetek idején
 Műfaja: elégia
 Hangneme: elégikus, fájdalmas, tűnődő
-- `1. versszak`.: párhuzam és ellentét az évszakok és az emberi életkorok között, a lírai én tűnődése
-- `2. versszak`.: "elhull a virág eliramlik az élet" sokak szerint a legszebb magyar verssor. kérdések feleségéhez
+- `1. versszak`.: párhuzam és ellentét, az évszakok és az emberi életkorok között, a lírai én tűnődése
+- `2. versszak`.: "elhull a virág eliramlik az élet" sokak szerint a legszebb magyar verssor. Kérdések feleségéhez
 - `3. versszak`.: intelem feleségéhez és szerelmi vallomás
+
 #### Minek nevezzelek
 - Műfaja: rapszódia
 - Hangneme: magasztos
@@ -72,11 +77,12 @@ Hangneme: elégikus, fájdalmas, tűnődő
 Az áradó metaforák végén szerényen megbújik a legegyszerűbb, legtermészetesebb megnevezés: "édes szép ifjú hitvesem"
 
 ### Forradalmi látomásköltészet
-Petőfi 1846 tavaszától a világforradalom lázában égett a nemzeti és az egyetemes emberi szabadság ügye szorosan összekapcsolódott gondolkodásában.
+Petőfi 1846 tavaszától, a világforradalom lázában égett a nemzeti és az egyetemes emberi szabadság ügye szorosan összekapcsolódott gondolkodásában.
 
 Költészetében is felerősödik a politikai líra, ezeket a verseket az a hit hatja át, hogy az emberiség törés nélkül halad, végső célja az általános boldogság a szabadság felé, ezt a szabadságot egy véres háború fogja megszülni, melyben a rab népek leszámolnak zsarnokaikkal.
 
 Ez a derűlátás él benne a Szabadszállási képviselő választás kudarcáig.
+
 #### Egy gondolat bánt engemet
 - Keletkezése: 1846 decembere
 - Műfaja: rapszódia
@@ -131,6 +137,7 @@ A hat egyenként nyolc soros versszak minden esetben két részből áll, a buzd
 - 6.-7. : kérés a szabadsághoz, hitvallás, elkötelezettség az eszme mellett
 
 ## Arany
+
 ### Letészem a lantot
 - `Keletkezése`: 1850.Március.19. a világosi tragédia után
 - `Alap élménye`: a múlt visszahozhatatlansága
@@ -164,6 +171,7 @@ $$
 - `7. versszak`: a hiábavalóság kérdései után az 1.versszak költői szándékának megismétlése
 
 ### Balladái ( mi a ballada - majd kb. három mondat )
+
 #### A walesi bárdok
 - `1. rész`
    - `1-6. versszak`: A király a leigázott tartomány megszemléléslére indul.
