@@ -26,6 +26,7 @@ A valóság visszatükrözésére törekszik és a valóság kritikájára.
    - Dosztojevszkij - Bűn és bűnhődés
    - Tolsztoj - Ivan Iljics halála
    - Csehov - Három nővér - A csinovnyik halála
+
 ## Balzac (1799-1850)
 Tours-ban született, jogot tanult, közben az egyetemen irodalom történeti előadásokon vett részt.  
 20 évesen elhatározta, hogy az irodalomból próbál megélni.  
@@ -34,6 +35,7 @@ Tours-ban született, jogot tanult, közben az egyetemen irodalom történeti el
 A Goriot apó című regénye írása közben elhatározta, hogy regényeit ciklusba rendezi, címének az Emberi színjáték címet adta, körülbelül 90 műből áll a vállalkozása, az egyes szereplők a ciklus egyes darabjaiban visszatérnek. A regények központi mondanivalója, hogy a karrier és a meggazdagodás utáni vágy beszennyezi a tiszta érzelmeket és a szereplőket megalkuvásra kényszeríti.  
 - Művei: Elveszett illúziók, Kurtizánok tündöklése és nyomorúsága  
 Egy ukrajnai faluban házasodott meg, visszatérve Párizsba hamarosan meghalt.
+
 ### Goriot (1835)
 - `Helyszín`: Párizs, egy szegényes panzió és a gazdag arisztokrácia lakosztálya.
 - `Cselekmény ideje`: 1830-as évek, kb. 4 hónap
