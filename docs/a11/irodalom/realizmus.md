@@ -65,7 +65,12 @@ Később egy ideig Párizsban élt, de Napóleon bukása után Milánóba költ�
 Utolsó éveiben már betegen, magányosan élt, 41 Novemberében hazautazott Párizsba és ott halt meg 42 Márciusában.
 
 ### Vörös és fekete
-
+A cím értelmezése:
+- a szemben álló csoportok, politikai erők küzdelmét jelentheti
+- vörös a katonaságra, a fekete a papságra utal
+- jelentheti a rulettjáték két színét, a sors két lehetőségét (nyerés, vesztés)
+- vörös a dicsőséget, sikert, szenvedélyek lobogását, az életet, a fekete pedig a bukást, sikertelenséget, a halált
+- a cím színei nem ellentétei egymásnak, hanem kiegészítői a tragikus végkifejlettre utalnak, a vért és a halált jelképezik
 
 ---
 
