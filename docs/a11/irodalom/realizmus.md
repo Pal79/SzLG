@@ -71,6 +71,8 @@ A cím értelmezése:
 - jelentheti a rulettjáték két színét, a sors két lehetőségét (nyerés, vesztés)
 - vörös a dicsőséget, sikert, szenvedélyek lobogását, az életet, a fekete pedig a bukást, sikertelenséget, a halált
 - a cím színei nem ellentétei egymásnak, hanem kiegészítői a tragikus végkifejlettre utalnak, a vért és a halált jelképezik
+1. - Veriéres: Juilen Sorel, ács fia, egyszerű parasztok között nőtt fel, így kevés a reménye a felemelkedésre. A jóeszű tehetséges fiatalember a város polgármesterénél deRenal-nál vállal állást, gyermekei nevelője lesz. Polgármester saját előkelőségét akarja bizonyítani, amikor nevelőt fogad a házába, de állandóan attól retteg, hogy Valenot a szegény ház igazgatója elcsábítja tőle Julein-t, ezért egyre előzékenyebbé válik a fiatalemberrel szemben, ezt használja ki Julien amikor viszonyt létesít deRenal feleségével. A féltékeny komorna mindenről beszámol Valenot-nak, aki elkezd névetelen leveleket küldözgetni a polgármesternek, melyekben felesége szerelmi kapcsolatát leplezi le. DeRenal-né, hogy saját becsületét mentse, hamisít egy szerelmes levelet, amelyet Julien-nek tulajdonít és a felháborodottat játszva kéri férjétől a nevelő elbocsátását. Julien pártfogója Chelan abbé a besanconi papi szemináriumba küldi tanulni.
+1. - Besancon: 
 
 ---
 
