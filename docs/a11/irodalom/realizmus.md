@@ -53,6 +53,20 @@ Egy ukrajnai faluban házasodott meg, visszatérve Párizsba hamarosan meghalt.
    - Victorine Taillefer:
       - kitagadott lány (Vautrin intrikái révén vagyonos lesz)
 
+## Stendhal (1783 - 1842)
+Írói álnév. Grenoble-ban született.  
+Apja ügyvéde volt, később a város polgármestere.  
+1799-ben Párizsba ment, hogy főiskolára járjon, de nem jelent meg a vizsgán.  
+Rokonai felkarolták és hamarosan Napóleon katonatisztje lett, elkísérte az olaszországi hadjáratba: Itália teljesen elbűvölte.  
+1803-ban kivált a hadseregből, de hamarosan újra visszatért 1812-ben eljutott Moszkvába is.  
+Később egy ideig Párizsban élt, de Napóleon bukása után Milánóba költözött.  
+- 1830 Vörös és fekete
+- 1838 A pármai kolostor  
+Utolsó éveiben már betegen, magányosan élt, 41 Novemberében hazautazott Párizsba és ott halt meg 42 Márciusában.
+
+### Vörös és fekete
+
+
 ---
 
 [Vissza](../irodalom.md)
