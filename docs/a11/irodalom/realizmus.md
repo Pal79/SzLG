@@ -71,8 +71,31 @@ A cím értelmezése:
 - jelentheti a rulettjáték két színét, a sors két lehetőségét (nyerés, vesztés)
 - vörös a dicsőséget, sikert, szenvedélyek lobogását, az életet, a fekete pedig a bukást, sikertelenséget, a halált
 - a cím színei nem ellentétei egymásnak, hanem kiegészítői a tragikus végkifejlettre utalnak, a vért és a halált jelképezik
-1. - Veriéres: Juilen Sorel, ács fia, egyszerű parasztok között nőtt fel, így kevés a reménye a felemelkedésre. A jóeszű tehetséges fiatalember a város polgármesterénél deRenal-nál vállal állást, gyermekei nevelője lesz. Polgármester saját előkelőségét akarja bizonyítani, amikor nevelőt fogad a házába, de állandóan attól retteg, hogy Valenot a szegény ház igazgatója elcsábítja tőle Julein-t, ezért egyre előzékenyebbé válik a fiatalemberrel szemben, ezt használja ki Julien amikor viszonyt létesít deRenal feleségével. A féltékeny komorna mindenről beszámol Valenot-nak, aki elkezd névetelen leveleket küldözgetni a polgármesternek, melyekben felesége szerelmi kapcsolatát leplezi le. DeRenal-né, hogy saját becsületét mentse, hamisít egy szerelmes levelet, amelyet Julien-nek tulajdonít és a felháborodottat játszva kéri férjétől a nevelő elbocsátását. Julien pártfogója Chelan abbé a besanconi papi szemináriumba küldi tanulni.
-1. - Besancon: 
+1. `Veriéres`: Juilen Sorel, ács fia, egyszerű parasztok között nőtt fel, így kevés a reménye a felemelkedésre. A jóeszű tehetséges fiatalember a város polgármesterénél deRenal-nál vállal állást, gyermekei nevelője lesz. Polgármester saját előkelőségét akarja bizonyítani, amikor nevelőt fogad a házába, de állandóan attól retteg, hogy Valenot a szegény ház igazgatója elcsábítja tőle Julein-t, ezért egyre előzékenyebbé válik a fiatalemberrel szemben, ezt használja ki Julien amikor viszonyt létesít deRenal feleségével. A féltékeny komorna mindenről beszámol Valenot-nak, aki elkezd névetelen leveleket küldözgetni a polgármesternek, melyekben felesége szerelmi kapcsolatát leplezi le. DeRenal-né, hogy saját becsületét mentse, hamisít egy szerelmes levelet, amelyet Julien-nek tulajdonít és a felháborodottat játszva kéri férjétől a nevelő elbocsátását. Julien pártfogója Chelan abbé a besanconi papi szemináriumba küldi tanulni.
+1. `Besancon`: Julien a pap növendékek között is kiemelkedik intellektusával, s mert önállóan mer gondolkodni, gőgösnek, hivalkodónak tartják, de Phirard abbé pártfogásába veszi, őt azonban paptársai kitúrják állásából. Az abbé barátja deLaMole márki felajánlja Phirad-nak, hogy legyen a titkára, de ő megelégszik egy párizsi plébániával, és Julient ajánlja maga helyett. Julien távozása előtt még egy napra visszatér deRenal-néhoz, majd Párizsba megy.
+1. `Párizs`: Julien a párizsi arisztokrata körökbe csöppen, eleinte zavarban van az előkelő környezetben, de gyorsan hozzászokik ehhez a társasághoz is. A márki is kitünteti jól végzett munkájáért, megnyeri a márki lánya barátságát, hamarosan szerelmét is. A romantikus szerelemre vágyó Matild-ot viszont hozzá akarják kényszeríteni egy unalmas, de gazdag márkihoz. A lány a fiatal titkárt egy ideig csak szertőként kezeli, Julien többször felmászik szobájába, nappal viszont gőgös vele, sértegeti. Julien ezért egy marsallnénak kezd el udvarolni, hogy féltékennyé tegye Matildot és ez meghozza a várt eredményt, Matild megmondja az apjának hogy nem megy férjhez, mert Julien szereti. A márki kezdetben őrjöng, majd birtokot adományoz Julien-nek és huszárhadnaggyá nevezteti ki, ekkor deRenale-né (gyóntató papja gonosz tanácsára) levelet küld a márkinak, melyben megírja, Julien csak a karrierje érdekében csábítja el a nőket, s nem más mint egy feltörekvő szerencselovag.
+1. `Veriéres`: Julien az ezredénél tudja meg a hírt, Veriéres-be utazik, s a templomban kétszer rálő deRenal-nére. Julien a tárgyaláson nem védi magát, hanem a társadalmat vádolja. Halálra ítélik, de nem kellene meghalnia, mert Matild összeköttetései révén megmenthetné. A börtönben deRenal-né naponta meglátogatja, mindketten most ismerik meg milyen az igazi szerelem. Miután lefejezték deRenal-né csak három nappal éli túl.
+
+#### Julien jellemzése
+- Tartufe-öt vallja eszményének, az állam segíti a feltörekvésben, mert elrejti magasztos eszméit.
+- Rajong Napóleonért, aki szintén szegénysorsból jött és bámulatos karriert futott be.
+- Tudja ha érvényesülni akar, szerepet kell játszania, de nem képes azonosulni a szereppel.
+- Állandóan attól retteg, hogy származása miatt lenézik, ezért bizalmatlan lesz mindenkivel szemben.
+- A tárgyaláson az esküdtszék szemébe vágja, hogy nem számít kegyelemre, mert bűne, hogy paraszt létére az előkelő társaságba merészelt tolakodni.
+- Szükségszerű a bukása, mert kénytelen teljesen feladni elveit, belátja, hogy felvett szerepeinél fontosabb az önbecsülése.
+- A mű végén a szerepeitől mentes Julien bukik el.
+- Végül nem Matild-ot választja, aki saját álmait eszményeit szereti benne, hanem deRenal-nét, aki valóban őt magát szerette.
+
+## Flaube (1821-1880)
+Rouen-ban született, apja orvos volt. Apja kívánságára Párizsban jogot hallgatott, de az irodalom jobban érdekelte. Tanulmányai befejeztével apja hamarosan meghalt, az örökölt vagyon biztos megélhetést és függetlenséget biztosított. Mielőtt az irodalomnak szentelte volna életét, négy éven át úton volt, majd visszavonult birtokára, ahol öt éven át dolgozott első regényén Bovarinén. Az ügyészség perbe fogta, hogy sérti az erkölcsiséget, de felmentették.  
+- `Művei`:
+   - Szlanabo
+   - Az érzelmek iskolája
+
+### Bovariné
+
+#### Vidéki erkölcsök
+Charles Bovary fiatal egészségügyi tiszt, még érettségije sincs, de orvosként praktizál. Állandóan attól retteg, hogy kiderül nem ért a szakmájához. 27 évesen gazdag hozomány reményében elvesz egy 45 éves özvegyasszonyt, kiderül azonban, hogy csak ő vélte vagyonosnak és neki kell eltartani. Egyszer "véletlenül" meggyógyítja egy tanyasi gazda lábát, később is visszajár a tanyára, mert szerelmet érez a gaza lánya, Emma iránt. Bovary felesége hirtelen elhalálozik, de a férfi nem meri felfedni érzéseit Emma iránt, a lánykérésre is az apának kell rábeszélnie Bovary-t. Emma apácák között nevelkedett, rendkívül intelligens, művelt, finom lelkű.
 
 ---
 
