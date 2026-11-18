@@ -16,7 +16,7 @@
 
 # Exponenciális és logaritmikus egyenletek
 
-## Exponenciális függvény
+## Exponenciális függvény
 
 ### Feladat
 $f_{(x)} = 2^{x}$
