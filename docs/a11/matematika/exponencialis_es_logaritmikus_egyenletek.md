@@ -31,14 +31,14 @@ x & 0 & 1 & 2 & 3 & -1 & -2 \\
 $$
 Az exponenciális függvény jellemzése:
 1. 
-    - értelmezési tartomány (Ét): $\all\in\mathbb{R}$
-    - értékkészlet (Ék): $y\in\mathbb{R}^{+}$ $(y>0)$
+    - értelmezési tartomány (Ét): $\forall \in \mathbb{R}$
+    - értékkészlet (Ék): $y \in \mathbb{R}^{+}$ $(y>0)$
 2. 
     - tengely metszet (Tm):
         - x: NINCS
         - y: y=1
 3. 
-    - Monotonitás: $\all x \in\mathbb{R}$ - szigorúan monoton nő
+    - Monotonitás: $\forall x \in \mathbb{R}$ - szigorúan monoton nő
 4. 
     - Szélsőérték (Szé):
         - MIN: NINCS
