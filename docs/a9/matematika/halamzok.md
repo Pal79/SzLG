@@ -26,7 +26,7 @@ A,B,C halmazok
 
 halmazok elemei: a,b,c
 
-Halmazok elemszám jelölése: $|A|$
+Halmazok elemszám jelölése: $\|A\|$
 
 |  |  |
 | :-- | :-- |
