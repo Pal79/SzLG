@@ -103,6 +103,16 @@ Egy környékbeli birtokos Rodolphe megismerkedik Emmával, és Emma hamarosan e
 
 Leon jogi diplomát szerzett, a szomszéd kisvárosban kap állást, most már egymásra találnak, Emma másodjára követ el házasságtörést, férjének azt mondja zongora leckéket venni jár át. Bovary-ban most sem merül fel, hogy felesége megcsalja. Emmát egyre jobban gyötrik hitelezői.
 
+Leon és Emma kapcsolata lassanként szétmegy, egy nap Emmát felszólítják adósságainak törlesztésére, 24 óra alatt kellene előteremtenie 8000 frankot. Mialatt megindul az eljárás, Emma megpróbál pénzt szerezni, de sem Leon sem Rodolphe nem ad neki. Végső elkeseredésében arzénnal megmérgezi magát, a férje és a patikus még időben érkezik, de egyikük sem tudja mit kellene tenni, nem hánytatják meg, így Emma meghal. Halála után a hitelezők Bovary házát elárverezik, Bovary megtalálja felesége szerelmes levelezését, ekkor döbben rá a valóságra, hamarosan belehal fájdalmába és szégyenébe.
+
+Emma jellemzése:
+- nem abba a világba való ahová sorsa helyezte
+- elvágyódik, vágyódásának célja az arisztokrácia köre és Párizs
+- vonzza a regényes szerelem
+- elüt a környezetétől, színes fantáziájának, vágyálmainak esik áldozatául
+- mivel szép asszony, sok férfi rajongja körül, de udvarlói szellemileg, érzelmileg nem érnek fel vele
+- "Bovaryné én vagyok" Flaubert híres mondása arra utal, hogy az író e regényében és Emma alakjában számolt le ifjúkora romantikus hajlamaival
+
 ---
 
 [Vissza](../irodalom.md)
