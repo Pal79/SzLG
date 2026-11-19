@@ -29,6 +29,9 @@ x & 0 & 1 & 2 & 3 & -1 & -2 \\
 \hline
 \end{array}
 $$
+
+![exp_fg_001](../images/matematika_exp_log_egyenletek_001.svg)
+
 Az exponenciális függvény jellemzése:
 1. 
     - értelmezési tartomány (Ét = x): $\forall \in \mathbb{R}$
