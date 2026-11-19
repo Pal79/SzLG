@@ -76,35 +76,66 @@ $$
 2^{x} &= 2^{2} \\
 &\Downarrow \text{ Mivel az exponenciális függvény szigorúan monoton} \\
 x &= 2 \\[2em]
+\end{aligned}
+$$
 
+$$
+\begin{aligned}
 3^{x} &= 9 \\
 3^{x} &= 3^{2} \\
 &\Downarrow \text{ Mivel az exp. fg. szig. mon.} \\
 x &= 2 \\[2em]
+\end{aligned}
+$$
 
+$$
+\begin{aligned}
 2^{x+2} &= 16 \\
 2^{x+2} &= 2^{4} \\
 &\Downarrow \text{ mivel az exp. fg. szig. mon.} \\
 x+2 &= 4 \quad /-2 \\
 x &= 2 \\[2em]
+\end{aligned}
+$$
 
+$$
+\begin{aligned}
 3^{x+3} &= 81 \\
 3^{x+3} &= 3^{4} \\
 &\Downarrow \text{ mivel az exp. fg. szig. mon.} \\
 x+3 &= 4 \quad /-3 \\
 x &= 1 \\[2em]
+\end{aligned}
+$$
 
+$$
+\begin{aligned}
 5^{x+1} &= \frac{1}{125} \\
 5^{x+1} &= \frac{1}{5^{3}} = 5^{-3} \\
 &\Downarrow \text{ mivel az exp. fg. szig. mon.} \\
 x+1 &= -3 \quad /-1 \\
 x &= -4 \\[2em]
+\end{aligned}
+$$
 
+$$
+\begin{aligned}
 7^{3+4} &= \frac{1}{49} \\
 7^{x+4} &= 7^{-2} \\
 &\Downarrow \text{ mivel az exp. fg. szig. mon.} \\
 x+4 &= -2 \quad /-4 \\
 x &= -6 \\[2em]
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+8^{x} &= 4^{3} \\
+(2^{3})^{x} &= (2^{2})^{3} \\
+2^{3x} &= 2^{6} \\
+&\Downarrow \text{ mivel az exp. fg. szig. mon.} \\
+3x &= 6 /:3 \\
+x &= 2 \\[2em]
 \end{aligned}
 $$
 
