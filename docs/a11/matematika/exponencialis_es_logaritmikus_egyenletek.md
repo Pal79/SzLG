@@ -46,6 +46,12 @@ Az exponenciális függvény jellemzése:
 5. 
     - Párosság:
         - NINCS
+    
+### Monotonitás
+- Szigorúan monoton nő, ha az egyik alapja nagyobb 1-nél
+- Szigorúan monoton csökken, ha az exponenciális függvény alakja 0-nál nagyobb, de 1-nél kisebb
+
+Az exponenciális függvény alapja nem lehet negatív ($2^{-x}$ ahol $2$ az alap és a $^{-x}$ a kitevő)
 
 ---
 
