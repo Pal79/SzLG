@@ -31,8 +31,8 @@ x & 0 & 1 & 2 & 3 & -1 & -2 \\
 $$
 Az exponenciális függvény jellemzése:
 1. 
-    - értelmezési tartomány (Ét): $\forall \in \mathbb{R}$
-    - értékkészlet (Ék): $y \in \mathbb{R}^{+}$ $(y>0)$
+    - értelmezési tartomány (Ét = x): $\forall \in \mathbb{R}$
+    - értékkészlet (Ék = y): $y \in \mathbb{R}^{+}$ $(y>0)$
 2. 
     - tengely metszet (Tm):
         - x: NINCS
