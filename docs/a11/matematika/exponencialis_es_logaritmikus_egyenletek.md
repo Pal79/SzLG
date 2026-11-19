@@ -117,8 +117,16 @@ x &= \frac{11}{6} \\[2em]
 (5^{x})^{\frac{1}{3}} &= 5^{3} \\
 5^{\frac{x}{3}} &= 5^{3} \\
 &\Downarrow \text{ mivel az exp. fg. szig. mon.} \\
-\frac{x}{3} &= 3 \quad /*3 \\
+\frac{x}{3} &= 3 \quad /\cdot3 \\
 x &= 9 \\[2em]
+27\cdot^{5}\sqrt{3^{x}} &= \frac{1}{9} \\
+27 \cdot 3^{\frac{x}{5}} &= \frac{1}{9} \\
+27 \cdot 3^{\frac{x}{5}} &= 3^{-2} \\
+3^{3} \cdot 3^{\frac{x}{5}} &= 3^{-2} \\
+&\Downarrow \text{ mivel az exp. fg. szig. mon.} \\
+3+\frac{x}{5} &= -2 \quad /-3 \\
+\frac{x}{5} &= -5 \quad /\cdot5 \\
+x &= -25 \\[2em]
 \end{aligned}
 $$
 
