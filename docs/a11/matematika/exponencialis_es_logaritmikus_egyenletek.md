@@ -93,7 +93,7 @@ $$
 2^{x+2} &= 16 \\
 2^{x+2} &= 2^{4} \\
 &\Downarrow \text{ mivel az exp. fg. szig. mon.} \\
-x+2 &= 4 \quad \-2 \\
+x+2 &= 4 \quad /-2 \\
 x &= 2
 \end{aligned}
 $$
@@ -103,8 +103,18 @@ $$
 3^{x+3} &= 81 \\
 3^{x+3} &= 3^{4} \\
 &\Downarrow \text{ mivel az exp. fg. szig. mon.} \\
-x+3 &= 4 \quad \-3 \\
+x+3 &= 4 \quad /-3 \\
 x &= 1
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+5^{x+1} &= \frac{1}{125} \\
+5^{x+1} &= \frac{1}{5^{3}} = 5^{-3} \\
+&\Downarrow \text{ mivel az exp. fg. szig. mon.} \\
+x+1 &= -3 \quad /-1 \\
+x &= -4
 \end{aligned}
 $$
 
