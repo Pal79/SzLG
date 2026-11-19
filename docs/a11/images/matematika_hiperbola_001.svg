@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400"
+   height="200"
+   viewBox="0 0 105.83333 52.916666"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="matematika_hiperbola_001.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.4949671"
+     inkscape:cx="197.39739"
+     inkscape:cy="106.41423"
+     inkscape:window-width="1710"
+     inkscape:window-height="1074"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Réteg 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;stroke:#1a1a1a;stroke-width:0.264999"
+       d="M 43.296304,8.6295118 V 45.577323"
+       id="path1" />
+    <path
+       style="fill:#000000;stroke:#1a1a1a;stroke-width:0.264999"
+       d="M 5.8741315,27.911017 H 82.632869"
+       id="path2" />
+    <path
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.264999"
+       d="m 42.290039,11.879031 1.00917,-3.7662707 0.917839,3.4254237"
+       id="path3" />
+    <path
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.264999"
+       d="m 79.419483,26.927286 3.766271,1.00917 -3.425424,0.917839"
+       id="path3-3" />
+    <path
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.264999"
+       d="m 42.353713,26.004856 h 2.217682"
+       id="path4" />
+    <path
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.264999"
+       d="m 45.183557,26.876585 v 2.217682"
+       id="path4-88" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;writing-mode:lr-tb;direction:ltr;fill:none;stroke:#1a1a1a;stroke-width:0.264999"
+       x="44.203587"
+       y="32.170429"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="stroke-width:0.265"
+         x="44.203587"
+         y="32.170429">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;writing-mode:lr-tb;direction:ltr;fill:none;stroke:#1a1a1a;stroke-width:0.264999"
+       x="40.250362"
+       y="26.960041"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="stroke-width:0.265"
+         x="40.250362"
+         y="26.960041">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;writing-mode:lr-tb;direction:ltr;fill:none;stroke:#1a1a1a;stroke-width:0.264999"
+       x="40.490116"
+       y="9.9797421"
+       id="text6"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="stroke-width:0.265"
+         x="40.490116"
+         y="9.9797421">y</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;writing-mode:lr-tb;direction:ltr;fill:none;stroke:#1a1a1a;stroke-width:0.264999"
+       x="81.321625"
+       y="31.354677"
+       id="text7"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="stroke-width:0.265"
+         x="81.321625"
+         y="31.354677">x</tspan></text>
+    <path
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.264999"
+       d="m 42.312681,13.467946 c 0.121826,4.289845 -0.431512,7.424487 -2.33303,10.710729 -3.252103,2.92215 -7.140486,2.807426 -10.710729,2.969311"
+       id="path8"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.264999"
+       d="m 44.527799,42.749494 c -0.121826,-4.289845 0.431512,-7.424487 2.33303,-10.710729 3.252103,-2.92215 7.140486,-2.807426 10.710729,-2.969311"
+       id="path8-7"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;writing-mode:lr-tb;direction:ltr;fill:none;stroke:#1a1a1a;stroke-width:0.264999"
+       x="52.599224"
+       y="8.8018866"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         style="stroke-width:0.265"
+         x="52.599224"
+         y="8.8018866">Hiperbola</tspan></text>
+  </g>
+</svg>
