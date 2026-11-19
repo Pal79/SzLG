@@ -74,8 +74,37 @@ $$
 \begin{aligned}
 2^{x} &= 4 \\
 2^{x} &= 2^{2} \\
-&\Downarrow \text{Mivel az exponenciális függvény szigorúan monoton} \\
-x = 2
+&\Downarrow \text{ Mivel az exponenciális függvény szigorúan monoton} \\
+x &= 2
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+3^{x} &= 9 \\
+3^{x} &= 3^{2} \\
+&\Downarrow \text{ Mivel az exp. fg. szig. mon.} \\
+x &= 2
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+2^{x+2} &= 16 \\
+2^{x+2} &= 2^{4} \\
+&\Downarrow \text{ mivel az exp. fg. szig. mon.} \\
+x+2 &= 4 \quad \-2 \\
+x &= 2
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+3^{x+3} &= 81 \\
+3^{x+3} &= 3^{4} \\
+&\Downarrow \text{ mivel az exp. fg. szig. mon.} \\
+x+3 &= 4 \quad \-3 \\
+x &= 1
 \end{aligned}
 $$
 
