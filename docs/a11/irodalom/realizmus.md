@@ -97,6 +97,12 @@ Rouen-ban született, apja orvos volt. Apja kívánságára Párizsban jogot hal
 #### Vidéki erkölcsök
 Charles Bovary fiatal egészségügyi tiszt, még érettségije sincs, de orvosként praktizál. Állandóan attól retteg, hogy kiderül nem ért a szakmájához. 27 évesen gazdag hozomány reményében elvesz egy 45 éves özvegyasszonyt, kiderül azonban, hogy csak ő vélte vagyonosnak és neki kell eltartani. Egyszer "véletlenül" meggyógyítja egy tanyasi gazda lábát, később is visszajár a tanyára, mert szerelmet érez a gaza lánya, Emma iránt. Bovary felesége hirtelen elhalálozik, de a férfi nem meri felfedni érzéseit Emma iránt, a lánykérésre is az apának kell rábeszélnie Bovary-t. Emma apácák között nevelkedett, rendkívül intelligens, művelt, finom lelkű.
 
+Az élettől romantikus olvasmányainak beteljesülését várja. Emma kénytelen rájön, hogy férje nem az a romantikus férfi ideál, akit álmaiban annyiszor elképzelt. Nem csak szakmailag, de férjként is kudarcot vall. Egy alkalommal a márki meghívja őket egy bálba, Emma először ismeri meg a nagyvilági életet, ettől kezdve még inkább érzi, hogy tartalmasabb életre vágyik. Férje ezért új környezetbe viszi és egy másik kisvárosba költöznek. Hamarosan kiderül, hogy ez a kisváros is unalmas az élet is tartalmatlan, sivár. Megismerkedik Leon-al az ifjú segédjegyzővel, aki beleszeret Emmába, titokban Emma is szereti a fiút, de most még nem fedik fel egymásnak érzelmeiket. Leon Párizsba megy továbbtanulni.
+
+Egy környékbeli birtokos Rodolphe megismerkedik Emmával, és Emma hamarosan elköveti a házasságtörést. Emma szerelmet érez, a férfi pedig csak az alkalmi kalandot látja benne. Bovarie egy orvosi műhibája nyomán amputálni kell egy férfi lábát, Emma szinte meggyűlöli férjét és el akar menekülni tőle. Megígérteti Rodolphe-al, hogy megszökteti, Emma uzsoráshoz fordul pénzért, Rodolphe azonban becsapja az asszonyt és nélküle távozik a városból. Emma több napig ideglázas lesz, a vallásban keres megnyugvást, közben az uzsorás elkezdi zaklatni.
+
+Leon jogi diplomát szerzett, a szomszéd kisvárosban kap állást, most már egymásra találnak, Emma másodjára követ el házasságtörést, férjének azt mondja zongora leckéket venni jár át. Bovary-ban most sem merül fel, hogy felesége megcsalja. Emmát egyre jobban gyötrik hitelezői.
+
 ---
 
 [Vissza](../irodalom.md)
