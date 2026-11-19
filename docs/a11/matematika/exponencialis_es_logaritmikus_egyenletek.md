@@ -58,6 +58,27 @@ Az exponenciális függvény jellemzése:
 
 Az exponenciális függvény alapja nem lehet negatív ($2^{-x}$ ahol $2$ az alap és $^{-x}$ a kitevő)
 
+### Feladat
+$$
+\begin{array}{|l|l|l|l|l|l|}
+\hline
+x & 3 & 2 & 1 & 0 & -1 & -2 \\
+\hline
+(\frac{1}{2})^{x} & 1 & \frac{1}{8} = 0.125 & \frac{1}{4} = 0.25 & \frac{1}{2} = 0.5 & 1 & 2 & 4 \\
+\hline
+\end{array}
+$$
+
+## Exponenciális egyenletek
+$$
+\begin{aligned}
+2^{x} &= 4 \\
+2^{x} &= 2^{2} \\
+&\Downarrow \text{Mivel az exponenciális függvény szigorúan monoton} \\
+x = 2
+\end{aligned}
+$$
+
 ---
 
 [Vissza](../matematika.md)
