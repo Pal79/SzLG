@@ -18,13 +18,13 @@
 
 ## Halmazok elemszáma
 
-jelölése: $|A|$
+jelölése: $\|A\|$
 
 pl.:
-- $|A|$ =
+- $\|A\|$ =
 - $A$ = { kétjegyű négyzetszámok }
 - $A$ = {16;25;36;49;64;81}
-- $|A|$ = 6
+- $\|A\|$ = 6
 
 ### 1.Feladat
 
