@@ -113,6 +113,12 @@ x &= 2 \\[2em]
 6x-9 &= 2 \quad /+9 \\
 6x &= 11 \quad /:6 \\
 x &= \frac{11}{6} \\[2em]
+^{3}\sqrt{5^{x}} &= 125 \\
+(5^{x})^{\frac{1}{3}} &= 5^{3} \\
+5^{\frac{x}{3}} &= 5^{3} \\
+&\Downarrow \text{ mivel az exp. fg. szig. mon.} \\
+\frac{x}{3} &= 3 \quad /*3 \\
+x &= 9 \\[2em]
 \end{aligned}
 $$
 
