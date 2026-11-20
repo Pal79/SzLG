@@ -69,6 +69,22 @@ x & 3 & 2 & 1 & 0 & -1 & -2 \\
 \end{array}
 $$
 
+## Hatványozás szabályai
+- Azonos alapú hatványok szorzása: $a^{m} \cdot a^{n} = a^{m+n}$
+- Azonos alapú hatványok osztása: $\frac{a^{m}}{a^{n}} = a^{m-n}$ (Ha $a \neq 0 $)$
+- Hatvány hatványa: $(a^{m})^{n} = a^{m \cdot n}$
+- Szorzat hatványa: $(a \cdot b)^{n} = a^{n} \cdot b^{n}$
+- Tört hatványa: $(\frac{a}{b})^{n} = \frac{a^{n}}{b^{n}}$ (Ha $b \neq 0$)
+- Negatív kitevő: $a^{-n} = \frac{1}{a^{n}}$ (Ha $a \neq 0$)
+- Nulladik kitevő: $a^{0} = 1$ (Ha $a \neq 0$) $\textit{Bármilyen nemnulla szám a nulladikon 1.}$
+
+## Gyökszabályok
+- Törtkitevős alak: $\sqrt[n]{a^{m}} = a^{\frac{m}{n}}$
+- Gyök alatti szorzat: $\sqrt[n]{a \cdot b} = \sqrt[n]{a} \cdot \sqrt[n]{b} \textit{ Szétbontható külön gyökökre, vagy fordítva, összevonható.}$
+- Gyök alatti hányados: $\sqrt[n]{\frac{a}{b}} = \frac{\sqrt[n]{a}}{\sqrt[n]{b}}$ Ha $b \neq 0$
+- Gyök gyöke: $\sqrt[n]{\sqrt[m]{a}} = \sqrt[n \cdot m]{a} \textit{ A gyökindexeket összeszorozzuk; például: }\sqrt{\sqrt[n]{x}} = \sqrt[6]{x}$
+- Gyökbővítés és egyszerűsítés: $\sqrt[n \cdot k]{a^{m \cdot k}} = \sqrt[n]{a^{m}}$
+
 ## Exponenciális egyenletek
 $$
 \begin{aligned}
@@ -113,13 +129,13 @@ x &= 2 \\[2em]
 6x-9 &= 2 \quad /+9 \\
 6x &= 11 \quad /:6 \\
 x &= \frac{11}{6} \\[2em]
-^{3}\sqrt{5^{x}} &= 125 \\
+\sqrt[3]{5^{x}} &= 125 \\
 (5^{x})^{\frac{1}{3}} &= 5^{3} \\
 5^{\frac{x}{3}} &= 5^{3} \\
 &\Downarrow \text{ mivel az exp. fg. szig. mon.} \\
 \frac{x}{3} &= 3 \quad /\cdot3 \\
 x &= 9 \\[2em]
-27\cdot^{5}\sqrt{3^{x}} &= \frac{1}{9} \\
+27\cdot \sqrt[5]{3^{x}} &= \frac{1}{9} \\
 27 \cdot 3^{\frac{x}{5}} &= \frac{1}{9} \\
 27 \cdot 3^{\frac{x}{5}} &= 3^{-2} \\
 3^{3} \cdot 3^{\frac{x}{5}} &= 3^{-2} \\
@@ -127,6 +143,15 @@ x &= 9 \\[2em]
 3+\frac{x}{5} &= -2 \quad /-3 \\
 \frac{x}{5} &= -5 \quad /\cdot5 \\
 x &= -25 \\[2em]
+\text{Házi feladat:} \\
+9^{x-1} &= 81 \cdot \sqrt{3} \\
+(3^{2})^{x-1} &= 3^{4} \cdot 3^{\frac{1}{2}} \\
+3^{2x-2} &= 3^{4+\frac{1}{2}} \\
+3^{2x-2} &= 3^{\frac{9}{2}} \\
+&\Downarrow \text{ mivel az exp. fg. szig. mon.} \\
+2x-2 &= \frac{9}{2} \quad /+2 \\
+2x &= \frac{13}{2} \quad /:2 \\
+x &= \frac{13}{4}
 \end{aligned}
 $$
 
