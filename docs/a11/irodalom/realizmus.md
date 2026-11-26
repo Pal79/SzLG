@@ -113,6 +113,74 @@ Emma jellemzése:
 - mivel szép asszony, sok férfi rajongja körül, de udvarlói szellemileg, érzelmileg nem érnek fel vele
 - "Bovaryné én vagyok" Flaubert híres mondása arra utal, hogy az író e regényében és Emma alakjában számolt le ifjúkora romantikus hajlamaival
 
+## Gogol (1809-1852)
+Ukrajnai kozák családban született, gimnáziumi tanulmányait Nyezinyben végezte.  
+Ekkor kezdett verseket írni, festeni és érdeklődött a színészet iránt.  
+Pétervárra utazott, színészettel próbálkozott, majd segédírnok állást vállalt.  
+Kereset kiegészítésért fordult az irodalomhoz, elbeszéléseivel nagy sikert aratott: Tanyai esték  
+Egy ideig a pétervári egyetemen dolgozott és 1835-től az irodalomnak élt.
+
+`Nagysikerű elbeszélései`:
+- Az őrült naplója
+- Az orr
+- A köpönyeg
+
+A revizor című komédiájával nagy sikert aratott, de a hivatalos körök Oroszország megrágalmazását látták benne, ezért "elmenekült" hazájából.  
+Több évig Nyugat-Európában élt.  
+Miután hazatért a Holt lelkek című regényét, amellyel szintén nagy botrányt okozott.  
+Több évre ismét külföldre költözött.  
+1848 tavaszán visszatért Oroszországba.  
+Elhatározta, hogy megírja Oroszország szebbik arcát.  
+1852-ben befejezte a Holt lelkek második részét, de a kéziratot pár nappal halála előtt elégette.
+
+### A köpönyeg (1842)
+Az úgynevezett pétervári elbeszélések jellegzetes darabja.
+- `Műfaja`: elbeszélés
+- `Típusa`: "Csinovnyik novella" - az orosz irodalomban több író is írt a kishivatalnokokról
+- `Stílusa`: Realista, fantasztikus befejezéssel.
+- `Hangneme`: kevert, tárgyilagos, ironikus, szentimentális
+
+1. `expozíció`
+   - A színhely bemutatása: egy ügyosztály
+   - A főszereplő: Akakij Akakijevics, külső és belső jellemzése, nevének magyarázata
+      - Akakij a hivatalban: főnökei lekezelik, munkatársai kigúnyolják. Akakij élete a másolás
+1. `bonyodalom`
+   - Tönkrement a régi köpönyeg, Petrovics nem tudja megfoltozni. Újat készít, Akakijnak spórolnia kell, hogy ki tudja fizetni a köpönyeget. Az elkészült új köpönyeg tiszteletére az irodafőnök esélyt ad.  A hazafelé tartó Akakijtől ellopják a köpönyeget. Kétségbeesve keresi a tettest az éjjeli őrnél, a rendőrkapitánynál, a tekintélyes személyével. Ez utóbbi halálra ijeszti és kidobja a hivatalából.
+1. `tetőpont`
+   - Akakij megbetegedett és pár nap múlva meghal
+1. `megoldás`
+   - Akakij a halála után kísértetként jár Pétervár utcáin. Mindenkiről leráncigálja a köpönyegét. A tekintélyes személyt is utoléri a kísértet, felismeri benne Akakijt és ettől fogva megjavul.
+
+Ábrázolásmód groteszk: eg hétköznapi ruhadarab jelentőségét óriásira felnagyítja az író.
+
+#### Értelmezési lehetőség
+Akakij élete értelmét az új köpönyeg jelenti, annak elveszésével értelmetlenné válik az élete.  
+A fantasztikus befejezéssel az író igazságot szolgáltat hősének, ami a valóságban elképzelhetetlen lenne.
+
+## Dosztojevszkij (1821-1881)
+Moszkvában született, apja orvos volt, kisebb földbirtokkal rendelkezett, nagyon gonosz ember volt, 1839-ben kegyetlenkedései miatt jobbágyai agyonverték.  
+Apja halálhíre súlyos idegi megrázkódtatást okozott a fiúnak, ettől kezdve jelentkeztek nála az epilepszia tünetei.  
+Hadmérnöknek tanult, az iskola elvégzése után hamarosan otthagyta állását és teljesen az irodalomnak élt.  
+1846 Szegény emberek - nagy sikert aratott.  
+Részt vett egy ateista-szocialista mozgalomban, ezért letartóztatták, halálra ítélték, a kivégzése előtt közölték vele, hogy a cár szibériai száműzetésre ítélte.  
+A kényszermunka megpróbáltatásai fokozták idegbetegségét.  
+1859-ben térhetett vissza Péter-várra, bátyjával együtt folyóiratokat adott ki, de csődbe mentek, állandó anyagi gondjait növelte játékszenvedélye, gyakori rulett veszteségei.
+
+### Művei
+- 1862: Feljegyzések a holtak házából
+- 1864: Feljegyzések az egérlyukból
+- 1866: Bűn és bűnhődés
+- 1867: a játékos
+- 1868: a Félkegyelmű
+- 1872: Ördögök
+- 1875: A kamasz
+- 1880: A Karanozov testvérek
+
+A 70-es években a legnépszerűbb orosz író volt, ekkor bontakozott ki vallásos küldetéstudata, azt hirdette, hogy a keresztény testvériséggel Oroszország fogja megváltani a világot, mivel képes minden nép iránti szeretetre, míg a nyugat elvesztette hitét Krisztusban.  
+Péterváron halt meg.
+
+### Bűn és bűnhődés
+
 ---
 
 [Vissza](../irodalom.md)
