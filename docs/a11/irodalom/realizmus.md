@@ -76,7 +76,7 @@ A cím értelmezése:
 1. `Párizs`: Julien a párizsi arisztokrata körökbe csöppen, eleinte zavarban van az előkelő környezetben, de gyorsan hozzászokik ehhez a társasághoz is. A márki is kitünteti jól végzett munkájáért, megnyeri a márki lánya barátságát, hamarosan szerelmét is. A romantikus szerelemre vágyó Matild-ot viszont hozzá akarják kényszeríteni egy unalmas, de gazdag márkihoz. A lány a fiatal titkárt egy ideig csak szertőként kezeli, Julien többször felmászik szobájába, nappal viszont gőgös vele, sértegeti. Julien ezért egy marsallnénak kezd el udvarolni, hogy féltékennyé tegye Matildot és ez meghozza a várt eredményt, Matild megmondja az apjának hogy nem megy férjhez, mert Julien szereti. A márki kezdetben őrjöng, majd birtokot adományoz Julien-nek és huszárhadnaggyá nevezteti ki, ekkor deRenale-né (gyóntató papja gonosz tanácsára) levelet küld a márkinak, melyben megírja, Julien csak a karrierje érdekében csábítja el a nőket, s nem más mint egy feltörekvő szerencselovag.
 1. `Veriéres`: Julien az ezredénél tudja meg a hírt, Veriéres-be utazik, s a templomban kétszer rálő deRenal-nére. Julien a tárgyaláson nem védi magát, hanem a társadalmat vádolja. Halálra ítélik, de nem kellene meghalnia, mert Matild összeköttetései révén megmenthetné. A börtönben deRenal-né naponta meglátogatja, mindketten most ismerik meg milyen az igazi szerelem. Miután lefejezték deRenal-né csak három nappal éli túl.
 
-#### Julien jellemzése
+#### Julien jellemzése
 - Tartufe-öt vallja eszményének, az állam segíti a feltörekvésben, mert elrejti magasztos eszméit.
 - Rajong Napóleonért, aki szintén szegénysorsból jött és bámulatos karriert futott be.
 - Tudja ha érvényesülni akar, szerepet kell játszania, de nem képes azonosulni a szereppel.
@@ -86,15 +86,15 @@ A cím értelmezése:
 - A mű végén a szerepeitől mentes Julien bukik el.
 - Végül nem Matild-ot választja, aki saját álmait eszményeit szereti benne, hanem deRenal-nét, aki valóban őt magát szerette.
 
-## Flaube (1821-1880)
+## Flaube (1821-1880)
 Rouen-ban született, apja orvos volt. Apja kívánságára Párizsban jogot hallgatott, de az irodalom jobban érdekelte. Tanulmányai befejeztével apja hamarosan meghalt, az örökölt vagyon biztos megélhetést és függetlenséget biztosított. Mielőtt az irodalomnak szentelte volna életét, négy éven át úton volt, majd visszavonult birtokára, ahol öt éven át dolgozott első regényén Bovarinén. Az ügyészség perbe fogta, hogy sérti az erkölcsiséget, de felmentették.  
 - `Művei`:
    - Szlanabo
    - Az érzelmek iskolája
 
-### Bovariné
+### Bovariné
 
-#### Vidéki erkölcsök
+#### Vidéki erkölcsök
 Charles Bovary fiatal egészségügyi tiszt, még érettségije sincs, de orvosként praktizál. Állandóan attól retteg, hogy kiderül nem ért a szakmájához. 27 évesen gazdag hozomány reményében elvesz egy 45 éves özvegyasszonyt, kiderül azonban, hogy csak ő vélte vagyonosnak és neki kell eltartani. Egyszer "véletlenül" meggyógyítja egy tanyasi gazda lábát, később is visszajár a tanyára, mert szerelmet érez a gaza lánya, Emma iránt. Bovary felesége hirtelen elhalálozik, de a férfi nem meri felfedni érzéseit Emma iránt, a lánykérésre is az apának kell rábeszélnie Bovary-t. Emma apácák között nevelkedett, rendkívül intelligens, művelt, finom lelkű.
 
 Az élettől romantikus olvasmányainak beteljesülését várja. Emma kénytelen rájön, hogy férje nem az a romantikus férfi ideál, akit álmaiban annyiszor elképzelt. Nem csak szakmailag, de férjként is kudarcot vall. Egy alkalommal a márki meghívja őket egy bálba, Emma először ismeri meg a nagyvilági életet, ettől kezdve még inkább érzi, hogy tartalmasabb életre vágyik. Férje ezért új környezetbe viszi és egy másik kisvárosba költöznek. Hamarosan kiderül, hogy ez a kisváros is unalmas az élet is tartalmatlan, sivár. Megismerkedik Leon-al az ifjú segédjegyzővel, aki beleszeret Emmába, titokban Emma is szereti a fiút, de most még nem fedik fel egymásnak érzelmeiket. Leon Párizsba megy továbbtanulni.
@@ -113,7 +113,7 @@ Emma jellemzése:
 - mivel szép asszony, sok férfi rajongja körül, de udvarlói szellemileg, érzelmileg nem érnek fel vele
 - "Bovaryné én vagyok" Flaubert híres mondása arra utal, hogy az író e regényében és Emma alakjában számolt le ifjúkora romantikus hajlamaival
 
-## Gogol (1809-1852)
+## Gogol (1809-1852)
 Ukrajnai kozák családban született, gimnáziumi tanulmányait Nyezinyben végezte.  
 Ekkor kezdett verseket írni, festeni és érdeklődött a színészet iránt.  
 Pétervárra utazott, színészettel próbálkozott, majd segédírnok állást vállalt.  
@@ -133,7 +133,7 @@ Több évre ismét külföldre költözött.
 Elhatározta, hogy megírja Oroszország szebbik arcát.  
 1852-ben befejezte a Holt lelkek második részét, de a kéziratot pár nappal halála előtt elégette.
 
-### A köpönyeg (1842)
+### A köpönyeg (1842)
 Az úgynevezett pétervári elbeszélések jellegzetes darabja.
 - `Műfaja`: elbeszélés
 - `Típusa`: "Csinovnyik novella" - az orosz irodalomban több író is írt a kishivatalnokokról
@@ -153,7 +153,7 @@ Az úgynevezett pétervári elbeszélések jellegzetes darabja.
 
 Ábrázolásmód groteszk: eg hétköznapi ruhadarab jelentőségét óriásira felnagyítja az író.
 
-#### Értelmezési lehetőség
+#### Értelmezési lehetőség
 Akakij élete értelmét az új köpönyeg jelenti, annak elveszésével értelmetlenné válik az élete.  
 A fantasztikus befejezéssel az író igazságot szolgáltat hősének, ami a valóságban elképzelhetetlen lenne.
 
